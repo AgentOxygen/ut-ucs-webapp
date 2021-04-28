@@ -1,2 +1,41 @@
-# ut-ucs-webapp
-stuff
+# Markdown syntax guide
+
+This system is best understood in four parts:
+1. Flask App
+2. Redis Databse
+3. HTML Template w/ Javascript
+4. Mapbox API
+
+## Flask App
+Running `run.py` starts the Flask API which will act as the medium through which user can get data. For more information on Flask, check [this documentation website](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask).
+
+Flask works by hosting on a specific address (default is localhost on port 5000) creating routes for the user to hit. Here are some examples:
+~~~
+http://localhost:5000/
+http://localhost:5000/route1/
+http://localhost:5000/route2/
+http://localhost:5000/routeA/routeB/
+http://localhost:5000/routeA/routeB/<paramter>?paramter=value&paramter=value
+~~~
+You can also add parameters to these routes, which allows Flask to take input data from the user.
+
+The `run.py` contains functions with decorators that are called when a route is hit. Some of the routes will directly parse data retrieved from the redis database.
+
+## Redis Database
+Documentation for redis can be found [here](https://redis.io/). Redis is used to store the data for each region, including values corresponding to each RCP, model, and metric. The JSON files produced by the `generate_region_data.py` are uploaded to redis using `build_redis.py` so that the Flask API doesn't have to preform a disk read everytime the data is updated. The JSON files are purley for accelerating the debugging process and preventing an annoying setback (accidentally deleting the JSON files is a lot harder than flushing the redis database). Running `generate_region_data.py` on multiple processes in parallel can take about 10 minutes to generate the files (8 hours on a single process). Avoid redoing the JSON file calculations.
+
+Redis uses keys and hash-maps to store data. This makes retrieving data relatively efficient and filtering through data easier. Redis python methods are implemented in `run.py`
+
+The directory `redis-stable` contains the files and dependencies for running the redis database. There is a complete `README.md`, to start the server:
+~~~
+cd src
+./redis-server
+~~~
+
+## HTML Template w/ JS
+Flask will automatically search the `templates` directory for HTML templates to use. There is only one template currently: `mapbox_map.html` 
+
+The interactive features of the webpage are powered by JavaScript. It also provides for Mapbox integration.
+
+## Mapbox API
+You can find the documentation for Mapbox [here](https://docs.mapbox.com/api/overview/). This API creates the ineteractive map for the webpage and has a bunch of other cool visualization features. Note that there is a quota on how many requests can be made to Mapbox services. It's unlikely that we will exceed this quota, but it is something to keep in mind as different features have different amounts. Info on pricing and quotas can be found [here](https://www.mapbox.com/pricing/).
