@@ -1,4 +1,4 @@
-# Markdown syntax guide
+# UT-UCS Hydroclimate Web App
 
 This system is best understood in four parts:
 1. Flask App
