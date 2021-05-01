@@ -1,0 +1,9134 @@
+[
+  {
+    "index": 0,
+    "NAME": "San Fernando",
+    "value": 5.171361439030111,
+    "valid": true
+  },
+  {
+    "index": 1,
+    "NAME": "Cloverdale",
+    "value": 3.8308770103306857,
+    "valid": true
+  },
+  {
+    "index": 2,
+    "NAME": "Cotati",
+    "value": 3.900786794665369,
+    "valid": true
+  },
+  {
+    "index": 3,
+    "NAME": "San Buenaventura (Ventura)",
+    "value": 3.055173658178228,
+    "valid": true
+  },
+  {
+    "index": 4,
+    "NAME": "Glendora",
+    "value": 6.243407923892271,
+    "valid": true
+  },
+  {
+    "index": 5,
+    "NAME": "Hawthorne",
+    "value": 5.5041482254500105,
+    "valid": true
+  },
+  {
+    "index": 6,
+    "NAME": "Inglewood",
+    "value": 5.597006366014703,
+    "valid": true
+  },
+  {
+    "index": 7,
+    "NAME": "La Ca\u00f1ada Flintridge",
+    "value": 5.890804341194183,
+    "valid": true
+  },
+  {
+    "index": 8,
+    "NAME": "La Mirada",
+    "value": 5.303826825698467,
+    "valid": true
+  },
+  {
+    "index": 9,
+    "NAME": "Palmdale",
+    "value": 5.356693224365481,
+    "valid": true
+  },
+  {
+    "index": 10,
+    "NAME": "Palos Verdes Estates",
+    "value": 0.7148993528600531,
+    "valid": true
+  },
+  {
+    "index": 11,
+    "NAME": "Rolling Hills",
+    "value": 4.259816831624754,
+    "valid": true
+  },
+  {
+    "index": 12,
+    "NAME": "Santa Clarita",
+    "value": 5.64982091494162,
+    "valid": true
+  },
+  {
+    "index": 13,
+    "NAME": "Santa Fe Springs",
+    "value": 5.323009910493938,
+    "valid": true
+  },
+  {
+    "index": 14,
+    "NAME": "Vernon",
+    "value": 5.517660433467629,
+    "valid": true
+  },
+  {
+    "index": 15,
+    "NAME": "Walnut",
+    "value": 5.813209439079816,
+    "valid": true
+  },
+  {
+    "index": 16,
+    "NAME": "Sierra Madre",
+    "value": 6.084255532560121,
+    "valid": true
+  },
+  {
+    "index": 17,
+    "NAME": "South Pasadena",
+    "value": 5.408077330782834,
+    "valid": true
+  },
+  {
+    "index": 18,
+    "NAME": "Calabasas",
+    "value": 5.414253587393343,
+    "valid": true
+  },
+  {
+    "index": 19,
+    "NAME": "Rolling Hills Estates",
+    "value": 4.132470758303893,
+    "valid": true
+  },
+  {
+    "index": 20,
+    "NAME": "Benicia",
+    "value": 4.209094143425069,
+    "valid": true
+  },
+  {
+    "index": 21,
+    "NAME": "Dixon",
+    "value": 4.429997727547055,
+    "valid": true
+  },
+  {
+    "index": 22,
+    "NAME": "Rio Vista",
+    "value": 4.216408600389208,
+    "valid": true
+  },
+  {
+    "index": 23,
+    "NAME": "Lynwood",
+    "value": 5.46779281761717,
+    "valid": true
+  },
+  {
+    "index": 24,
+    "NAME": "Suisun City",
+    "value": 4.230499982118896,
+    "valid": true
+  },
+  {
+    "index": 25,
+    "NAME": "Moorpark",
+    "value": 5.635323110093024,
+    "valid": true
+  },
+  {
+    "index": 26,
+    "NAME": "Rohnert Park",
+    "value": 3.9350236191316466,
+    "valid": true
+  },
+  {
+    "index": 27,
+    "NAME": "Sebastopol",
+    "value": 3.6018855222334034,
+    "valid": true
+  },
+  {
+    "index": 28,
+    "NAME": "Sonoma",
+    "value": 4.072409642513491,
+    "valid": true
+  },
+  {
+    "index": 29,
+    "NAME": "Camarillo",
+    "value": 4.790934854673685,
+    "valid": true
+  },
+  {
+    "index": 30,
+    "NAME": "Fillmore",
+    "value": 5.569676728574306,
+    "valid": true
+  },
+  {
+    "index": 31,
+    "NAME": "Oxnard",
+    "value": 2.743720166540569,
+    "valid": true
+  },
+  {
+    "index": 32,
+    "NAME": "Los Gatos",
+    "value": 4.182222267245366,
+    "valid": true
+  },
+  {
+    "index": 33,
+    "NAME": "Gilroy",
+    "value": 4.535907217210565,
+    "valid": true
+  },
+  {
+    "index": 34,
+    "NAME": "Saratoga",
+    "value": 4.161580502800398,
+    "valid": true
+  },
+  {
+    "index": 35,
+    "NAME": "Dunsmuir",
+    "value": 3.537703584163537,
+    "valid": true
+  },
+  {
+    "index": 36,
+    "NAME": "Etna",
+    "value": 3.5201381318468057,
+    "valid": true
+  },
+  {
+    "index": 37,
+    "NAME": "Fort Jones",
+    "value": 3.6335090923676923,
+    "valid": true
+  },
+  {
+    "index": 38,
+    "NAME": "Montague",
+    "value": 3.8300250763826034,
+    "valid": true
+  },
+  {
+    "index": 39,
+    "NAME": "Weed",
+    "value": 5.2373289317029315,
+    "valid": true
+  },
+  {
+    "index": 40,
+    "NAME": "Baldwin Park",
+    "value": 5.665735243617519,
+    "valid": true
+  },
+  {
+    "index": 41,
+    "NAME": "Beverly Hills",
+    "value": 5.801048250697349,
+    "valid": true
+  },
+  {
+    "index": 42,
+    "NAME": "Glendale",
+    "value": 5.457164020493221,
+    "valid": true
+  },
+  {
+    "index": 43,
+    "NAME": "La Puente",
+    "value": 5.858966194095668,
+    "valid": true
+  },
+  {
+    "index": 44,
+    "NAME": "Los Angeles",
+    "value": 5.20053810828703,
+    "valid": true
+  },
+  {
+    "index": 45,
+    "NAME": "Paramount",
+    "value": 5.294438349187159,
+    "valid": true
+  },
+  {
+    "index": 46,
+    "NAME": "Temple City",
+    "value": 5.249084220338528,
+    "valid": true
+  },
+  {
+    "index": 47,
+    "NAME": "Rancho Cucamonga",
+    "value": 5.976559295746862,
+    "valid": true
+  },
+  {
+    "index": 48,
+    "NAME": "Campbell",
+    "value": 4.236425161620717,
+    "valid": true
+  },
+  {
+    "index": 49,
+    "NAME": "Cupertino",
+    "value": 4.489019171869211,
+    "valid": true
+  },
+  {
+    "index": 50,
+    "NAME": "Los Altos Hills",
+    "value": 4.643277381451119,
+    "valid": true
+  },
+  {
+    "index": 51,
+    "NAME": "Monte Sereno",
+    "value": 4.124993466658943,
+    "valid": true
+  },
+  {
+    "index": 52,
+    "NAME": "Palo Alto",
+    "value": 4.702570447340596,
+    "valid": true
+  },
+  {
+    "index": 53,
+    "NAME": "San Jose",
+    "value": 4.731757812115515,
+    "valid": true
+  },
+  {
+    "index": 54,
+    "NAME": "Port Hueneme",
+    "value": 3.903160503144761,
+    "valid": true
+  },
+  {
+    "index": 55,
+    "NAME": "Marysville",
+    "value": 4.195258190214193,
+    "valid": true
+  },
+  {
+    "index": 56,
+    "NAME": "Barstow",
+    "value": 2.8106977031142986,
+    "valid": true
+  },
+  {
+    "index": 57,
+    "NAME": "Colton",
+    "value": 6.0844125782436755,
+    "valid": true
+  },
+  {
+    "index": 58,
+    "NAME": "Grand Terrace",
+    "value": 6.0687233368203355,
+    "valid": true
+  },
+  {
+    "index": 59,
+    "NAME": "Tulelake",
+    "value": 3.8676986443195793,
+    "valid": true
+  },
+  {
+    "index": 60,
+    "NAME": "Lincoln",
+    "value": 4.081057291989354,
+    "valid": true
+  },
+  {
+    "index": 61,
+    "NAME": "Loomis",
+    "value": 4.045581547536532,
+    "valid": true
+  },
+  {
+    "index": 62,
+    "NAME": "San Bruno",
+    "value": 4.730140312031878,
+    "valid": true
+  },
+  {
+    "index": 63,
+    "NAME": "Point Arena",
+    "value": 0.8724676872755798,
+    "valid": true
+  },
+  {
+    "index": 64,
+    "NAME": "Willits",
+    "value": 3.762156368333189,
+    "valid": true
+  },
+  {
+    "index": 65,
+    "NAME": "Corte Madera",
+    "value": 3.053261648158682,
+    "valid": true
+  },
+  {
+    "index": 66,
+    "NAME": "Ross",
+    "value": 4.028245522021401,
+    "valid": true
+  },
+  {
+    "index": 67,
+    "NAME": "San Anselmo",
+    "value": 4.119059411103572,
+    "valid": true
+  },
+  {
+    "index": 68,
+    "NAME": "Mill Valley",
+    "value": 4.449050991377069,
+    "valid": true
+  },
+  {
+    "index": 69,
+    "NAME": "Tiburon",
+    "value": 0.7057454840670503,
+    "valid": true
+  },
+  {
+    "index": 70,
+    "NAME": "Atherton",
+    "value": 4.371976745287928,
+    "valid": true
+  },
+  {
+    "index": 71,
+    "NAME": "Brisbane",
+    "value": 1.2907700009427523,
+    "valid": true
+  },
+  {
+    "index": 72,
+    "NAME": "Colma",
+    "value": 5.137079312352066,
+    "valid": true
+  },
+  {
+    "index": 73,
+    "NAME": "East Palo Alto",
+    "value": 4.595948501214782,
+    "valid": true
+  },
+  {
+    "index": 74,
+    "NAME": "Foster City",
+    "value": 0.6859207699515953,
+    "valid": true
+  },
+  {
+    "index": 75,
+    "NAME": "Half Moon Bay",
+    "value": 2.4771050471783664,
+    "valid": true
+  },
+  {
+    "index": 76,
+    "NAME": "Hillsborough",
+    "value": 4.121934117877107,
+    "valid": true
+  },
+  {
+    "index": 77,
+    "NAME": "Millbrae",
+    "value": 4.302040952973484,
+    "valid": true
+  },
+  {
+    "index": 78,
+    "NAME": "Pacifica",
+    "value": 4.601558747096867,
+    "valid": true
+  },
+  {
+    "index": 79,
+    "NAME": "Belvedere",
+    "value": 3.2630951170967175,
+    "valid": true
+  },
+  {
+    "index": 80,
+    "NAME": "Ceres",
+    "value": 5.97795265896244,
+    "valid": true
+  },
+  {
+    "index": 81,
+    "NAME": "Hughson",
+    "value": 5.307288741417657,
+    "valid": true
+  },
+  {
+    "index": 82,
+    "NAME": "Newman",
+    "value": 5.992888349729807,
+    "valid": true
+  },
+  {
+    "index": 83,
+    "NAME": "Live Oak",
+    "value": 4.148071142506131,
+    "valid": true
+  },
+  {
+    "index": 84,
+    "NAME": "San Francisco",
+    "value": 1.1733799614171934,
+    "valid": true
+  },
+  {
+    "index": 85,
+    "NAME": "Oakdale",
+    "value": 5.654658330146434,
+    "valid": true
+  },
+  {
+    "index": 86,
+    "NAME": "Dos Palos",
+    "value": 5.648171039394559,
+    "valid": true
+  },
+  {
+    "index": 87,
+    "NAME": "Gustine",
+    "value": 6.221654588229925,
+    "valid": true
+  },
+  {
+    "index": 88,
+    "NAME": "Pacific Grove",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 89,
+    "NAME": "Livingston",
+    "value": 5.308516830600038,
+    "valid": true
+  },
+  {
+    "index": 90,
+    "NAME": "Portola",
+    "value": 3.6854788795061113,
+    "valid": true
+  },
+  {
+    "index": 91,
+    "NAME": "San Juan Bautista",
+    "value": 4.677843828017645,
+    "valid": true
+  },
+  {
+    "index": 92,
+    "NAME": "Menlo Park",
+    "value": 3.696337766858198,
+    "valid": true
+  },
+  {
+    "index": 93,
+    "NAME": "San Mateo",
+    "value": 3.178297884651366,
+    "valid": true
+  },
+  {
+    "index": 94,
+    "NAME": "Portola Valley",
+    "value": 4.665801054605075,
+    "valid": true
+  },
+  {
+    "index": 95,
+    "NAME": "Lawndale",
+    "value": 5.4898748155222235,
+    "valid": true
+  },
+  {
+    "index": 96,
+    "NAME": "Corning",
+    "value": 4.4980507992571015,
+    "valid": true
+  },
+  {
+    "index": 97,
+    "NAME": "Tehama",
+    "value": 4.4994456551088025,
+    "valid": true
+  },
+  {
+    "index": 98,
+    "NAME": "Vallejo",
+    "value": 2.266216187527047,
+    "valid": true
+  },
+  {
+    "index": 99,
+    "NAME": "Riverside",
+    "value": 5.887497540701261,
+    "valid": true
+  },
+  {
+    "index": 100,
+    "NAME": "Moreno Valley",
+    "value": 5.755178390639517,
+    "valid": true
+  },
+  {
+    "index": 101,
+    "NAME": "Corona",
+    "value": 5.783851858221901,
+    "valid": true
+  },
+  {
+    "index": 102,
+    "NAME": "Lake Elsinore",
+    "value": 4.931259862092423,
+    "valid": true
+  },
+  {
+    "index": 103,
+    "NAME": "Beaumont",
+    "value": 6.636782485970279,
+    "valid": true
+  },
+  {
+    "index": 104,
+    "NAME": "Hemet",
+    "value": 5.588850751464506,
+    "valid": true
+  },
+  {
+    "index": 105,
+    "NAME": "Norco",
+    "value": 5.800614380251776,
+    "valid": true
+  },
+  {
+    "index": 106,
+    "NAME": "Cathedral City",
+    "value": 2.999742933475409,
+    "valid": true
+  },
+  {
+    "index": 107,
+    "NAME": "San Jacinto",
+    "value": 5.857752978164788,
+    "valid": true
+  },
+  {
+    "index": 108,
+    "NAME": "Palm Desert",
+    "value": 3.489220139218494,
+    "valid": true
+  },
+  {
+    "index": 109,
+    "NAME": "La Habra Heights",
+    "value": 5.57970985684938,
+    "valid": true
+  },
+  {
+    "index": 110,
+    "NAME": "Sunnyvale",
+    "value": 4.806194842033911,
+    "valid": true
+  },
+  {
+    "index": 111,
+    "NAME": "Mountain View",
+    "value": 4.794068324693839,
+    "valid": true
+  },
+  {
+    "index": 112,
+    "NAME": "Los Altos",
+    "value": 4.664166800040615,
+    "valid": true
+  },
+  {
+    "index": 113,
+    "NAME": "Santa Clara",
+    "value": 4.704686185793312,
+    "valid": true
+  },
+  {
+    "index": 114,
+    "NAME": "Morgan Hill",
+    "value": 4.6787306249217195,
+    "valid": true
+  },
+  {
+    "index": 115,
+    "NAME": "Pomona",
+    "value": 5.939420554842361,
+    "valid": true
+  },
+  {
+    "index": 116,
+    "NAME": "Industry",
+    "value": 5.74890885149499,
+    "valid": true
+  },
+  {
+    "index": 117,
+    "NAME": "Diamond Bar",
+    "value": 5.6526046622312975,
+    "valid": true
+  },
+  {
+    "index": 118,
+    "NAME": "Duarte",
+    "value": 5.78612027454576,
+    "valid": true
+  },
+  {
+    "index": 119,
+    "NAME": "Arcadia",
+    "value": 5.852993751340676,
+    "valid": true
+  },
+  {
+    "index": 120,
+    "NAME": "South El Monte",
+    "value": 5.395130507617382,
+    "valid": true
+  },
+  {
+    "index": 121,
+    "NAME": "Monterey Park",
+    "value": 5.3656770751480725,
+    "valid": true
+  },
+  {
+    "index": 122,
+    "NAME": "West Hollywood",
+    "value": 5.815937290906948,
+    "valid": true
+  },
+  {
+    "index": 123,
+    "NAME": "West Covina",
+    "value": 5.93754830070451,
+    "valid": true
+  },
+  {
+    "index": 124,
+    "NAME": "La Verne",
+    "value": 6.466687306547383,
+    "valid": true
+  },
+  {
+    "index": 125,
+    "NAME": "Irwindale",
+    "value": 5.724231816329959,
+    "valid": true
+  },
+  {
+    "index": 126,
+    "NAME": "San Marino",
+    "value": 5.387595845975573,
+    "valid": true
+  },
+  {
+    "index": 127,
+    "NAME": "Burbank",
+    "value": 5.650368615129641,
+    "valid": true
+  },
+  {
+    "index": 128,
+    "NAME": "Azusa",
+    "value": 5.794295574268472,
+    "valid": true
+  },
+  {
+    "index": 129,
+    "NAME": "Westlake Village",
+    "value": 5.483343576598255,
+    "valid": true
+  },
+  {
+    "index": 130,
+    "NAME": "Turlock",
+    "value": 5.1985621325714595,
+    "valid": true
+  },
+  {
+    "index": 131,
+    "NAME": "Fairfax",
+    "value": 4.160844541641104,
+    "valid": true
+  },
+  {
+    "index": 132,
+    "NAME": "Larkspur",
+    "value": 4.129138127606564,
+    "valid": true
+  },
+  {
+    "index": 133,
+    "NAME": "Novato",
+    "value": 3.6861241577012445,
+    "valid": true
+  },
+  {
+    "index": 134,
+    "NAME": "Long Beach",
+    "value": 5.144292138098633,
+    "valid": true
+  },
+  {
+    "index": 135,
+    "NAME": "Signal Hill",
+    "value": 5.132785650036976,
+    "valid": true
+  },
+  {
+    "index": 136,
+    "NAME": "Rancho Palos Verdes",
+    "value": 1.4292618140240319,
+    "valid": true
+  },
+  {
+    "index": 137,
+    "NAME": "Malibu",
+    "value": 3.5797085357953913,
+    "valid": true
+  },
+  {
+    "index": 138,
+    "NAME": "Lancaster",
+    "value": 5.199688183731209,
+    "valid": true
+  },
+  {
+    "index": 139,
+    "NAME": "Alhambra",
+    "value": 5.3317580424297795,
+    "valid": true
+  },
+  {
+    "index": 140,
+    "NAME": "Rosemead",
+    "value": 5.2250829734006565,
+    "valid": true
+  },
+  {
+    "index": 141,
+    "NAME": "Montebello",
+    "value": 5.377098680955812,
+    "valid": true
+  },
+  {
+    "index": 142,
+    "NAME": "Gardena",
+    "value": 5.4343753864109114,
+    "valid": true
+  },
+  {
+    "index": 143,
+    "NAME": "Lakewood",
+    "value": 5.346312245839325,
+    "valid": true
+  },
+  {
+    "index": 144,
+    "NAME": "Compton",
+    "value": 5.478178079736991,
+    "valid": true
+  },
+  {
+    "index": 145,
+    "NAME": "San Gabriel",
+    "value": 5.138676041920734,
+    "valid": true
+  },
+  {
+    "index": 146,
+    "NAME": "Norwalk",
+    "value": 5.275930974549492,
+    "valid": true
+  },
+  {
+    "index": 147,
+    "NAME": "Downey",
+    "value": 5.354541353202453,
+    "valid": true
+  },
+  {
+    "index": 148,
+    "NAME": "Whittier",
+    "value": 5.470696942412242,
+    "valid": true
+  },
+  {
+    "index": 149,
+    "NAME": "Pico Rivera",
+    "value": 5.359856191611572,
+    "valid": true
+  },
+  {
+    "index": 150,
+    "NAME": "Bell",
+    "value": 5.464125601599642,
+    "valid": true
+  },
+  {
+    "index": 151,
+    "NAME": "Huntington Park",
+    "value": 5.44263985738211,
+    "valid": true
+  },
+  {
+    "index": 152,
+    "NAME": "South Gate",
+    "value": 5.423914968988826,
+    "valid": true
+  },
+  {
+    "index": 153,
+    "NAME": "Culver City",
+    "value": 5.573533371798281,
+    "valid": true
+  },
+  {
+    "index": 154,
+    "NAME": "Chico",
+    "value": 3.953544011311751,
+    "valid": true
+  },
+  {
+    "index": 155,
+    "NAME": "Oroville",
+    "value": 3.8552930559796543,
+    "valid": true
+  },
+  {
+    "index": 156,
+    "NAME": "Capitola",
+    "value": 3.897316579830222,
+    "valid": true
+  },
+  {
+    "index": 157,
+    "NAME": "Scotts Valley",
+    "value": 4.190060731830571,
+    "valid": true
+  },
+  {
+    "index": 158,
+    "NAME": "Crescent City",
+    "value": 2.109486251633904,
+    "valid": true
+  },
+  {
+    "index": 159,
+    "NAME": "Madera",
+    "value": 6.091894619691899,
+    "valid": true
+  },
+  {
+    "index": 160,
+    "NAME": "Patterson",
+    "value": 5.609105261712322,
+    "valid": true
+  },
+  {
+    "index": 161,
+    "NAME": "Riverbank",
+    "value": 5.859237525447813,
+    "valid": true
+  },
+  {
+    "index": 162,
+    "NAME": "Waterford",
+    "value": 5.080184520078948,
+    "valid": true
+  },
+  {
+    "index": 163,
+    "NAME": "Modesto",
+    "value": 5.887063653205425,
+    "valid": true
+  },
+  {
+    "index": 164,
+    "NAME": "Hayward",
+    "value": 3.479124368138596,
+    "valid": true
+  },
+  {
+    "index": 165,
+    "NAME": "Livermore",
+    "value": 5.1045090618946665,
+    "valid": true
+  },
+  {
+    "index": 166,
+    "NAME": "Pleasanton",
+    "value": 4.914479831401401,
+    "valid": true
+  },
+  {
+    "index": 167,
+    "NAME": "Wheatland",
+    "value": 3.994544819367467,
+    "valid": true
+  },
+  {
+    "index": 168,
+    "NAME": "Blue Lake",
+    "value": 3.8693167593588504,
+    "valid": true
+  },
+  {
+    "index": 169,
+    "NAME": "Fortuna",
+    "value": 3.81439048719693,
+    "valid": true
+  },
+  {
+    "index": 170,
+    "NAME": "Rio Dell",
+    "value": 3.656197882667424,
+    "valid": true
+  },
+  {
+    "index": 171,
+    "NAME": "Trinidad",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 172,
+    "NAME": "Ferndale",
+    "value": 3.7185276693202405,
+    "valid": true
+  },
+  {
+    "index": 173,
+    "NAME": "Arcata",
+    "value": 3.7081784814792558,
+    "valid": true
+  },
+  {
+    "index": 174,
+    "NAME": "Eureka",
+    "value": 3.4991973127322287,
+    "valid": true
+  },
+  {
+    "index": 175,
+    "NAME": "Redondo Beach",
+    "value": 2.335224882060619,
+    "valid": true
+  },
+  {
+    "index": 176,
+    "NAME": "Torrance",
+    "value": 4.846013185772747,
+    "valid": true
+  },
+  {
+    "index": 177,
+    "NAME": "Visalia",
+    "value": 5.820412224206171,
+    "valid": true
+  },
+  {
+    "index": 178,
+    "NAME": "Menifee",
+    "value": 5.341843982431154,
+    "valid": true
+  },
+  {
+    "index": 179,
+    "NAME": "Belmont",
+    "value": 4.263479442860362,
+    "valid": true
+  },
+  {
+    "index": 180,
+    "NAME": "Burlingame",
+    "value": 4.127767827468516,
+    "valid": true
+  },
+  {
+    "index": 181,
+    "NAME": "Daly City",
+    "value": 5.090344218295489,
+    "valid": true
+  },
+  {
+    "index": 182,
+    "NAME": "San Carlos",
+    "value": 4.267224066335549,
+    "valid": true
+  },
+  {
+    "index": 183,
+    "NAME": "South San Francisco",
+    "value": 1.724328454628473,
+    "valid": true
+  },
+  {
+    "index": 184,
+    "NAME": "Woodside",
+    "value": 4.441480672121663,
+    "valid": true
+  },
+  {
+    "index": 185,
+    "NAME": "Wildomar",
+    "value": 4.967514594596649,
+    "valid": true
+  },
+  {
+    "index": 186,
+    "NAME": "Banning",
+    "value": 6.849860804808472,
+    "valid": true
+  },
+  {
+    "index": 187,
+    "NAME": "Brea",
+    "value": 5.52138153563417,
+    "valid": true
+  },
+  {
+    "index": 188,
+    "NAME": "Irvine",
+    "value": 5.569998657724867,
+    "valid": true
+  },
+  {
+    "index": 189,
+    "NAME": "La Habra",
+    "value": 5.450462607916051,
+    "valid": true
+  },
+  {
+    "index": 190,
+    "NAME": "Stanton",
+    "value": 5.715930324646362,
+    "valid": true
+  },
+  {
+    "index": 191,
+    "NAME": "Ojai",
+    "value": 5.600734004085604,
+    "valid": true
+  },
+  {
+    "index": 192,
+    "NAME": "Simi Valley",
+    "value": 5.577974504883254,
+    "valid": true
+  },
+  {
+    "index": 193,
+    "NAME": "Thousand Oaks",
+    "value": 5.426302860791077,
+    "valid": true
+  },
+  {
+    "index": 194,
+    "NAME": "Rocklin",
+    "value": 4.191338157358511,
+    "valid": true
+  },
+  {
+    "index": 195,
+    "NAME": "Auburn",
+    "value": 4.24603486173261,
+    "valid": true
+  },
+  {
+    "index": 196,
+    "NAME": "Roseville",
+    "value": 4.5954969375691865,
+    "valid": true
+  },
+  {
+    "index": 197,
+    "NAME": "Sonora",
+    "value": 5.205790319890137,
+    "valid": true
+  },
+  {
+    "index": 198,
+    "NAME": "Piedmont",
+    "value": 4.193013701064477,
+    "valid": true
+  },
+  {
+    "index": 199,
+    "NAME": "Los Banos",
+    "value": 5.7694872593048245,
+    "valid": true
+  },
+  {
+    "index": 200,
+    "NAME": "Chowchilla",
+    "value": 5.770301418280048,
+    "valid": true
+  },
+  {
+    "index": 201,
+    "NAME": "Calimesa",
+    "value": 7.03438180834916,
+    "valid": true
+  },
+  {
+    "index": 202,
+    "NAME": "Canyon Lake",
+    "value": 5.001188631142368,
+    "valid": true
+  },
+  {
+    "index": 203,
+    "NAME": "Coachella",
+    "value": 5.009496770829607,
+    "valid": true
+  },
+  {
+    "index": 204,
+    "NAME": "Indian Wells",
+    "value": 3.2734857476903416,
+    "valid": true
+  },
+  {
+    "index": 205,
+    "NAME": "La Quinta",
+    "value": 3.611956361318221,
+    "valid": true
+  },
+  {
+    "index": 206,
+    "NAME": "Nevada City",
+    "value": 4.213852883197754,
+    "valid": true
+  },
+  {
+    "index": 207,
+    "NAME": "Truckee",
+    "value": 3.9928616204412344,
+    "valid": true
+  },
+  {
+    "index": 208,
+    "NAME": "Porterville",
+    "value": 6.041612090878043,
+    "valid": true
+  },
+  {
+    "index": 209,
+    "NAME": "Tulare",
+    "value": 6.044754278056865,
+    "valid": true
+  },
+  {
+    "index": 210,
+    "NAME": "Atwater",
+    "value": 5.189775451144556,
+    "valid": true
+  },
+  {
+    "index": 211,
+    "NAME": "Merced",
+    "value": 5.156083431299792,
+    "valid": true
+  },
+  {
+    "index": 212,
+    "NAME": "Rancho Mirage",
+    "value": 3.0229000684749225,
+    "valid": true
+  },
+  {
+    "index": 213,
+    "NAME": "Temecula",
+    "value": 5.525974762806814,
+    "valid": true
+  },
+  {
+    "index": 214,
+    "NAME": "Desert Hot Springs",
+    "value": 3.054293627487776,
+    "valid": true
+  },
+  {
+    "index": 215,
+    "NAME": "Palm Springs",
+    "value": 3.0751548170537713,
+    "valid": true
+  },
+  {
+    "index": 216,
+    "NAME": "Placerville",
+    "value": 5.245978026554532,
+    "valid": true
+  },
+  {
+    "index": 217,
+    "NAME": "Petaluma",
+    "value": 4.018495783101245,
+    "valid": true
+  },
+  {
+    "index": 218,
+    "NAME": "Santa Rosa",
+    "value": 3.9364697639569624,
+    "valid": true
+  },
+  {
+    "index": 219,
+    "NAME": "Orland",
+    "value": 4.208083542716892,
+    "valid": true
+  },
+  {
+    "index": 220,
+    "NAME": "Willows",
+    "value": 3.910945312759086,
+    "valid": true
+  },
+  {
+    "index": 221,
+    "NAME": "San Joaquin",
+    "value": 5.775562689420207,
+    "valid": true
+  },
+  {
+    "index": 222,
+    "NAME": "La Palma",
+    "value": 5.424290161899581,
+    "valid": true
+  },
+  {
+    "index": 223,
+    "NAME": "Los Alamitos",
+    "value": 5.663028480876206,
+    "valid": true
+  },
+  {
+    "index": 224,
+    "NAME": "Mission Viejo",
+    "value": 5.581407280484191,
+    "valid": true
+  },
+  {
+    "index": 225,
+    "NAME": "Rancho Santa Margarita",
+    "value": 5.301000819014673,
+    "valid": true
+  },
+  {
+    "index": 226,
+    "NAME": "Avenal",
+    "value": 6.031548978309966,
+    "valid": true
+  },
+  {
+    "index": 227,
+    "NAME": "San Clemente",
+    "value": 5.395594708012687,
+    "valid": true
+  },
+  {
+    "index": 228,
+    "NAME": "Seal Beach",
+    "value": 3.55921286762979,
+    "valid": true
+  },
+  {
+    "index": 229,
+    "NAME": "Villa Park",
+    "value": 5.620016888640121,
+    "valid": true
+  },
+  {
+    "index": 230,
+    "NAME": "Aliso Viejo",
+    "value": 5.663122775875188,
+    "valid": true
+  },
+  {
+    "index": 231,
+    "NAME": "Huntington Beach",
+    "value": 4.393575776453852,
+    "valid": true
+  },
+  {
+    "index": 232,
+    "NAME": "Tustin",
+    "value": 5.683850088174645,
+    "valid": true
+  },
+  {
+    "index": 233,
+    "NAME": "Buena Park",
+    "value": 5.469158930817497,
+    "valid": true
+  },
+  {
+    "index": 234,
+    "NAME": "Dana Point",
+    "value": 0.8886312862484714,
+    "valid": true
+  },
+  {
+    "index": 235,
+    "NAME": "Lemoore",
+    "value": 5.9193272207711685,
+    "valid": true
+  },
+  {
+    "index": 236,
+    "NAME": "Fountain Valley",
+    "value": 5.697804568389307,
+    "valid": true
+  },
+  {
+    "index": 237,
+    "NAME": "Laguna Beach",
+    "value": 1.8825661461356546,
+    "valid": true
+  },
+  {
+    "index": 238,
+    "NAME": "Laguna Hills",
+    "value": 5.608317453310279,
+    "valid": true
+  },
+  {
+    "index": 239,
+    "NAME": "Laguna Woods",
+    "value": 5.67372314694812,
+    "valid": true
+  },
+  {
+    "index": 240,
+    "NAME": "Lake Forest",
+    "value": 5.579837160633563,
+    "valid": true
+  },
+  {
+    "index": 241,
+    "NAME": "Hanford",
+    "value": 5.758232322301609,
+    "valid": true
+  },
+  {
+    "index": 242,
+    "NAME": "Clayton",
+    "value": 4.347254397102002,
+    "valid": true
+  },
+  {
+    "index": 243,
+    "NAME": "El Cerrito",
+    "value": 4.260125843415933,
+    "valid": true
+  },
+  {
+    "index": 244,
+    "NAME": "Hercules",
+    "value": 0.6894278717401159,
+    "valid": true
+  },
+  {
+    "index": 245,
+    "NAME": "Moraga",
+    "value": 4.1008853403852115,
+    "valid": true
+  },
+  {
+    "index": 246,
+    "NAME": "Lathrop",
+    "value": 4.7007979026052125,
+    "valid": true
+  },
+  {
+    "index": 247,
+    "NAME": "Lodi",
+    "value": 4.5222602831243,
+    "valid": true
+  },
+  {
+    "index": 248,
+    "NAME": "Manteca",
+    "value": 5.059362271080108,
+    "valid": true
+  },
+  {
+    "index": 249,
+    "NAME": "Tracy",
+    "value": 5.0078005484641785,
+    "valid": true
+  },
+  {
+    "index": 250,
+    "NAME": "Jurupa Valley",
+    "value": 5.868284769583481,
+    "valid": true
+  },
+  {
+    "index": 251,
+    "NAME": "Calipatria",
+    "value": 4.373518824257818,
+    "valid": true
+  },
+  {
+    "index": 252,
+    "NAME": "Paradise",
+    "value": 4.103329582991014,
+    "valid": true
+  },
+  {
+    "index": 253,
+    "NAME": "Corcoran",
+    "value": 5.923639758532438,
+    "valid": true
+  },
+  {
+    "index": 254,
+    "NAME": "Adelanto",
+    "value": 5.2170682057417315,
+    "valid": true
+  },
+  {
+    "index": 255,
+    "NAME": "Redlands",
+    "value": 6.574677393108567,
+    "valid": true
+  },
+  {
+    "index": 256,
+    "NAME": "Carlsbad",
+    "value": 5.489007623966929,
+    "valid": true
+  },
+  {
+    "index": 257,
+    "NAME": "National City",
+    "value": 3.401167673006997,
+    "valid": true
+  },
+  {
+    "index": 258,
+    "NAME": "Santee",
+    "value": 5.6857409887514905,
+    "valid": true
+  },
+  {
+    "index": 259,
+    "NAME": "California City",
+    "value": 4.779976222196493,
+    "valid": true
+  },
+  {
+    "index": 260,
+    "NAME": "Taft",
+    "value": 7.3342252297166155,
+    "valid": true
+  },
+  {
+    "index": 261,
+    "NAME": "Eastvale",
+    "value": 5.666388136716447,
+    "valid": true
+  },
+  {
+    "index": 262,
+    "NAME": "Big Bear Lake",
+    "value": 5.696110991796751,
+    "valid": true
+  },
+  {
+    "index": 263,
+    "NAME": "Fontana",
+    "value": 6.058383793045607,
+    "valid": true
+  },
+  {
+    "index": 264,
+    "NAME": "Rialto",
+    "value": 6.111832567582319,
+    "valid": true
+  },
+  {
+    "index": 265,
+    "NAME": "Solana Beach",
+    "value": 2.621032900226591,
+    "valid": true
+  },
+  {
+    "index": 266,
+    "NAME": "Murrieta",
+    "value": 5.231434176229155,
+    "valid": true
+  },
+  {
+    "index": 267,
+    "NAME": "Sutter Creek",
+    "value": 5.58954177513049,
+    "valid": true
+  },
+  {
+    "index": 268,
+    "NAME": "Atascadero",
+    "value": 5.294834622265779,
+    "valid": true
+  },
+  {
+    "index": 269,
+    "NAME": "Grover Beach",
+    "value": 4.7240237272073715,
+    "valid": true
+  },
+  {
+    "index": 270,
+    "NAME": "Pismo Beach",
+    "value": 2.811765659830042,
+    "valid": true
+  },
+  {
+    "index": 271,
+    "NAME": "Arroyo Grande",
+    "value": 5.639466730442604,
+    "valid": true
+  },
+  {
+    "index": 272,
+    "NAME": "South Lake Tahoe",
+    "value": 4.660984729460564,
+    "valid": true
+  },
+  {
+    "index": 273,
+    "NAME": "Clovis",
+    "value": 6.058070335296116,
+    "valid": true
+  },
+  {
+    "index": 274,
+    "NAME": "Fresno",
+    "value": 5.993088576889104,
+    "valid": true
+  },
+  {
+    "index": 275,
+    "NAME": "Clearlake",
+    "value": 4.1967013973340555,
+    "valid": true
+  },
+  {
+    "index": 276,
+    "NAME": "Angels",
+    "value": 5.092587936399574,
+    "valid": true
+  },
+  {
+    "index": 277,
+    "NAME": "Alturas",
+    "value": 5.45757510526858,
+    "valid": true
+  },
+  {
+    "index": 278,
+    "NAME": "Yuba City",
+    "value": 4.1236315079666195,
+    "valid": true
+  },
+  {
+    "index": 279,
+    "NAME": "Folsom",
+    "value": 5.226026963070407,
+    "valid": true
+  },
+  {
+    "index": 280,
+    "NAME": "Isleton",
+    "value": 4.40782609249254,
+    "valid": true
+  },
+  {
+    "index": 281,
+    "NAME": "Rancho Cordova",
+    "value": 5.023057221295658,
+    "valid": true
+  },
+  {
+    "index": 282,
+    "NAME": "Monterey",
+    "value": 1.554886181914009,
+    "valid": true
+  },
+  {
+    "index": 283,
+    "NAME": "American Canyon",
+    "value": 4.074231356180205,
+    "valid": true
+  },
+  {
+    "index": 284,
+    "NAME": "Calistoga",
+    "value": 4.2259285542095295,
+    "valid": true
+  },
+  {
+    "index": 285,
+    "NAME": "Yountville",
+    "value": 3.9219601530107773,
+    "valid": true
+  },
+  {
+    "index": 286,
+    "NAME": "Buellton",
+    "value": 5.224317290819187,
+    "valid": true
+  },
+  {
+    "index": 287,
+    "NAME": "Antioch",
+    "value": 4.516180978922367,
+    "valid": true
+  },
+  {
+    "index": 288,
+    "NAME": "Concord",
+    "value": 4.438413521120832,
+    "valid": true
+  },
+  {
+    "index": 289,
+    "NAME": "Danville",
+    "value": 4.208642089356195,
+    "valid": true
+  },
+  {
+    "index": 290,
+    "NAME": "Martinez",
+    "value": 4.395266995560624,
+    "valid": true
+  },
+  {
+    "index": 291,
+    "NAME": "Pittsburg",
+    "value": 4.392912073500659,
+    "valid": true
+  },
+  {
+    "index": 292,
+    "NAME": "Pleasant Hill",
+    "value": 4.259493287064576,
+    "valid": true
+  },
+  {
+    "index": 293,
+    "NAME": "San Ramon",
+    "value": 4.375474441488251,
+    "valid": true
+  },
+  {
+    "index": 294,
+    "NAME": "Walnut Creek",
+    "value": 4.136562667377908,
+    "valid": true
+  },
+  {
+    "index": 295,
+    "NAME": "Carpinteria",
+    "value": 2.9540734569727776,
+    "valid": true
+  },
+  {
+    "index": 296,
+    "NAME": "Guadalupe",
+    "value": 5.762988781527945,
+    "valid": true
+  },
+  {
+    "index": 297,
+    "NAME": "Dinuba",
+    "value": 5.903635760672967,
+    "valid": true
+  },
+  {
+    "index": 298,
+    "NAME": "Exeter",
+    "value": 6.1546582225569395,
+    "valid": true
+  },
+  {
+    "index": 299,
+    "NAME": "Farmersville",
+    "value": 5.930972533525178,
+    "valid": true
+  },
+  {
+    "index": 300,
+    "NAME": "Lindsay",
+    "value": 6.654717212045012,
+    "valid": true
+  },
+  {
+    "index": 301,
+    "NAME": "Salinas",
+    "value": 4.820120462587925,
+    "valid": true
+  },
+  {
+    "index": 302,
+    "NAME": "Agoura Hills",
+    "value": 5.544995565196779,
+    "valid": true
+  },
+  {
+    "index": 303,
+    "NAME": "Artesia",
+    "value": 5.330944559766498,
+    "valid": true
+  },
+  {
+    "index": 304,
+    "NAME": "Milpitas",
+    "value": 5.120599697744087,
+    "valid": true
+  },
+  {
+    "index": 305,
+    "NAME": "Del Mar",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 306,
+    "NAME": "Biggs",
+    "value": 3.8047427250539085,
+    "valid": true
+  },
+  {
+    "index": 307,
+    "NAME": "Gridley",
+    "value": 4.21225976333945,
+    "valid": true
+  },
+  {
+    "index": 308,
+    "NAME": "Avalon",
+    "value": 5.542277565477615,
+    "valid": true
+  },
+  {
+    "index": 309,
+    "NAME": "Bellflower",
+    "value": 5.2973299335814765,
+    "valid": true
+  },
+  {
+    "index": 310,
+    "NAME": "Bell Gardens",
+    "value": 5.473253901101183,
+    "valid": true
+  },
+  {
+    "index": 311,
+    "NAME": "Claremont",
+    "value": 6.476670796204111,
+    "valid": true
+  },
+  {
+    "index": 312,
+    "NAME": "Commerce",
+    "value": 5.436694409818243,
+    "valid": true
+  },
+  {
+    "index": 313,
+    "NAME": "Cudahy",
+    "value": 5.464004590022098,
+    "valid": true
+  },
+  {
+    "index": 314,
+    "NAME": "El Monte",
+    "value": 5.340723825352224,
+    "valid": true
+  },
+  {
+    "index": 315,
+    "NAME": "Solvang",
+    "value": 5.263543569620139,
+    "valid": true
+  },
+  {
+    "index": 316,
+    "NAME": "Goleta",
+    "value": 2.6784561356281444,
+    "valid": true
+  },
+  {
+    "index": 317,
+    "NAME": "Lompoc",
+    "value": 5.4210491443121205,
+    "valid": true
+  },
+  {
+    "index": 318,
+    "NAME": "Santa Barbara",
+    "value": 2.9135952894344466,
+    "valid": true
+  },
+  {
+    "index": 319,
+    "NAME": "Santa Maria",
+    "value": 6.061488736857069,
+    "valid": true
+  },
+  {
+    "index": 320,
+    "NAME": "Loyalton",
+    "value": 4.033892708404516,
+    "valid": true
+  },
+  {
+    "index": 321,
+    "NAME": "Brawley",
+    "value": 5.634938663422159,
+    "valid": true
+  },
+  {
+    "index": 322,
+    "NAME": "El Segundo",
+    "value": 5.482051071969704,
+    "valid": true
+  },
+  {
+    "index": 323,
+    "NAME": "Hawaiian Gardens",
+    "value": 5.3414352199512765,
+    "valid": true
+  },
+  {
+    "index": 324,
+    "NAME": "Hermosa Beach",
+    "value": 0.44233681760204163,
+    "valid": true
+  },
+  {
+    "index": 325,
+    "NAME": "Hidden Hills",
+    "value": 5.391189541828752,
+    "valid": true
+  },
+  {
+    "index": 326,
+    "NAME": "Grass Valley",
+    "value": 4.20116212494536,
+    "valid": true
+  },
+  {
+    "index": 327,
+    "NAME": "Pasadena",
+    "value": 5.554391710816686,
+    "valid": true
+  },
+  {
+    "index": 328,
+    "NAME": "Newport Beach",
+    "value": 2.5380744481766433,
+    "valid": true
+  },
+  {
+    "index": 329,
+    "NAME": "Santa Monica",
+    "value": 5.428275230875956,
+    "valid": true
+  },
+  {
+    "index": 330,
+    "NAME": "Calexico",
+    "value": 2.028397585687049,
+    "valid": true
+  },
+  {
+    "index": 331,
+    "NAME": "El Centro",
+    "value": 2.3690961687404566,
+    "valid": true
+  },
+  {
+    "index": 332,
+    "NAME": "Holtville",
+    "value": 3.6875083256027743,
+    "valid": true
+  },
+  {
+    "index": 333,
+    "NAME": "Imperial",
+    "value": 2.629876422061433,
+    "valid": true
+  },
+  {
+    "index": 334,
+    "NAME": "Westmorland",
+    "value": 5.8105044959328955,
+    "valid": true
+  },
+  {
+    "index": 335,
+    "NAME": "Citrus Heights",
+    "value": 4.989722090406522,
+    "valid": true
+  },
+  {
+    "index": 336,
+    "NAME": "Elk Grove",
+    "value": 4.5957320015117205,
+    "valid": true
+  },
+  {
+    "index": 337,
+    "NAME": "Galt",
+    "value": 4.697499606600866,
+    "valid": true
+  },
+  {
+    "index": 338,
+    "NAME": "Sacramento",
+    "value": 4.251932963799319,
+    "valid": true
+  },
+  {
+    "index": 339,
+    "NAME": "Hollister",
+    "value": 4.71410896603877,
+    "valid": true
+  },
+  {
+    "index": 340,
+    "NAME": "Cerritos",
+    "value": 5.34056911350997,
+    "valid": true
+  },
+  {
+    "index": 341,
+    "NAME": "Covina",
+    "value": 6.179321786412415,
+    "valid": true
+  },
+  {
+    "index": 342,
+    "NAME": "Lomita",
+    "value": 5.050276954755846,
+    "valid": true
+  },
+  {
+    "index": 343,
+    "NAME": "Manhattan Beach",
+    "value": 5.291355732104682,
+    "valid": true
+  },
+  {
+    "index": 344,
+    "NAME": "Maywood",
+    "value": 5.458554475077986,
+    "valid": true
+  },
+  {
+    "index": 345,
+    "NAME": "Monrovia",
+    "value": 5.898046956839888,
+    "valid": true
+  },
+  {
+    "index": 346,
+    "NAME": "San Dimas",
+    "value": 6.432466084309283,
+    "valid": true
+  },
+  {
+    "index": 347,
+    "NAME": "El Paso de Robles (Paso Robles)",
+    "value": 5.087450151929952,
+    "valid": true
+  },
+  {
+    "index": 348,
+    "NAME": "Morro Bay",
+    "value": 3.53131426217623,
+    "valid": true
+  },
+  {
+    "index": 349,
+    "NAME": "San Luis Obispo",
+    "value": 5.057365065909671,
+    "valid": true
+  },
+  {
+    "index": 350,
+    "NAME": "Oakley",
+    "value": 4.621670446593936,
+    "valid": true
+  },
+  {
+    "index": 351,
+    "NAME": "Coalinga",
+    "value": 4.8114674952462515,
+    "valid": true
+  },
+  {
+    "index": 352,
+    "NAME": "Firebaugh",
+    "value": 5.563698011284119,
+    "valid": true
+  },
+  {
+    "index": 353,
+    "NAME": "Fowler",
+    "value": 5.990504722668211,
+    "valid": true
+  },
+  {
+    "index": 354,
+    "NAME": "Kingsburg",
+    "value": 5.907855609002846,
+    "valid": true
+  },
+  {
+    "index": 355,
+    "NAME": "Amador City",
+    "value": 5.648565570019111,
+    "valid": true
+  },
+  {
+    "index": 356,
+    "NAME": "Ione",
+    "value": 5.250219371160325,
+    "valid": true
+  },
+  {
+    "index": 357,
+    "NAME": "Jackson",
+    "value": 5.657490648048095,
+    "valid": true
+  },
+  {
+    "index": 358,
+    "NAME": "Plymouth",
+    "value": 5.501431124900583,
+    "valid": true
+  },
+  {
+    "index": 359,
+    "NAME": "Mendota",
+    "value": 5.207713415907586,
+    "valid": true
+  },
+  {
+    "index": 360,
+    "NAME": "Orange Cove",
+    "value": 5.7986234545799595,
+    "valid": true
+  },
+  {
+    "index": 361,
+    "NAME": "Parlier",
+    "value": 5.889024500347551,
+    "valid": true
+  },
+  {
+    "index": 362,
+    "NAME": "Reedley",
+    "value": 5.868556234509869,
+    "valid": true
+  },
+  {
+    "index": 363,
+    "NAME": "Sanger",
+    "value": 6.0060426063698475,
+    "valid": true
+  },
+  {
+    "index": 364,
+    "NAME": "Selma",
+    "value": 5.931695785880055,
+    "valid": true
+  },
+  {
+    "index": 365,
+    "NAME": "Watsonville",
+    "value": 3.996571945854816,
+    "valid": true
+  },
+  {
+    "index": 366,
+    "NAME": "Santa Cruz",
+    "value": 3.5784550275721583,
+    "valid": true
+  },
+  {
+    "index": 367,
+    "NAME": "Susanville",
+    "value": 3.6907753217187875,
+    "valid": true
+  },
+  {
+    "index": 368,
+    "NAME": "Anaheim",
+    "value": 5.62245644888014,
+    "valid": true
+  },
+  {
+    "index": 369,
+    "NAME": "Costa Mesa",
+    "value": 5.604336933318713,
+    "valid": true
+  },
+  {
+    "index": 370,
+    "NAME": "Cypress",
+    "value": 5.538798566229957,
+    "valid": true
+  },
+  {
+    "index": 371,
+    "NAME": "Fullerton",
+    "value": 5.454202857028671,
+    "valid": true
+  },
+  {
+    "index": 372,
+    "NAME": "Garden Grove",
+    "value": 5.671888731269405,
+    "valid": true
+  },
+  {
+    "index": 373,
+    "NAME": "Laguna Niguel",
+    "value": 5.15281147947459,
+    "valid": true
+  },
+  {
+    "index": 374,
+    "NAME": "Orange",
+    "value": 5.626153592592558,
+    "valid": true
+  },
+  {
+    "index": 375,
+    "NAME": "Placentia",
+    "value": 5.571869276015493,
+    "valid": true
+  },
+  {
+    "index": 376,
+    "NAME": "San Juan Capistrano",
+    "value": 5.636857009505175,
+    "valid": true
+  },
+  {
+    "index": 377,
+    "NAME": "Santa Ana",
+    "value": 5.657044932410393,
+    "valid": true
+  },
+  {
+    "index": 378,
+    "NAME": "Westminster",
+    "value": 5.728820054292124,
+    "valid": true
+  },
+  {
+    "index": 379,
+    "NAME": "Yorba Linda",
+    "value": 5.7150984321330816,
+    "valid": true
+  },
+  {
+    "index": 380,
+    "NAME": "Williams",
+    "value": 3.5380623050251065,
+    "valid": true
+  },
+  {
+    "index": 381,
+    "NAME": "Colusa",
+    "value": 3.8351632991361875,
+    "valid": true
+  },
+  {
+    "index": 382,
+    "NAME": "Escalon",
+    "value": 5.790949702320736,
+    "valid": true
+  },
+  {
+    "index": 383,
+    "NAME": "Ripon",
+    "value": 5.2359447043561245,
+    "valid": true
+  },
+  {
+    "index": 384,
+    "NAME": "Stockton",
+    "value": 4.636925855551367,
+    "valid": true
+  },
+  {
+    "index": 385,
+    "NAME": "Apple Valley",
+    "value": 5.470149102738548,
+    "valid": true
+  },
+  {
+    "index": 386,
+    "NAME": "San Bernardino",
+    "value": 6.444652746267765,
+    "valid": true
+  },
+  {
+    "index": 387,
+    "NAME": "Hesperia",
+    "value": 6.067957558122063,
+    "valid": true
+  },
+  {
+    "index": 388,
+    "NAME": "Santa Paula",
+    "value": 4.950351586951542,
+    "valid": true
+  },
+  {
+    "index": 389,
+    "NAME": "Redding",
+    "value": 4.220922578988015,
+    "valid": true
+  },
+  {
+    "index": 390,
+    "NAME": "Shasta Lake",
+    "value": 4.39717424341805,
+    "valid": true
+  },
+  {
+    "index": 391,
+    "NAME": "Victorville",
+    "value": 5.143936375667005,
+    "valid": true
+  },
+  {
+    "index": 392,
+    "NAME": "Chino Hills",
+    "value": 5.626313889941208,
+    "valid": true
+  },
+  {
+    "index": 393,
+    "NAME": "Highland",
+    "value": 6.966191679059334,
+    "valid": true
+  },
+  {
+    "index": 394,
+    "NAME": "Chino",
+    "value": 5.591964986371603,
+    "valid": true
+  },
+  {
+    "index": 395,
+    "NAME": "Bakersfield",
+    "value": 7.4361029347032455,
+    "valid": true
+  },
+  {
+    "index": 396,
+    "NAME": "Blythe",
+    "value": 1.73348335407263,
+    "valid": true
+  },
+  {
+    "index": 397,
+    "NAME": "Indio",
+    "value": 4.340236318970706,
+    "valid": true
+  },
+  {
+    "index": 398,
+    "NAME": "Perris",
+    "value": 5.188045583576745,
+    "valid": true
+  },
+  {
+    "index": 399,
+    "NAME": "Arvin",
+    "value": 7.206787279960067,
+    "valid": true
+  },
+  {
+    "index": 400,
+    "NAME": "Ridgecrest",
+    "value": 0.6352336197577317,
+    "valid": true
+  },
+  {
+    "index": 401,
+    "NAME": "Tehachapi",
+    "value": 6.504810930438439,
+    "valid": true
+  },
+  {
+    "index": 402,
+    "NAME": "Brentwood",
+    "value": 4.605753459016335,
+    "valid": true
+  },
+  {
+    "index": 403,
+    "NAME": "Redwood City",
+    "value": 3.1876527244572053,
+    "valid": true
+  },
+  {
+    "index": 404,
+    "NAME": "San Rafael",
+    "value": 2.173983285608002,
+    "valid": true
+  },
+  {
+    "index": 405,
+    "NAME": "Carmel-by-the-Sea",
+    "value": 4.934131555432271,
+    "valid": true
+  },
+  {
+    "index": 406,
+    "NAME": "Del Rey Oaks",
+    "value": 5.073623391684565,
+    "valid": true
+  },
+  {
+    "index": 407,
+    "NAME": "Huron",
+    "value": 6.275652398014132,
+    "valid": true
+  },
+  {
+    "index": 408,
+    "NAME": "Gonzales",
+    "value": 4.80414992345144,
+    "valid": true
+  },
+  {
+    "index": 409,
+    "NAME": "Greenfield",
+    "value": 4.592227510768996,
+    "valid": true
+  },
+  {
+    "index": 410,
+    "NAME": "Red Bluff",
+    "value": 4.523858183678149,
+    "valid": true
+  },
+  {
+    "index": 411,
+    "NAME": "Davis",
+    "value": 4.394088802758437,
+    "valid": true
+  },
+  {
+    "index": 412,
+    "NAME": "West Sacramento",
+    "value": 4.171390602289849,
+    "valid": true
+  },
+  {
+    "index": 413,
+    "NAME": "Winters",
+    "value": 4.446224151350533,
+    "valid": true
+  },
+  {
+    "index": 414,
+    "NAME": "Woodland",
+    "value": 4.3025503243317855,
+    "valid": true
+  },
+  {
+    "index": 415,
+    "NAME": "Fairfield",
+    "value": 4.174987276751232,
+    "valid": true
+  },
+  {
+    "index": 416,
+    "NAME": "Vacaville",
+    "value": 4.261880918266101,
+    "valid": true
+  },
+  {
+    "index": 417,
+    "NAME": "Dorris",
+    "value": 3.7189139032527647,
+    "valid": true
+  },
+  {
+    "index": 418,
+    "NAME": "Mount Shasta",
+    "value": 4.478841453875886,
+    "valid": true
+  },
+  {
+    "index": 419,
+    "NAME": "Ukiah",
+    "value": 3.940459013455989,
+    "valid": true
+  },
+  {
+    "index": 420,
+    "NAME": "Lakeport",
+    "value": 3.625820897849048,
+    "valid": true
+  },
+  {
+    "index": 421,
+    "NAME": "Coronado",
+    "value": 0.6690393039336971,
+    "valid": true
+  },
+  {
+    "index": 422,
+    "NAME": "Escondido",
+    "value": 6.165089670808818,
+    "valid": true
+  },
+  {
+    "index": 423,
+    "NAME": "Imperial Beach",
+    "value": 1.8527754999089991,
+    "valid": true
+  },
+  {
+    "index": 424,
+    "NAME": "Delano",
+    "value": 6.752420900363395,
+    "valid": true
+  },
+  {
+    "index": 425,
+    "NAME": "McFarland",
+    "value": 6.507294706875841,
+    "valid": true
+  },
+  {
+    "index": 426,
+    "NAME": "Maricopa",
+    "value": 7.2473358134096,
+    "valid": true
+  },
+  {
+    "index": 427,
+    "NAME": "Marina",
+    "value": 4.661108587268778,
+    "valid": true
+  },
+  {
+    "index": 428,
+    "NAME": "Sand City",
+    "value": 1.8776956954329806,
+    "valid": true
+  },
+  {
+    "index": 429,
+    "NAME": "Seaside",
+    "value": 4.14071834213265,
+    "valid": true
+  },
+  {
+    "index": 430,
+    "NAME": "Soledad",
+    "value": 4.483501518464652,
+    "valid": true
+  },
+  {
+    "index": 431,
+    "NAME": "Colfax",
+    "value": 4.353763342448517,
+    "valid": true
+  },
+  {
+    "index": 432,
+    "NAME": "Anderson",
+    "value": 4.424157176004048,
+    "valid": true
+  },
+  {
+    "index": 433,
+    "NAME": "Yreka",
+    "value": 3.6360240723733663,
+    "valid": true
+  },
+  {
+    "index": 434,
+    "NAME": "Mammoth Lakes",
+    "value": 4.2508408264021735,
+    "valid": true
+  },
+  {
+    "index": 435,
+    "NAME": "Oakland",
+    "value": 2.7160265754957993,
+    "valid": true
+  },
+  {
+    "index": 436,
+    "NAME": "Carson",
+    "value": 5.183775027968504,
+    "valid": true
+  },
+  {
+    "index": 437,
+    "NAME": "Lemon Grove",
+    "value": 5.041947655325287,
+    "valid": true
+  },
+  {
+    "index": 438,
+    "NAME": "Chula Vista",
+    "value": 3.973374661725221,
+    "valid": true
+  },
+  {
+    "index": 439,
+    "NAME": "San Diego",
+    "value": 4.277063431161259,
+    "valid": true
+  },
+  {
+    "index": 440,
+    "NAME": "Shafter",
+    "value": 7.330519612766221,
+    "valid": true
+  },
+  {
+    "index": 441,
+    "NAME": "Wasco",
+    "value": 6.414949472082273,
+    "valid": true
+  },
+  {
+    "index": 442,
+    "NAME": "Sausalito",
+    "value": 4.559028841412929,
+    "valid": true
+  },
+  {
+    "index": 443,
+    "NAME": "Orinda",
+    "value": 4.195018541476475,
+    "valid": true
+  },
+  {
+    "index": 444,
+    "NAME": "Pinole",
+    "value": 1.4164161432977378,
+    "valid": true
+  },
+  {
+    "index": 445,
+    "NAME": "Richmond",
+    "value": 2.306880424701388,
+    "valid": true
+  },
+  {
+    "index": 446,
+    "NAME": "San Pablo",
+    "value": 4.333094490035511,
+    "valid": true
+  },
+  {
+    "index": 447,
+    "NAME": "Lafayette",
+    "value": 4.156652844007711,
+    "valid": true
+  },
+  {
+    "index": 448,
+    "NAME": "Loma Linda",
+    "value": 6.218530232804046,
+    "valid": true
+  },
+  {
+    "index": 449,
+    "NAME": "Montclair",
+    "value": 6.019600788048812,
+    "valid": true
+  },
+  {
+    "index": 450,
+    "NAME": "Needles",
+    "value": 5.053121715891253,
+    "valid": true
+  },
+  {
+    "index": 451,
+    "NAME": "Bradbury",
+    "value": 5.774358058835418,
+    "valid": true
+  },
+  {
+    "index": 452,
+    "NAME": "Ontario",
+    "value": 5.714337507713981,
+    "valid": true
+  },
+  {
+    "index": 453,
+    "NAME": "Healdsburg",
+    "value": 3.754848611547731,
+    "valid": true
+  },
+  {
+    "index": 454,
+    "NAME": "Windsor",
+    "value": 3.7923796491214485,
+    "valid": true
+  },
+  {
+    "index": 455,
+    "NAME": "Fort Bragg",
+    "value": 3.1416906013881336,
+    "valid": true
+  },
+  {
+    "index": 456,
+    "NAME": "Kerman",
+    "value": 5.588343505964492,
+    "valid": true
+  },
+  {
+    "index": 457,
+    "NAME": "Bishop",
+    "value": 6.941135199753252,
+    "valid": true
+  },
+  {
+    "index": 458,
+    "NAME": "El Cajon",
+    "value": 5.385157028024884,
+    "valid": true
+  },
+  {
+    "index": 459,
+    "NAME": "Encinitas",
+    "value": 5.929078214879366,
+    "valid": true
+  },
+  {
+    "index": 460,
+    "NAME": "La Mesa",
+    "value": 5.592303783951066,
+    "valid": true
+  },
+  {
+    "index": 461,
+    "NAME": "Oceanside",
+    "value": 5.644857888933312,
+    "valid": true
+  },
+  {
+    "index": 462,
+    "NAME": "Poway",
+    "value": 5.671004190497093,
+    "valid": true
+  },
+  {
+    "index": 463,
+    "NAME": "San Marcos",
+    "value": 6.186394513713332,
+    "valid": true
+  },
+  {
+    "index": 464,
+    "NAME": "Alameda",
+    "value": 2.2485864035846346,
+    "valid": true
+  },
+  {
+    "index": 465,
+    "NAME": "Albany",
+    "value": 3.8858307210749654,
+    "valid": true
+  },
+  {
+    "index": 466,
+    "NAME": "Berkeley",
+    "value": 2.694371285385116,
+    "valid": true
+  },
+  {
+    "index": 467,
+    "NAME": "Dublin",
+    "value": 4.7118075090146565,
+    "valid": true
+  },
+  {
+    "index": 468,
+    "NAME": "Emeryville",
+    "value": 3.3887910237043295,
+    "valid": true
+  },
+  {
+    "index": 469,
+    "NAME": "Vista",
+    "value": 6.121687645421808,
+    "valid": true
+  },
+  {
+    "index": 470,
+    "NAME": "Newark",
+    "value": 5.081402012374325,
+    "valid": true
+  },
+  {
+    "index": 471,
+    "NAME": "San Leandro",
+    "value": 3.9138344536300003,
+    "valid": true
+  },
+  {
+    "index": 472,
+    "NAME": "Union City",
+    "value": 5.126335820344496,
+    "valid": true
+  },
+  {
+    "index": 473,
+    "NAME": "Fremont",
+    "value": 4.9329213668419785,
+    "valid": true
+  },
+  {
+    "index": 474,
+    "NAME": "Napa",
+    "value": 3.923175254702974,
+    "valid": true
+  },
+  {
+    "index": 475,
+    "NAME": "St. Helena",
+    "value": 3.843207501886046,
+    "valid": true
+  },
+  {
+    "index": 476,
+    "NAME": "King City",
+    "value": 4.812183863933807,
+    "valid": true
+  },
+  {
+    "index": 477,
+    "NAME": "Woodlake",
+    "value": 6.056021530532056,
+    "valid": true
+  },
+  {
+    "index": 478,
+    "NAME": "Twentynine Palms",
+    "value": 2.1783294969140443,
+    "valid": true
+  },
+  {
+    "index": 479,
+    "NAME": "Upland",
+    "value": 6.32637180527284,
+    "valid": true
+  },
+  {
+    "index": 480,
+    "NAME": "Yucaipa",
+    "value": 7.184860974012538,
+    "valid": true
+  },
+  {
+    "index": 481,
+    "NAME": "Yucca Valley",
+    "value": 2.605378150171697,
+    "valid": true
+  },
+  {
+    "index": 482,
+    "NAME": "Acalanes Ridge",
+    "value": 4.144147401674509,
+    "valid": true
+  },
+  {
+    "index": 483,
+    "NAME": "Acampo",
+    "value": 4.5629387965864545,
+    "valid": true
+  },
+  {
+    "index": 484,
+    "NAME": "Acton",
+    "value": 5.6566552583708605,
+    "valid": true
+  },
+  {
+    "index": 485,
+    "NAME": "Adin",
+    "value": 5.590984217076151,
+    "valid": true
+  },
+  {
+    "index": 486,
+    "NAME": "Agua Dulce",
+    "value": 5.863867773780329,
+    "valid": true
+  },
+  {
+    "index": 487,
+    "NAME": "Aguanga",
+    "value": 6.277922329095532,
+    "valid": true
+  },
+  {
+    "index": 488,
+    "NAME": "Ahwahnee",
+    "value": 5.689317091508753,
+    "valid": true
+  },
+  {
+    "index": 489,
+    "NAME": "Airport",
+    "value": 6.095052851942194,
+    "valid": true
+  },
+  {
+    "index": 490,
+    "NAME": "Alamo",
+    "value": 4.095161484554885,
+    "valid": true
+  },
+  {
+    "index": 491,
+    "NAME": "Albion",
+    "value": 1.1139250906045473,
+    "valid": true
+  },
+  {
+    "index": 492,
+    "NAME": "Alderpoint",
+    "value": 3.7167882093696707,
+    "valid": true
+  },
+  {
+    "index": 493,
+    "NAME": "Alhambra Valley",
+    "value": 4.428787443948194,
+    "valid": true
+  },
+  {
+    "index": 494,
+    "NAME": "Alleghany",
+    "value": 4.410454968327848,
+    "valid": true
+  },
+  {
+    "index": 495,
+    "NAME": "Allendale",
+    "value": 4.33004076381328,
+    "valid": true
+  },
+  {
+    "index": 496,
+    "NAME": "Allensworth",
+    "value": 5.855718217429258,
+    "valid": true
+  },
+  {
+    "index": 497,
+    "NAME": "Almanor",
+    "value": 3.603131771438631,
+    "valid": true
+  },
+  {
+    "index": 498,
+    "NAME": "Alondra Park",
+    "value": 5.505366315359163,
+    "valid": true
+  },
+  {
+    "index": 499,
+    "NAME": "Alpaugh",
+    "value": 5.423993912765317,
+    "valid": true
+  },
+  {
+    "index": 500,
+    "NAME": "Alpine",
+    "value": 5.632651420865612,
+    "valid": true
+  },
+  {
+    "index": 501,
+    "NAME": "Alpine Village",
+    "value": 4.510812108984359,
+    "valid": true
+  },
+  {
+    "index": 502,
+    "NAME": "Alta",
+    "value": 4.554599337650514,
+    "valid": true
+  },
+  {
+    "index": 503,
+    "NAME": "Altadena",
+    "value": 5.595948601552399,
+    "valid": true
+  },
+  {
+    "index": 504,
+    "NAME": "Alta Sierra",
+    "value": 4.311863145649875,
+    "valid": true
+  },
+  {
+    "index": 505,
+    "NAME": "Alto",
+    "value": 4.465197502761216,
+    "valid": true
+  },
+  {
+    "index": 506,
+    "NAME": "Alum Rock",
+    "value": 5.058597889419014,
+    "valid": true
+  },
+  {
+    "index": 507,
+    "NAME": "Amesti",
+    "value": 4.796035585301274,
+    "valid": true
+  },
+  {
+    "index": 508,
+    "NAME": "Anchor Bay",
+    "value": 2.3222620977544977,
+    "valid": true
+  },
+  {
+    "index": 509,
+    "NAME": "Angwin",
+    "value": 4.072366102793233,
+    "valid": true
+  },
+  {
+    "index": 510,
+    "NAME": "Antelope",
+    "value": 4.625354457384963,
+    "valid": true
+  },
+  {
+    "index": 511,
+    "NAME": "Anza",
+    "value": 5.404026494910944,
+    "valid": true
+  },
+  {
+    "index": 512,
+    "NAME": "Aptos",
+    "value": 3.866954276346153,
+    "valid": true
+  },
+  {
+    "index": 513,
+    "NAME": "Aptos Hills-Larkin Valley",
+    "value": 4.678332703225716,
+    "valid": true
+  },
+  {
+    "index": 514,
+    "NAME": "Arbuckle",
+    "value": 3.961596520064015,
+    "valid": true
+  },
+  {
+    "index": 515,
+    "NAME": "Arden-Arcade",
+    "value": 4.29289573792505,
+    "valid": true
+  },
+  {
+    "index": 516,
+    "NAME": "Armona",
+    "value": 5.6853324473563145,
+    "valid": true
+  },
+  {
+    "index": 517,
+    "NAME": "Arnold",
+    "value": 5.653816810192227,
+    "valid": true
+  },
+  {
+    "index": 518,
+    "NAME": "Aromas",
+    "value": 4.672763739238077,
+    "valid": true
+  },
+  {
+    "index": 519,
+    "NAME": "Artois",
+    "value": 3.935535380229458,
+    "valid": true
+  },
+  {
+    "index": 520,
+    "NAME": "Ashland",
+    "value": 4.508404460298676,
+    "valid": true
+  },
+  {
+    "index": 521,
+    "NAME": "Aspen Springs",
+    "value": 5.035659057570615,
+    "valid": true
+  },
+  {
+    "index": 522,
+    "NAME": "Auberry",
+    "value": 6.086300593791886,
+    "valid": true
+  },
+  {
+    "index": 523,
+    "NAME": "Auburn Lake Trails",
+    "value": 4.163273846751471,
+    "valid": true
+  },
+  {
+    "index": 524,
+    "NAME": "August",
+    "value": 4.665743400607271,
+    "valid": true
+  },
+  {
+    "index": 525,
+    "NAME": "Avery",
+    "value": 5.542729618319601,
+    "valid": true
+  },
+  {
+    "index": 526,
+    "NAME": "Avila Beach",
+    "value": 3.6539520165834904,
+    "valid": true
+  },
+  {
+    "index": 527,
+    "NAME": "Avocado Heights",
+    "value": 5.605731827360561,
+    "valid": true
+  },
+  {
+    "index": 528,
+    "NAME": "Baker",
+    "value": 4.070698013268412,
+    "valid": true
+  },
+  {
+    "index": 529,
+    "NAME": "Ballard",
+    "value": 5.289653151172784,
+    "valid": true
+  },
+  {
+    "index": 530,
+    "NAME": "Ballico",
+    "value": 5.121266623967767,
+    "valid": true
+  },
+  {
+    "index": 531,
+    "NAME": "Bangor",
+    "value": 3.7629769183367503,
+    "valid": true
+  },
+  {
+    "index": 532,
+    "NAME": "Bass Lake",
+    "value": 5.82165433002252,
+    "valid": true
+  },
+  {
+    "index": 533,
+    "NAME": "Bay Point",
+    "value": 4.471462475008751,
+    "valid": true
+  },
+  {
+    "index": 534,
+    "NAME": "Bayview",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 535,
+    "NAME": "Bayview",
+    "value": 3.499229414252492,
+    "valid": true
+  },
+  {
+    "index": 536,
+    "NAME": "Beale AFB",
+    "value": 4.019072204891197,
+    "valid": true
+  },
+  {
+    "index": 537,
+    "NAME": "Bear Creek",
+    "value": 5.330013945237204,
+    "valid": true
+  },
+  {
+    "index": 538,
+    "NAME": "Bear Valley",
+    "value": 4.836712095401171,
+    "valid": true
+  },
+  {
+    "index": 539,
+    "NAME": "Bear Valley",
+    "value": 5.491798298056469,
+    "valid": true
+  },
+  {
+    "index": 540,
+    "NAME": "Bear Valley Springs",
+    "value": 6.874767619907434,
+    "valid": true
+  },
+  {
+    "index": 541,
+    "NAME": "Beckwourth",
+    "value": 3.987587036821907,
+    "valid": true
+  },
+  {
+    "index": 542,
+    "NAME": "Belden",
+    "value": 4.032399090147188,
+    "valid": true
+  },
+  {
+    "index": 543,
+    "NAME": "Bella Vista",
+    "value": 4.203019235139872,
+    "valid": true
+  },
+  {
+    "index": 544,
+    "NAME": "Bell Canyon",
+    "value": 5.5735388811398785,
+    "valid": true
+  },
+  {
+    "index": 545,
+    "NAME": "Benbow",
+    "value": 3.3244928660674127,
+    "valid": true
+  },
+  {
+    "index": 546,
+    "NAME": "Bend",
+    "value": 4.467135178761582,
+    "valid": true
+  },
+  {
+    "index": 547,
+    "NAME": "Ben Lomond",
+    "value": 4.3261485391324435,
+    "valid": true
+  },
+  {
+    "index": 548,
+    "NAME": "Benton",
+    "value": 7.059333883470521,
+    "valid": true
+  },
+  {
+    "index": 549,
+    "NAME": "Bermuda Dunes",
+    "value": 4.014230529378051,
+    "valid": true
+  },
+  {
+    "index": 550,
+    "NAME": "Berry Creek",
+    "value": 4.201330881391445,
+    "valid": true
+  },
+  {
+    "index": 551,
+    "NAME": "Bertsch-Oceanview",
+    "value": 2.6963102092278857,
+    "valid": true
+  },
+  {
+    "index": 552,
+    "NAME": "Bethel Island",
+    "value": 4.584860718964885,
+    "valid": true
+  },
+  {
+    "index": 553,
+    "NAME": "Bieber",
+    "value": 4.864028362532206,
+    "valid": true
+  },
+  {
+    "index": 554,
+    "NAME": "Big Bear City",
+    "value": 4.611539694760813,
+    "valid": true
+  },
+  {
+    "index": 555,
+    "NAME": "Big Bend",
+    "value": 3.9884810517076854,
+    "valid": true
+  },
+  {
+    "index": 556,
+    "NAME": "Big Creek",
+    "value": 5.770503864264829,
+    "valid": true
+  },
+  {
+    "index": 557,
+    "NAME": "Big Lagoon",
+    "value": 0.5802961284431257,
+    "valid": true
+  },
+  {
+    "index": 558,
+    "NAME": "Big Pine",
+    "value": 5.335337008727442,
+    "valid": true
+  },
+  {
+    "index": 559,
+    "NAME": "Big River",
+    "value": 5.378188131512234,
+    "valid": true
+  },
+  {
+    "index": 560,
+    "NAME": "Biola",
+    "value": 5.72308832180839,
+    "valid": true
+  },
+  {
+    "index": 561,
+    "NAME": "Blackhawk",
+    "value": 4.446811892766002,
+    "valid": true
+  },
+  {
+    "index": 562,
+    "NAME": "Blacklake",
+    "value": 5.9142852320624835,
+    "valid": true
+  },
+  {
+    "index": 563,
+    "NAME": "Black Point-Green Point",
+    "value": 3.30247414717957,
+    "valid": true
+  },
+  {
+    "index": 564,
+    "NAME": "Blairsden",
+    "value": 3.9256608492660248,
+    "valid": true
+  },
+  {
+    "index": 565,
+    "NAME": "Bloomfield",
+    "value": 3.9069158664687125,
+    "valid": true
+  },
+  {
+    "index": 566,
+    "NAME": "Bloomington",
+    "value": 6.082163111243695,
+    "valid": true
+  },
+  {
+    "index": 567,
+    "NAME": "Bluewater",
+    "value": 0.2123772737604129,
+    "valid": true
+  },
+  {
+    "index": 568,
+    "NAME": "Bodega",
+    "value": 4.209578925048393,
+    "valid": true
+  },
+  {
+    "index": 569,
+    "NAME": "Bodega Bay",
+    "value": 2.66522137301218,
+    "valid": true
+  },
+  {
+    "index": 570,
+    "NAME": "Bodfish",
+    "value": 5.379289457753441,
+    "valid": true
+  },
+  {
+    "index": 571,
+    "NAME": "Bolinas",
+    "value": 0.29927026803695794,
+    "valid": true
+  },
+  {
+    "index": 572,
+    "NAME": "Bombay Beach",
+    "value": 1.0745164994540874,
+    "valid": true
+  },
+  {
+    "index": 573,
+    "NAME": "Bonadelle Ranchos-Madera Ranchos",
+    "value": 6.056754366114319,
+    "valid": true
+  },
+  {
+    "index": 574,
+    "NAME": "Bonita",
+    "value": 4.14510476688962,
+    "valid": true
+  },
+  {
+    "index": 575,
+    "NAME": "Bonny Doon",
+    "value": 4.219828903313392,
+    "valid": true
+  },
+  {
+    "index": 576,
+    "NAME": "Bonsall",
+    "value": 6.198494810128468,
+    "valid": true
+  },
+  {
+    "index": 577,
+    "NAME": "Boonville",
+    "value": 3.6061783351771997,
+    "valid": true
+  },
+  {
+    "index": 578,
+    "NAME": "Bootjack",
+    "value": 5.737155156086488,
+    "valid": true
+  },
+  {
+    "index": 579,
+    "NAME": "Boron",
+    "value": 4.301653785586019,
+    "valid": true
+  },
+  {
+    "index": 580,
+    "NAME": "Boronda",
+    "value": 4.801305632588069,
+    "valid": true
+  },
+  {
+    "index": 581,
+    "NAME": "Borrego Springs",
+    "value": 0.42932672982632125,
+    "valid": true
+  },
+  {
+    "index": 582,
+    "NAME": "Bostonia",
+    "value": 5.519705399602323,
+    "valid": true
+  },
+  {
+    "index": 583,
+    "NAME": "Boulder Creek",
+    "value": 4.357201897532525,
+    "valid": true
+  },
+  {
+    "index": 584,
+    "NAME": "Boulevard",
+    "value": 4.7823419398077665,
+    "valid": true
+  },
+  {
+    "index": 585,
+    "NAME": "Bowles",
+    "value": 5.848193748409697,
+    "valid": true
+  },
+  {
+    "index": 586,
+    "NAME": "Boyes Hot Springs",
+    "value": 4.114723109854899,
+    "valid": true
+  },
+  {
+    "index": 587,
+    "NAME": "Bradley",
+    "value": 4.805952401060972,
+    "valid": true
+  },
+  {
+    "index": 588,
+    "NAME": "Bret Harte",
+    "value": 5.852685963857674,
+    "valid": true
+  },
+  {
+    "index": 589,
+    "NAME": "Bridgeport",
+    "value": 4.510574630732115,
+    "valid": true
+  },
+  {
+    "index": 590,
+    "NAME": "Broadmoor",
+    "value": 5.0800209584843765,
+    "valid": true
+  },
+  {
+    "index": 591,
+    "NAME": "Brookdale",
+    "value": 4.3898929321043205,
+    "valid": true
+  },
+  {
+    "index": 592,
+    "NAME": "Brooktrails",
+    "value": 3.664528638084764,
+    "valid": true
+  },
+  {
+    "index": 593,
+    "NAME": "Buckhorn",
+    "value": 5.799158679070052,
+    "valid": true
+  },
+  {
+    "index": 594,
+    "NAME": "Buck Meadows",
+    "value": 6.007428185161494,
+    "valid": true
+  },
+  {
+    "index": 595,
+    "NAME": "Bucks Lake",
+    "value": 4.220566799010481,
+    "valid": true
+  },
+  {
+    "index": 596,
+    "NAME": "Buena Vista",
+    "value": 5.360551268064297,
+    "valid": true
+  },
+  {
+    "index": 597,
+    "NAME": "Burbank",
+    "value": 4.903300826725767,
+    "valid": true
+  },
+  {
+    "index": 598,
+    "NAME": "Burney",
+    "value": 4.347657770500936,
+    "valid": true
+  },
+  {
+    "index": 599,
+    "NAME": "Burnt Ranch",
+    "value": 3.413944600268895,
+    "valid": true
+  },
+  {
+    "index": 600,
+    "NAME": "Butte Creek Canyon",
+    "value": 4.020554386701434,
+    "valid": true
+  },
+  {
+    "index": 601,
+    "NAME": "Butte Meadows",
+    "value": 4.1418102448214515,
+    "valid": true
+  },
+  {
+    "index": 602,
+    "NAME": "Butte Valley",
+    "value": 4.1932400081175,
+    "valid": true
+  },
+  {
+    "index": 603,
+    "NAME": "Buttonwillow",
+    "value": 4.481756887319095,
+    "valid": true
+  },
+  {
+    "index": 604,
+    "NAME": "Byron",
+    "value": 4.594909245655214,
+    "valid": true
+  },
+  {
+    "index": 605,
+    "NAME": "Bystrom",
+    "value": 6.041338629358897,
+    "valid": true
+  },
+  {
+    "index": 606,
+    "NAME": "Cabazon",
+    "value": 5.6076462157512825,
+    "valid": true
+  },
+  {
+    "index": 607,
+    "NAME": "California Hot Springs",
+    "value": 7.30619582136656,
+    "valid": true
+  },
+  {
+    "index": 608,
+    "NAME": "California Pines",
+    "value": 5.598333082947169,
+    "valid": true
+  },
+  {
+    "index": 609,
+    "NAME": "Callender",
+    "value": 5.839792488538263,
+    "valid": true
+  },
+  {
+    "index": 610,
+    "NAME": "Calpella",
+    "value": 3.851403758323936,
+    "valid": true
+  },
+  {
+    "index": 611,
+    "NAME": "Calpine",
+    "value": 3.7647782414094078,
+    "valid": true
+  },
+  {
+    "index": 612,
+    "NAME": "Calwa",
+    "value": 6.0443301392808335,
+    "valid": true
+  },
+  {
+    "index": 613,
+    "NAME": "Camanche North Shore",
+    "value": 4.490993800069438,
+    "valid": true
+  },
+  {
+    "index": 614,
+    "NAME": "Camanche Village",
+    "value": 4.831293580928212,
+    "valid": true
+  },
+  {
+    "index": 615,
+    "NAME": "Cambria",
+    "value": 2.586168077192208,
+    "valid": true
+  },
+  {
+    "index": 616,
+    "NAME": "Cambrian Park",
+    "value": 4.417145162462248,
+    "valid": true
+  },
+  {
+    "index": 617,
+    "NAME": "Cameron Park",
+    "value": 4.702977271291031,
+    "valid": true
+  },
+  {
+    "index": 618,
+    "NAME": "Camino",
+    "value": 5.500222250102594,
+    "valid": true
+  },
+  {
+    "index": 619,
+    "NAME": "Camino Tassajara",
+    "value": 4.411349801674073,
+    "valid": true
+  },
+  {
+    "index": 620,
+    "NAME": "Camp Nelson",
+    "value": 6.1027327383926435,
+    "valid": true
+  },
+  {
+    "index": 621,
+    "NAME": "Campo",
+    "value": 5.301692017806162,
+    "valid": true
+  },
+  {
+    "index": 622,
+    "NAME": "Camp Pendleton North",
+    "value": 5.664563241025083,
+    "valid": true
+  },
+  {
+    "index": 623,
+    "NAME": "Camp Pendleton South",
+    "value": 5.197963547729735,
+    "valid": true
+  },
+  {
+    "index": 624,
+    "NAME": "Camptonville",
+    "value": 4.236704312091128,
+    "valid": true
+  },
+  {
+    "index": 625,
+    "NAME": "Canby",
+    "value": 5.01736091620063,
+    "valid": true
+  },
+  {
+    "index": 626,
+    "NAME": "Cantua Creek",
+    "value": 6.086412102195175,
+    "valid": true
+  },
+  {
+    "index": 627,
+    "NAME": "Canyondam",
+    "value": 3.858703233430375,
+    "valid": true
+  },
+  {
+    "index": 628,
+    "NAME": "Caribou",
+    "value": 3.8979487366514123,
+    "valid": true
+  },
+  {
+    "index": 629,
+    "NAME": "Carmel Valley Village",
+    "value": 5.171155475135666,
+    "valid": true
+  },
+  {
+    "index": 630,
+    "NAME": "Carmet",
+    "value": 1.7127361192469892,
+    "valid": true
+  },
+  {
+    "index": 631,
+    "NAME": "Carmichael",
+    "value": 4.746686266047013,
+    "valid": true
+  },
+  {
+    "index": 632,
+    "NAME": "Carnelian Bay",
+    "value": 4.192266706099319,
+    "valid": true
+  },
+  {
+    "index": 633,
+    "NAME": "Carrick",
+    "value": 5.172021400618883,
+    "valid": true
+  },
+  {
+    "index": 634,
+    "NAME": "Cartago",
+    "value": 2.1023060211042752,
+    "valid": true
+  },
+  {
+    "index": 635,
+    "NAME": "Caruthers",
+    "value": 5.664415340537571,
+    "valid": true
+  },
+  {
+    "index": 636,
+    "NAME": "Casa Conejo",
+    "value": 5.121644811081959,
+    "valid": true
+  },
+  {
+    "index": 637,
+    "NAME": "Casa de Oro-Mount Helix",
+    "value": 5.294105082698952,
+    "valid": true
+  },
+  {
+    "index": 638,
+    "NAME": "Casmalia",
+    "value": 5.8806613977182,
+    "valid": true
+  },
+  {
+    "index": 639,
+    "NAME": "Caspar",
+    "value": 2.5799945048483908,
+    "valid": true
+  },
+  {
+    "index": 640,
+    "NAME": "Cassel",
+    "value": 5.132268372926403,
+    "valid": true
+  },
+  {
+    "index": 641,
+    "NAME": "Castaic",
+    "value": 5.7234136917483465,
+    "valid": true
+  },
+  {
+    "index": 642,
+    "NAME": "Castle Hill",
+    "value": 4.101042087518366,
+    "valid": true
+  },
+  {
+    "index": 643,
+    "NAME": "Castro Valley",
+    "value": 4.539972391478596,
+    "valid": true
+  },
+  {
+    "index": 644,
+    "NAME": "Castroville",
+    "value": 4.681456696877518,
+    "valid": true
+  },
+  {
+    "index": 645,
+    "NAME": "Catheys Valley",
+    "value": 5.555188670566471,
+    "valid": true
+  },
+  {
+    "index": 646,
+    "NAME": "Cayucos",
+    "value": 4.00954515282551,
+    "valid": true
+  },
+  {
+    "index": 647,
+    "NAME": "Cazadero",
+    "value": 3.9872417929135375,
+    "valid": true
+  },
+  {
+    "index": 648,
+    "NAME": "Cedar Ridge",
+    "value": 5.482941739189066,
+    "valid": true
+  },
+  {
+    "index": 649,
+    "NAME": "Cedar Slope",
+    "value": 6.102724636138373,
+    "valid": true
+  },
+  {
+    "index": 650,
+    "NAME": "Cedarville",
+    "value": 4.632140281724859,
+    "valid": true
+  },
+  {
+    "index": 651,
+    "NAME": "Centerville",
+    "value": 6.337618761887591,
+    "valid": true
+  },
+  {
+    "index": 652,
+    "NAME": "Chalfant",
+    "value": 7.895509631219509,
+    "valid": true
+  },
+  {
+    "index": 653,
+    "NAME": "Challenge-Brownsville",
+    "value": 3.8415967509645266,
+    "valid": true
+  },
+  {
+    "index": 654,
+    "NAME": "Channel Islands Beach",
+    "value": 3.8956387509062345,
+    "valid": true
+  },
+  {
+    "index": 655,
+    "NAME": "Charter Oak",
+    "value": 6.321682158453018,
+    "valid": true
+  },
+  {
+    "index": 656,
+    "NAME": "Cherokee",
+    "value": 4.4143958642957255,
+    "valid": true
+  },
+  {
+    "index": 657,
+    "NAME": "Cherokee Strip",
+    "value": 6.334184749877293,
+    "valid": true
+  },
+  {
+    "index": 658,
+    "NAME": "Cherryland",
+    "value": 4.764653386243545,
+    "valid": true
+  },
+  {
+    "index": 659,
+    "NAME": "Cherry Valley",
+    "value": 7.461379435375348,
+    "valid": true
+  },
+  {
+    "index": 660,
+    "NAME": "Chester",
+    "value": 3.507255867466706,
+    "valid": true
+  },
+  {
+    "index": 661,
+    "NAME": "Chilcoot-Vinton",
+    "value": 5.416936844749951,
+    "valid": true
+  },
+  {
+    "index": 662,
+    "NAME": "China Lake Acres",
+    "value": 4.051814308920442,
+    "valid": true
+  },
+  {
+    "index": 663,
+    "NAME": "Chinese Camp",
+    "value": 5.511146091254851,
+    "valid": true
+  },
+  {
+    "index": 664,
+    "NAME": "Chualar",
+    "value": 4.919996730348433,
+    "valid": true
+  },
+  {
+    "index": 665,
+    "NAME": "Citrus",
+    "value": 6.063298519115379,
+    "valid": true
+  },
+  {
+    "index": 666,
+    "NAME": "Clarksburg",
+    "value": 4.396762996599887,
+    "valid": true
+  },
+  {
+    "index": 667,
+    "NAME": "Clay",
+    "value": 4.759083601030891,
+    "valid": true
+  },
+  {
+    "index": 668,
+    "NAME": "Clear Creek",
+    "value": 3.8707878220160596,
+    "valid": true
+  },
+  {
+    "index": 669,
+    "NAME": "Clearlake Oaks",
+    "value": 4.21206494254162,
+    "valid": true
+  },
+  {
+    "index": 670,
+    "NAME": "Clearlake Riviera",
+    "value": 3.9848490360523776,
+    "valid": true
+  },
+  {
+    "index": 671,
+    "NAME": "Cleone",
+    "value": 3.1668552431841404,
+    "valid": true
+  },
+  {
+    "index": 672,
+    "NAME": "Clio",
+    "value": 3.952644754937354,
+    "valid": true
+  },
+  {
+    "index": 673,
+    "NAME": "Clipper Mills",
+    "value": 3.9287553142914007,
+    "valid": true
+  },
+  {
+    "index": 674,
+    "NAME": "Clyde",
+    "value": 4.526921133215852,
+    "valid": true
+  },
+  {
+    "index": 675,
+    "NAME": "Coarsegold",
+    "value": 5.843247116857226,
+    "valid": true
+  },
+  {
+    "index": 676,
+    "NAME": "Cobb",
+    "value": 3.807334718862156,
+    "valid": true
+  },
+  {
+    "index": 677,
+    "NAME": "Coffee Creek",
+    "value": 4.24928408690406,
+    "valid": true
+  },
+  {
+    "index": 678,
+    "NAME": "Cohasset",
+    "value": 4.165714074711261,
+    "valid": true
+  },
+  {
+    "index": 679,
+    "NAME": "Cold Springs",
+    "value": 4.874110524898913,
+    "valid": true
+  },
+  {
+    "index": 680,
+    "NAME": "Cold Springs",
+    "value": 5.848740381454662,
+    "valid": true
+  },
+  {
+    "index": 681,
+    "NAME": "Coleville",
+    "value": 5.2784839662688485,
+    "valid": true
+  },
+  {
+    "index": 682,
+    "NAME": "College City",
+    "value": 3.9775887536710055,
+    "valid": true
+  },
+  {
+    "index": 683,
+    "NAME": "Collierville",
+    "value": 4.659704691938391,
+    "valid": true
+  },
+  {
+    "index": 684,
+    "NAME": "Coloma",
+    "value": 4.524234888893459,
+    "valid": true
+  },
+  {
+    "index": 685,
+    "NAME": "Columbia",
+    "value": 5.036688758662291,
+    "valid": true
+  },
+  {
+    "index": 686,
+    "NAME": "Comptche",
+    "value": 3.8304811428662937,
+    "valid": true
+  },
+  {
+    "index": 687,
+    "NAME": "Concow",
+    "value": 4.209311801460839,
+    "valid": true
+  },
+  {
+    "index": 688,
+    "NAME": "Contra Costa Centre",
+    "value": 4.140317451755153,
+    "valid": true
+  },
+  {
+    "index": 689,
+    "NAME": "Copperopolis",
+    "value": 5.224005005067837,
+    "valid": true
+  },
+  {
+    "index": 690,
+    "NAME": "Coronita",
+    "value": 5.745398750897131,
+    "valid": true
+  },
+  {
+    "index": 691,
+    "NAME": "Corralitos",
+    "value": 4.722663316523175,
+    "valid": true
+  },
+  {
+    "index": 692,
+    "NAME": "Coto de Caza",
+    "value": 5.186438293829568,
+    "valid": true
+  },
+  {
+    "index": 693,
+    "NAME": "Cottonwood",
+    "value": 4.486770616539967,
+    "valid": true
+  },
+  {
+    "index": 694,
+    "NAME": "Coulterville",
+    "value": 5.744091633659212,
+    "valid": true
+  },
+  {
+    "index": 695,
+    "NAME": "Country Club",
+    "value": 4.587289245418338,
+    "valid": true
+  },
+  {
+    "index": 696,
+    "NAME": "Courtland",
+    "value": 4.4596967625885435,
+    "valid": true
+  },
+  {
+    "index": 697,
+    "NAME": "Covelo",
+    "value": 3.5606547180886285,
+    "valid": true
+  },
+  {
+    "index": 698,
+    "NAME": "Cowan",
+    "value": 5.597744358426892,
+    "valid": true
+  },
+  {
+    "index": 699,
+    "NAME": "Crescent Mills",
+    "value": 3.7977529511220416,
+    "valid": true
+  },
+  {
+    "index": 700,
+    "NAME": "Cressey",
+    "value": 5.21076427071638,
+    "valid": true
+  },
+  {
+    "index": 701,
+    "NAME": "Crest",
+    "value": 5.459657407308895,
+    "valid": true
+  },
+  {
+    "index": 702,
+    "NAME": "Crestline",
+    "value": 6.782892210408853,
+    "valid": true
+  },
+  {
+    "index": 703,
+    "NAME": "Creston",
+    "value": 5.438500127179365,
+    "valid": true
+  },
+  {
+    "index": 704,
+    "NAME": "C-Road",
+    "value": 3.9254778208513104,
+    "valid": true
+  },
+  {
+    "index": 705,
+    "NAME": "Crockett",
+    "value": 4.670289035789217,
+    "valid": true
+  },
+  {
+    "index": 706,
+    "NAME": "Cromberg",
+    "value": 3.7910952458860216,
+    "valid": true
+  },
+  {
+    "index": 707,
+    "NAME": "Crowley Lake",
+    "value": 4.192334547515921,
+    "valid": true
+  },
+  {
+    "index": 708,
+    "NAME": "Crows Landing",
+    "value": 5.606758614709954,
+    "valid": true
+  },
+  {
+    "index": 709,
+    "NAME": "Cutler",
+    "value": 5.764147878449073,
+    "valid": true
+  },
+  {
+    "index": 710,
+    "NAME": "Cutten",
+    "value": 3.4996631123491277,
+    "valid": true
+  },
+  {
+    "index": 711,
+    "NAME": "Cuyama",
+    "value": 5.511229995253791,
+    "valid": true
+  },
+  {
+    "index": 712,
+    "NAME": "Daphnedale Park",
+    "value": 5.310055647888206,
+    "valid": true
+  },
+  {
+    "index": 713,
+    "NAME": "Darwin",
+    "value": 4.784000841400752,
+    "valid": true
+  },
+  {
+    "index": 714,
+    "NAME": "Davenport",
+    "value": 2.189972006341619,
+    "valid": true
+  },
+  {
+    "index": 715,
+    "NAME": "Day Valley",
+    "value": 4.419145700242346,
+    "valid": true
+  },
+  {
+    "index": 716,
+    "NAME": "Deer Park",
+    "value": 3.8328485789370235,
+    "valid": true
+  },
+  {
+    "index": 717,
+    "NAME": "Del Aire",
+    "value": 5.502164469507046,
+    "valid": true
+  },
+  {
+    "index": 718,
+    "NAME": "Delft Colony",
+    "value": 5.864906989029054,
+    "valid": true
+  },
+  {
+    "index": 719,
+    "NAME": "Delhi",
+    "value": 5.370113883167381,
+    "valid": true
+  },
+  {
+    "index": 720,
+    "NAME": "Delleker",
+    "value": 3.7271650449371077,
+    "valid": true
+  },
+  {
+    "index": 721,
+    "NAME": "Del Monte Forest",
+    "value": 0.09582027755061351,
+    "valid": true
+  },
+  {
+    "index": 722,
+    "NAME": "Del Rey",
+    "value": 5.926942494068923,
+    "valid": true
+  },
+  {
+    "index": 723,
+    "NAME": "Del Rio",
+    "value": 5.837646968609505,
+    "valid": true
+  },
+  {
+    "index": 724,
+    "NAME": "Denair",
+    "value": 4.9603241321339135,
+    "valid": true
+  },
+  {
+    "index": 725,
+    "NAME": "Derby Acres",
+    "value": 5.879377720512825,
+    "valid": true
+  },
+  {
+    "index": 726,
+    "NAME": "Descanso",
+    "value": 5.767736917364896,
+    "valid": true
+  },
+  {
+    "index": 727,
+    "NAME": "Desert Center",
+    "value": 0.3733986902010139,
+    "valid": true
+  },
+  {
+    "index": 728,
+    "NAME": "Desert Edge",
+    "value": 2.902002306424401,
+    "valid": true
+  },
+  {
+    "index": 729,
+    "NAME": "Desert Palms",
+    "value": 4.329420188314054,
+    "valid": true
+  },
+  {
+    "index": 730,
+    "NAME": "Desert Shores",
+    "value": 3.085349594822009,
+    "valid": true
+  },
+  {
+    "index": 731,
+    "NAME": "Desert View Highlands",
+    "value": 5.051171614536112,
+    "valid": true
+  },
+  {
+    "index": 732,
+    "NAME": "Diablo",
+    "value": 4.14662444936779,
+    "valid": true
+  },
+  {
+    "index": 733,
+    "NAME": "Diablo Grande",
+    "value": 4.389098279044155,
+    "valid": true
+  },
+  {
+    "index": 734,
+    "NAME": "Diamond Springs",
+    "value": 5.128489162581484,
+    "valid": true
+  },
+  {
+    "index": 735,
+    "NAME": "Dillon Beach",
+    "value": 1.0755668890132126,
+    "valid": true
+  },
+  {
+    "index": 736,
+    "NAME": "Discovery Bay",
+    "value": 4.618013232401167,
+    "valid": true
+  },
+  {
+    "index": 737,
+    "NAME": "Dixon Lane-Meadow Creek",
+    "value": 7.152694694841251,
+    "valid": true
+  },
+  {
+    "index": 738,
+    "NAME": "Dobbins",
+    "value": 3.9418468185241125,
+    "valid": true
+  },
+  {
+    "index": 739,
+    "NAME": "Dogtown",
+    "value": 4.635330803919896,
+    "valid": true
+  },
+  {
+    "index": 740,
+    "NAME": "Dollar Point",
+    "value": 4.104430177873383,
+    "valid": true
+  },
+  {
+    "index": 741,
+    "NAME": "Dorrington",
+    "value": 5.844334795438429,
+    "valid": true
+  },
+  {
+    "index": 742,
+    "NAME": "Dos Palos Y",
+    "value": 5.788948477951852,
+    "valid": true
+  },
+  {
+    "index": 743,
+    "NAME": "Douglas City",
+    "value": 4.1528281690837385,
+    "valid": true
+  },
+  {
+    "index": 744,
+    "NAME": "Downieville",
+    "value": 4.036891741517483,
+    "valid": true
+  },
+  {
+    "index": 745,
+    "NAME": "Doyle",
+    "value": 6.059387934981812,
+    "valid": true
+  },
+  {
+    "index": 746,
+    "NAME": "Drytown",
+    "value": 5.570410727361275,
+    "valid": true
+  },
+  {
+    "index": 747,
+    "NAME": "Ducor",
+    "value": 6.102766381100219,
+    "valid": true
+  },
+  {
+    "index": 748,
+    "NAME": "Dunnigan",
+    "value": 3.7610487766249987,
+    "valid": true
+  },
+  {
+    "index": 749,
+    "NAME": "Durham",
+    "value": 4.007898671284384,
+    "valid": true
+  },
+  {
+    "index": 750,
+    "NAME": "Dustin Acres",
+    "value": 6.988680567115699,
+    "valid": true
+  },
+  {
+    "index": 751,
+    "NAME": "Dutch Flat",
+    "value": 4.487759910668194,
+    "valid": true
+  },
+  {
+    "index": 752,
+    "NAME": "Eagleville",
+    "value": 5.2326859153188545,
+    "valid": true
+  },
+  {
+    "index": 753,
+    "NAME": "Earlimart",
+    "value": 6.010609890979821,
+    "valid": true
+  },
+  {
+    "index": 754,
+    "NAME": "East Foothills",
+    "value": 5.23006030342863,
+    "valid": true
+  },
+  {
+    "index": 755,
+    "NAME": "East Hemet",
+    "value": 5.385831865338796,
+    "valid": true
+  },
+  {
+    "index": 756,
+    "NAME": "East Los Angeles",
+    "value": 5.407652802673396,
+    "valid": true
+  },
+  {
+    "index": 757,
+    "NAME": "East Nicolaus",
+    "value": 3.7315771117906227,
+    "valid": true
+  },
+  {
+    "index": 758,
+    "NAME": "East Oakdale",
+    "value": 5.491228948937742,
+    "valid": true
+  },
+  {
+    "index": 759,
+    "NAME": "Easton",
+    "value": 6.0246287473691424,
+    "valid": true
+  },
+  {
+    "index": 760,
+    "NAME": "East Orosi",
+    "value": 5.764147878449073,
+    "valid": true
+  },
+  {
+    "index": 761,
+    "NAME": "East Pasadena",
+    "value": 5.679854911271749,
+    "valid": true
+  },
+  {
+    "index": 762,
+    "NAME": "East Porterville",
+    "value": 5.699650483384493,
+    "valid": true
+  },
+  {
+    "index": 763,
+    "NAME": "East Quincy",
+    "value": 3.9556995568248365,
+    "valid": true
+  },
+  {
+    "index": 764,
+    "NAME": "East Rancho Dominguez",
+    "value": 5.509720717010866,
+    "valid": true
+  },
+  {
+    "index": 765,
+    "NAME": "East Richmond Heights",
+    "value": 4.351871129188215,
+    "valid": true
+  },
+  {
+    "index": 766,
+    "NAME": "East San Gabriel",
+    "value": 5.272799304973631,
+    "valid": true
+  },
+  {
+    "index": 767,
+    "NAME": "East Shore",
+    "value": 3.743637486902817,
+    "valid": true
+  },
+  {
+    "index": 768,
+    "NAME": "East Sonora",
+    "value": 5.192742328777739,
+    "valid": true
+  },
+  {
+    "index": 769,
+    "NAME": "East Tulare Villa",
+    "value": 6.052113102047424,
+    "valid": true
+  },
+  {
+    "index": 770,
+    "NAME": "East Whittier",
+    "value": 5.402183154535826,
+    "valid": true
+  },
+  {
+    "index": 771,
+    "NAME": "Edgewood",
+    "value": 5.279839742343588,
+    "valid": true
+  },
+  {
+    "index": 772,
+    "NAME": "Edmundson Acres",
+    "value": 7.221071226334796,
+    "valid": true
+  },
+  {
+    "index": 773,
+    "NAME": "Edna",
+    "value": 5.30132622664026,
+    "valid": true
+  },
+  {
+    "index": 774,
+    "NAME": "Edwards AFB",
+    "value": 3.550646226539238,
+    "valid": true
+  },
+  {
+    "index": 775,
+    "NAME": "El Cerrito",
+    "value": 5.750263440255371,
+    "valid": true
+  },
+  {
+    "index": 776,
+    "NAME": "El Dorado Hills",
+    "value": 4.889607008926335,
+    "valid": true
+  },
+  {
+    "index": 777,
+    "NAME": "Eldridge",
+    "value": 4.154135407997388,
+    "valid": true
+  },
+  {
+    "index": 778,
+    "NAME": "El Granada",
+    "value": 4.025936730744311,
+    "valid": true
+  },
+  {
+    "index": 779,
+    "NAME": "Elizabeth Lake",
+    "value": 5.210831519991931,
+    "valid": true
+  },
+  {
+    "index": 780,
+    "NAME": "Elk Creek",
+    "value": 4.092136743326789,
+    "valid": true
+  },
+  {
+    "index": 781,
+    "NAME": "Elkhorn",
+    "value": 4.892138551230385,
+    "valid": true
+  },
+  {
+    "index": 782,
+    "NAME": "Elmira",
+    "value": 4.2164616512737165,
+    "valid": true
+  },
+  {
+    "index": 783,
+    "NAME": "El Nido",
+    "value": 5.532877658972618,
+    "valid": true
+  },
+  {
+    "index": 784,
+    "NAME": "El Portal",
+    "value": 5.8602254132757245,
+    "valid": true
+  },
+  {
+    "index": 785,
+    "NAME": "El Rancho",
+    "value": 6.654717212045012,
+    "valid": true
+  },
+  {
+    "index": 786,
+    "NAME": "El Rio",
+    "value": 4.262505853521789,
+    "valid": true
+  },
+  {
+    "index": 787,
+    "NAME": "El Sobrante",
+    "value": 4.383196967694058,
+    "valid": true
+  },
+  {
+    "index": 788,
+    "NAME": "El Sobrante",
+    "value": 5.779080286679031,
+    "valid": true
+  },
+  {
+    "index": 789,
+    "NAME": "El Verano",
+    "value": 4.083232765487448,
+    "valid": true
+  },
+  {
+    "index": 790,
+    "NAME": "Elverta",
+    "value": 4.129350472508211,
+    "valid": true
+  },
+  {
+    "index": 791,
+    "NAME": "Emerald Lake Hills",
+    "value": 4.234922198377961,
+    "valid": true
+  },
+  {
+    "index": 792,
+    "NAME": "Empire",
+    "value": 5.879738361823845,
+    "valid": true
+  },
+  {
+    "index": 793,
+    "NAME": "Esparto",
+    "value": 4.37011728840642,
+    "valid": true
+  },
+  {
+    "index": 794,
+    "NAME": "Eucalyptus Hills",
+    "value": 5.657513677407854,
+    "valid": true
+  },
+  {
+    "index": 795,
+    "NAME": "Fairbanks Ranch",
+    "value": 5.846295752431651,
+    "valid": true
+  },
+  {
+    "index": 796,
+    "NAME": "Fairhaven",
+    "value": 3.4730133590787275,
+    "valid": true
+  },
+  {
+    "index": 797,
+    "NAME": "Fairmead",
+    "value": 5.807750777759556,
+    "valid": true
+  },
+  {
+    "index": 798,
+    "NAME": "Fair Oaks",
+    "value": 5.073608918281542,
+    "valid": true
+  },
+  {
+    "index": 799,
+    "NAME": "Fairview",
+    "value": 4.77576061384958,
+    "valid": true
+  },
+  {
+    "index": 800,
+    "NAME": "Fallbrook",
+    "value": 6.017441733352873,
+    "valid": true
+  },
+  {
+    "index": 801,
+    "NAME": "Fall River Mills",
+    "value": 4.40413157234505,
+    "valid": true
+  },
+  {
+    "index": 802,
+    "NAME": "Farmington",
+    "value": 5.363944206168343,
+    "valid": true
+  },
+  {
+    "index": 803,
+    "NAME": "Fellows",
+    "value": 6.603357056718734,
+    "valid": true
+  },
+  {
+    "index": 804,
+    "NAME": "Felton",
+    "value": 4.21910623870816,
+    "valid": true
+  },
+  {
+    "index": 805,
+    "NAME": "Fetters Hot Springs-Agua Caliente",
+    "value": 4.154276475251118,
+    "valid": true
+  },
+  {
+    "index": 806,
+    "NAME": "Fiddletown",
+    "value": 5.296281028905148,
+    "valid": true
+  },
+  {
+    "index": 807,
+    "NAME": "Fieldbrook",
+    "value": 3.8178634279308135,
+    "valid": true
+  },
+  {
+    "index": 808,
+    "NAME": "Fields Landing",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 809,
+    "NAME": "Fish Camp",
+    "value": 5.340741035174926,
+    "valid": true
+  },
+  {
+    "index": 810,
+    "NAME": "Florence-Graham",
+    "value": 5.494835394400793,
+    "valid": true
+  },
+  {
+    "index": 811,
+    "NAME": "Florin",
+    "value": 4.133154733697468,
+    "valid": true
+  },
+  {
+    "index": 812,
+    "NAME": "Floriston",
+    "value": 4.208107797997368,
+    "valid": true
+  },
+  {
+    "index": 813,
+    "NAME": "Flournoy",
+    "value": 5.077583260020008,
+    "valid": true
+  },
+  {
+    "index": 814,
+    "NAME": "Foothill Farms",
+    "value": 4.981265075879401,
+    "valid": true
+  },
+  {
+    "index": 815,
+    "NAME": "Forbestown",
+    "value": 3.953154151482706,
+    "valid": true
+  },
+  {
+    "index": 816,
+    "NAME": "Ford City",
+    "value": 7.240800628838414,
+    "valid": true
+  },
+  {
+    "index": 817,
+    "NAME": "Foresthill",
+    "value": 3.9416637930477223,
+    "valid": true
+  },
+  {
+    "index": 818,
+    "NAME": "Forest Meadows",
+    "value": 5.407647267763555,
+    "valid": true
+  },
+  {
+    "index": 819,
+    "NAME": "Forest Ranch",
+    "value": 4.197854774801845,
+    "valid": true
+  },
+  {
+    "index": 820,
+    "NAME": "Forestville",
+    "value": 3.7156910976085675,
+    "valid": true
+  },
+  {
+    "index": 821,
+    "NAME": "Fort Bidwell",
+    "value": 4.827594675366831,
+    "valid": true
+  },
+  {
+    "index": 822,
+    "NAME": "Fort Dick",
+    "value": 3.0378946837916585,
+    "valid": true
+  },
+  {
+    "index": 823,
+    "NAME": "Fort Irwin",
+    "value": 7.365106950375426,
+    "valid": true
+  },
+  {
+    "index": 824,
+    "NAME": "Fort Washington",
+    "value": 5.997977885222073,
+    "valid": true
+  },
+  {
+    "index": 825,
+    "NAME": "Franklin",
+    "value": 5.1540642251846585,
+    "valid": true
+  },
+  {
+    "index": 826,
+    "NAME": "Franklin",
+    "value": 4.603737378738903,
+    "valid": true
+  },
+  {
+    "index": 827,
+    "NAME": "Frazier Park",
+    "value": 5.335121373629172,
+    "valid": true
+  },
+  {
+    "index": 828,
+    "NAME": "Freedom",
+    "value": 4.569727649372667,
+    "valid": true
+  },
+  {
+    "index": 829,
+    "NAME": "Freeport",
+    "value": 4.448472532048472,
+    "valid": true
+  },
+  {
+    "index": 830,
+    "NAME": "French Camp",
+    "value": 4.725427435720885,
+    "valid": true
+  },
+  {
+    "index": 831,
+    "NAME": "French Gulch",
+    "value": 4.558304990175697,
+    "valid": true
+  },
+  {
+    "index": 832,
+    "NAME": "French Valley",
+    "value": 5.606883211859638,
+    "valid": true
+  },
+  {
+    "index": 833,
+    "NAME": "Friant",
+    "value": 5.957591450428262,
+    "valid": true
+  },
+  {
+    "index": 834,
+    "NAME": "Fruitdale",
+    "value": 4.587775646318974,
+    "valid": true
+  },
+  {
+    "index": 835,
+    "NAME": "Fruitridge Pocket",
+    "value": 4.022785320231096,
+    "valid": true
+  },
+  {
+    "index": 836,
+    "NAME": "Fuller Acres",
+    "value": 7.139469132817744,
+    "valid": true
+  },
+  {
+    "index": 837,
+    "NAME": "Fulton",
+    "value": 3.7894244170457765,
+    "valid": true
+  },
+  {
+    "index": 838,
+    "NAME": "Furnace Creek",
+    "value": 8.14299534349468,
+    "valid": true
+  },
+  {
+    "index": 839,
+    "NAME": "Garberville",
+    "value": 3.2865138421068343,
+    "valid": true
+  },
+  {
+    "index": 840,
+    "NAME": "Garden Acres",
+    "value": 4.6618581315303524,
+    "valid": true
+  },
+  {
+    "index": 841,
+    "NAME": "Garden Farms",
+    "value": 5.4218401772705045,
+    "valid": true
+  },
+  {
+    "index": 842,
+    "NAME": "Garey",
+    "value": 6.033991458196244,
+    "valid": true
+  },
+  {
+    "index": 843,
+    "NAME": "Garnet",
+    "value": 2.9397985793315056,
+    "valid": true
+  },
+  {
+    "index": 844,
+    "NAME": "Gasquet",
+    "value": 2.9166537990344725,
+    "valid": true
+  },
+  {
+    "index": 845,
+    "NAME": "Gazelle",
+    "value": 5.016704493711609,
+    "valid": true
+  },
+  {
+    "index": 846,
+    "NAME": "Georgetown",
+    "value": 3.7030578326279042,
+    "valid": true
+  },
+  {
+    "index": 847,
+    "NAME": "Gerber",
+    "value": 4.433651282603865,
+    "valid": true
+  },
+  {
+    "index": 848,
+    "NAME": "Geyserville",
+    "value": 3.7852967005814304,
+    "valid": true
+  },
+  {
+    "index": 849,
+    "NAME": "Glen Ellen",
+    "value": 4.154249028818605,
+    "valid": true
+  },
+  {
+    "index": 850,
+    "NAME": "Golden Hills",
+    "value": 6.519675161506436,
+    "valid": true
+  },
+  {
+    "index": 851,
+    "NAME": "Gold Mountain",
+    "value": 3.8135037041745514,
+    "valid": true
+  },
+  {
+    "index": 852,
+    "NAME": "Gold River",
+    "value": 5.068218857562637,
+    "valid": true
+  },
+  {
+    "index": 853,
+    "NAME": "Good Hope",
+    "value": 5.15940324485919,
+    "valid": true
+  },
+  {
+    "index": 854,
+    "NAME": "Goodyears Bar",
+    "value": 4.141886458062755,
+    "valid": true
+  },
+  {
+    "index": 855,
+    "NAME": "Goshen",
+    "value": 5.821969113154074,
+    "valid": true
+  },
+  {
+    "index": 856,
+    "NAME": "Graeagle",
+    "value": 3.9522183554781094,
+    "valid": true
+  },
+  {
+    "index": 857,
+    "NAME": "Grangeville",
+    "value": 5.670346575227833,
+    "valid": true
+  },
+  {
+    "index": 858,
+    "NAME": "Granite Bay",
+    "value": 4.4705726176097995,
+    "valid": true
+  },
+  {
+    "index": 859,
+    "NAME": "Granite Hills",
+    "value": 5.287810277744107,
+    "valid": true
+  },
+  {
+    "index": 860,
+    "NAME": "Graniteville",
+    "value": 4.322690957980699,
+    "valid": true
+  },
+  {
+    "index": 861,
+    "NAME": "Graton",
+    "value": 3.6377811865923766,
+    "valid": true
+  },
+  {
+    "index": 862,
+    "NAME": "Grayson",
+    "value": 5.26826416011369,
+    "valid": true
+  },
+  {
+    "index": 863,
+    "NAME": "Greeley Hill",
+    "value": 5.827011323509748,
+    "valid": true
+  },
+  {
+    "index": 864,
+    "NAME": "Greenacres",
+    "value": 7.8731723215083464,
+    "valid": true
+  },
+  {
+    "index": 865,
+    "NAME": "Green Acres",
+    "value": 5.68887567041813,
+    "valid": true
+  },
+  {
+    "index": 866,
+    "NAME": "Greenfield",
+    "value": 7.556559865951438,
+    "valid": true
+  },
+  {
+    "index": 867,
+    "NAME": "Greenhorn",
+    "value": 3.9329806088473056,
+    "valid": true
+  },
+  {
+    "index": 868,
+    "NAME": "Green Valley",
+    "value": 5.948669032175582,
+    "valid": true
+  },
+  {
+    "index": 869,
+    "NAME": "Green Valley",
+    "value": 4.156550435037424,
+    "valid": true
+  },
+  {
+    "index": 870,
+    "NAME": "Greenview",
+    "value": 3.250394733965689,
+    "valid": true
+  },
+  {
+    "index": 871,
+    "NAME": "Greenville",
+    "value": 3.852236458849431,
+    "valid": true
+  },
+  {
+    "index": 872,
+    "NAME": "Grenada",
+    "value": 4.075168227568198,
+    "valid": true
+  },
+  {
+    "index": 873,
+    "NAME": "Grimes",
+    "value": 3.5709023494100167,
+    "valid": true
+  },
+  {
+    "index": 874,
+    "NAME": "Grizzly Flats",
+    "value": 5.696242712216921,
+    "valid": true
+  },
+  {
+    "index": 875,
+    "NAME": "Groveland",
+    "value": 5.8416806645794805,
+    "valid": true
+  },
+  {
+    "index": 876,
+    "NAME": "Guerneville",
+    "value": 3.6993821260792226,
+    "valid": true
+  },
+  {
+    "index": 877,
+    "NAME": "Guinda",
+    "value": 3.908528000486279,
+    "valid": true
+  },
+  {
+    "index": 878,
+    "NAME": "Hacienda Heights",
+    "value": 5.668459471211695,
+    "valid": true
+  },
+  {
+    "index": 879,
+    "NAME": "Hamilton Branch",
+    "value": 3.7299364483480537,
+    "valid": true
+  },
+  {
+    "index": 880,
+    "NAME": "Hamilton City",
+    "value": 4.21017625493704,
+    "valid": true
+  },
+  {
+    "index": 881,
+    "NAME": "Happy Camp",
+    "value": 2.5995250838540347,
+    "valid": true
+  },
+  {
+    "index": 882,
+    "NAME": "Harbison Canyon",
+    "value": 5.6136397037158385,
+    "valid": true
+  },
+  {
+    "index": 883,
+    "NAME": "Hardwick",
+    "value": 5.698807695470315,
+    "valid": true
+  },
+  {
+    "index": 884,
+    "NAME": "Hartland",
+    "value": 6.075764859460458,
+    "valid": true
+  },
+  {
+    "index": 885,
+    "NAME": "Hartley",
+    "value": 4.281601943226906,
+    "valid": true
+  },
+  {
+    "index": 886,
+    "NAME": "Hasley Canyon",
+    "value": 5.778912544674213,
+    "valid": true
+  },
+  {
+    "index": 887,
+    "NAME": "Hat Creek",
+    "value": 4.598754616249204,
+    "valid": true
+  },
+  {
+    "index": 888,
+    "NAME": "Hayfork",
+    "value": 3.6384458110696096,
+    "valid": true
+  },
+  {
+    "index": 889,
+    "NAME": "Heber",
+    "value": 3.5433148337308866,
+    "valid": true
+  },
+  {
+    "index": 890,
+    "NAME": "Herald",
+    "value": 4.657884085330915,
+    "valid": true
+  },
+  {
+    "index": 891,
+    "NAME": "Herlong",
+    "value": 6.094281168037039,
+    "valid": true
+  },
+  {
+    "index": 892,
+    "NAME": "Hickman",
+    "value": 4.956656768171756,
+    "valid": true
+  },
+  {
+    "index": 893,
+    "NAME": "Hidden Meadows",
+    "value": 6.248543556605716,
+    "valid": true
+  },
+  {
+    "index": 894,
+    "NAME": "Hidden Valley Lake",
+    "value": 3.830784434430874,
+    "valid": true
+  },
+  {
+    "index": 895,
+    "NAME": "Highgrove",
+    "value": 6.104768254749741,
+    "valid": true
+  },
+  {
+    "index": 896,
+    "NAME": "Highlands-Baywood Park",
+    "value": 4.112797476364862,
+    "valid": true
+  },
+  {
+    "index": 897,
+    "NAME": "Hilmar-Irwin",
+    "value": 5.456136672640191,
+    "valid": true
+  },
+  {
+    "index": 898,
+    "NAME": "Hiouchi",
+    "value": 2.80119618186174,
+    "valid": true
+  },
+  {
+    "index": 899,
+    "NAME": "Home Garden",
+    "value": 5.7851502294228565,
+    "valid": true
+  },
+  {
+    "index": 900,
+    "NAME": "Home Gardens",
+    "value": 5.862381516713418,
+    "valid": true
+  },
+  {
+    "index": 901,
+    "NAME": "Homeland",
+    "value": 5.6158987797709425,
+    "valid": true
+  },
+  {
+    "index": 902,
+    "NAME": "Homestead Valley",
+    "value": 2.3481252207623693,
+    "valid": true
+  },
+  {
+    "index": 903,
+    "NAME": "Homewood Canyon",
+    "value": 2.374151777511236,
+    "valid": true
+  },
+  {
+    "index": 904,
+    "NAME": "Honcut",
+    "value": 3.3956187250667536,
+    "valid": true
+  },
+  {
+    "index": 905,
+    "NAME": "Hood",
+    "value": 4.48935503907705,
+    "valid": true
+  },
+  {
+    "index": 906,
+    "NAME": "Hoopa",
+    "value": 3.5938833955944482,
+    "valid": true
+  },
+  {
+    "index": 907,
+    "NAME": "Hopland",
+    "value": 3.891300131434069,
+    "valid": true
+  },
+  {
+    "index": 908,
+    "NAME": "Hornbrook",
+    "value": 3.2761014294888735,
+    "valid": true
+  },
+  {
+    "index": 909,
+    "NAME": "Hornitos",
+    "value": 5.467088499399962,
+    "valid": true
+  },
+  {
+    "index": 910,
+    "NAME": "Humboldt Hill",
+    "value": 0.2896305358174567,
+    "valid": true
+  },
+  {
+    "index": 911,
+    "NAME": "Hyampom",
+    "value": 3.3062741433026486,
+    "valid": true
+  },
+  {
+    "index": 912,
+    "NAME": "Hydesville",
+    "value": 3.70514160495113,
+    "valid": true
+  },
+  {
+    "index": 913,
+    "NAME": "Idlewild",
+    "value": 8.269446445746986,
+    "valid": true
+  },
+  {
+    "index": 914,
+    "NAME": "Idyllwild-Pine Cove",
+    "value": 5.308215608734419,
+    "valid": true
+  },
+  {
+    "index": 915,
+    "NAME": "Independence",
+    "value": 3.450166583310426,
+    "valid": true
+  },
+  {
+    "index": 916,
+    "NAME": "Indian Falls",
+    "value": 3.932404376807238,
+    "valid": true
+  },
+  {
+    "index": 917,
+    "NAME": "Indianola",
+    "value": 3.588006112781526,
+    "valid": true
+  },
+  {
+    "index": 918,
+    "NAME": "Indio Hills",
+    "value": 4.35068427340924,
+    "valid": true
+  },
+  {
+    "index": 919,
+    "NAME": "Interlaken",
+    "value": 4.318925957955083,
+    "valid": true
+  },
+  {
+    "index": 920,
+    "NAME": "Inverness",
+    "value": 4.45032564043911,
+    "valid": true
+  },
+  {
+    "index": 921,
+    "NAME": "Inyokern",
+    "value": 5.308498217061613,
+    "valid": true
+  },
+  {
+    "index": 922,
+    "NAME": "Iron Horse",
+    "value": 3.7382515843359045,
+    "valid": true
+  },
+  {
+    "index": 923,
+    "NAME": "Isla Vista",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 924,
+    "NAME": "Ivanhoe",
+    "value": 5.889851880207322,
+    "valid": true
+  },
+  {
+    "index": 925,
+    "NAME": "Jacumba",
+    "value": 1.5588899717966276,
+    "valid": true
+  },
+  {
+    "index": 926,
+    "NAME": "Jamestown",
+    "value": 5.219302963890072,
+    "valid": true
+  },
+  {
+    "index": 927,
+    "NAME": "Jamul",
+    "value": 5.347595200916524,
+    "valid": true
+  },
+  {
+    "index": 928,
+    "NAME": "Janesville",
+    "value": 4.188928812198419,
+    "valid": true
+  },
+  {
+    "index": 929,
+    "NAME": "Jenner",
+    "value": 4.040523360328118,
+    "valid": true
+  },
+  {
+    "index": 930,
+    "NAME": "Johannesburg",
+    "value": 6.640442426930928,
+    "valid": true
+  },
+  {
+    "index": 931,
+    "NAME": "Johnstonville",
+    "value": 3.8375119661126407,
+    "valid": true
+  },
+  {
+    "index": 932,
+    "NAME": "Johnsville",
+    "value": 4.001278688672896,
+    "valid": true
+  },
+  {
+    "index": 933,
+    "NAME": "Joshua Tree",
+    "value": 2.7676772981551627,
+    "valid": true
+  },
+  {
+    "index": 934,
+    "NAME": "Julian",
+    "value": 6.0906982231865205,
+    "valid": true
+  },
+  {
+    "index": 935,
+    "NAME": "Junction City",
+    "value": 3.7470365951571165,
+    "valid": true
+  },
+  {
+    "index": 936,
+    "NAME": "June Lake",
+    "value": 4.4391744485279645,
+    "valid": true
+  },
+  {
+    "index": 937,
+    "NAME": "Keddie",
+    "value": 3.9347083102316844,
+    "valid": true
+  },
+  {
+    "index": 938,
+    "NAME": "Keeler",
+    "value": 2.4149684977800416,
+    "valid": true
+  },
+  {
+    "index": 939,
+    "NAME": "Keene",
+    "value": 6.704840398386422,
+    "valid": true
+  },
+  {
+    "index": 940,
+    "NAME": "Kelly Ridge",
+    "value": 4.020031181110094,
+    "valid": true
+  },
+  {
+    "index": 941,
+    "NAME": "Kelseyville",
+    "value": 3.822075175882283,
+    "valid": true
+  },
+  {
+    "index": 942,
+    "NAME": "Kennedy",
+    "value": 4.776106361697632,
+    "valid": true
+  },
+  {
+    "index": 943,
+    "NAME": "Kennedy Meadows",
+    "value": 6.223515245180826,
+    "valid": true
+  },
+  {
+    "index": 944,
+    "NAME": "Kensington",
+    "value": 4.243636351288572,
+    "valid": true
+  },
+  {
+    "index": 945,
+    "NAME": "Kentfield",
+    "value": 4.014339519471986,
+    "valid": true
+  },
+  {
+    "index": 946,
+    "NAME": "Kenwood",
+    "value": 3.961610185669289,
+    "valid": true
+  },
+  {
+    "index": 947,
+    "NAME": "Kernville",
+    "value": 5.089423368737483,
+    "valid": true
+  },
+  {
+    "index": 948,
+    "NAME": "Keswick",
+    "value": 4.220347278061127,
+    "valid": true
+  },
+  {
+    "index": 949,
+    "NAME": "Kettleman City",
+    "value": 6.025043819523878,
+    "valid": true
+  },
+  {
+    "index": 950,
+    "NAME": "Keyes",
+    "value": 5.5658258577362965,
+    "valid": true
+  },
+  {
+    "index": 951,
+    "NAME": "Kings Beach",
+    "value": 3.9776201572642282,
+    "valid": true
+  },
+  {
+    "index": 952,
+    "NAME": "Kingvale",
+    "value": 4.673835297318943,
+    "valid": true
+  },
+  {
+    "index": 953,
+    "NAME": "Kirkwood",
+    "value": 5.017193866164762,
+    "valid": true
+  },
+  {
+    "index": 954,
+    "NAME": "Klamath",
+    "value": 2.813877572956663,
+    "valid": true
+  },
+  {
+    "index": 955,
+    "NAME": "Knightsen",
+    "value": 4.544534503527982,
+    "valid": true
+  },
+  {
+    "index": 956,
+    "NAME": "Knights Landing",
+    "value": 4.466526055002924,
+    "valid": true
+  },
+  {
+    "index": 957,
+    "NAME": "La Crescenta-Montrose",
+    "value": 5.978119518915067,
+    "valid": true
+  },
+  {
+    "index": 958,
+    "NAME": "Ladera",
+    "value": 4.476247719116006,
+    "valid": true
+  },
+  {
+    "index": 959,
+    "NAME": "Ladera Heights",
+    "value": 5.583413364551956,
+    "valid": true
+  },
+  {
+    "index": 960,
+    "NAME": "Ladera Ranch",
+    "value": 5.601158264021316,
+    "valid": true
+  },
+  {
+    "index": 961,
+    "NAME": "Lagunitas-Forest Knolls",
+    "value": 4.408268248751188,
+    "valid": true
+  },
+  {
+    "index": 962,
+    "NAME": "La Honda",
+    "value": 5.033798328468754,
+    "valid": true
+  },
+  {
+    "index": 963,
+    "NAME": "Lake Almanor Country Club",
+    "value": 3.5280168794328564,
+    "valid": true
+  },
+  {
+    "index": 964,
+    "NAME": "Lake Almanor Peninsula",
+    "value": 3.5414260852882675,
+    "valid": true
+  },
+  {
+    "index": 965,
+    "NAME": "Lake Almanor West",
+    "value": 3.47892130759938,
+    "valid": true
+  },
+  {
+    "index": 966,
+    "NAME": "Lake Arrowhead",
+    "value": 6.761987092757891,
+    "valid": true
+  },
+  {
+    "index": 967,
+    "NAME": "Lake California",
+    "value": 4.564395920878046,
+    "valid": true
+  },
+  {
+    "index": 968,
+    "NAME": "Lake City",
+    "value": 4.874389169651961,
+    "valid": true
+  },
+  {
+    "index": 969,
+    "NAME": "Lake Davis",
+    "value": 3.745467255192415,
+    "valid": true
+  },
+  {
+    "index": 970,
+    "NAME": "Lake Don Pedro",
+    "value": 5.696350567024381,
+    "valid": true
+  },
+  {
+    "index": 971,
+    "NAME": "Lakehead",
+    "value": 3.879640428071635,
+    "valid": true
+  },
+  {
+    "index": 972,
+    "NAME": "Lake Hughes",
+    "value": 4.96726399667233,
+    "valid": true
+  },
+  {
+    "index": 973,
+    "NAME": "Lake Isabella",
+    "value": 5.100136003648945,
+    "valid": true
+  },
+  {
+    "index": 974,
+    "NAME": "Lakeland Village",
+    "value": 5.1480740262063565,
+    "valid": true
+  },
+  {
+    "index": 975,
+    "NAME": "Lake Los Angeles",
+    "value": 5.371344472936874,
+    "valid": true
+  },
+  {
+    "index": 976,
+    "NAME": "Lake Mathews",
+    "value": 5.484531680026572,
+    "valid": true
+  },
+  {
+    "index": 977,
+    "NAME": "Lake Nacimiento",
+    "value": 4.171342061054015,
+    "valid": true
+  },
+  {
+    "index": 978,
+    "NAME": "Lake of the Pines",
+    "value": 4.184801174727955,
+    "valid": true
+  },
+  {
+    "index": 979,
+    "NAME": "Lake of the Woods",
+    "value": 5.6262346418417835,
+    "valid": true
+  },
+  {
+    "index": 980,
+    "NAME": "Lake Riverside",
+    "value": 5.556185586747345,
+    "valid": true
+  },
+  {
+    "index": 981,
+    "NAME": "Lake San Marcos",
+    "value": 6.043682829801623,
+    "valid": true
+  },
+  {
+    "index": 982,
+    "NAME": "Lake Sherwood",
+    "value": 5.332104506497324,
+    "valid": true
+  },
+  {
+    "index": 983,
+    "NAME": "Lakeside",
+    "value": 5.274467243680186,
+    "valid": true
+  },
+  {
+    "index": 984,
+    "NAME": "Lakeview",
+    "value": 5.627288306965575,
+    "valid": true
+  },
+  {
+    "index": 985,
+    "NAME": "Lake Wildwood",
+    "value": 4.04088170457736,
+    "valid": true
+  },
+  {
+    "index": 986,
+    "NAME": "Lamont",
+    "value": 7.152106647801211,
+    "valid": true
+  },
+  {
+    "index": 987,
+    "NAME": "Lanare",
+    "value": 5.863966300642395,
+    "valid": true
+  },
+  {
+    "index": 988,
+    "NAME": "La Porte",
+    "value": 4.190431974424575,
+    "valid": true
+  },
+  {
+    "index": 989,
+    "NAME": "La Presa",
+    "value": 5.02787404340061,
+    "valid": true
+  },
+  {
+    "index": 990,
+    "NAME": "La Riviera",
+    "value": 4.285063657910111,
+    "valid": true
+  },
+  {
+    "index": 991,
+    "NAME": "Larkfield-Wikiup",
+    "value": 3.9173031047141293,
+    "valid": true
+  },
+  {
+    "index": 992,
+    "NAME": "La Selva Beach",
+    "value": 4.722176222155639,
+    "valid": true
+  },
+  {
+    "index": 993,
+    "NAME": "Las Flores",
+    "value": 5.3276791636878364,
+    "valid": true
+  },
+  {
+    "index": 994,
+    "NAME": "Las Flores",
+    "value": 4.346988732627159,
+    "valid": true
+  },
+  {
+    "index": 995,
+    "NAME": "Las Lomas",
+    "value": 4.948367460821816,
+    "valid": true
+  },
+  {
+    "index": 996,
+    "NAME": "Laton",
+    "value": 5.727995740044928,
+    "valid": true
+  },
+  {
+    "index": 997,
+    "NAME": "La Vina",
+    "value": 5.996477332729744,
+    "valid": true
+  },
+  {
+    "index": 998,
+    "NAME": "Laytonville",
+    "value": 3.2750889527306457,
+    "valid": true
+  },
+  {
+    "index": 999,
+    "NAME": "Lebec",
+    "value": 5.360491190878871,
+    "valid": true
+  },
+  {
+    "index": 1000,
+    "NAME": "Lee Vining",
+    "value": 5.278869026662286,
+    "valid": true
+  },
+  {
+    "index": 1001,
+    "NAME": "Leggett",
+    "value": 3.290061702309723,
+    "valid": true
+  },
+  {
+    "index": 1002,
+    "NAME": "Le Grand",
+    "value": 5.592510528906062,
+    "valid": true
+  },
+  {
+    "index": 1003,
+    "NAME": "Lemon Cove",
+    "value": 5.849428106168225,
+    "valid": true
+  },
+  {
+    "index": 1004,
+    "NAME": "Lemon Hill",
+    "value": 4.022785320231096,
+    "valid": true
+  },
+  {
+    "index": 1005,
+    "NAME": "Lemoore Station",
+    "value": 6.256757924768024,
+    "valid": true
+  },
+  {
+    "index": 1006,
+    "NAME": "Lennox",
+    "value": 5.562740284901734,
+    "valid": true
+  },
+  {
+    "index": 1007,
+    "NAME": "Lenwood",
+    "value": 2.5788973926715713,
+    "valid": true
+  },
+  {
+    "index": 1008,
+    "NAME": "Leona Valley",
+    "value": 5.70186922631842,
+    "valid": true
+  },
+  {
+    "index": 1009,
+    "NAME": "Lewiston",
+    "value": 4.455691779814957,
+    "valid": true
+  },
+  {
+    "index": 1010,
+    "NAME": "Lexington Hills",
+    "value": 4.277542273294715,
+    "valid": true
+  },
+  {
+    "index": 1011,
+    "NAME": "Likely",
+    "value": 5.695321588388377,
+    "valid": true
+  },
+  {
+    "index": 1012,
+    "NAME": "Lincoln Village",
+    "value": 4.574971847202824,
+    "valid": true
+  },
+  {
+    "index": 1013,
+    "NAME": "Linda",
+    "value": 4.213029072945495,
+    "valid": true
+  },
+  {
+    "index": 1014,
+    "NAME": "Lindcove",
+    "value": 5.982590127925162,
+    "valid": true
+  },
+  {
+    "index": 1015,
+    "NAME": "Linden",
+    "value": 4.497613323406279,
+    "valid": true
+  },
+  {
+    "index": 1016,
+    "NAME": "Linnell Camp",
+    "value": 5.9639928013582555,
+    "valid": true
+  },
+  {
+    "index": 1017,
+    "NAME": "Litchfield",
+    "value": 4.869567992553391,
+    "valid": true
+  },
+  {
+    "index": 1018,
+    "NAME": "Little Grass Valley",
+    "value": 4.0852232071960835,
+    "valid": true
+  },
+  {
+    "index": 1019,
+    "NAME": "Little River",
+    "value": 3.7877708663468765,
+    "valid": true
+  },
+  {
+    "index": 1020,
+    "NAME": "Littlerock",
+    "value": 4.580734208855864,
+    "valid": true
+  },
+  {
+    "index": 1021,
+    "NAME": "Little Valley",
+    "value": 4.438347149929024,
+    "valid": true
+  },
+  {
+    "index": 1022,
+    "NAME": "Live Oak",
+    "value": 3.938967675290147,
+    "valid": true
+  },
+  {
+    "index": 1023,
+    "NAME": "Lockeford",
+    "value": 4.554589659561841,
+    "valid": true
+  },
+  {
+    "index": 1024,
+    "NAME": "Lockwood",
+    "value": 4.497149838888008,
+    "valid": true
+  },
+  {
+    "index": 1025,
+    "NAME": "Lodoga",
+    "value": 3.9352582553396704,
+    "valid": true
+  },
+  {
+    "index": 1026,
+    "NAME": "Loleta",
+    "value": 3.680755619978679,
+    "valid": true
+  },
+  {
+    "index": 1027,
+    "NAME": "Loma Mar",
+    "value": 5.137674270120167,
+    "valid": true
+  },
+  {
+    "index": 1028,
+    "NAME": "Loma Rica",
+    "value": 3.7259684084082028,
+    "valid": true
+  },
+  {
+    "index": 1029,
+    "NAME": "Lompico",
+    "value": 4.234002283154376,
+    "valid": true
+  },
+  {
+    "index": 1030,
+    "NAME": "London",
+    "value": 5.933171382627619,
+    "valid": true
+  },
+  {
+    "index": 1031,
+    "NAME": "Lone Pine",
+    "value": 2.196760738023313,
+    "valid": true
+  },
+  {
+    "index": 1032,
+    "NAME": "Long Barn",
+    "value": 5.889718605090856,
+    "valid": true
+  },
+  {
+    "index": 1033,
+    "NAME": "Lookout",
+    "value": 4.565838073649727,
+    "valid": true
+  },
+  {
+    "index": 1034,
+    "NAME": "Los Alamos",
+    "value": 4.99600586177625,
+    "valid": true
+  },
+  {
+    "index": 1035,
+    "NAME": "Los Berros",
+    "value": 5.792073962685345,
+    "valid": true
+  },
+  {
+    "index": 1036,
+    "NAME": "Los Molinos",
+    "value": 4.491190823772409,
+    "valid": true
+  },
+  {
+    "index": 1037,
+    "NAME": "Los Olivos",
+    "value": 5.311001716586498,
+    "valid": true
+  },
+  {
+    "index": 1038,
+    "NAME": "Los Osos",
+    "value": 5.141144484177662,
+    "valid": true
+  },
+  {
+    "index": 1039,
+    "NAME": "Los Ranchos",
+    "value": 5.161071239731619,
+    "valid": true
+  },
+  {
+    "index": 1040,
+    "NAME": "Lost Hills",
+    "value": 5.808240317038885,
+    "valid": true
+  },
+  {
+    "index": 1041,
+    "NAME": "Lower Lake",
+    "value": 4.184895671193032,
+    "valid": true
+  },
+  {
+    "index": 1042,
+    "NAME": "Loyola",
+    "value": 4.569433129755229,
+    "valid": true
+  },
+  {
+    "index": 1043,
+    "NAME": "Lucas Valley-Marinwood",
+    "value": 3.9703981357760183,
+    "valid": true
+  },
+  {
+    "index": 1044,
+    "NAME": "Lucerne",
+    "value": 3.874432686342982,
+    "valid": true
+  },
+  {
+    "index": 1045,
+    "NAME": "Lucerne Valley",
+    "value": 2.729887620309564,
+    "valid": true
+  },
+  {
+    "index": 1046,
+    "NAME": "Lytle Creek",
+    "value": 5.378788891352882,
+    "valid": true
+  },
+  {
+    "index": 1047,
+    "NAME": "Mabie",
+    "value": 3.841699280116208,
+    "valid": true
+  },
+  {
+    "index": 1048,
+    "NAME": "McArthur",
+    "value": 4.393611690006636,
+    "valid": true
+  },
+  {
+    "index": 1049,
+    "NAME": "McClellan Park",
+    "value": 3.990124747486572,
+    "valid": true
+  },
+  {
+    "index": 1050,
+    "NAME": "McClenney Tract",
+    "value": 8.137324800027711,
+    "valid": true
+  },
+  {
+    "index": 1051,
+    "NAME": "McCloud",
+    "value": 3.926614748458977,
+    "valid": true
+  },
+  {
+    "index": 1052,
+    "NAME": "Macdoel",
+    "value": 3.1079764518569606,
+    "valid": true
+  },
+  {
+    "index": 1053,
+    "NAME": "McGee Creek",
+    "value": 4.174911464376466,
+    "valid": true
+  },
+  {
+    "index": 1054,
+    "NAME": "McKinleyville",
+    "value": 3.767095705218393,
+    "valid": true
+  },
+  {
+    "index": 1055,
+    "NAME": "McKittrick",
+    "value": 5.723256574584764,
+    "valid": true
+  },
+  {
+    "index": 1056,
+    "NAME": "McSwain",
+    "value": 5.1749223870342576,
+    "valid": true
+  },
+  {
+    "index": 1057,
+    "NAME": "Madera Acres",
+    "value": 6.0216989584081775,
+    "valid": true
+  },
+  {
+    "index": 1058,
+    "NAME": "Madison",
+    "value": 4.335115579815741,
+    "valid": true
+  },
+  {
+    "index": 1059,
+    "NAME": "Mad River",
+    "value": 3.5382933189441315,
+    "valid": true
+  },
+  {
+    "index": 1060,
+    "NAME": "Magalia",
+    "value": 4.15929378123046,
+    "valid": true
+  },
+  {
+    "index": 1061,
+    "NAME": "Malaga",
+    "value": 6.034497918580485,
+    "valid": true
+  },
+  {
+    "index": 1062,
+    "NAME": "Manchester",
+    "value": 1.468355230339027,
+    "valid": true
+  },
+  {
+    "index": 1063,
+    "NAME": "Manila",
+    "value": 3.5189839153698896,
+    "valid": true
+  },
+  {
+    "index": 1064,
+    "NAME": "Manton",
+    "value": 4.895719308206756,
+    "valid": true
+  },
+  {
+    "index": 1065,
+    "NAME": "March ARB",
+    "value": 5.090353343820984,
+    "valid": true
+  },
+  {
+    "index": 1066,
+    "NAME": "Marina del Rey",
+    "value": 5.424345625850787,
+    "valid": true
+  },
+  {
+    "index": 1067,
+    "NAME": "Marin City",
+    "value": 4.530500705178866,
+    "valid": true
+  },
+  {
+    "index": 1068,
+    "NAME": "Mariposa",
+    "value": 5.656422858036617,
+    "valid": true
+  },
+  {
+    "index": 1069,
+    "NAME": "Markleeville",
+    "value": 4.749185198568532,
+    "valid": true
+  },
+  {
+    "index": 1070,
+    "NAME": "Martell",
+    "value": 5.624820731090318,
+    "valid": true
+  },
+  {
+    "index": 1071,
+    "NAME": "Matheny",
+    "value": 6.0306440159818475,
+    "valid": true
+  },
+  {
+    "index": 1072,
+    "NAME": "Mather",
+    "value": 5.1549959977958455,
+    "valid": true
+  },
+  {
+    "index": 1073,
+    "NAME": "Maxwell",
+    "value": 3.921275273546231,
+    "valid": true
+  },
+  {
+    "index": 1074,
+    "NAME": "Mayfair",
+    "value": 6.040255922411515,
+    "valid": true
+  },
+  {
+    "index": 1075,
+    "NAME": "Mayflower Village",
+    "value": 5.424665889853662,
+    "valid": true
+  },
+  {
+    "index": 1076,
+    "NAME": "Meadowbrook",
+    "value": 4.98790413160053,
+    "valid": true
+  },
+  {
+    "index": 1077,
+    "NAME": "Meadow Valley",
+    "value": 3.9466491753656303,
+    "valid": true
+  },
+  {
+    "index": 1078,
+    "NAME": "Meadow Vista",
+    "value": 4.263601632882033,
+    "valid": true
+  },
+  {
+    "index": 1079,
+    "NAME": "Mead Valley",
+    "value": 5.057025314001258,
+    "valid": true
+  },
+  {
+    "index": 1080,
+    "NAME": "Mecca",
+    "value": 4.582670319668228,
+    "valid": true
+  },
+  {
+    "index": 1081,
+    "NAME": "Meiners Oaks",
+    "value": 5.511674096482411,
+    "valid": true
+  },
+  {
+    "index": 1082,
+    "NAME": "Mendocino",
+    "value": 1.3916852927156698,
+    "valid": true
+  },
+  {
+    "index": 1083,
+    "NAME": "Mentone",
+    "value": 6.9090257942064675,
+    "valid": true
+  },
+  {
+    "index": 1084,
+    "NAME": "Meridian",
+    "value": 3.643325753349301,
+    "valid": true
+  },
+  {
+    "index": 1085,
+    "NAME": "Mesa",
+    "value": 4.680388772280925,
+    "valid": true
+  },
+  {
+    "index": 1086,
+    "NAME": "Mesa Verde",
+    "value": 1.9869978864123254,
+    "valid": true
+  },
+  {
+    "index": 1087,
+    "NAME": "Mesa Vista",
+    "value": 4.591944088544938,
+    "valid": true
+  },
+  {
+    "index": 1088,
+    "NAME": "Mettler",
+    "value": 7.611033582087398,
+    "valid": true
+  },
+  {
+    "index": 1089,
+    "NAME": "Mexican Colony",
+    "value": 6.334184749877293,
+    "valid": true
+  },
+  {
+    "index": 1090,
+    "NAME": "Middletown",
+    "value": 3.7799596933661235,
+    "valid": true
+  },
+  {
+    "index": 1091,
+    "NAME": "Midpines",
+    "value": 5.783950583289695,
+    "valid": true
+  },
+  {
+    "index": 1092,
+    "NAME": "Midway City",
+    "value": 5.733624709957799,
+    "valid": true
+  },
+  {
+    "index": 1093,
+    "NAME": "Milford",
+    "value": 4.833621748658366,
+    "valid": true
+  },
+  {
+    "index": 1094,
+    "NAME": "Millville",
+    "value": 4.4956249528504575,
+    "valid": true
+  },
+  {
+    "index": 1095,
+    "NAME": "Mineral",
+    "value": 4.253271780997497,
+    "valid": true
+  },
+  {
+    "index": 1096,
+    "NAME": "Minkler",
+    "value": 6.535759902362008,
+    "valid": true
+  },
+  {
+    "index": 1097,
+    "NAME": "Mira Monte",
+    "value": 5.4097658860849505,
+    "valid": true
+  },
+  {
+    "index": 1098,
+    "NAME": "Miranda",
+    "value": 3.4311868247690382,
+    "valid": true
+  },
+  {
+    "index": 1099,
+    "NAME": "Mission Canyon",
+    "value": 6.21527519114971,
+    "valid": true
+  },
+  {
+    "index": 1100,
+    "NAME": "Mission Hills",
+    "value": 5.452172879018076,
+    "valid": true
+  },
+  {
+    "index": 1101,
+    "NAME": "Mi-Wuk Village",
+    "value": 5.768990460286358,
+    "valid": true
+  },
+  {
+    "index": 1102,
+    "NAME": "Mohawk Vista",
+    "value": 3.775298907062473,
+    "valid": true
+  },
+  {
+    "index": 1103,
+    "NAME": "Mojave",
+    "value": 4.1678399842606755,
+    "valid": true
+  },
+  {
+    "index": 1104,
+    "NAME": "Mokelumne Hill",
+    "value": 5.505866656233356,
+    "valid": true
+  },
+  {
+    "index": 1105,
+    "NAME": "Monmouth",
+    "value": 5.919332432847131,
+    "valid": true
+  },
+  {
+    "index": 1106,
+    "NAME": "Mono City",
+    "value": 4.860757858436653,
+    "valid": true
+  },
+  {
+    "index": 1107,
+    "NAME": "Mono Vista",
+    "value": 5.3652014052051005,
+    "valid": true
+  },
+  {
+    "index": 1108,
+    "NAME": "Monson",
+    "value": 5.857359258518647,
+    "valid": true
+  },
+  {
+    "index": 1109,
+    "NAME": "Montalvin Manor",
+    "value": 3.5482476832940235,
+    "valid": true
+  },
+  {
+    "index": 1110,
+    "NAME": "Montara",
+    "value": 3.0584881307989047,
+    "valid": true
+  },
+  {
+    "index": 1111,
+    "NAME": "Montecito",
+    "value": 3.5521818392867877,
+    "valid": true
+  },
+  {
+    "index": 1112,
+    "NAME": "Monterey Park Tract",
+    "value": 5.6246032633387575,
+    "valid": true
+  },
+  {
+    "index": 1113,
+    "NAME": "Monte Rio",
+    "value": 3.8322804716918357,
+    "valid": true
+  },
+  {
+    "index": 1114,
+    "NAME": "Montgomery Creek",
+    "value": 4.293508827247946,
+    "valid": true
+  },
+  {
+    "index": 1115,
+    "NAME": "Monument Hills",
+    "value": 4.368097210068354,
+    "valid": true
+  },
+  {
+    "index": 1116,
+    "NAME": "Morada",
+    "value": 4.537584474384164,
+    "valid": true
+  },
+  {
+    "index": 1117,
+    "NAME": "Morongo Valley",
+    "value": 2.6248177522754617,
+    "valid": true
+  },
+  {
+    "index": 1118,
+    "NAME": "Moskowite Corner",
+    "value": 4.202846582755671,
+    "valid": true
+  },
+  {
+    "index": 1119,
+    "NAME": "Moss Beach",
+    "value": 1.4334026569264642,
+    "valid": true
+  },
+  {
+    "index": 1120,
+    "NAME": "Moss Landing",
+    "value": 4.562545327441113,
+    "valid": true
+  },
+  {
+    "index": 1121,
+    "NAME": "Mountain Center",
+    "value": 5.537079195070227,
+    "valid": true
+  },
+  {
+    "index": 1122,
+    "NAME": "Mountain Gate",
+    "value": 4.267535106031564,
+    "valid": true
+  },
+  {
+    "index": 1123,
+    "NAME": "Mountain House",
+    "value": 5.14435164826021,
+    "valid": true
+  },
+  {
+    "index": 1124,
+    "NAME": "Mountain Mesa",
+    "value": 4.662788606602749,
+    "valid": true
+  },
+  {
+    "index": 1125,
+    "NAME": "Mountain Ranch",
+    "value": 5.77691975130411,
+    "valid": true
+  },
+  {
+    "index": 1126,
+    "NAME": "Mountain View",
+    "value": 4.456301171873905,
+    "valid": true
+  },
+  {
+    "index": 1127,
+    "NAME": "Mountain View Acres",
+    "value": 5.463757631781983,
+    "valid": true
+  },
+  {
+    "index": 1128,
+    "NAME": "Mount Hebron",
+    "value": 2.7936788998333917,
+    "valid": true
+  },
+  {
+    "index": 1129,
+    "NAME": "Mount Hermon",
+    "value": 4.201664933828999,
+    "valid": true
+  },
+  {
+    "index": 1130,
+    "NAME": "Mount Laguna",
+    "value": 4.475862183346445,
+    "valid": true
+  },
+  {
+    "index": 1131,
+    "NAME": "Muir Beach",
+    "value": 0.009078642121785748,
+    "valid": true
+  },
+  {
+    "index": 1132,
+    "NAME": "Murphys",
+    "value": 5.43868965741051,
+    "valid": true
+  },
+  {
+    "index": 1133,
+    "NAME": "Muscoy",
+    "value": 6.3648340090991775,
+    "valid": true
+  },
+  {
+    "index": 1134,
+    "NAME": "Myers Flat",
+    "value": 3.4444789673833753,
+    "valid": true
+  },
+  {
+    "index": 1135,
+    "NAME": "Myrtletown",
+    "value": 3.5077480163804324,
+    "valid": true
+  },
+  {
+    "index": 1136,
+    "NAME": "Newcastle",
+    "value": 4.43771592826149,
+    "valid": true
+  },
+  {
+    "index": 1137,
+    "NAME": "New Cuyama",
+    "value": 5.357270117114512,
+    "valid": true
+  },
+  {
+    "index": 1138,
+    "NAME": "Newell",
+    "value": 3.1833760120863923,
+    "valid": true
+  },
+  {
+    "index": 1139,
+    "NAME": "New Pine Creek",
+    "value": 5.66059429614005,
+    "valid": true
+  },
+  {
+    "index": 1140,
+    "NAME": "Nicasio",
+    "value": 4.450947750642794,
+    "valid": true
+  },
+  {
+    "index": 1141,
+    "NAME": "Nice",
+    "value": 3.886973333142669,
+    "valid": true
+  },
+  {
+    "index": 1142,
+    "NAME": "Nicolaus",
+    "value": 3.683540499547568,
+    "valid": true
+  },
+  {
+    "index": 1143,
+    "NAME": "Niland",
+    "value": 1.9810971284097405,
+    "valid": true
+  },
+  {
+    "index": 1144,
+    "NAME": "Nipinnawasee",
+    "value": 5.53292297435387,
+    "valid": true
+  },
+  {
+    "index": 1145,
+    "NAME": "Nipomo",
+    "value": 5.919779676787814,
+    "valid": true
+  },
+  {
+    "index": 1146,
+    "NAME": "Nord",
+    "value": 4.064023427730261,
+    "valid": true
+  },
+  {
+    "index": 1147,
+    "NAME": "Norris Canyon",
+    "value": 4.399146330519722,
+    "valid": true
+  },
+  {
+    "index": 1148,
+    "NAME": "North Auburn",
+    "value": 4.181561152845498,
+    "valid": true
+  },
+  {
+    "index": 1149,
+    "NAME": "North Edwards",
+    "value": 4.228939109673591,
+    "valid": true
+  },
+  {
+    "index": 1150,
+    "NAME": "North El Monte",
+    "value": 5.329495842612148,
+    "valid": true
+  },
+  {
+    "index": 1151,
+    "NAME": "North Fair Oaks",
+    "value": 4.295727720983072,
+    "valid": true
+  },
+  {
+    "index": 1152,
+    "NAME": "North Gate",
+    "value": 4.154964537624136,
+    "valid": true
+  },
+  {
+    "index": 1153,
+    "NAME": "North Highlands",
+    "value": 4.501785934381184,
+    "valid": true
+  },
+  {
+    "index": 1154,
+    "NAME": "North Lakeport",
+    "value": 3.7365008884114554,
+    "valid": true
+  },
+  {
+    "index": 1155,
+    "NAME": "North Richmond",
+    "value": 3.0195001879065324,
+    "valid": true
+  },
+  {
+    "index": 1156,
+    "NAME": "North San Juan",
+    "value": 4.044890075959849,
+    "valid": true
+  },
+  {
+    "index": 1157,
+    "NAME": "North Shore",
+    "value": 4.181760173193064,
+    "valid": true
+  },
+  {
+    "index": 1158,
+    "NAME": "North Tustin",
+    "value": 5.63771826259247,
+    "valid": true
+  },
+  {
+    "index": 1159,
+    "NAME": "Nubieber",
+    "value": 4.974859033697027,
+    "valid": true
+  },
+  {
+    "index": 1160,
+    "NAME": "Nuevo",
+    "value": 5.3284091523338954,
+    "valid": true
+  },
+  {
+    "index": 1161,
+    "NAME": "Oak Glen",
+    "value": 7.354420631533897,
+    "valid": true
+  },
+  {
+    "index": 1162,
+    "NAME": "Oak Hills",
+    "value": 5.331852746243062,
+    "valid": true
+  },
+  {
+    "index": 1163,
+    "NAME": "Oakhurst",
+    "value": 5.858831418806496,
+    "valid": true
+  },
+  {
+    "index": 1164,
+    "NAME": "Oak Park",
+    "value": 5.581725929690354,
+    "valid": true
+  },
+  {
+    "index": 1165,
+    "NAME": "Oak Shores",
+    "value": 4.220792067589024,
+    "valid": true
+  },
+  {
+    "index": 1166,
+    "NAME": "Oak View",
+    "value": 5.38367899634115,
+    "valid": true
+  },
+  {
+    "index": 1167,
+    "NAME": "Oakville",
+    "value": 3.8138000060256245,
+    "valid": true
+  },
+  {
+    "index": 1168,
+    "NAME": "Oasis",
+    "value": 4.306121895335157,
+    "valid": true
+  },
+  {
+    "index": 1169,
+    "NAME": "Occidental",
+    "value": 4.03344956633823,
+    "valid": true
+  },
+  {
+    "index": 1170,
+    "NAME": "Oceano",
+    "value": 5.173870047844991,
+    "valid": true
+  },
+  {
+    "index": 1171,
+    "NAME": "Ocotillo",
+    "value": 1.1031358018199033,
+    "valid": true
+  },
+  {
+    "index": 1172,
+    "NAME": "Oildale",
+    "value": 7.825549074631706,
+    "valid": true
+  },
+  {
+    "index": 1173,
+    "NAME": "Olancha",
+    "value": 2.402827411344805,
+    "valid": true
+  },
+  {
+    "index": 1174,
+    "NAME": "Old Fig Garden",
+    "value": 6.026646119701756,
+    "valid": true
+  },
+  {
+    "index": 1175,
+    "NAME": "Old Station",
+    "value": 4.904121650996061,
+    "valid": true
+  },
+  {
+    "index": 1176,
+    "NAME": "Olivehurst",
+    "value": 4.133983122802492,
+    "valid": true
+  },
+  {
+    "index": 1177,
+    "NAME": "Onyx",
+    "value": 5.068313939977665,
+    "valid": true
+  },
+  {
+    "index": 1178,
+    "NAME": "Orangevale",
+    "value": 5.076195932086543,
+    "valid": true
+  },
+  {
+    "index": 1179,
+    "NAME": "Orcutt",
+    "value": 5.901167359668098,
+    "valid": true
+  },
+  {
+    "index": 1180,
+    "NAME": "Orick",
+    "value": 3.3917545953118386,
+    "valid": true
+  },
+  {
+    "index": 1181,
+    "NAME": "Orosi",
+    "value": 5.764283593818545,
+    "valid": true
+  },
+  {
+    "index": 1182,
+    "NAME": "Oroville East",
+    "value": 3.859875486425886,
+    "valid": true
+  },
+  {
+    "index": 1183,
+    "NAME": "Pacheco",
+    "value": 4.260539852906411,
+    "valid": true
+  },
+  {
+    "index": 1184,
+    "NAME": "Pajaro",
+    "value": 4.112019352111989,
+    "valid": true
+  },
+  {
+    "index": 1185,
+    "NAME": "Pajaro Dunes",
+    "value": 3.368546983544055,
+    "valid": true
+  },
+  {
+    "index": 1186,
+    "NAME": "Pala",
+    "value": 6.34042027994129,
+    "valid": true
+  },
+  {
+    "index": 1187,
+    "NAME": "Palermo",
+    "value": 3.752532039686134,
+    "valid": true
+  },
+  {
+    "index": 1188,
+    "NAME": "Palo Cedro",
+    "value": 4.40302116827738,
+    "valid": true
+  },
+  {
+    "index": 1189,
+    "NAME": "Palo Verde",
+    "value": 2.1195516902930933,
+    "valid": true
+  },
+  {
+    "index": 1190,
+    "NAME": "Panorama Heights",
+    "value": 8.364152984157872,
+    "valid": true
+  },
+  {
+    "index": 1191,
+    "NAME": "Paradise",
+    "value": 4.844638467916712,
+    "valid": true
+  },
+  {
+    "index": 1192,
+    "NAME": "Paradise Park",
+    "value": 4.18783574003261,
+    "valid": true
+  },
+  {
+    "index": 1193,
+    "NAME": "Parklawn",
+    "value": 6.031159275783908,
+    "valid": true
+  },
+  {
+    "index": 1194,
+    "NAME": "Parksdale",
+    "value": 6.15141610177428,
+    "valid": true
+  },
+  {
+    "index": 1195,
+    "NAME": "Parkway",
+    "value": 4.224492937882291,
+    "valid": true
+  },
+  {
+    "index": 1196,
+    "NAME": "Parkwood",
+    "value": 6.042887635582089,
+    "valid": true
+  },
+  {
+    "index": 1197,
+    "NAME": "Pasatiempo",
+    "value": 4.148753710270487,
+    "valid": true
+  },
+  {
+    "index": 1198,
+    "NAME": "Paskenta",
+    "value": 5.381709690544948,
+    "valid": true
+  },
+  {
+    "index": 1199,
+    "NAME": "Patterson Tract",
+    "value": 5.8407986182903935,
+    "valid": true
+  },
+  {
+    "index": 1200,
+    "NAME": "Patton Village",
+    "value": 6.0157916606819315,
+    "valid": true
+  },
+  {
+    "index": 1201,
+    "NAME": "Paxton",
+    "value": 3.9337632379150946,
+    "valid": true
+  },
+  {
+    "index": 1202,
+    "NAME": "Paynes Creek",
+    "value": 4.702069608264644,
+    "valid": true
+  },
+  {
+    "index": 1203,
+    "NAME": "Pearsonville",
+    "value": 2.593487955801894,
+    "valid": true
+  },
+  {
+    "index": 1204,
+    "NAME": "Penngrove",
+    "value": 4.010230248623313,
+    "valid": true
+  },
+  {
+    "index": 1205,
+    "NAME": "Penn Valley",
+    "value": 4.075484240505922,
+    "valid": true
+  },
+  {
+    "index": 1206,
+    "NAME": "Penryn",
+    "value": 4.422186116019165,
+    "valid": true
+  },
+  {
+    "index": 1207,
+    "NAME": "Pescadero",
+    "value": 3.069286789639116,
+    "valid": true
+  },
+  {
+    "index": 1208,
+    "NAME": "Peters",
+    "value": 4.70987066602449,
+    "valid": true
+  },
+  {
+    "index": 1209,
+    "NAME": "Phelan",
+    "value": 4.555177899363992,
+    "valid": true
+  },
+  {
+    "index": 1210,
+    "NAME": "Phillipsville",
+    "value": 3.5493403508341514,
+    "valid": true
+  },
+  {
+    "index": 1211,
+    "NAME": "Philo",
+    "value": 3.6132094545759297,
+    "valid": true
+  },
+  {
+    "index": 1212,
+    "NAME": "Phoenix Lake",
+    "value": 5.25119785988443,
+    "valid": true
+  },
+  {
+    "index": 1213,
+    "NAME": "Pierpoint",
+    "value": 6.104423883776369,
+    "valid": true
+  },
+  {
+    "index": 1214,
+    "NAME": "Pike",
+    "value": 4.215521383333299,
+    "valid": true
+  },
+  {
+    "index": 1215,
+    "NAME": "Pine Canyon",
+    "value": 4.618422249488081,
+    "valid": true
+  },
+  {
+    "index": 1216,
+    "NAME": "Pine Flat",
+    "value": 7.818045560160088,
+    "valid": true
+  },
+  {
+    "index": 1217,
+    "NAME": "Pine Grove",
+    "value": 5.622273337732103,
+    "valid": true
+  },
+  {
+    "index": 1218,
+    "NAME": "Pine Hills",
+    "value": 3.5155491817789684,
+    "valid": true
+  },
+  {
+    "index": 1219,
+    "NAME": "Pine Mountain Club",
+    "value": 5.2018865909583845,
+    "valid": true
+  },
+  {
+    "index": 1220,
+    "NAME": "Pine Mountain Lake",
+    "value": 5.928448899107024,
+    "valid": true
+  },
+  {
+    "index": 1221,
+    "NAME": "Pine Valley",
+    "value": 5.471244106517185,
+    "valid": true
+  },
+  {
+    "index": 1222,
+    "NAME": "Pi\u00f1on Hills",
+    "value": 4.578723855320222,
+    "valid": true
+  },
+  {
+    "index": 1223,
+    "NAME": "Pioneer",
+    "value": 5.671432989432548,
+    "valid": true
+  },
+  {
+    "index": 1224,
+    "NAME": "Piru",
+    "value": 5.598083973936629,
+    "valid": true
+  },
+  {
+    "index": 1225,
+    "NAME": "Pixley",
+    "value": 5.741271438311897,
+    "valid": true
+  },
+  {
+    "index": 1226,
+    "NAME": "Plainview",
+    "value": 6.507932749621622,
+    "valid": true
+  },
+  {
+    "index": 1227,
+    "NAME": "Planada",
+    "value": 5.638260426871026,
+    "valid": true
+  },
+  {
+    "index": 1228,
+    "NAME": "Pleasure Point",
+    "value": 3.9162613977790066,
+    "valid": true
+  },
+  {
+    "index": 1229,
+    "NAME": "Plumas Eureka",
+    "value": 3.9693731045816376,
+    "valid": true
+  },
+  {
+    "index": 1230,
+    "NAME": "Plumas Lake",
+    "value": 3.4680961938520922,
+    "valid": true
+  },
+  {
+    "index": 1231,
+    "NAME": "Point Reyes Station",
+    "value": 4.50210456918865,
+    "valid": true
+  },
+  {
+    "index": 1232,
+    "NAME": "Pollock Pines",
+    "value": 5.466046369328911,
+    "valid": true
+  },
+  {
+    "index": 1233,
+    "NAME": "Ponderosa",
+    "value": 6.619970413830922,
+    "valid": true
+  },
+  {
+    "index": 1234,
+    "NAME": "Poplar-Cotton Center",
+    "value": 6.067454560173446,
+    "valid": true
+  },
+  {
+    "index": 1235,
+    "NAME": "Port Costa",
+    "value": 4.591989038216042,
+    "valid": true
+  },
+  {
+    "index": 1236,
+    "NAME": "Posey",
+    "value": 8.273653626923508,
+    "valid": true
+  },
+  {
+    "index": 1237,
+    "NAME": "Poso Park",
+    "value": 8.29227737200474,
+    "valid": true
+  },
+  {
+    "index": 1238,
+    "NAME": "Potrero",
+    "value": 5.674877080054656,
+    "valid": true
+  },
+  {
+    "index": 1239,
+    "NAME": "Potter Valley",
+    "value": 3.7020225084200367,
+    "valid": true
+  },
+  {
+    "index": 1240,
+    "NAME": "Prattville",
+    "value": 3.60669085697928,
+    "valid": true
+  },
+  {
+    "index": 1241,
+    "NAME": "Princeton",
+    "value": 3.86540616210858,
+    "valid": true
+  },
+  {
+    "index": 1242,
+    "NAME": "Proberta",
+    "value": 4.39309621852982,
+    "valid": true
+  },
+  {
+    "index": 1243,
+    "NAME": "Prunedale",
+    "value": 4.685423339297536,
+    "valid": true
+  },
+  {
+    "index": 1244,
+    "NAME": "Quartz Hill",
+    "value": 5.460496607102401,
+    "valid": true
+  },
+  {
+    "index": 1245,
+    "NAME": "Quincy",
+    "value": 3.8950179187413374,
+    "valid": true
+  },
+  {
+    "index": 1246,
+    "NAME": "Rackerby",
+    "value": 3.736702177164643,
+    "valid": true
+  },
+  {
+    "index": 1247,
+    "NAME": "Rail Road Flat",
+    "value": 5.699993027764137,
+    "valid": true
+  },
+  {
+    "index": 1248,
+    "NAME": "Rainbow",
+    "value": 6.133810769621448,
+    "valid": true
+  },
+  {
+    "index": 1249,
+    "NAME": "Raisin City",
+    "value": 5.810710430530263,
+    "valid": true
+  },
+  {
+    "index": 1250,
+    "NAME": "Ramona",
+    "value": 6.1184291156342425,
+    "valid": true
+  },
+  {
+    "index": 1251,
+    "NAME": "Rancho Calaveras",
+    "value": 5.016694247665655,
+    "valid": true
+  },
+  {
+    "index": 1252,
+    "NAME": "Rancho Murieta",
+    "value": 4.888544701367486,
+    "valid": true
+  },
+  {
+    "index": 1253,
+    "NAME": "Rancho San Diego",
+    "value": 5.27520656311992,
+    "valid": true
+  },
+  {
+    "index": 1254,
+    "NAME": "Rancho Santa Fe",
+    "value": 6.115996554853443,
+    "valid": true
+  },
+  {
+    "index": 1255,
+    "NAME": "Rancho Tehama Reserve",
+    "value": 5.214587604110556,
+    "valid": true
+  },
+  {
+    "index": 1256,
+    "NAME": "Randsburg",
+    "value": 6.685821995021197,
+    "valid": true
+  },
+  {
+    "index": 1257,
+    "NAME": "Red Corral",
+    "value": 5.686906430079655,
+    "valid": true
+  },
+  {
+    "index": 1258,
+    "NAME": "Redcrest",
+    "value": 3.538542274395555,
+    "valid": true
+  },
+  {
+    "index": 1259,
+    "NAME": "Redway",
+    "value": 3.2603797225480995,
+    "valid": true
+  },
+  {
+    "index": 1260,
+    "NAME": "Redwood Valley",
+    "value": 3.7297383531771207,
+    "valid": true
+  },
+  {
+    "index": 1261,
+    "NAME": "Reliez Valley",
+    "value": 4.216145925342767,
+    "valid": true
+  },
+  {
+    "index": 1262,
+    "NAME": "Richfield",
+    "value": 4.467132157883183,
+    "valid": true
+  },
+  {
+    "index": 1263,
+    "NAME": "Richgrove",
+    "value": 6.477331136343318,
+    "valid": true
+  },
+  {
+    "index": 1264,
+    "NAME": "Richvale",
+    "value": 4.005352285999478,
+    "valid": true
+  },
+  {
+    "index": 1265,
+    "NAME": "Ridgemark",
+    "value": 4.789199404777911,
+    "valid": true
+  },
+  {
+    "index": 1266,
+    "NAME": "Rio del Mar",
+    "value": 3.959803819866907,
+    "valid": true
+  },
+  {
+    "index": 1267,
+    "NAME": "Rio Linda",
+    "value": 4.134863291476658,
+    "valid": true
+  },
+  {
+    "index": 1268,
+    "NAME": "Rio Oso",
+    "value": 3.594969420480634,
+    "valid": true
+  },
+  {
+    "index": 1269,
+    "NAME": "Ripley",
+    "value": 1.724213207633272,
+    "valid": true
+  },
+  {
+    "index": 1270,
+    "NAME": "Riverdale",
+    "value": 5.761692029191945,
+    "valid": true
+  },
+  {
+    "index": 1271,
+    "NAME": "Riverdale Park",
+    "value": 5.766940255519982,
+    "valid": true
+  },
+  {
+    "index": 1272,
+    "NAME": "River Pines",
+    "value": 5.21773756896863,
+    "valid": true
+  },
+  {
+    "index": 1273,
+    "NAME": "Robbins",
+    "value": 4.245494675787327,
+    "valid": true
+  },
+  {
+    "index": 1274,
+    "NAME": "Robinson Mill",
+    "value": 3.8423350693988088,
+    "valid": true
+  },
+  {
+    "index": 1275,
+    "NAME": "Rodeo",
+    "value": 1.6297305585581332,
+    "valid": true
+  },
+  {
+    "index": 1276,
+    "NAME": "Rodriguez Camp",
+    "value": 6.506007478564312,
+    "valid": true
+  },
+  {
+    "index": 1277,
+    "NAME": "Rolling Hills",
+    "value": 5.997977885222073,
+    "valid": true
+  },
+  {
+    "index": 1278,
+    "NAME": "Rollingwood",
+    "value": 4.333094490035511,
+    "valid": true
+  },
+  {
+    "index": 1279,
+    "NAME": "Romoland",
+    "value": 5.174729461773374,
+    "valid": true
+  },
+  {
+    "index": 1280,
+    "NAME": "Rosamond",
+    "value": 3.592695113301224,
+    "valid": true
+  },
+  {
+    "index": 1281,
+    "NAME": "Rosedale",
+    "value": 7.455915184751446,
+    "valid": true
+  },
+  {
+    "index": 1282,
+    "NAME": "Rose Hills",
+    "value": 5.401746890748124,
+    "valid": true
+  },
+  {
+    "index": 1283,
+    "NAME": "Roseland",
+    "value": 3.950524480619298,
+    "valid": true
+  },
+  {
+    "index": 1284,
+    "NAME": "Rosemont",
+    "value": 4.924915785147411,
+    "valid": true
+  },
+  {
+    "index": 1285,
+    "NAME": "Rossmoor",
+    "value": 5.612623931930395,
+    "valid": true
+  },
+  {
+    "index": 1286,
+    "NAME": "Rough and Ready",
+    "value": 4.170311440314347,
+    "valid": true
+  },
+  {
+    "index": 1287,
+    "NAME": "Round Mountain",
+    "value": 4.215799444596213,
+    "valid": true
+  },
+  {
+    "index": 1288,
+    "NAME": "Round Valley",
+    "value": 4.6297105638184215,
+    "valid": true
+  },
+  {
+    "index": 1289,
+    "NAME": "Rouse",
+    "value": 5.766940255519982,
+    "valid": true
+  },
+  {
+    "index": 1290,
+    "NAME": "Rowland Heights",
+    "value": 5.499556721540765,
+    "valid": true
+  },
+  {
+    "index": 1291,
+    "NAME": "Running Springs",
+    "value": 6.8205724399553835,
+    "valid": true
+  },
+  {
+    "index": 1292,
+    "NAME": "Ruth",
+    "value": 3.5701164562863714,
+    "valid": true
+  },
+  {
+    "index": 1293,
+    "NAME": "Rutherford",
+    "value": 3.733625077389945,
+    "valid": true
+  },
+  {
+    "index": 1294,
+    "NAME": "Salida",
+    "value": 5.529989291000541,
+    "valid": true
+  },
+  {
+    "index": 1295,
+    "NAME": "Salmon Creek",
+    "value": 2.706747628367991,
+    "valid": true
+  },
+  {
+    "index": 1296,
+    "NAME": "Salton City",
+    "value": 2.2216298735366626,
+    "valid": true
+  },
+  {
+    "index": 1297,
+    "NAME": "Salton Sea Beach",
+    "value": 2.612713527233812,
+    "valid": true
+  },
+  {
+    "index": 1298,
+    "NAME": "Samoa",
+    "value": 2.4710388444783975,
+    "valid": true
+  },
+  {
+    "index": 1299,
+    "NAME": "San Andreas",
+    "value": 4.787484895326385,
+    "valid": true
+  },
+  {
+    "index": 1300,
+    "NAME": "San Antonio Heights",
+    "value": 6.654409025900888,
+    "valid": true
+  },
+  {
+    "index": 1301,
+    "NAME": "San Ardo",
+    "value": 4.948848681146659,
+    "valid": true
+  },
+  {
+    "index": 1302,
+    "NAME": "San Diego Country Estates",
+    "value": 6.355207539417302,
+    "valid": true
+  },
+  {
+    "index": 1303,
+    "NAME": "San Geronimo",
+    "value": 4.285339461314493,
+    "valid": true
+  },
+  {
+    "index": 1304,
+    "NAME": "San Lorenzo",
+    "value": 4.675067550123545,
+    "valid": true
+  },
+  {
+    "index": 1305,
+    "NAME": "San Lucas",
+    "value": 4.858938419071482,
+    "valid": true
+  },
+  {
+    "index": 1306,
+    "NAME": "San Martin",
+    "value": 4.7303988126691925,
+    "valid": true
+  },
+  {
+    "index": 1307,
+    "NAME": "San Miguel",
+    "value": 4.140317451755153,
+    "valid": true
+  },
+  {
+    "index": 1308,
+    "NAME": "San Miguel",
+    "value": 4.793838926224602,
+    "valid": true
+  },
+  {
+    "index": 1309,
+    "NAME": "San Pasqual",
+    "value": 5.679854911271749,
+    "valid": true
+  },
+  {
+    "index": 1310,
+    "NAME": "San Simeon",
+    "value": 0.1862869574108276,
+    "valid": true
+  },
+  {
+    "index": 1311,
+    "NAME": "Santa Margarita",
+    "value": 5.4237180516444115,
+    "valid": true
+  },
+  {
+    "index": 1312,
+    "NAME": "Santa Nella",
+    "value": 5.382529954222145,
+    "valid": true
+  },
+  {
+    "index": 1313,
+    "NAME": "Santa Rosa Valley",
+    "value": 5.48998103053381,
+    "valid": true
+  },
+  {
+    "index": 1314,
+    "NAME": "Santa Susana",
+    "value": 5.4934413170324445,
+    "valid": true
+  },
+  {
+    "index": 1315,
+    "NAME": "Santa Venetia",
+    "value": 2.287024488923657,
+    "valid": true
+  },
+  {
+    "index": 1316,
+    "NAME": "Santa Ynez",
+    "value": 5.220883482583726,
+    "valid": true
+  },
+  {
+    "index": 1317,
+    "NAME": "Saranap",
+    "value": 4.144130974062677,
+    "valid": true
+  },
+  {
+    "index": 1318,
+    "NAME": "Saticoy",
+    "value": 4.5825417819718615,
+    "valid": true
+  },
+  {
+    "index": 1319,
+    "NAME": "Sattley",
+    "value": 3.6142761431876407,
+    "valid": true
+  },
+  {
+    "index": 1320,
+    "NAME": "Scotia",
+    "value": 3.6569593116054255,
+    "valid": true
+  },
+  {
+    "index": 1321,
+    "NAME": "Seacliff",
+    "value": 3.6777141012750776,
+    "valid": true
+  },
+  {
+    "index": 1322,
+    "NAME": "Sea Ranch",
+    "value": 2.9614557129286263,
+    "valid": true
+  },
+  {
+    "index": 1323,
+    "NAME": "Searles Valley",
+    "value": 1.7625898469440808,
+    "valid": true
+  },
+  {
+    "index": 1324,
+    "NAME": "Seeley",
+    "value": 3.493247770719218,
+    "valid": true
+  },
+  {
+    "index": 1325,
+    "NAME": "Sequoia Crest",
+    "value": 5.9310930121393115,
+    "valid": true
+  },
+  {
+    "index": 1326,
+    "NAME": "Sereno del Mar",
+    "value": 4.14294550185889,
+    "valid": true
+  },
+  {
+    "index": 1327,
+    "NAME": "Seville",
+    "value": 5.947265944651092,
+    "valid": true
+  },
+  {
+    "index": 1328,
+    "NAME": "Shandon",
+    "value": 5.501023707336923,
+    "valid": true
+  },
+  {
+    "index": 1329,
+    "NAME": "Shasta",
+    "value": 4.205469947169657,
+    "valid": true
+  },
+  {
+    "index": 1330,
+    "NAME": "Shaver Lake",
+    "value": 6.070339569700698,
+    "valid": true
+  },
+  {
+    "index": 1331,
+    "NAME": "Shell Ridge",
+    "value": 4.140317451755153,
+    "valid": true
+  },
+  {
+    "index": 1332,
+    "NAME": "Shelter Cove",
+    "value": 2.2925808209937513,
+    "valid": true
+  },
+  {
+    "index": 1333,
+    "NAME": "Sheridan",
+    "value": 4.035496040892944,
+    "valid": true
+  },
+  {
+    "index": 1334,
+    "NAME": "Shingle Springs",
+    "value": 4.79027508984102,
+    "valid": true
+  },
+  {
+    "index": 1335,
+    "NAME": "Shingletown",
+    "value": 4.779776523319637,
+    "valid": true
+  },
+  {
+    "index": 1336,
+    "NAME": "Shoshone",
+    "value": 4.749250951387992,
+    "valid": true
+  },
+  {
+    "index": 1337,
+    "NAME": "Sierra Brooks",
+    "value": 4.047069842444283,
+    "valid": true
+  },
+  {
+    "index": 1338,
+    "NAME": "Sierra City",
+    "value": 3.9563812844266737,
+    "valid": true
+  },
+  {
+    "index": 1339,
+    "NAME": "Sierra Village",
+    "value": 5.8353616228659515,
+    "valid": true
+  },
+  {
+    "index": 1340,
+    "NAME": "Sierraville",
+    "value": 3.509891734892202,
+    "valid": true
+  },
+  {
+    "index": 1341,
+    "NAME": "Silverado Resort",
+    "value": 3.9696355459240333,
+    "valid": true
+  },
+  {
+    "index": 1342,
+    "NAME": "Silver City",
+    "value": 5.819549734525988,
+    "valid": true
+  },
+  {
+    "index": 1343,
+    "NAME": "Silver Lakes",
+    "value": 4.471662043900387,
+    "valid": true
+  },
+  {
+    "index": 1344,
+    "NAME": "Sisquoc",
+    "value": 5.840773069389198,
+    "valid": true
+  },
+  {
+    "index": 1345,
+    "NAME": "Sky Valley",
+    "value": 3.4127082205888457,
+    "valid": true
+  },
+  {
+    "index": 1346,
+    "NAME": "Sleepy Hollow",
+    "value": 4.053819867611894,
+    "valid": true
+  },
+  {
+    "index": 1347,
+    "NAME": "Smartsville",
+    "value": 4.0400966702039,
+    "valid": true
+  },
+  {
+    "index": 1348,
+    "NAME": "Smith Corner",
+    "value": 6.334184749877293,
+    "valid": true
+  },
+  {
+    "index": 1349,
+    "NAME": "Smith River",
+    "value": 2.9025655595111095,
+    "valid": true
+  },
+  {
+    "index": 1350,
+    "NAME": "Snelling",
+    "value": 5.363676096050147,
+    "valid": true
+  },
+  {
+    "index": 1351,
+    "NAME": "Soda Bay",
+    "value": 3.9110584308777936,
+    "valid": true
+  },
+  {
+    "index": 1352,
+    "NAME": "Soda Springs",
+    "value": 4.619353500621374,
+    "valid": true
+  },
+  {
+    "index": 1353,
+    "NAME": "Soquel",
+    "value": 3.9240446413690857,
+    "valid": true
+  },
+  {
+    "index": 1354,
+    "NAME": "Soulsbyville",
+    "value": 5.370591391578889,
+    "valid": true
+  },
+  {
+    "index": 1355,
+    "NAME": "South Dos Palos",
+    "value": 5.633409272942318,
+    "valid": true
+  },
+  {
+    "index": 1356,
+    "NAME": "South Monrovia Island",
+    "value": 5.642747070512337,
+    "valid": true
+  },
+  {
+    "index": 1357,
+    "NAME": "South Oroville",
+    "value": 3.6797645637663847,
+    "valid": true
+  },
+  {
+    "index": 1358,
+    "NAME": "South San Gabriel",
+    "value": 5.375025907837577,
+    "valid": true
+  },
+  {
+    "index": 1359,
+    "NAME": "South San Jose Hills",
+    "value": 5.90977914082522,
+    "valid": true
+  },
+  {
+    "index": 1360,
+    "NAME": "South Taft",
+    "value": 7.231070079283462,
+    "valid": true
+  },
+  {
+    "index": 1361,
+    "NAME": "South Whittier",
+    "value": 5.320756061550291,
+    "valid": true
+  },
+  {
+    "index": 1362,
+    "NAME": "Spaulding",
+    "value": 3.386939790918832,
+    "valid": true
+  },
+  {
+    "index": 1363,
+    "NAME": "Spreckels",
+    "value": 5.001911155882523,
+    "valid": true
+  },
+  {
+    "index": 1364,
+    "NAME": "Spring Garden",
+    "value": 4.057561973827067,
+    "valid": true
+  },
+  {
+    "index": 1365,
+    "NAME": "Spring Valley",
+    "value": 4.313821901198214,
+    "valid": true
+  },
+  {
+    "index": 1366,
+    "NAME": "Spring Valley",
+    "value": 5.059421728884879,
+    "valid": true
+  },
+  {
+    "index": 1367,
+    "NAME": "Spring Valley Lake",
+    "value": 5.3349459612274845,
+    "valid": true
+  },
+  {
+    "index": 1368,
+    "NAME": "Springville",
+    "value": 6.023341646747031,
+    "valid": true
+  },
+  {
+    "index": 1369,
+    "NAME": "Squaw Valley",
+    "value": 6.098838712968834,
+    "valid": true
+  },
+  {
+    "index": 1370,
+    "NAME": "Squirrel Mountain Valley",
+    "value": 5.143121921540674,
+    "valid": true
+  },
+  {
+    "index": 1371,
+    "NAME": "Stallion Springs",
+    "value": 7.258785710055081,
+    "valid": true
+  },
+  {
+    "index": 1372,
+    "NAME": "Stanford",
+    "value": 4.575805801771224,
+    "valid": true
+  },
+  {
+    "index": 1373,
+    "NAME": "Stevenson Ranch",
+    "value": 5.488299586675805,
+    "valid": true
+  },
+  {
+    "index": 1374,
+    "NAME": "Stevinson",
+    "value": 5.661352741311916,
+    "valid": true
+  },
+  {
+    "index": 1375,
+    "NAME": "Stinson Beach",
+    "value": 4.498698654439567,
+    "valid": true
+  },
+  {
+    "index": 1376,
+    "NAME": "Stirling City",
+    "value": 4.2142859754102595,
+    "valid": true
+  },
+  {
+    "index": 1377,
+    "NAME": "Stonyford",
+    "value": 3.968344872046906,
+    "valid": true
+  },
+  {
+    "index": 1378,
+    "NAME": "Storrie",
+    "value": 4.084763030053726,
+    "valid": true
+  },
+  {
+    "index": 1379,
+    "NAME": "Stratford",
+    "value": 6.037109567408123,
+    "valid": true
+  },
+  {
+    "index": 1380,
+    "NAME": "Strathmore",
+    "value": 6.635034269374259,
+    "valid": true
+  },
+  {
+    "index": 1381,
+    "NAME": "Strawberry",
+    "value": 3.8193887667646207,
+    "valid": true
+  },
+  {
+    "index": 1382,
+    "NAME": "Strawberry",
+    "value": 5.92442932738831,
+    "valid": true
+  },
+  {
+    "index": 1383,
+    "NAME": "Sugarloaf Mountain Park",
+    "value": 8.128756222082409,
+    "valid": true
+  },
+  {
+    "index": 1384,
+    "NAME": "Sugarloaf Saw Mill",
+    "value": 8.128756222082409,
+    "valid": true
+  },
+  {
+    "index": 1385,
+    "NAME": "Sugarloaf Village",
+    "value": 8.137324800027711,
+    "valid": true
+  },
+  {
+    "index": 1386,
+    "NAME": "Sultana",
+    "value": 5.8365960932922585,
+    "valid": true
+  },
+  {
+    "index": 1387,
+    "NAME": "Summerland",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 1388,
+    "NAME": "Sunnyside",
+    "value": 5.984306486186197,
+    "valid": true
+  },
+  {
+    "index": 1389,
+    "NAME": "Sunnyside-Tahoe City",
+    "value": 4.25581521511577,
+    "valid": true
+  },
+  {
+    "index": 1390,
+    "NAME": "Sunny Slopes",
+    "value": 5.485376073127911,
+    "valid": true
+  },
+  {
+    "index": 1391,
+    "NAME": "Sunol",
+    "value": 5.150389999711819,
+    "valid": true
+  },
+  {
+    "index": 1392,
+    "NAME": "Sun Village",
+    "value": 4.958021696919223,
+    "valid": true
+  },
+  {
+    "index": 1393,
+    "NAME": "Sutter",
+    "value": 2.870674571912261,
+    "valid": true
+  },
+  {
+    "index": 1394,
+    "NAME": "Swall Meadows",
+    "value": 5.511679965699434,
+    "valid": true
+  },
+  {
+    "index": 1395,
+    "NAME": "Taft Heights",
+    "value": 7.240800628838414,
+    "valid": true
+  },
+  {
+    "index": 1396,
+    "NAME": "Taft Mosswood",
+    "value": 4.741930078530039,
+    "valid": true
+  },
+  {
+    "index": 1397,
+    "NAME": "Tahoe Vista",
+    "value": 4.014998566998416,
+    "valid": true
+  },
+  {
+    "index": 1398,
+    "NAME": "Tahoma",
+    "value": 4.53974545906071,
+    "valid": true
+  },
+  {
+    "index": 1399,
+    "NAME": "Talmage",
+    "value": 4.111534799488592,
+    "valid": true
+  },
+  {
+    "index": 1400,
+    "NAME": "Tamalpais-Homestead Valley",
+    "value": 4.489423603626886,
+    "valid": true
+  },
+  {
+    "index": 1401,
+    "NAME": "Tara Hills",
+    "value": 4.247962455077468,
+    "valid": true
+  },
+  {
+    "index": 1402,
+    "NAME": "Tarpey Village",
+    "value": 6.035783861182153,
+    "valid": true
+  },
+  {
+    "index": 1403,
+    "NAME": "Taylorsville",
+    "value": 3.8677800214670572,
+    "valid": true
+  },
+  {
+    "index": 1404,
+    "NAME": "Tecopa",
+    "value": 4.385264491650154,
+    "valid": true
+  },
+  {
+    "index": 1405,
+    "NAME": "Temelec",
+    "value": 4.10377539375067,
+    "valid": true
+  },
+  {
+    "index": 1406,
+    "NAME": "Temescal Valley",
+    "value": 5.551678216509768,
+    "valid": true
+  },
+  {
+    "index": 1407,
+    "NAME": "Templeton",
+    "value": 5.099805559658273,
+    "valid": true
+  },
+  {
+    "index": 1408,
+    "NAME": "Tennant",
+    "value": 4.121874013419253,
+    "valid": true
+  },
+  {
+    "index": 1409,
+    "NAME": "Terminous",
+    "value": 4.896734463399823,
+    "valid": true
+  },
+  {
+    "index": 1410,
+    "NAME": "Terra Bella",
+    "value": 5.902621827951269,
+    "valid": true
+  },
+  {
+    "index": 1411,
+    "NAME": "Teviston",
+    "value": 5.898353292785103,
+    "valid": true
+  },
+  {
+    "index": 1412,
+    "NAME": "Thermal",
+    "value": 5.6726867699245656,
+    "valid": true
+  },
+  {
+    "index": 1413,
+    "NAME": "Thermalito",
+    "value": 3.867336442988454,
+    "valid": true
+  },
+  {
+    "index": 1414,
+    "NAME": "Thornton",
+    "value": 4.992768942264472,
+    "valid": true
+  },
+  {
+    "index": 1415,
+    "NAME": "Thousand Palms",
+    "value": 3.8081522057797184,
+    "valid": true
+  },
+  {
+    "index": 1416,
+    "NAME": "Three Rivers",
+    "value": 6.185962035298775,
+    "valid": true
+  },
+  {
+    "index": 1417,
+    "NAME": "Three Rocks",
+    "value": 6.342870733186087,
+    "valid": true
+  },
+  {
+    "index": 1418,
+    "NAME": "Timber Cove",
+    "value": 1.4560152269359043,
+    "valid": true
+  },
+  {
+    "index": 1419,
+    "NAME": "Tipton",
+    "value": 5.8788307185108355,
+    "valid": true
+  },
+  {
+    "index": 1420,
+    "NAME": "Tobin",
+    "value": 4.113775139041248,
+    "valid": true
+  },
+  {
+    "index": 1421,
+    "NAME": "Tomales",
+    "value": 4.095974922919328,
+    "valid": true
+  },
+  {
+    "index": 1422,
+    "NAME": "Tonyville",
+    "value": 6.6429126084947905,
+    "valid": true
+  },
+  {
+    "index": 1423,
+    "NAME": "Tooleville",
+    "value": 6.176114807930238,
+    "valid": true
+  },
+  {
+    "index": 1424,
+    "NAME": "Topanga",
+    "value": 4.453737296405754,
+    "valid": true
+  },
+  {
+    "index": 1425,
+    "NAME": "Topaz",
+    "value": 4.977438873002073,
+    "valid": true
+  },
+  {
+    "index": 1426,
+    "NAME": "Toro Canyon",
+    "value": 4.023374046469655,
+    "valid": true
+  },
+  {
+    "index": 1427,
+    "NAME": "Tranquillity",
+    "value": 5.601286448750926,
+    "valid": true
+  },
+  {
+    "index": 1428,
+    "NAME": "Traver",
+    "value": 5.933171382627619,
+    "valid": true
+  },
+  {
+    "index": 1429,
+    "NAME": "Tres Pinos",
+    "value": 4.706157137978853,
+    "valid": true
+  },
+  {
+    "index": 1430,
+    "NAME": "Trinity Center",
+    "value": 4.072324762921171,
+    "valid": true
+  },
+  {
+    "index": 1431,
+    "NAME": "Trinity Village",
+    "value": 3.3914514504279207,
+    "valid": true
+  },
+  {
+    "index": 1432,
+    "NAME": "Trona",
+    "value": 2.0209859138400157,
+    "valid": true
+  },
+  {
+    "index": 1433,
+    "NAME": "Trowbridge",
+    "value": 3.7281544843242136,
+    "valid": true
+  },
+  {
+    "index": 1434,
+    "NAME": "Tuolumne City",
+    "value": 5.480005399620785,
+    "valid": true
+  },
+  {
+    "index": 1435,
+    "NAME": "Tupman",
+    "value": 6.691360084312024,
+    "valid": true
+  },
+  {
+    "index": 1436,
+    "NAME": "Tuttle",
+    "value": 5.446097141720456,
+    "valid": true
+  },
+  {
+    "index": 1437,
+    "NAME": "Tuttletown",
+    "value": 5.088716801616433,
+    "valid": true
+  },
+  {
+    "index": 1438,
+    "NAME": "Twain",
+    "value": 3.9406746413875675,
+    "valid": true
+  },
+  {
+    "index": 1439,
+    "NAME": "Twain Harte",
+    "value": 5.645120574913308,
+    "valid": true
+  },
+  {
+    "index": 1440,
+    "NAME": "Twin Lakes",
+    "value": 3.9213516263016026,
+    "valid": true
+  },
+  {
+    "index": 1441,
+    "NAME": "University of California-Davis",
+    "value": 4.40862932882604,
+    "valid": true
+  },
+  {
+    "index": 1442,
+    "NAME": "University of California-Merced",
+    "value": 5.307945311373809,
+    "valid": true
+  },
+  {
+    "index": 1443,
+    "NAME": "Upper Lake",
+    "value": 3.9081198270164625,
+    "valid": true
+  },
+  {
+    "index": 1444,
+    "NAME": "Valinda",
+    "value": 5.897676608701596,
+    "valid": true
+  },
+  {
+    "index": 1445,
+    "NAME": "Vallecito",
+    "value": 5.200045218904757,
+    "valid": true
+  },
+  {
+    "index": 1446,
+    "NAME": "Valle Vista",
+    "value": 5.261356809967233,
+    "valid": true
+  },
+  {
+    "index": 1447,
+    "NAME": "Valley Acres",
+    "value": 6.85568450787997,
+    "valid": true
+  },
+  {
+    "index": 1448,
+    "NAME": "Valley Center",
+    "value": 6.108016532908447,
+    "valid": true
+  },
+  {
+    "index": 1449,
+    "NAME": "Valley Ford",
+    "value": 4.062929631860539,
+    "valid": true
+  },
+  {
+    "index": 1450,
+    "NAME": "Valley Home",
+    "value": 5.898064701694875,
+    "valid": true
+  },
+  {
+    "index": 1451,
+    "NAME": "Valley Ranch",
+    "value": 3.9164796634178805,
+    "valid": true
+  },
+  {
+    "index": 1452,
+    "NAME": "Valley Springs",
+    "value": 5.274292166751639,
+    "valid": true
+  },
+  {
+    "index": 1453,
+    "NAME": "Valley Wells",
+    "value": 2.3804269087683934,
+    "valid": true
+  },
+  {
+    "index": 1454,
+    "NAME": "Val Verde",
+    "value": 5.79290857254561,
+    "valid": true
+  },
+  {
+    "index": 1455,
+    "NAME": "Vandenberg AFB",
+    "value": 5.833643987200659,
+    "valid": true
+  },
+  {
+    "index": 1456,
+    "NAME": "Vandenberg Village",
+    "value": 5.66799626603708,
+    "valid": true
+  },
+  {
+    "index": 1457,
+    "NAME": "Verdi",
+    "value": 3.4593686165181348,
+    "valid": true
+  },
+  {
+    "index": 1458,
+    "NAME": "Victor",
+    "value": 4.582357649273148,
+    "valid": true
+  },
+  {
+    "index": 1459,
+    "NAME": "View Park-Windsor Hills",
+    "value": 5.599837094918609,
+    "valid": true
+  },
+  {
+    "index": 1460,
+    "NAME": "Vina",
+    "value": 4.113741542412308,
+    "valid": true
+  },
+  {
+    "index": 1461,
+    "NAME": "Vincent",
+    "value": 6.066657625403186,
+    "valid": true
+  },
+  {
+    "index": 1462,
+    "NAME": "Vine Hill",
+    "value": 4.439785638743641,
+    "valid": true
+  },
+  {
+    "index": 1463,
+    "NAME": "Vineyard",
+    "value": 4.637111022636551,
+    "valid": true
+  },
+  {
+    "index": 1464,
+    "NAME": "Vista Santa Rosa",
+    "value": 4.638598915140113,
+    "valid": true
+  },
+  {
+    "index": 1465,
+    "NAME": "Volcano",
+    "value": 5.424043625978242,
+    "valid": true
+  },
+  {
+    "index": 1466,
+    "NAME": "Volta",
+    "value": 5.808281838073452,
+    "valid": true
+  },
+  {
+    "index": 1467,
+    "NAME": "Walker",
+    "value": 4.821354307727507,
+    "valid": true
+  },
+  {
+    "index": 1468,
+    "NAME": "Wallace",
+    "value": 4.428975887754111,
+    "valid": true
+  },
+  {
+    "index": 1469,
+    "NAME": "Walnut Grove",
+    "value": 4.768165629187486,
+    "valid": true
+  },
+  {
+    "index": 1470,
+    "NAME": "Walnut Park",
+    "value": 5.44263985738211,
+    "valid": true
+  },
+  {
+    "index": 1471,
+    "NAME": "Warm Springs",
+    "value": 4.957903765838237,
+    "valid": true
+  },
+  {
+    "index": 1472,
+    "NAME": "Warner Valley",
+    "value": 4.052380310254532,
+    "valid": true
+  },
+  {
+    "index": 1473,
+    "NAME": "Washington",
+    "value": 4.366157579685505,
+    "valid": true
+  },
+  {
+    "index": 1474,
+    "NAME": "Waterloo",
+    "value": 4.550113652546342,
+    "valid": true
+  },
+  {
+    "index": 1475,
+    "NAME": "Waukena",
+    "value": 6.10547144368428,
+    "valid": true
+  },
+  {
+    "index": 1476,
+    "NAME": "Wawona",
+    "value": 5.375846508598743,
+    "valid": true
+  },
+  {
+    "index": 1477,
+    "NAME": "Weaverville",
+    "value": 4.09220119690567,
+    "valid": true
+  },
+  {
+    "index": 1478,
+    "NAME": "Weedpatch",
+    "value": 7.268651426757446,
+    "valid": true
+  },
+  {
+    "index": 1479,
+    "NAME": "Weldon",
+    "value": 4.9793501203992525,
+    "valid": true
+  },
+  {
+    "index": 1480,
+    "NAME": "Weott",
+    "value": 3.5027111153769255,
+    "valid": true
+  },
+  {
+    "index": 1481,
+    "NAME": "West Athens",
+    "value": 5.460554304700613,
+    "valid": true
+  },
+  {
+    "index": 1482,
+    "NAME": "West Bishop",
+    "value": 5.687026583106591,
+    "valid": true
+  },
+  {
+    "index": 1483,
+    "NAME": "West Carson",
+    "value": 5.125102473719556,
+    "valid": true
+  },
+  {
+    "index": 1484,
+    "NAME": "West Goshen",
+    "value": 5.87533580959069,
+    "valid": true
+  },
+  {
+    "index": 1485,
+    "NAME": "Westhaven-Moonstone",
+    "value": 3.587139245052526,
+    "valid": true
+  },
+  {
+    "index": 1486,
+    "NAME": "Westley",
+    "value": 5.110761243044693,
+    "valid": true
+  },
+  {
+    "index": 1487,
+    "NAME": "West Menlo Park",
+    "value": 4.451192268560229,
+    "valid": true
+  },
+  {
+    "index": 1488,
+    "NAME": "West Modesto",
+    "value": 5.783111849456205,
+    "valid": true
+  },
+  {
+    "index": 1489,
+    "NAME": "Westmont",
+    "value": 5.559171431686685,
+    "valid": true
+  },
+  {
+    "index": 1490,
+    "NAME": "West Park",
+    "value": 5.981029133450511,
+    "valid": true
+  },
+  {
+    "index": 1491,
+    "NAME": "West Point",
+    "value": 5.779793670778564,
+    "valid": true
+  },
+  {
+    "index": 1492,
+    "NAME": "West Puente Valley",
+    "value": 5.844933619850664,
+    "valid": true
+  },
+  {
+    "index": 1493,
+    "NAME": "West Rancho Dominguez",
+    "value": 5.4575516406632625,
+    "valid": true
+  },
+  {
+    "index": 1494,
+    "NAME": "Westside",
+    "value": 5.675891085520721,
+    "valid": true
+  },
+  {
+    "index": 1495,
+    "NAME": "West Whittier-Los Nietos",
+    "value": 5.3712926701262225,
+    "valid": true
+  },
+  {
+    "index": 1496,
+    "NAME": "Westwood",
+    "value": 3.757730120987487,
+    "valid": true
+  },
+  {
+    "index": 1497,
+    "NAME": "Whitehawk",
+    "value": 3.8459270766912192,
+    "valid": true
+  },
+  {
+    "index": 1498,
+    "NAME": "Whitewater",
+    "value": 4.494148940652305,
+    "valid": true
+  },
+  {
+    "index": 1499,
+    "NAME": "Whitley Gardens",
+    "value": 5.360866885009822,
+    "valid": true
+  },
+  {
+    "index": 1500,
+    "NAME": "Wilkerson",
+    "value": 5.525122891411899,
+    "valid": true
+  },
+  {
+    "index": 1501,
+    "NAME": "Willowbrook",
+    "value": 5.509185401313208,
+    "valid": true
+  },
+  {
+    "index": 1502,
+    "NAME": "Willow Creek",
+    "value": 3.6613468742131228,
+    "valid": true
+  },
+  {
+    "index": 1503,
+    "NAME": "Wilsonia",
+    "value": 6.379016582522263,
+    "valid": true
+  },
+  {
+    "index": 1504,
+    "NAME": "Wilton",
+    "value": 4.753147938637082,
+    "valid": true
+  },
+  {
+    "index": 1505,
+    "NAME": "Winchester",
+    "value": 5.657809561445653,
+    "valid": true
+  },
+  {
+    "index": 1506,
+    "NAME": "Winter Gardens",
+    "value": 5.311851797255349,
+    "valid": true
+  },
+  {
+    "index": 1507,
+    "NAME": "Winterhaven",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 1508,
+    "NAME": "Winton",
+    "value": 5.239572848498965,
+    "valid": true
+  },
+  {
+    "index": 1509,
+    "NAME": "Wofford Heights",
+    "value": 5.051922405819556,
+    "valid": true
+  },
+  {
+    "index": 1510,
+    "NAME": "Woodacre",
+    "value": 4.277614066825295,
+    "valid": true
+  },
+  {
+    "index": 1511,
+    "NAME": "Woodbridge",
+    "value": 4.594295119967153,
+    "valid": true
+  },
+  {
+    "index": 1512,
+    "NAME": "Woodcrest",
+    "value": 5.837762545273032,
+    "valid": true
+  },
+  {
+    "index": 1513,
+    "NAME": "Woodlands",
+    "value": 5.911173351463599,
+    "valid": true
+  },
+  {
+    "index": 1514,
+    "NAME": "Woodville",
+    "value": 6.317295011305422,
+    "valid": true
+  },
+  {
+    "index": 1515,
+    "NAME": "Wrightwood",
+    "value": 5.1498082116722115,
+    "valid": true
+  },
+  {
+    "index": 1516,
+    "NAME": "Yankee Hill",
+    "value": 4.305517484283651,
+    "valid": true
+  },
+  {
+    "index": 1517,
+    "NAME": "Yettem",
+    "value": 5.920596494992387,
+    "valid": true
+  },
+  {
+    "index": 1518,
+    "NAME": "Yolo",
+    "value": 4.357987208819166,
+    "valid": true
+  },
+  {
+    "index": 1519,
+    "NAME": "Yosemite Lakes",
+    "value": 5.828533221268648,
+    "valid": true
+  },
+  {
+    "index": 1520,
+    "NAME": "Yosemite Valley",
+    "value": 5.6792521747596805,
+    "valid": true
+  },
+  {
+    "index": 1521,
+    "NAME": "Zayante",
+    "value": 4.22991547664232,
+    "valid": true
+  }
+]

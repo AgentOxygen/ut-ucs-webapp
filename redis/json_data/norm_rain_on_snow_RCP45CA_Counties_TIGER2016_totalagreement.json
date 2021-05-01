@@ -1,0 +1,350 @@
+[
+  {
+    "index": 0,
+    "NAME": "Sierra",
+    "value": 9.611472328803396,
+    "valid": true
+  },
+  {
+    "index": 1,
+    "NAME": "Sacramento",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 2,
+    "NAME": "Santa Barbara",
+    "value": 1.65761315041883,
+    "valid": true
+  },
+  {
+    "index": 3,
+    "NAME": "Calaveras",
+    "value": 3.786477086394045,
+    "valid": true
+  },
+  {
+    "index": 4,
+    "NAME": "Ventura",
+    "value": 3.205279495228589,
+    "valid": true
+  },
+  {
+    "index": 5,
+    "NAME": "Los Angeles",
+    "value": 2.104338042141739,
+    "valid": true
+  },
+  {
+    "index": 6,
+    "NAME": "Sonoma",
+    "value": 1.1019434695939267,
+    "valid": true
+  },
+  {
+    "index": 7,
+    "NAME": "Kings",
+    "value": 0.17471193885180233,
+    "valid": true
+  },
+  {
+    "index": 8,
+    "NAME": "San Diego",
+    "value": 1.902258952732293,
+    "valid": true
+  },
+  {
+    "index": 9,
+    "NAME": "Placer",
+    "value": 6.047925351795311,
+    "valid": true
+  },
+  {
+    "index": 10,
+    "NAME": "San Francisco",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 11,
+    "NAME": "Marin",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 12,
+    "NAME": "Mariposa",
+    "value": 5.415844335884964,
+    "valid": true
+  },
+  {
+    "index": 13,
+    "NAME": "Lassen",
+    "value": 8.868816183764785,
+    "valid": true
+  },
+  {
+    "index": 14,
+    "NAME": "Napa",
+    "value": 1.0975451456825038,
+    "valid": true
+  },
+  {
+    "index": 15,
+    "NAME": "Shasta",
+    "value": 6.953670075202063,
+    "valid": true
+  },
+  {
+    "index": 16,
+    "NAME": "Monterey",
+    "value": 2.074937204576445,
+    "valid": true
+  },
+  {
+    "index": 17,
+    "NAME": "Trinity",
+    "value": 9.182725830737144,
+    "valid": true
+  },
+  {
+    "index": 18,
+    "NAME": "Mendocino",
+    "value": 4.656459353478281,
+    "valid": true
+  },
+  {
+    "index": 19,
+    "NAME": "Inyo",
+    "value": 5.487096576825271,
+    "valid": true
+  },
+  {
+    "index": 20,
+    "NAME": "Mono",
+    "value": 9.279224834338844,
+    "valid": true
+  },
+  {
+    "index": 21,
+    "NAME": "Tuolumne",
+    "value": 7.793328443422409,
+    "valid": true
+  },
+  {
+    "index": 22,
+    "NAME": "Solano",
+    "value": 0.13560058424648946,
+    "valid": true
+  },
+  {
+    "index": 23,
+    "NAME": "San Bernardino",
+    "value": 1.9358271105335623,
+    "valid": true
+  },
+  {
+    "index": 24,
+    "NAME": "Contra Costa",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 25,
+    "NAME": "Alpine",
+    "value": 9.57851273071561,
+    "valid": true
+  },
+  {
+    "index": 26,
+    "NAME": "El Dorado",
+    "value": 6.42560703417203,
+    "valid": true
+  },
+  {
+    "index": 27,
+    "NAME": "Yolo",
+    "value": 0.6449813476619294,
+    "valid": true
+  },
+  {
+    "index": 28,
+    "NAME": "Yuba",
+    "value": 2.0986984343683184,
+    "valid": true
+  },
+  {
+    "index": 29,
+    "NAME": "San Benito",
+    "value": 3.1425302441127325,
+    "valid": true
+  },
+  {
+    "index": 30,
+    "NAME": "Humboldt",
+    "value": 4.589678554052291,
+    "valid": true
+  },
+  {
+    "index": 31,
+    "NAME": "Riverside",
+    "value": 1.2765585884779562,
+    "valid": true
+  },
+  {
+    "index": 32,
+    "NAME": "Kern",
+    "value": 2.8681609597738715,
+    "valid": true
+  },
+  {
+    "index": 33,
+    "NAME": "Colusa",
+    "value": 2.083165018635551,
+    "valid": true
+  },
+  {
+    "index": 34,
+    "NAME": "Del Norte",
+    "value": 4.977317169256577,
+    "valid": true
+  },
+  {
+    "index": 35,
+    "NAME": "Modoc",
+    "value": 8.889986527254198,
+    "valid": true
+  },
+  {
+    "index": 36,
+    "NAME": "Fresno",
+    "value": 3.981268463880138,
+    "valid": true
+  },
+  {
+    "index": 37,
+    "NAME": "Madera",
+    "value": 4.018961213091593,
+    "valid": true
+  },
+  {
+    "index": 38,
+    "NAME": "Santa Clara",
+    "value": 0.9225728013828691,
+    "valid": true
+  },
+  {
+    "index": 39,
+    "NAME": "Tehama",
+    "value": 4.517469183586963,
+    "valid": true
+  },
+  {
+    "index": 40,
+    "NAME": "San Joaquin",
+    "value": 0.14059134292739506,
+    "valid": true
+  },
+  {
+    "index": 41,
+    "NAME": "Alameda",
+    "value": 0.7534337014921244,
+    "valid": true
+  },
+  {
+    "index": 42,
+    "NAME": "Nevada",
+    "value": 6.650894095968291,
+    "valid": true
+  },
+  {
+    "index": 43,
+    "NAME": "Butte",
+    "value": 3.2449721174959896,
+    "valid": true
+  },
+  {
+    "index": 44,
+    "NAME": "Merced",
+    "value": 0.3053431418021099,
+    "valid": true
+  },
+  {
+    "index": 45,
+    "NAME": "Tulare",
+    "value": 5.516882038497352,
+    "valid": true
+  },
+  {
+    "index": 46,
+    "NAME": "Stanislaus",
+    "value": 0.21989863675015775,
+    "valid": true
+  },
+  {
+    "index": 47,
+    "NAME": "Orange",
+    "value": 0.30068403599027366,
+    "valid": true
+  },
+  {
+    "index": 48,
+    "NAME": "Imperial",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 49,
+    "NAME": "Sutter",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 50,
+    "NAME": "Amador",
+    "value": 4.1719143873204265,
+    "valid": true
+  },
+  {
+    "index": 51,
+    "NAME": "Lake",
+    "value": 7.114193705420985,
+    "valid": true
+  },
+  {
+    "index": 52,
+    "NAME": "Plumas",
+    "value": 9.386916776090754,
+    "valid": true
+  },
+  {
+    "index": 53,
+    "NAME": "San Mateo",
+    "value": 0.200913476713238,
+    "valid": true
+  },
+  {
+    "index": 54,
+    "NAME": "Siskiyou",
+    "value": 9.175386037312512,
+    "valid": true
+  },
+  {
+    "index": 55,
+    "NAME": "Santa Cruz",
+    "value": 0.5524739306553856,
+    "valid": true
+  },
+  {
+    "index": 56,
+    "NAME": "Glenn",
+    "value": 2.889586369016703,
+    "valid": true
+  },
+  {
+    "index": 57,
+    "NAME": "San Luis Obispo",
+    "value": 0.974682613542173,
+    "valid": true
+  }
+]
