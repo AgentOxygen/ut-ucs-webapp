@@ -135,40 +135,45 @@ metrics = ['frac_extreme', 'max_threeday_precip', 'nov_mar_percent',
            'SWE_total', 'et']
 
 data_dir = "/home/p1/persad_research/water_research/datadrive/Analysis_Output/"
-output_dir = "data/"
+output_dir = "json_data/"
 
-def calculate_over_rcp(metric):
-    for rcp in rcps:
-        metric_models = pdata.getModelsFromNetCDF(data_dir + metric + rcp + ".nc", models)
-        metric_hist_models = pdata.getModelsFromNetCDF(data_dir + metric + rcp + hist_suffix + ".nc", models)
-        # If this specific metric is SWE, only take positive data
-        if metric == 'SWE_total':
-            for index in range(len(metric_hist_models)):
-                metric_hist_models[index] = metric_hist_models[index].where(metric_hist_models[index] > 1)
-                metric_models[index] = metric_models[index].where(metric_hist_models[index])
-        # Calculate average of all models
-        mean_model = pdata.getMeanModel(metric_models)
-        # Calculate agreement amongst all models
-        model_agreement = pdata.getModelsAgreement(mean_model, metric_models)
-        # Calculate average change from historical to future for each model
-        avg_model_per_change = pdata.getMeanModel(pdata.getRelativeRatioModels(metric_models, metric_hist_models))
-        
-        region_averages, region_averages_valid = analyzeRegions("WBD_USGS_HUC10_CA.shp", "Name", avg_model_per_change)
-        region_agreement, region_agreement_valid = analyzeRegions("WBD_USGS_HUC10_CA.shp", "Name", model_agreement)
-        
-        # Dump the information into a JSON file
-        with open(output_dir + metric + rcp + "_watersheds_totaleaverage.json", 'w') as output:
-            json.dump(region_averages, output, indent=2)
-        with open(output_dir + metric + rcp + "_watersheds_totaleaverage_valid.json", 'w') as output:
-            json.dump(region_averages_valid, output, indent=2)
-        with open(output_dir + metric + rcp + "_watersheds_totalagreement.json", 'w') as output:
-            json.dump(region_agreement, output, indent=2)
-        with open(output_dir + metric + rcp + "_watersheds_totalagreement_valid.json", 'w') as output:
-            json.dump(region_agreement_valid, output, indent=2)
+shapefile_dir = "../shapefiles/"
+shapefiles = ["CA_Counties_TIGER2016", "CA_Places_TIGER2016", "CA_Bulletin_118_Groundwater_Basins", "WBD_USGS_HUC10_CA"]
+var_name = ["NAME", "NAME", "Basin_Su_1", "Name"]
+
+def calculate_over_rcp(metric, rcp, shapefile, s_var_name):
+    metric_models = pdata.getModelsFromNetCDF(data_dir + metric + rcp + ".nc", models)
+    metric_hist_models = pdata.getModelsFromNetCDF(data_dir + metric + rcp + hist_suffix + ".nc", models)
+    # If this specific metric is SWE, only take positive data
+    if metric == 'SWE_total':
+        for index in range(len(metric_hist_models)):
+            metric_hist_models[index] = metric_hist_models[index].where(metric_hist_models[index] > 1)
+            metric_models[index] = metric_models[index].where(metric_hist_models[index])
+    # Calculate average of all models
+    mean_model = pdata.getMeanModel(metric_models)
+    # Calculate agreement amongst all models
+    model_agreement = pdata.getModelsAgreement(mean_model, metric_models)
+    # Calculate average change from historical to future for each model
+    avg_model_per_change = pdata.getMeanModel(pdata.getRelativeRatioModels(metric_models, metric_hist_models))
+    
+    region_averages, region_averages_valid = analyzeRegions(shapefile_dir + shapefile + ".shp", s_var_name, avg_model_per_change)
+    region_agreement, region_agreement_valid = analyzeRegions(shapefile_dir + shapefile + ".shp", s_var_name, model_agreement)
+    
+    # Dump the information into a JSON file
+    with open(output_dir + metric + rcp + shapefile + "_totaleaverage.json", 'w') as output:
+        json.dump(region_averages, output, indent=2)
+    with open(output_dir + metric + rcp + shapefile + "_totaleaverage_list.json", 'w') as output:
+        json.dump(region_averages_valid, output, indent=2)
+    with open(output_dir + metric + rcp + shapefile + "_totalagreement.json", 'w') as output:
+        json.dump(region_agreement, output, indent=2)
+    with open(output_dir + metric + rcp + shapefile + "_totalagreement_list.json", 'w') as output:
+        json.dump(region_agreement_valid, output, indent=2)
+                
 
 # The area function returns a warning even when the CRS is set, so I just "muted" it
 with warnings.catch_warnings():
     warnings.simplefilter("ignore")
     for metric in metrics:
-        Process(target=calculate_over_rcp, args=(metric,)).start()
-    
+        for rcp in rcps:
+            for index, shapefile in enumerate(shapefiles):
+                Process(target=calculate_over_rcp, args=(metric,rcp,shapefile, var_name[index],)).start()

@@ -26,16 +26,50 @@ Documentation for redis can be found [here](https://redis.io/). Redis is used to
 
 Redis uses keys and hash-maps to store data. This makes retrieving data relatively efficient and filtering through data easier. Redis python methods are implemented in `run.py`
 
+Here is what a single entry in the JSON file looks like for the groundwater basins.
+~~~
+{
+    "index": 0,
+    "Basin_Su_1": "POTRERO VALLEY",
+    "value": 9.975532304238397,
+    "valid": true
+  },
+~~~
+
+`index` refers to the index of the region in the shapefile.  
+`Basin_Su_1` refers to the complete name of the region, sub-region included  
+`value` refers to value for the given region, in this case, an averaged of all the models  
+`valid` indicates whether or not the region given in the shapefile produced valid geometry to calculate for a value. If this is false, then the value cannot be trusted and further debugging is required for this region specifically.  
+
+The metric, measurement, region set, and RCP are all indicated in the name of the JSON file.  
+
 The directory `redis-stable` contains the files and dependencies for running the redis database. There is a complete `README.md`, to start the server:
 ~~~
 cd src
 ./redis-server
 ~~~
 
+Running `build_redis.py` then reads all of the JSON files in the specified directory and reformats the data into dictionaries that are then added to the redis database.  
+This the the data structure produced by the script:
+
+~~~
+_Region Set
+└── _Region Name
+    └── _Metrics
+        └──_RCPs
+           ├── Model Values
+           ├── Average of Models
+           └── Model Agreement
+~~~
+
+
+
 ## HTML Template w/ JS
 Flask will automatically search the `templates` directory for HTML templates to use. There is only one template currently: `mapbox_map.html` 
 
 The interactive features of the webpage are powered by JavaScript. It also provides for Mapbox integration.
+
+The JS functions associated with the buttons and drop down menus, including interactions in the Mapbox map, request data via URL routes specified in the Flask app. The methods in the Flask API pull data from the redis server.
 
 ## Mapbox API
 You can find the documentation for Mapbox [here](https://docs.mapbox.com/api/overview/). This API creates the ineteractive map for the webpage and has a bunch of other cool visualization features. Note that there is a quota on how many requests can be made to Mapbox services. It's unlikely that we will exceed this quota, but it is something to keep in mind as different features have different amounts. Info on pricing and quotas can be found [here](https://www.mapbox.com/pricing/).
