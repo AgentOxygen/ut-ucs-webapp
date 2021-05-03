@@ -10,7 +10,7 @@ from os import listdir
 from os.path import isfile, join
 import uuid
 
-data_dir = "/home/persad_users/csc3323/regional_data/data/"
+data_dir = "json_data/"
 
 print("Connecting to database...")
 rd = redis.StrictRedis(host="127.0.0.1", port="6379", db=0, decode_responses=True)
@@ -28,70 +28,79 @@ metrics = ['frac_extreme', 'max_threeday_precip', 'nov_mar_percent',
            'SWE_total', 'et']
 data_types = ["totalagreement", "totaleaverage"]
 
-region_sets = ["counties", "groundwaterbasins", "places", "watersheds"]
+region_sets = ["CA_Counties_TIGER2016", "CA_Places_TIGER2016", "CA_Bulletin_118_Groundwater_Basins", "WBD_USGS_HUC10_CA"]
 
-rd_data = {}
+for region_set in region_sets:
+    key_pair = {}
+    # et_RCP45CA_Bulletin_118_Groundwater_Basins_totaleaverage
+    for metric in metrics:
+        for rcp in rcps:
+            for region_set in region_sets:
+                for data_type in data_types:
+                    with open(data_dir + "{}_{}{}_{}.json".format(metric, rcp, region_set, data_type), 'r') as f:
+                        rd.set("{}_{}_{}_{}".format(metric, rcp, region_set, data_type), json.dumps(json.load(f)))
 
-for file_name in datasets:
-    name = file_name[0:-5:1]
-    metric = ""
-    rcp = ""
-    region_set = ""
-    data_type = ""
+
+# for file_name in datasets:
+#     name = file_name[0:-5:1]
+#     metric = ""
+#     rcp = ""
+#     region_set = ""
+#     data_type = ""
     
-    if "valid" in name:
-        continue
-    for metric_ in metrics:
-        if metric_ in name:
-            metric = metric_
-            break
-    for rcp_ in rcps:
-        if rcp_ in name:
-            rcp = rcp_
-            break
-    for dtype in data_types:
-        if dtype in name:
-            data_type = dtype
-            break
-    for region_ in region_sets:
-        if region_ in name:
-            region_set = region_
-            break
+#     if "valid" in name:
+#         continue
+#     for metric_ in metrics:
+#         if metric_ in name:
+#             metric = metric_
+#             break
+#     for rcp_ in rcps:
+#         if rcp_ in name:
+#             rcp = rcp_
+#             break
+#     for dtype in data_types:
+#         if dtype in name:
+#             data_type = dtype
+#             break
+#     for region_ in region_sets:
+#         if region_ in name:
+#             region_set = region_
+#             break
     
-    if data_type == "_totaleaverage":
-        data_type = "_totalaverage"
+#     if data_type == "_totaleaverage":
+#         data_type = "_totalaverage"
     
-    print(name)
-    print("M: " + metric + "  R: " + rcp + "  RS: " + region_set + "  MT: " + data_type)
+#     print(name)
+#     print("M: " + metric + "  R: " + rcp + "  RS: " + region_set + "  MT: " + data_type)
     
-    if not ("valid" in file_name):
-        with open(data_dir + file_name, 'r') as f:
-            data = json.load(f)
-            regions = data
-            for region in regions:
-                region_name = ""
-                if "Basin_Su_1" in region:
-                    region_name = region["Basin_Su_1"]
-                elif "Name" in region:
-                    region_name = region["Name"]
-                else:
-                    region_name = region["NAME"]
-                region["metric"] = metric
-                region["rcp"] = rcp
-                region["type"] = data_type
-                region["region-ID"] = region_name
-                region["regionset-ID"] = region_set
-                if not region_set in rd_data:
-                    rd_data[region_set] = {}
-                    rd_data[region_set][region_name] = {}
-                    rd_data[region_set][region_name][metric]= {}
-                if not region_name in rd_data[region_set]:
-                    rd_data[region_set][region_name] = {}
-                    rd_data[region_set][region_name][metric]= {}
-                if not metric in rd_data[region_set][region_name]:
-                    rd_data[region_set][region_name][metric]= {}
-                if not rcp in rd_data[region_set][region_name][metric]:
-                    rd_data[region_set][region_name][metric][rcp] = {}
-                rd_data[region_set][region_name][metric][rcp] = region
+#     if not ("valid" in file_name):
+#         with open(data_dir + file_name, 'r') as f:
+#             data = json.load(f)
+#             regions = data
+#             for region in regions:
+#                 region_name = ""
+#                 if "Basin_Su_1" in region:
+#                     region_name = region["Basin_Su_1"]
+#                 elif "Name" in region:
+#                     region_name = region["Name"]
+#                 else:
+#                     region_name = region["NAME"]
+#                 region["metric"] = metric
+#                 region["rcp"] = rcp
+#                 region["type"] = data_type
+#                 region["region-ID"] = region_name
+#                 region["regionset-ID"] = region_set
+#                 if not region_set in rd_data:
+#                     rd_data[region_set] = {}
+#                     rd_data[region_set][region_name] = {}
+#                     rd_data[region_set][region_name][metric]= {}
+#                 if not region_name in rd_data[region_set]:
+#                     rd_data[region_set][region_name] = {}
+#                     rd_data[region_set][region_name][metric]= {}
+#                 if not metric in rd_data[region_set][region_name]:
+#                     rd_data[region_set][region_name][metric]= {}
+#                 if not rcp in rd_data[region_set][region_name][metric]:
+#                     rd_data[region_set][region_name][metric][rcp] = {}
+#                 rd_data[region_set][region_name][metric][rcp] = region
                 
-rd.set("data", json.dumps(data))
+# rd.set("data", json.dumps(data))
