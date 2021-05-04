@@ -2,7 +2,6 @@
 <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
 <script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
 <link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
-<head>
 <style>
 .column {
   float: left;
@@ -138,82 +137,81 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 } 
-
 </style>
-<title> Main Page </title>
+<head>
+    <title> Main Page </title>
 </head>
-
 <h1> <a href="http://localhost:8080/"> Home </a> </h1>
 <body>
 <h2> Basin Selected: <div id='basin_name'> </div> </h2>
 <div class='flex-container' id='map-info-container'>
-	<div id='map' style='width: 600px; height: 550px;'></div>
-	<div style='width: 500px'>
-		<!-- Rounded switch -->
-		<label class="switch">
-			<input type="checkbox", onclick="setRCP()", id="rcp45_checkbox">
-			<span class="slider round"></span>
-		</label>
-		RCP 4.5
-		<!-- Rounded switch -->
-		<label class="switch">
-			<input type="checkbox", onclick="setRCP()", id="rcp85_checkbox">
-			<span class="slider round"></span>
-		</label>
-		RCP 8.5
-		</br>
-		</br>
-		<div class="dropdown">
-			<button onclick="showMetricDropDown()" class="dropbtn"><div id='metric_value'>Select Metric</div></button>
-			<div id="metricDropDown" class="dropdown-content">
-				<button onclick="setMetric('frac_extreme')", class="subdropbtn"><a>Δ Fraction of Yearly Precipitation on Extreme Days</a></button>
-				<button onclick="setMetric('max_threeday_precip')", class="subdropbtn"><a>Δ Maximum Three-day Precipitation</a></button>
-				<button onclick="setMetric('nov_mar_percent')", class="subdropbtn"><a>Δ Fraction of Yearly Precipitation between November-March</a></button>
-				<button onclick="setMetric('rainfall_ratio')", class="subdropbtn"><a>Δ Ratio of Yearly Precipitation as Rain vs Snow</a></button>
-				<button onclick="setMetric('num_ros_events')", class="subdropbtn"><a>Δ Number of Rain-On-Snow Days</a></button>
-				<button onclick="setMetric('norm_rain_on_snow')", class="subdropbtn"><a>Δ Normalized Number of Rain-On-Snow Days</a></button>
-				<button onclick="setMetric('SWE_total')", class="subdropbtn"><a>Δ Cumulative Snow Water Equivalent</a></button>
-				<button onclick="setMetric('et')", class="subdropbtn"><a>Δ Evapotranspiration</a></button>
-				
-			</div>
-		</div>
-		
-		<div class="dropdown">
-			<button onclick="showModelsDropDown()" class="dropbtn"><div id='model_value'>Select Models</div></button>
-			<div id="modelDropDown" class="dropdown-content" style="min-width: 260px;">
-				<div class="row">
-					<div class="column"><input type="checkbox" id="ACCESS1-0_check" checked> ACCESS 1-0 </input></div>
-					<div class="column"><input type="checkbox" id="CCSM4_check" checked> CCSM4 </input></div>
-				</div>
-				<div class="row">
-					<div class="column"><input type="checkbox" id="CESM1-BGC_check" checked> CESM1-BGC </input></div>
-					<div class="column"><input type="checkbox" id="CMCC-CMS_check" checked> CMCC-CMS </input></div>
-				</div>
-				<div class="row">	
-					<div class="column"><input type="checkbox" id="CNRM-CM5_check" checked> CNRM-CM5 </input></div>
-					<div class="column"><input type="checkbox" id="CanESM2_check" checked> CanESM2 </input></div>
-				</div>
-				<div class="row">	
-					<div class="column"><input type="checkbox" id="GFDL-CM3_check" checked> GFDL-CM3 </input></div>
-					<div class="column"><input type="checkbox" id="HadGEM2-CC_check" checked> HadGEM2-CC </input></div>
-				</div>
-				<div class="row">	
-					<div class="column"><input type="checkbox" id="HadGEM2-ES_check" checked> HadGEM2-ES </input></div>
-					<div class="column"><input type="checkbox" id="MIROC5_check" checked> MIROC5 </input></div>
-				</div>
-			</div>
-		</div>
-		
-		<div style='font-size: 30px;'> Filter: <input type="text" id="filterInput" onkeyup="filterFunc()" placeholder="search.."> </div>
-		<h2><div id='basin_chosen'></div></h2>
-		<h3><div id='basin_globalid'></div></h3>
-		<h4><div id='basin_data'></div></h4>
+	<div id='map' style='width: 600px; height: 550px;'>
 	</div>
+    	<div style='width: 500px'>
+    		<!-- Rounded switch -->
+    		<label class="switch">
+    			<input type="checkbox", onclick="setRCP()", id="rcp45_checkbox">
+    			<span class="slider round"></span>
+    		</label>
+    		RCP 4.5
+    		<!-- Rounded switch -->
+    		<label class="switch">
+    			<input type="checkbox", onclick="setRCP()", id="rcp85_checkbox">
+    			<span class="slider round"></span>
+    		</label>
+    		RCP 8.5
+    		</br>
+    		</br>
+    		<div class="dropdown">
+    			<button onclick="showMetricDropDown()" class="dropbtn"><div id='metric_value'>Select Metric</div></button>
+    			<div id="metricDropDown" class="dropdown-content">
+    				<button onclick="setMetric('frac_extreme')", class="subdropbtn"><a>Δ Fraction of Yearly Precipitation on Extreme Days</a></button>
+    				<button onclick="setMetric('max_threeday_precip')", class="subdropbtn"><a>Δ Maximum Three-day Precipitation</a></button>
+    				<button onclick="setMetric('nov_mar_percent')", class="subdropbtn"><a>Δ Fraction of Yearly Precipitation between November-March</a></button>
+    				<button onclick="setMetric('rainfall_ratio')", class="subdropbtn"><a>Δ Ratio of Yearly Precipitation as Rain vs Snow</a></button>
+    				<button onclick="setMetric('num_ros_events')", class="subdropbtn"><a>Δ Number of Rain-On-Snow Days</a></button>
+    				<button onclick="setMetric('norm_rain_on_snow')", class="subdropbtn"><a>Δ Normalized Number of Rain-On-Snow Days</a></button>
+    				<button onclick="setMetric('SWE_total')", class="subdropbtn"><a>Δ Cumulative Snow Water Equivalent</a></button>
+    				<button onclick="setMetric('et')", class="subdropbtn"><a>Δ Evapotranspiration</a></button>
+    				
+    			</div>
+    		</div>
+    		
+    		<div class="dropdown">
+    			<button onclick="showModelsDropDown()" class="dropbtn"><div id='model_value'>Select Models</div></button>
+    			<div id="modelDropDown" class="dropdown-content" style="min-width: 260px;">
+    				<div class="row">
+    					<div class="column"><input type="checkbox" id="ACCESS1-0_check" checked> ACCESS 1-0 </input></div>
+    					<div class="column"><input type="checkbox" id="CCSM4_check" checked> CCSM4 </input></div>
+    				</div>
+    				<div class="row">
+    					<div class="column"><input type="checkbox" id="CESM1-BGC_check" checked> CESM1-BGC </input></div>
+    					<div class="column"><input type="checkbox" id="CMCC-CMS_check" checked> CMCC-CMS </input></div>
+    				</div>
+    				<div class="row">	
+    					<div class="column"><input type="checkbox" id="CNRM-CM5_check" checked> CNRM-CM5 </input></div>
+    					<div class="column"><input type="checkbox" id="CanESM2_check" checked> CanESM2 </input></div>
+    				</div>
+    				<div class="row">	
+    					<div class="column"><input type="checkbox" id="GFDL-CM3_check" checked> GFDL-CM3 </input></div>
+    					<div class="column"><input type="checkbox" id="HadGEM2-CC_check" checked> HadGEM2-CC </input></div>
+    				</div>
+    				<div class="row">	
+    					<div class="column"><input type="checkbox" id="HadGEM2-ES_check" checked> HadGEM2-ES </input></div>
+    					<div class="column"><input type="checkbox" id="MIROC5_check" checked> MIROC5 </input></div>
+    				</div>
+    			</div>
+    		</div>
+    		
+    		<div style='font-size: 30px;'> Filter: <input type="text" id="filterInput" onkeyup="filterFunc()" placeholder="search.."> </div>
+    		<h2><div id='basin_chosen'></div></h2>
+    		<h3><div id='basin_globalid'></div></h3>
+    		<h4><div id='basin_data'></div></h4>
+    	</div>
+    </div>
 </div>
-</div>
-
 <script>
-	function showModelsDropDown() {
+    function showModelsDropDown() {
 		document.getElementById("modelDropDown").classList.toggle("show");
 	}
 	// Activates drop-down menu for RCP values
@@ -226,6 +224,7 @@ input:checked + .slider:before {
 	var metric_type = "totalaverage";
 	var rcp = "";
 	var data_filter = "";
+	var region_set = "Groundwater_Basins";
 	
 	// Sets metric, called by buttons in metric drop-down menu
 	function setMetric(metric_selected) {
@@ -259,15 +258,17 @@ input:checked + .slider:before {
 	var prev_metric = "";
 	var prev_metric_type = "";
 	var prev_region_name = "";
+	var prev_region_set = "";
 	// Checks to see if the filters have changed. If they have, they are updated and the new data is requested.
 	function checkForUpdate() {
 		if (prev_data_filter != data_filter | prev_rcp != rcp | prev_metric != metric
-			| prev_region_name != region_name) {
+			| prev_region_name != region_name | prev_region_set != region_set) {
 			prev_data_filter = data_filter;
 			prev_rcp = rcp;
 			prev_metric = metric;
 			prev_region_name = region_name;
 			prev_metric_type = metric_type;
+			prev_region_set = region_set;
 			// Request update with new data.
 			updateDataPane();
 		}
@@ -277,11 +278,12 @@ input:checked + .slider:before {
 	function updateDataPane() {
 		console.log("Fetching data...");
 		var url = "http://localhost:8080/data";
-		url = url + "?basin-number=" + region_name;
+		url = url + "?region=" + region_name;
 		url = url + "&rcp=" + rcp;
 		url = url + "&data-filter=" + data_filter;
 		url = url + "&metric=" + metric;
 		url = url + "&metric-type=" + metric_type;
+		url = url + "&region-set=" + region_set;
 		fetch(url)
 			.then(function (response) {
 				return response.text();
@@ -325,7 +327,7 @@ input:checked + .slider:before {
 		map.addSource('regions', 
 			{ 
 			type: 'geojson', 
-			data: "http://localhost:8080/download/regions/test.geojson",
+			data: "http://localhost:8080/download/test.geojson",
 			generateId: true
 			});
 		map.addLayer({
@@ -386,8 +388,8 @@ input:checked + .slider:before {
 			checkForUpdate();
 		});
 	});
-	
 </script>
+
 </br>
 <h3> Useful Links </h3>
 https://docs.mapbox.com/mapbox-gl-js/example/ <br>

@@ -26,7 +26,7 @@ rcps = ["RCP85", "RCP45"]
 metrics = ['frac_extreme', 'max_threeday_precip', 'nov_mar_percent',
            'rainfall_ratio', 'num_ros_events', 'norm_rain_on_snow',
            'SWE_total', 'et']
-data_types = ["totalagreement", "totaleaverage"]
+data_types = ["totalagreement", "totalaverage"]
 
 region_sets = ["CA_Counties_TIGER2016", "CA_Places_TIGER2016", "CA_Bulletin_118_Groundwater_Basins", "WBD_USGS_HUC10_CA"]
 

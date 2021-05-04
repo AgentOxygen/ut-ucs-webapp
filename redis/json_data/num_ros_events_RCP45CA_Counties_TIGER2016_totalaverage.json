@@ -1,0 +1,350 @@
+[
+  {
+    "index": 0,
+    "NAME": "Sierra",
+    "value": -21.634332595260233,
+    "valid": true
+  },
+  {
+    "index": 1,
+    "NAME": "Sacramento",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 2,
+    "NAME": "Santa Barbara",
+    "value": -15.58894026599794,
+    "valid": true
+  },
+  {
+    "index": 3,
+    "NAME": "Calaveras",
+    "value": -31.133533151759096,
+    "valid": true
+  },
+  {
+    "index": 4,
+    "NAME": "Ventura",
+    "value": -23.479032819887323,
+    "valid": true
+  },
+  {
+    "index": 5,
+    "NAME": "Los Angeles",
+    "value": -28.078529438103065,
+    "valid": true
+  },
+  {
+    "index": 6,
+    "NAME": "Sonoma",
+    "value": -28.806910838408538,
+    "valid": true
+  },
+  {
+    "index": 7,
+    "NAME": "Kings",
+    "value": -3.875499493184155,
+    "valid": true
+  },
+  {
+    "index": 8,
+    "NAME": "San Diego",
+    "value": -23.49421770863684,
+    "valid": true
+  },
+  {
+    "index": 9,
+    "NAME": "Placer",
+    "value": -22.70075798454193,
+    "valid": true
+  },
+  {
+    "index": 10,
+    "NAME": "San Francisco",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 11,
+    "NAME": "Marin",
+    "value": -2.39582165546422,
+    "valid": true
+  },
+  {
+    "index": 12,
+    "NAME": "Mariposa",
+    "value": -39.607579574665216,
+    "valid": true
+  },
+  {
+    "index": 13,
+    "NAME": "Lassen",
+    "value": -26.640350620035193,
+    "valid": true
+  },
+  {
+    "index": 14,
+    "NAME": "Napa",
+    "value": -30.15833165031407,
+    "valid": true
+  },
+  {
+    "index": 15,
+    "NAME": "Shasta",
+    "value": -38.91842395290514,
+    "valid": true
+  },
+  {
+    "index": 16,
+    "NAME": "Monterey",
+    "value": -23.280567476963146,
+    "valid": true
+  },
+  {
+    "index": 17,
+    "NAME": "Trinity",
+    "value": -34.02873315460881,
+    "valid": true
+  },
+  {
+    "index": 18,
+    "NAME": "Mendocino",
+    "value": -43.959869266547614,
+    "valid": true
+  },
+  {
+    "index": 19,
+    "NAME": "Inyo",
+    "value": -30.941136029596016,
+    "valid": true
+  },
+  {
+    "index": 20,
+    "NAME": "Mono",
+    "value": -13.084731588434817,
+    "valid": true
+  },
+  {
+    "index": 21,
+    "NAME": "Tuolumne",
+    "value": -23.703644499052878,
+    "valid": true
+  },
+  {
+    "index": 22,
+    "NAME": "Solano",
+    "value": -2.9826025748807306,
+    "valid": true
+  },
+  {
+    "index": 23,
+    "NAME": "San Bernardino",
+    "value": -21.86041345871579,
+    "valid": true
+  },
+  {
+    "index": 24,
+    "NAME": "Contra Costa",
+    "value": -0.8035289542372546,
+    "valid": true
+  },
+  {
+    "index": 25,
+    "NAME": "Alpine",
+    "value": -9.261713946398245,
+    "valid": true
+  },
+  {
+    "index": 26,
+    "NAME": "El Dorado",
+    "value": -37.98617041105905,
+    "valid": true
+  },
+  {
+    "index": 27,
+    "NAME": "Yolo",
+    "value": -14.49954089636059,
+    "valid": true
+  },
+  {
+    "index": 28,
+    "NAME": "Yuba",
+    "value": -22.547909978201,
+    "valid": true
+  },
+  {
+    "index": 29,
+    "NAME": "San Benito",
+    "value": -37.324199626865955,
+    "valid": true
+  },
+  {
+    "index": 30,
+    "NAME": "Humboldt",
+    "value": -43.53838542809041,
+    "valid": true
+  },
+  {
+    "index": 31,
+    "NAME": "Riverside",
+    "value": -12.688024583645717,
+    "valid": true
+  },
+  {
+    "index": 32,
+    "NAME": "Kern",
+    "value": -29.348677012957086,
+    "valid": true
+  },
+  {
+    "index": 33,
+    "NAME": "Colusa",
+    "value": -21.826309785252107,
+    "valid": true
+  },
+  {
+    "index": 34,
+    "NAME": "Del Norte",
+    "value": -36.60678570413114,
+    "valid": true
+  },
+  {
+    "index": 35,
+    "NAME": "Modoc",
+    "value": -30.86729167840439,
+    "valid": true
+  },
+  {
+    "index": 36,
+    "NAME": "Fresno",
+    "value": -11.284684721625124,
+    "valid": true
+  },
+  {
+    "index": 37,
+    "NAME": "Madera",
+    "value": -17.332077409825278,
+    "valid": true
+  },
+  {
+    "index": 38,
+    "NAME": "Santa Clara",
+    "value": -19.602458949183404,
+    "valid": true
+  },
+  {
+    "index": 39,
+    "NAME": "Tehama",
+    "value": -30.722777557969664,
+    "valid": true
+  },
+  {
+    "index": 40,
+    "NAME": "San Joaquin",
+    "value": -2.5234885734849373,
+    "valid": true
+  },
+  {
+    "index": 41,
+    "NAME": "Alameda",
+    "value": -8.625452384043788,
+    "valid": true
+  },
+  {
+    "index": 42,
+    "NAME": "Nevada",
+    "value": -34.399784482973345,
+    "valid": true
+  },
+  {
+    "index": 43,
+    "NAME": "Butte",
+    "value": -28.793720966086042,
+    "valid": true
+  },
+  {
+    "index": 44,
+    "NAME": "Merced",
+    "value": -5.322900080611188,
+    "valid": true
+  },
+  {
+    "index": 45,
+    "NAME": "Tulare",
+    "value": -16.327798192686306,
+    "valid": true
+  },
+  {
+    "index": 46,
+    "NAME": "Stanislaus",
+    "value": -8.012749932157874,
+    "valid": true
+  },
+  {
+    "index": 47,
+    "NAME": "Orange",
+    "value": -4.97589739416562,
+    "valid": true
+  },
+  {
+    "index": 48,
+    "NAME": "Imperial",
+    "value": -0.18029568420676112,
+    "valid": true
+  },
+  {
+    "index": 49,
+    "NAME": "Sutter",
+    "value": 0,
+    "valid": true
+  },
+  {
+    "index": 50,
+    "NAME": "Amador",
+    "value": -27.36358717698453,
+    "valid": true
+  },
+  {
+    "index": 51,
+    "NAME": "Lake",
+    "value": -55.13580012704903,
+    "valid": true
+  },
+  {
+    "index": 52,
+    "NAME": "Plumas",
+    "value": -24.931486582999604,
+    "valid": true
+  },
+  {
+    "index": 53,
+    "NAME": "San Mateo",
+    "value": -2.7073697684006013,
+    "valid": true
+  },
+  {
+    "index": 54,
+    "NAME": "Siskiyou",
+    "value": -32.02412715907515,
+    "valid": true
+  },
+  {
+    "index": 55,
+    "NAME": "Santa Cruz",
+    "value": -7.0488940615839475,
+    "valid": true
+  },
+  {
+    "index": 56,
+    "NAME": "Glenn",
+    "value": -30.34398570383465,
+    "valid": true
+  },
+  {
+    "index": 57,
+    "NAME": "San Luis Obispo",
+    "value": -22.606844065804136,
+    "valid": true
+  }
+]

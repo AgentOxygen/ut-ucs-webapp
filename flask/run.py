@@ -20,8 +20,6 @@ app.config['UPLOAD_FOLDER'] = "."
 data_dir = app.root_path + "/data/json_data/"
 # Connect to redis database server, decoding the responses converts all data recieved from bytes into python objects
 rd = redis.StrictRedis(host = "127.0.0.1", port = 6379, decode_responses = True)
-# Preload keys, this will make sorting through keys a lot more efficient
-data_keys = rd.keys()
 
 # For downloading entire files within the flask directories (such as JSON or Shapefile)
 @app.route('/download/<path:filename>', methods=['GET', 'POST'])
@@ -36,7 +34,7 @@ def getData():
     metric = request.args.get('metric', default='', type=str)
     rcp = request.args.get('rcp', default='', type=str)
     # If the region is a specific groundwater basin, it should have a unique number associated with it
-    basin_num = request.args.get('basin-number', default='', type=str)
+    region = request.args.get('region', default='', type=str)
     # Filter applied to keys, so if any keys have the data_filter in them, the value for that key will be returned
     data_filter = request.args.get('data-filter', default='', type=str)
     # Group of regions, ie Groundwater Basins, Counties, Places
@@ -46,16 +44,16 @@ def getData():
     
     print(metric)
     print(rcp)
-    print(basin_num)
+    print(region)
     print(data_filter)
     print(region_set)
     print(metric_type)
     
     # Then iterate through all of the keys and filter out the ones that match the paramters
-    filtered_keys = [f for f in data_keys if metric in f
+    filtered_keys = [f for f in rd.keys() 
+                         if metric in f
                          and rcp in f
                          and region_set in f
-                         and basin_num in f
                          and metric_type in f]
     
     print(len(filtered_keys))
