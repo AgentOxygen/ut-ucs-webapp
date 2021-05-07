@@ -8,7 +8,7 @@
   {
     "index": 1,
     "NAME": "Cloverdale",
-    "value": -14.119930474181272,
+    "value": -14.11993047418127,
     "valid": true
   },
   {
@@ -44,7 +44,7 @@
   {
     "index": 7,
     "NAME": "La Ca\u00f1ada Flintridge",
-    "value": -72.4447416306305,
+    "value": -72.44474163063053,
     "valid": true
   },
   {
@@ -56,7 +56,7 @@
   {
     "index": 9,
     "NAME": "Palmdale",
-    "value": -49.20985260186954,
+    "value": -49.20985260186953,
     "valid": true
   },
   {
@@ -200,19 +200,19 @@
   {
     "index": 33,
     "NAME": "Gilroy",
-    "value": -5.03040873031305,
+    "value": -5.030408730313049,
     "valid": true
   },
   {
     "index": 34,
     "NAME": "Saratoga",
-    "value": -6.4164892701067195,
+    "value": -6.416489270106719,
     "valid": true
   },
   {
     "index": 35,
     "NAME": "Dunsmuir",
-    "value": -38.93155988277068,
+    "value": -38.93155988277066,
     "valid": true
   },
   {
@@ -224,19 +224,19 @@
   {
     "index": 37,
     "NAME": "Fort Jones",
-    "value": -59.154273986816406,
+    "value": -59.15427398681642,
     "valid": true
   },
   {
     "index": 38,
     "NAME": "Montague",
-    "value": -64.4478759765625,
+    "value": -64.44787597656249,
     "valid": true
   },
   {
     "index": 39,
     "NAME": "Weed",
-    "value": -50.361061266520224,
+    "value": -50.3610612665202,
     "valid": true
   },
   {
@@ -284,7 +284,7 @@
   {
     "index": 47,
     "NAME": "Rancho Cucamonga",
-    "value": -17.05608333978836,
+    "value": -17.056083339788366,
     "valid": true
   },
   {
@@ -296,31 +296,31 @@
   {
     "index": 49,
     "NAME": "Cupertino",
-    "value": -7.066517203802336,
+    "value": -7.06651720380234,
     "valid": true
   },
   {
     "index": 50,
     "NAME": "Los Altos Hills",
-    "value": -24.193725584630585,
+    "value": -24.193725584630577,
     "valid": true
   },
   {
     "index": 51,
     "NAME": "Monte Sereno",
-    "value": -3.560212960029895,
+    "value": -3.5602129600298937,
     "valid": true
   },
   {
     "index": 52,
     "NAME": "Palo Alto",
-    "value": -20.355779200997276,
+    "value": -20.35577920099727,
     "valid": true
   },
   {
     "index": 53,
     "NAME": "San Jose",
-    "value": -0.6728239010750887,
+    "value": -0.6728239010750886,
     "valid": true
   },
   {
@@ -356,7 +356,7 @@
   {
     "index": 59,
     "NAME": "Tulelake",
-    "value": -40.60734939575195,
+    "value": -40.60734939575196,
     "valid": true
   },
   {
@@ -410,7 +410,7 @@
   {
     "index": 68,
     "NAME": "Mill Valley",
-    "value": -7.9249578311125175,
+    "value": -7.924957831112512,
     "valid": true
   },
   {
@@ -542,7 +542,7 @@
   {
     "index": 90,
     "NAME": "Portola",
-    "value": -25.128423042198023,
+    "value": -25.12842304219801,
     "valid": true
   },
   {
@@ -566,7 +566,7 @@
   {
     "index": 94,
     "NAME": "Portola Valley",
-    "value": -32.243894441120574,
+    "value": -32.24389444112058,
     "valid": true
   },
   {
@@ -614,7 +614,7 @@
   {
     "index": 102,
     "NAME": "Lake Elsinore",
-    "value": -3.4547487935014285,
+    "value": -3.4547487935014294,
     "valid": true
   },
   {
@@ -644,13 +644,13 @@
   {
     "index": 107,
     "NAME": "San Jacinto",
-    "value": -5.4564852533683,
+    "value": -5.456485253368302,
     "valid": true
   },
   {
     "index": 108,
     "NAME": "Palm Desert",
-    "value": -6.067206595813938,
+    "value": -6.067206595813933,
     "valid": true
   },
   {
@@ -746,7 +746,7 @@
   {
     "index": 124,
     "NAME": "La Verne",
-    "value": -0.49606070007106834,
+    "value": -0.49606070007106823,
     "valid": true
   },
   {
@@ -926,7 +926,7 @@
   {
     "index": 154,
     "NAME": "Chico",
-    "value": -7.249992124939486,
+    "value": -7.249992124939488,
     "valid": true
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "index": 168,
     "NAME": "Blue Lake",
-    "value": -46.822863827302726,
+    "value": -46.82286382730274,
     "valid": true
   },
   {
@@ -1022,7 +1022,7 @@
   {
     "index": 170,
     "NAME": "Rio Dell",
-    "value": -0.11037277848700901,
+    "value": -0.110372778487009,
     "valid": true
   },
   {
@@ -1040,7 +1040,7 @@
   {
     "index": 173,
     "NAME": "Arcata",
-    "value": -4.451959175947047,
+    "value": -4.451959175947048,
     "valid": true
   },
   {
@@ -1106,7 +1106,7 @@
   {
     "index": 184,
     "NAME": "Woodside",
-    "value": -14.906378747594282,
+    "value": -14.906378747594209,
     "valid": true
   },
   {
@@ -1118,7 +1118,7 @@
   {
     "index": 186,
     "NAME": "Banning",
-    "value": -58.098492344579206,
+    "value": -58.0984923445792,
     "valid": true
   },
   {
@@ -1148,7 +1148,7 @@
   {
     "index": 191,
     "NAME": "Ojai",
-    "value": -35.8325571015463,
+    "value": -35.832557101546314,
     "valid": true
   },
   {
@@ -1172,7 +1172,7 @@
   {
     "index": 195,
     "NAME": "Auburn",
-    "value": -4.973722586788542,
+    "value": -4.973722586788543,
     "valid": true
   },
   {
@@ -1184,7 +1184,7 @@
   {
     "index": 197,
     "NAME": "Sonora",
-    "value": -57.20788198603565,
+    "value": -57.207881986035645,
     "valid": true
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "index": 201,
     "NAME": "Calimesa",
-    "value": -40.36046339254323,
+    "value": -40.36046339254324,
     "valid": true
   },
   {
@@ -1232,25 +1232,25 @@
   {
     "index": 205,
     "NAME": "La Quinta",
-    "value": -0.6521339432777735,
+    "value": -0.6521339432777734,
     "valid": true
   },
   {
     "index": 206,
     "NAME": "Nevada City",
-    "value": -62.56720440191834,
+    "value": -62.56720440191839,
     "valid": true
   },
   {
     "index": 207,
     "NAME": "Truckee",
-    "value": -18.08779477357205,
+    "value": -18.087794773572057,
     "valid": true
   },
   {
     "index": 208,
     "NAME": "Porterville",
-    "value": -6.11958724450044,
+    "value": -6.119587244500442,
     "valid": true
   },
   {
@@ -1286,19 +1286,19 @@
   {
     "index": 214,
     "NAME": "Desert Hot Springs",
-    "value": -2.150485689861038,
+    "value": -2.1504856898610387,
     "valid": true
   },
   {
     "index": 215,
     "NAME": "Palm Springs",
-    "value": -20.988160149587884,
+    "value": -20.98816014958788,
     "valid": true
   },
   {
     "index": 216,
     "NAME": "Placerville",
-    "value": -69.38767637366118,
+    "value": -69.38767637366121,
     "valid": true
   },
   {
@@ -1310,7 +1310,7 @@
   {
     "index": 218,
     "NAME": "Santa Rosa",
-    "value": -20.707814907526796,
+    "value": -20.7078149075268,
     "valid": true
   },
   {
@@ -1472,7 +1472,7 @@
   {
     "index": 245,
     "NAME": "Moraga",
-    "value": -17.38966083189523,
+    "value": -17.389660831895224,
     "valid": true
   },
   {
@@ -1532,7 +1532,7 @@
   {
     "index": 255,
     "NAME": "Redlands",
-    "value": -4.53617540666151,
+    "value": -4.536175406661504,
     "valid": true
   },
   {
@@ -1574,7 +1574,7 @@
   {
     "index": 262,
     "NAME": "Big Bear Lake",
-    "value": -27.531463548962492,
+    "value": -27.531463548962503,
     "valid": true
   },
   {
@@ -1604,13 +1604,13 @@
   {
     "index": 267,
     "NAME": "Sutter Creek",
-    "value": -36.81556471003907,
+    "value": -36.815564710039055,
     "valid": true
   },
   {
     "index": 268,
     "NAME": "Atascadero",
-    "value": -25.79605089390296,
+    "value": -25.796050893902983,
     "valid": true
   },
   {
@@ -1634,7 +1634,7 @@
   {
     "index": 272,
     "NAME": "South Lake Tahoe",
-    "value": -23.7445138117528,
+    "value": -23.74451381175281,
     "valid": true
   },
   {
@@ -1652,19 +1652,19 @@
   {
     "index": 275,
     "NAME": "Clearlake",
-    "value": -57.657233526147515,
+    "value": -57.65723352614756,
     "valid": true
   },
   {
     "index": 276,
     "NAME": "Angels",
-    "value": -38.49176269136341,
+    "value": -38.49176269136343,
     "valid": true
   },
   {
     "index": 277,
     "NAME": "Alturas",
-    "value": -31.646734237102255,
+    "value": -31.646734237102248,
     "valid": true
   },
   {
@@ -1706,7 +1706,7 @@
   {
     "index": 284,
     "NAME": "Calistoga",
-    "value": -1.2558917495753892,
+    "value": -1.2558917495753905,
     "valid": true
   },
   {
@@ -1766,7 +1766,7 @@
   {
     "index": 294,
     "NAME": "Walnut Creek",
-    "value": -2.621653116220814,
+    "value": -2.621653116220815,
     "valid": true
   },
   {
@@ -1898,7 +1898,7 @@
   {
     "index": 316,
     "NAME": "Goleta",
-    "value": -25.559068879905166,
+    "value": -25.55906887990515,
     "valid": true
   },
   {
@@ -1910,7 +1910,7 @@
   {
     "index": 318,
     "NAME": "Santa Barbara",
-    "value": -3.606256544097592,
+    "value": -3.606256544097591,
     "valid": true
   },
   {
@@ -1922,7 +1922,7 @@
   {
     "index": 320,
     "NAME": "Loyalton",
-    "value": -31.535105732905997,
+    "value": -31.535105732906,
     "valid": true
   },
   {
@@ -1958,13 +1958,13 @@
   {
     "index": 326,
     "NAME": "Grass Valley",
-    "value": -60.02987763418356,
+    "value": -60.02987763418362,
     "valid": true
   },
   {
     "index": 327,
     "NAME": "Pasadena",
-    "value": -6.940392856415099,
+    "value": -6.940392856415112,
     "valid": true
   },
   {
@@ -2072,7 +2072,7 @@
   {
     "index": 345,
     "NAME": "Monrovia",
-    "value": -8.014779199093526,
+    "value": -8.014779199093528,
     "valid": true
   },
   {
@@ -2204,7 +2204,7 @@
   {
     "index": 367,
     "NAME": "Susanville",
-    "value": -35.31099915700749,
+    "value": -35.31099915700752,
     "valid": true
   },
   {
@@ -2342,7 +2342,7 @@
   {
     "index": 390,
     "NAME": "Shasta Lake",
-    "value": -71.70947361927092,
+    "value": -71.70947361927091,
     "valid": true
   },
   {
@@ -2360,7 +2360,7 @@
   {
     "index": 393,
     "NAME": "Highland",
-    "value": -22.780136402123397,
+    "value": -22.780136402123382,
     "valid": true
   },
   {
@@ -2372,7 +2372,7 @@
   {
     "index": 395,
     "NAME": "Bakersfield",
-    "value": -0.07395888568718588,
+    "value": -0.07395888568718587,
     "valid": true
   },
   {
@@ -2402,7 +2402,7 @@
   {
     "index": 400,
     "NAME": "Ridgecrest",
-    "value": -43.41349818089463,
+    "value": -43.41349818089462,
     "valid": true
   },
   {
@@ -2504,7 +2504,7 @@
   {
     "index": 417,
     "NAME": "Dorris",
-    "value": -34.81010818481445,
+    "value": -34.81010818481446,
     "valid": true
   },
   {
@@ -2516,13 +2516,13 @@
   {
     "index": 419,
     "NAME": "Ukiah",
-    "value": -62.71389443345322,
+    "value": -62.71389443345318,
     "valid": true
   },
   {
     "index": 420,
     "NAME": "Lakeport",
-    "value": -62.79785669474265,
+    "value": -62.79785669474266,
     "valid": true
   },
   {
@@ -2582,7 +2582,7 @@
   {
     "index": 430,
     "NAME": "Soledad",
-    "value": -0.15336951953759298,
+    "value": -0.153369519537593,
     "valid": true
   },
   {
@@ -2594,13 +2594,13 @@
   {
     "index": 432,
     "NAME": "Anderson",
-    "value": -49.40583354102541,
+    "value": -49.4058335410254,
     "valid": true
   },
   {
     "index": 433,
     "NAME": "Yreka",
-    "value": -52.93937852142193,
+    "value": -52.93937852142194,
     "valid": true
   },
   {
@@ -2684,7 +2684,7 @@
   {
     "index": 447,
     "NAME": "Lafayette",
-    "value": -4.926343409470976,
+    "value": -4.9263434094709675,
     "valid": true
   },
   {
@@ -2744,7 +2744,7 @@
   {
     "index": 457,
     "NAME": "Bishop",
-    "value": -38.48116382242963,
+    "value": -38.48116382242961,
     "valid": true
   },
   {
@@ -2852,7 +2852,7 @@
   {
     "index": 475,
     "NAME": "St. Helena",
-    "value": -19.97283556287865,
+    "value": -19.972835562878654,
     "valid": true
   },
   {
@@ -2870,7 +2870,7 @@
   {
     "index": 478,
     "NAME": "Twentynine Palms",
-    "value": -6.8023777410038715,
+    "value": -6.80237774100387,
     "valid": true
   },
   {
@@ -2882,13 +2882,13 @@
   {
     "index": 480,
     "NAME": "Yucaipa",
-    "value": -50.90777153880553,
+    "value": -50.9077715388055,
     "valid": true
   },
   {
     "index": 481,
     "NAME": "Yucca Valley",
-    "value": -21.877872044935106,
+    "value": -21.877872044935113,
     "valid": true
   },
   {
@@ -2906,19 +2906,19 @@
   {
     "index": 484,
     "NAME": "Acton",
-    "value": -55.97314445474939,
+    "value": -55.973144454749374,
     "valid": true
   },
   {
     "index": 485,
     "NAME": "Adin",
-    "value": -32.44064094218363,
+    "value": -32.44064094218362,
     "valid": true
   },
   {
     "index": 486,
     "NAME": "Agua Dulce",
-    "value": -54.468468865264754,
+    "value": -54.46846886526475,
     "valid": true
   },
   {
@@ -2930,7 +2930,7 @@
   {
     "index": 488,
     "NAME": "Ahwahnee",
-    "value": -61.21675665477291,
+    "value": -61.21675665477292,
     "valid": true
   },
   {
@@ -2966,7 +2966,7 @@
   {
     "index": 494,
     "NAME": "Alleghany",
-    "value": -38.677059173583984,
+    "value": -38.677059173583956,
     "valid": true
   },
   {
@@ -3008,19 +3008,19 @@
   {
     "index": 501,
     "NAME": "Alpine Village",
-    "value": -27.23476172981065,
+    "value": -27.23476172981064,
     "valid": true
   },
   {
     "index": 502,
     "NAME": "Alta",
-    "value": -57.50000721748643,
+    "value": -57.50000721748646,
     "valid": true
   },
   {
     "index": 503,
     "NAME": "Altadena",
-    "value": -47.10253373796382,
+    "value": -47.10253373796383,
     "valid": true
   },
   {
@@ -3050,13 +3050,13 @@
   {
     "index": 508,
     "NAME": "Anchor Bay",
-    "value": -14.012548695247391,
+    "value": -14.012548695247395,
     "valid": true
   },
   {
     "index": 509,
     "NAME": "Angwin",
-    "value": -49.157626566143676,
+    "value": -49.157626566143804,
     "valid": true
   },
   {
@@ -3068,7 +3068,7 @@
   {
     "index": 511,
     "NAME": "Anza",
-    "value": -60.04436552308724,
+    "value": -60.044365523087244,
     "valid": true
   },
   {
@@ -3104,7 +3104,7 @@
   {
     "index": 517,
     "NAME": "Arnold",
-    "value": -50.6167861746104,
+    "value": -50.61678617461041,
     "valid": true
   },
   {
@@ -3128,7 +3128,7 @@
   {
     "index": 521,
     "NAME": "Aspen Springs",
-    "value": -5.992709839828381,
+    "value": -5.992709839828384,
     "valid": true
   },
   {
@@ -3140,7 +3140,7 @@
   {
     "index": 523,
     "NAME": "Auburn Lake Trails",
-    "value": -52.732146154803424,
+    "value": -52.732146154803395,
     "valid": true
   },
   {
@@ -3152,7 +3152,7 @@
   {
     "index": 525,
     "NAME": "Avery",
-    "value": -55.43567964756938,
+    "value": -55.43567964756939,
     "valid": true
   },
   {
@@ -3188,13 +3188,13 @@
   {
     "index": 531,
     "NAME": "Bangor",
-    "value": -1.50725822418661,
+    "value": -1.5072582241866095,
     "valid": true
   },
   {
     "index": 532,
     "NAME": "Bass Lake",
-    "value": -49.641158189278656,
+    "value": -49.64115818927863,
     "valid": true
   },
   {
@@ -3230,25 +3230,25 @@
   {
     "index": 538,
     "NAME": "Bear Valley",
-    "value": -8.57894115802738,
+    "value": -8.578941158027376,
     "valid": true
   },
   {
     "index": 539,
     "NAME": "Bear Valley",
-    "value": -64.89242219763028,
+    "value": -64.89242219763025,
     "valid": true
   },
   {
     "index": 540,
     "NAME": "Bear Valley Springs",
-    "value": -49.37520091462119,
+    "value": -49.375200914621175,
     "valid": true
   },
   {
     "index": 541,
     "NAME": "Beckwourth",
-    "value": -26.00752211346914,
+    "value": -26.007522113469186,
     "valid": true
   },
   {
@@ -3260,7 +3260,7 @@
   {
     "index": 543,
     "NAME": "Bella Vista",
-    "value": -29.095011826685962,
+    "value": -29.09501182668597,
     "valid": true
   },
   {
@@ -3272,7 +3272,7 @@
   {
     "index": 545,
     "NAME": "Benbow",
-    "value": -69.67216630734319,
+    "value": -69.67216630734316,
     "valid": true
   },
   {
@@ -3290,7 +3290,7 @@
   {
     "index": 548,
     "NAME": "Benton",
-    "value": -27.48746980304587,
+    "value": -27.48746980304586,
     "valid": true
   },
   {
@@ -3302,7 +3302,7 @@
   {
     "index": 550,
     "NAME": "Berry Creek",
-    "value": -63.283034949171075,
+    "value": -63.28303494917107,
     "valid": true
   },
   {
@@ -3320,19 +3320,19 @@
   {
     "index": 553,
     "NAME": "Bieber",
-    "value": -34.18875079532952,
+    "value": -34.188750795329504,
     "valid": true
   },
   {
     "index": 554,
     "NAME": "Big Bear City",
-    "value": -27.010157395215188,
+    "value": -27.01015739521519,
     "valid": true
   },
   {
     "index": 555,
     "NAME": "Big Bend",
-    "value": -45.9602217796257,
+    "value": -45.96022177962566,
     "valid": true
   },
   {
@@ -3344,13 +3344,13 @@
   {
     "index": 557,
     "NAME": "Big Lagoon",
-    "value": -0.4486159706332448,
+    "value": -0.4486159706332446,
     "valid": true
   },
   {
     "index": 558,
     "NAME": "Big Pine",
-    "value": -38.09194740468402,
+    "value": -38.091947404684014,
     "valid": true
   },
   {
@@ -3386,13 +3386,13 @@
   {
     "index": 564,
     "NAME": "Blairsden",
-    "value": -29.74190902709961,
+    "value": -29.74190902709959,
     "valid": true
   },
   {
     "index": 565,
     "NAME": "Bloomfield",
-    "value": -52.21403985104962,
+    "value": -52.21403985104964,
     "valid": true
   },
   {
@@ -3422,7 +3422,7 @@
   {
     "index": 570,
     "NAME": "Bodfish",
-    "value": -60.80585616847314,
+    "value": -60.80585616847311,
     "valid": true
   },
   {
@@ -3452,7 +3452,7 @@
   {
     "index": 575,
     "NAME": "Bonny Doon",
-    "value": -10.223231931089456,
+    "value": -10.223231931089455,
     "valid": true
   },
   {
@@ -3464,7 +3464,7 @@
   {
     "index": 577,
     "NAME": "Boonville",
-    "value": -38.39229007030805,
+    "value": -38.39229007030804,
     "valid": true
   },
   {
@@ -3476,7 +3476,7 @@
   {
     "index": 579,
     "NAME": "Boron",
-    "value": -47.556999325225426,
+    "value": -47.55699932522542,
     "valid": true
   },
   {
@@ -3506,7 +3506,7 @@
   {
     "index": 584,
     "NAME": "Boulevard",
-    "value": -58.35770627102793,
+    "value": -58.35770627102789,
     "valid": true
   },
   {
@@ -3518,7 +3518,7 @@
   {
     "index": 586,
     "NAME": "Boyes Hot Springs",
-    "value": -32.77313111961817,
+    "value": -32.773131119618164,
     "valid": true
   },
   {
@@ -3548,19 +3548,19 @@
   {
     "index": 591,
     "NAME": "Brookdale",
-    "value": -12.119072202430855,
+    "value": -12.119072202430857,
     "valid": true
   },
   {
     "index": 592,
     "NAME": "Brooktrails",
-    "value": -55.85190380483378,
+    "value": -55.851903804833775,
     "valid": true
   },
   {
     "index": 593,
     "NAME": "Buckhorn",
-    "value": -58.57244861588872,
+    "value": -58.5724486158887,
     "valid": true
   },
   {
@@ -3572,7 +3572,7 @@
   {
     "index": 595,
     "NAME": "Bucks Lake",
-    "value": -17.080315988066882,
+    "value": -17.080315988066893,
     "valid": true
   },
   {
@@ -3590,25 +3590,25 @@
   {
     "index": 598,
     "NAME": "Burney",
-    "value": -35.53442249143885,
+    "value": -35.534422491438846,
     "valid": true
   },
   {
     "index": 599,
     "NAME": "Burnt Ranch",
-    "value": -54.092195545564955,
+    "value": -54.09219554556496,
     "valid": true
   },
   {
     "index": 600,
     "NAME": "Butte Creek Canyon",
-    "value": -39.34526623002257,
+    "value": -39.34526623002256,
     "valid": true
   },
   {
     "index": 601,
     "NAME": "Butte Meadows",
-    "value": -33.92230481122839,
+    "value": -33.92230481122838,
     "valid": true
   },
   {
@@ -3638,7 +3638,7 @@
   {
     "index": 606,
     "NAME": "Cabazon",
-    "value": -6.321696695694188,
+    "value": -6.3216966956941905,
     "valid": true
   },
   {
@@ -3650,7 +3650,7 @@
   {
     "index": 608,
     "NAME": "California Pines",
-    "value": -34.07441932334363,
+    "value": -34.074419323343676,
     "valid": true
   },
   {
@@ -3668,7 +3668,7 @@
   {
     "index": 611,
     "NAME": "Calpine",
-    "value": -23.843033755194604,
+    "value": -23.8430337551946,
     "valid": true
   },
   {
@@ -3704,13 +3704,13 @@
   {
     "index": 617,
     "NAME": "Cameron Park",
-    "value": -57.09109478590598,
+    "value": -57.09109478590593,
     "valid": true
   },
   {
     "index": 618,
     "NAME": "Camino",
-    "value": -63.479042025220274,
+    "value": -63.47904202522023,
     "valid": true
   },
   {
@@ -3722,13 +3722,13 @@
   {
     "index": 620,
     "NAME": "Camp Nelson",
-    "value": -7.50851041167346,
+    "value": -7.508510411673454,
     "valid": true
   },
   {
     "index": 621,
     "NAME": "Campo",
-    "value": -54.75728867365277,
+    "value": -54.75728867365273,
     "valid": true
   },
   {
@@ -3746,13 +3746,13 @@
   {
     "index": 624,
     "NAME": "Camptonville",
-    "value": -56.05145263671875,
+    "value": -56.051452636718786,
     "valid": true
   },
   {
     "index": 625,
     "NAME": "Canby",
-    "value": -35.926315809699865,
+    "value": -35.92631580969986,
     "valid": true
   },
   {
@@ -3764,7 +3764,7 @@
   {
     "index": 627,
     "NAME": "Canyondam",
-    "value": -30.584978811345355,
+    "value": -30.584978811345337,
     "valid": true
   },
   {
@@ -3776,7 +3776,7 @@
   {
     "index": 629,
     "NAME": "Carmel Valley Village",
-    "value": -6.305927763207989,
+    "value": -6.30592776320799,
     "valid": true
   },
   {
@@ -3794,19 +3794,19 @@
   {
     "index": 632,
     "NAME": "Carnelian Bay",
-    "value": -16.542112384943017,
+    "value": -16.54211238494303,
     "valid": true
   },
   {
     "index": 633,
     "NAME": "Carrick",
-    "value": -49.3817253112793,
+    "value": -49.38172531127926,
     "valid": true
   },
   {
     "index": 634,
     "NAME": "Cartago",
-    "value": -48.328726906793406,
+    "value": -48.3287269067934,
     "valid": true
   },
   {
@@ -3842,7 +3842,7 @@
   {
     "index": 640,
     "NAME": "Cassel",
-    "value": -34.97794570243379,
+    "value": -34.97794570243387,
     "valid": true
   },
   {
@@ -3884,7 +3884,7 @@
   {
     "index": 647,
     "NAME": "Cazadero",
-    "value": -6.1316753317219925,
+    "value": -6.131675331721984,
     "valid": true
   },
   {
@@ -3896,13 +3896,13 @@
   {
     "index": 649,
     "NAME": "Cedar Slope",
-    "value": -7.402985572814941,
+    "value": -7.402985572814943,
     "valid": true
   },
   {
     "index": 650,
     "NAME": "Cedarville",
-    "value": -40.12277799250889,
+    "value": -40.122777992508894,
     "valid": true
   },
   {
@@ -3920,7 +3920,7 @@
   {
     "index": 653,
     "NAME": "Challenge-Brownsville",
-    "value": -58.685978293422565,
+    "value": -58.685978293422544,
     "valid": true
   },
   {
@@ -3938,7 +3938,7 @@
   {
     "index": 656,
     "NAME": "Cherokee",
-    "value": -85.78114318847656,
+    "value": -85.78114318847649,
     "valid": true
   },
   {
@@ -3956,7 +3956,7 @@
   {
     "index": 659,
     "NAME": "Cherry Valley",
-    "value": -63.508204163044,
+    "value": -63.50820416304387,
     "valid": true
   },
   {
@@ -3968,7 +3968,7 @@
   {
     "index": 661,
     "NAME": "Chilcoot-Vinton",
-    "value": -30.071938100104248,
+    "value": -30.07193810010424,
     "valid": true
   },
   {
@@ -3980,7 +3980,7 @@
   {
     "index": 663,
     "NAME": "Chinese Camp",
-    "value": -60.59117853225007,
+    "value": -60.59117853225005,
     "valid": true
   },
   {
@@ -4010,19 +4010,19 @@
   {
     "index": 668,
     "NAME": "Clear Creek",
-    "value": -27.390559843306217,
+    "value": -27.390559843306185,
     "valid": true
   },
   {
     "index": 669,
     "NAME": "Clearlake Oaks",
-    "value": -58.22985728707622,
+    "value": -58.22985728707626,
     "valid": true
   },
   {
     "index": 670,
     "NAME": "Clearlake Riviera",
-    "value": -63.07968516999528,
+    "value": -63.07968516999526,
     "valid": true
   },
   {
@@ -4034,13 +4034,13 @@
   {
     "index": 672,
     "NAME": "Clio",
-    "value": -25.494840029795494,
+    "value": -25.4948400297955,
     "valid": true
   },
   {
     "index": 673,
     "NAME": "Clipper Mills",
-    "value": -53.380091697644595,
+    "value": -53.38009169764458,
     "valid": true
   },
   {
@@ -4052,43 +4052,43 @@
   {
     "index": 675,
     "NAME": "Coarsegold",
-    "value": -66.11711823967863,
+    "value": -66.11711823967862,
     "valid": true
   },
   {
     "index": 676,
     "NAME": "Cobb",
-    "value": -53.59638355093781,
+    "value": -53.59638355093783,
     "valid": true
   },
   {
     "index": 677,
     "NAME": "Coffee Creek",
-    "value": -33.79746902825423,
+    "value": -33.79746902825421,
     "valid": true
   },
   {
     "index": 678,
     "NAME": "Cohasset",
-    "value": -70.61061869023467,
+    "value": -70.61061869023466,
     "valid": true
   },
   {
     "index": 679,
     "NAME": "Cold Springs",
-    "value": -67.41969450646687,
+    "value": -67.41969450646688,
     "valid": true
   },
   {
     "index": 680,
     "NAME": "Cold Springs",
-    "value": -27.671722489422457,
+    "value": -27.67172248942246,
     "valid": true
   },
   {
     "index": 681,
     "NAME": "Coleville",
-    "value": -34.85978433937657,
+    "value": -34.859784339376574,
     "valid": true
   },
   {
@@ -4106,13 +4106,13 @@
   {
     "index": 684,
     "NAME": "Coloma",
-    "value": -14.545311502736308,
+    "value": -14.545311502736304,
     "valid": true
   },
   {
     "index": 685,
     "NAME": "Columbia",
-    "value": -61.72610031687074,
+    "value": -61.726100316870685,
     "valid": true
   },
   {
@@ -4196,7 +4196,7 @@
   {
     "index": 699,
     "NAME": "Crescent Mills",
-    "value": -37.32183225186376,
+    "value": -37.32183225186374,
     "valid": true
   },
   {
@@ -4226,7 +4226,7 @@
   {
     "index": 704,
     "NAME": "C-Road",
-    "value": -29.171840264030685,
+    "value": -29.171840264030717,
     "valid": true
   },
   {
@@ -4238,13 +4238,13 @@
   {
     "index": 706,
     "NAME": "Cromberg",
-    "value": -26.324221700847474,
+    "value": -26.324221700847495,
     "valid": true
   },
   {
     "index": 707,
     "NAME": "Crowley Lake",
-    "value": -18.796075279899178,
+    "value": -18.796075279899185,
     "valid": true
   },
   {
@@ -4274,13 +4274,13 @@
   {
     "index": 712,
     "NAME": "Daphnedale Park",
-    "value": -31.03995452009124,
+    "value": -31.03995452009123,
     "valid": true
   },
   {
     "index": 713,
     "NAME": "Darwin",
-    "value": -50.55244827270508,
+    "value": -50.552448272705135,
     "valid": true
   },
   {
@@ -4322,7 +4322,7 @@
   {
     "index": 720,
     "NAME": "Delleker",
-    "value": -26.186571130679,
+    "value": -26.186571130678992,
     "valid": true
   },
   {
@@ -4352,7 +4352,7 @@
   {
     "index": 725,
     "NAME": "Derby Acres",
-    "value": -1.7345531882949312,
+    "value": -1.7345531882949314,
     "valid": true
   },
   {
@@ -4388,7 +4388,7 @@
   {
     "index": 731,
     "NAME": "Desert View Highlands",
-    "value": -50.20892333984375,
+    "value": -50.208923339843764,
     "valid": true
   },
   {
@@ -4400,7 +4400,7 @@
   {
     "index": 733,
     "NAME": "Diablo Grande",
-    "value": -75.18812619966714,
+    "value": -75.18812619966704,
     "valid": true
   },
   {
@@ -4424,13 +4424,13 @@
   {
     "index": 737,
     "NAME": "Dixon Lane-Meadow Creek",
-    "value": -37.90420789095607,
+    "value": -37.90420789095609,
     "valid": true
   },
   {
     "index": 738,
     "NAME": "Dobbins",
-    "value": -54.11173248866516,
+    "value": -54.1117324886652,
     "valid": true
   },
   {
@@ -4442,13 +4442,13 @@
   {
     "index": 740,
     "NAME": "Dollar Point",
-    "value": -19.30501830252005,
+    "value": -19.305018302520065,
     "valid": true
   },
   {
     "index": 741,
     "NAME": "Dorrington",
-    "value": -40.3592855082223,
+    "value": -40.35928550822228,
     "valid": true
   },
   {
@@ -4460,19 +4460,19 @@
   {
     "index": 743,
     "NAME": "Douglas City",
-    "value": -54.35419571210987,
+    "value": -54.35419571210992,
     "valid": true
   },
   {
     "index": 744,
     "NAME": "Downieville",
-    "value": -28.143880503228395,
+    "value": -28.143880503228385,
     "valid": true
   },
   {
     "index": 745,
     "NAME": "Doyle",
-    "value": -33.079419303844865,
+    "value": -33.07941930384487,
     "valid": true
   },
   {
@@ -4508,13 +4508,13 @@
   {
     "index": 751,
     "NAME": "Dutch Flat",
-    "value": -59.26355743408203,
+    "value": -59.26355743408202,
     "valid": true
   },
   {
     "index": 752,
     "NAME": "Eagleville",
-    "value": -36.801759591444174,
+    "value": -36.801759591444146,
     "valid": true
   },
   {
@@ -4580,7 +4580,7 @@
   {
     "index": 763,
     "NAME": "East Quincy",
-    "value": -21.164338825593926,
+    "value": -21.164338825593955,
     "valid": true
   },
   {
@@ -4604,13 +4604,13 @@
   {
     "index": 767,
     "NAME": "East Shore",
-    "value": -37.439647289916564,
+    "value": -37.43964728991658,
     "valid": true
   },
   {
     "index": 768,
     "NAME": "East Sonora",
-    "value": -57.693214416503906,
+    "value": -57.69321441650387,
     "valid": true
   },
   {
@@ -4628,7 +4628,7 @@
   {
     "index": 771,
     "NAME": "Edgewood",
-    "value": -58.481178670125246,
+    "value": -58.48117867012527,
     "valid": true
   },
   {
@@ -4646,7 +4646,7 @@
   {
     "index": 774,
     "NAME": "Edwards AFB",
-    "value": -51.72150009882932,
+    "value": -51.721500098829324,
     "valid": true
   },
   {
@@ -4658,13 +4658,13 @@
   {
     "index": 776,
     "NAME": "El Dorado Hills",
-    "value": -14.026689770890012,
+    "value": -14.026689770890014,
     "valid": true
   },
   {
     "index": 777,
     "NAME": "Eldridge",
-    "value": -42.91226836959696,
+    "value": -42.912268369597,
     "valid": true
   },
   {
@@ -4682,7 +4682,7 @@
   {
     "index": 780,
     "NAME": "Elk Creek",
-    "value": -76.48009490966797,
+    "value": -76.48009490966795,
     "valid": true
   },
   {
@@ -4706,13 +4706,13 @@
   {
     "index": 784,
     "NAME": "El Portal",
-    "value": -45.27215204409978,
+    "value": -45.272152044099805,
     "valid": true
   },
   {
     "index": 785,
     "NAME": "El Rancho",
-    "value": -61.628204345703125,
+    "value": -61.628204345703104,
     "valid": true
   },
   {
@@ -4736,7 +4736,7 @@
   {
     "index": 789,
     "NAME": "El Verano",
-    "value": -8.10054929628425,
+    "value": -8.100549296284242,
     "valid": true
   },
   {
@@ -4808,7 +4808,7 @@
   {
     "index": 801,
     "NAME": "Fall River Mills",
-    "value": -37.80815933758058,
+    "value": -37.80815933758059,
     "valid": true
   },
   {
@@ -4832,7 +4832,7 @@
   {
     "index": 805,
     "NAME": "Fetters Hot Springs-Agua Caliente",
-    "value": -63.54018949918848,
+    "value": -63.54018949918844,
     "valid": true
   },
   {
@@ -4844,7 +4844,7 @@
   {
     "index": 807,
     "NAME": "Fieldbrook",
-    "value": -4.3271500762541795,
+    "value": -4.327150076254183,
     "valid": true
   },
   {
@@ -4856,7 +4856,7 @@
   {
     "index": 809,
     "NAME": "Fish Camp",
-    "value": -35.8178825378418,
+    "value": -35.817882537841854,
     "valid": true
   },
   {
@@ -4874,7 +4874,7 @@
   {
     "index": 812,
     "NAME": "Floriston",
-    "value": -16.455154418945312,
+    "value": -16.455154418945305,
     "valid": true
   },
   {
@@ -4892,7 +4892,7 @@
   {
     "index": 815,
     "NAME": "Forbestown",
-    "value": -57.34002031739175,
+    "value": -57.34002031739179,
     "valid": true
   },
   {
@@ -4910,13 +4910,13 @@
   {
     "index": 818,
     "NAME": "Forest Meadows",
-    "value": -58.113993082069435,
+    "value": -58.11399308206938,
     "valid": true
   },
   {
     "index": 819,
     "NAME": "Forest Ranch",
-    "value": -63.32232957338061,
+    "value": -63.32232957338058,
     "valid": true
   },
   {
@@ -4928,7 +4928,7 @@
   {
     "index": 821,
     "NAME": "Fort Bidwell",
-    "value": -33.69758925971887,
+    "value": -33.69758925971896,
     "valid": true
   },
   {
@@ -4988,7 +4988,7 @@
   {
     "index": 831,
     "NAME": "French Gulch",
-    "value": -49.577363367674074,
+    "value": -49.57736336767409,
     "valid": true
   },
   {
@@ -5036,7 +5036,7 @@
   {
     "index": 839,
     "NAME": "Garberville",
-    "value": -70.00830474928976,
+    "value": -70.00830474928979,
     "valid": true
   },
   {
@@ -5066,19 +5066,19 @@
   {
     "index": 844,
     "NAME": "Gasquet",
-    "value": -60.81672105969235,
+    "value": -60.81672105969242,
     "valid": true
   },
   {
     "index": 845,
     "NAME": "Gazelle",
-    "value": -62.860130310058594,
+    "value": -62.86013031005858,
     "valid": true
   },
   {
     "index": 846,
     "NAME": "Georgetown",
-    "value": -67.44106376779713,
+    "value": -67.44106376779712,
     "valid": true
   },
   {
@@ -5102,7 +5102,7 @@
   {
     "index": 850,
     "NAME": "Golden Hills",
-    "value": -55.33620730788037,
+    "value": -55.33620730788036,
     "valid": true
   },
   {
@@ -5138,7 +5138,7 @@
   {
     "index": 856,
     "NAME": "Graeagle",
-    "value": -27.945738406697867,
+    "value": -27.94573840669786,
     "valid": true
   },
   {
@@ -5162,7 +5162,7 @@
   {
     "index": 860,
     "NAME": "Graniteville",
-    "value": -20.778712519479626,
+    "value": -20.77871251947962,
     "valid": true
   },
   {
@@ -5180,7 +5180,7 @@
   {
     "index": 863,
     "NAME": "Greeley Hill",
-    "value": -63.61100314245779,
+    "value": -63.61100314245783,
     "valid": true
   },
   {
@@ -5204,31 +5204,31 @@
   {
     "index": 867,
     "NAME": "Greenhorn",
-    "value": -30.324436496560175,
+    "value": -30.324436496560185,
     "valid": true
   },
   {
     "index": 868,
     "NAME": "Green Valley",
-    "value": -61.621345534456,
+    "value": -61.62134553445598,
     "valid": true
   },
   {
     "index": 869,
     "NAME": "Green Valley",
-    "value": -38.663081237513865,
+    "value": -38.66308123751387,
     "valid": true
   },
   {
     "index": 870,
     "NAME": "Greenview",
-    "value": -63.14141845703125,
+    "value": -63.141418457031264,
     "valid": true
   },
   {
     "index": 871,
     "NAME": "Greenville",
-    "value": -37.16092401159573,
+    "value": -37.160924011595746,
     "valid": true
   },
   {
@@ -5246,25 +5246,25 @@
   {
     "index": 874,
     "NAME": "Grizzly Flats",
-    "value": -56.44882419960442,
+    "value": -56.448824199604424,
     "valid": true
   },
   {
     "index": 875,
     "NAME": "Groveland",
-    "value": -59.29123671974506,
+    "value": -59.291236719745015,
     "valid": true
   },
   {
     "index": 876,
     "NAME": "Guerneville",
-    "value": -60.170658994884384,
+    "value": -60.17065899488434,
     "valid": true
   },
   {
     "index": 877,
     "NAME": "Guinda",
-    "value": -9.665936987557544,
+    "value": -9.665936987557538,
     "valid": true
   },
   {
@@ -5276,7 +5276,7 @@
   {
     "index": 879,
     "NAME": "Hamilton Branch",
-    "value": -35.94704055786133,
+    "value": -35.947040557861335,
     "valid": true
   },
   {
@@ -5288,7 +5288,7 @@
   {
     "index": 881,
     "NAME": "Happy Camp",
-    "value": -48.62566153058353,
+    "value": -48.625661530583564,
     "valid": true
   },
   {
@@ -5306,7 +5306,7 @@
   {
     "index": 884,
     "NAME": "Hartland",
-    "value": -47.08063507080078,
+    "value": -47.080635070800824,
     "valid": true
   },
   {
@@ -5324,7 +5324,7 @@
   {
     "index": 887,
     "NAME": "Hat Creek",
-    "value": -35.91489039237862,
+    "value": -35.914890392378624,
     "valid": true
   },
   {
@@ -5348,7 +5348,7 @@
   {
     "index": 891,
     "NAME": "Herlong",
-    "value": -42.980714325341516,
+    "value": -42.9807143253415,
     "valid": true
   },
   {
@@ -5366,7 +5366,7 @@
   {
     "index": 894,
     "NAME": "Hidden Valley Lake",
-    "value": -63.986422831129445,
+    "value": -63.98642283112944,
     "valid": true
   },
   {
@@ -5390,7 +5390,7 @@
   {
     "index": 898,
     "NAME": "Hiouchi",
-    "value": -27.240827934249367,
+    "value": -27.24082793424937,
     "valid": true
   },
   {
@@ -5414,13 +5414,13 @@
   {
     "index": 902,
     "NAME": "Homestead Valley",
-    "value": -11.000828827178259,
+    "value": -11.00082882717827,
     "valid": true
   },
   {
     "index": 903,
     "NAME": "Homewood Canyon",
-    "value": -49.44605112663497,
+    "value": -49.44605112663498,
     "valid": true
   },
   {
@@ -5444,7 +5444,7 @@
   {
     "index": 907,
     "NAME": "Hopland",
-    "value": -23.644761764701496,
+    "value": -23.644761764701492,
     "valid": true
   },
   {
@@ -5474,19 +5474,19 @@
   {
     "index": 912,
     "NAME": "Hydesville",
-    "value": -0.9191046693910838,
+    "value": -0.919104669391084,
     "valid": true
   },
   {
     "index": 913,
     "NAME": "Idlewild",
-    "value": -48.8350483763892,
+    "value": -48.83504837638924,
     "valid": true
   },
   {
     "index": 914,
     "NAME": "Idyllwild-Pine Cove",
-    "value": -37.73788507285276,
+    "value": -37.7378850728528,
     "valid": true
   },
   {
@@ -5498,7 +5498,7 @@
   {
     "index": 916,
     "NAME": "Indian Falls",
-    "value": -35.99078759299314,
+    "value": -35.99078759299313,
     "valid": true
   },
   {
@@ -5510,7 +5510,7 @@
   {
     "index": 918,
     "NAME": "Indio Hills",
-    "value": -4.237690087393898,
+    "value": -4.237690087393897,
     "valid": true
   },
   {
@@ -5528,13 +5528,13 @@
   {
     "index": 921,
     "NAME": "Inyokern",
-    "value": -53.630727259677215,
+    "value": -53.63072725967717,
     "valid": true
   },
   {
     "index": 922,
     "NAME": "Iron Horse",
-    "value": -24.856401925921684,
+    "value": -24.856401925921695,
     "valid": true
   },
   {
@@ -5552,25 +5552,25 @@
   {
     "index": 925,
     "NAME": "Jacumba",
-    "value": -37.673942416519736,
+    "value": -37.67394241651975,
     "valid": true
   },
   {
     "index": 926,
     "NAME": "Jamestown",
-    "value": -56.858468430732046,
+    "value": -56.858468430732025,
     "valid": true
   },
   {
     "index": 927,
     "NAME": "Jamul",
-    "value": -0.6713451623725307,
+    "value": -0.6713451623725311,
     "valid": true
   },
   {
     "index": 928,
     "NAME": "Janesville",
-    "value": -27.711861559778317,
+    "value": -27.711861559778324,
     "valid": true
   },
   {
@@ -5582,13 +5582,13 @@
   {
     "index": 930,
     "NAME": "Johannesburg",
-    "value": -37.852665627534776,
+    "value": -37.85266562753477,
     "valid": true
   },
   {
     "index": 931,
     "NAME": "Johnstonville",
-    "value": -38.10857993579738,
+    "value": -38.108579935797394,
     "valid": true
   },
   {
@@ -5600,55 +5600,55 @@
   {
     "index": 933,
     "NAME": "Joshua Tree",
-    "value": -27.17208291227977,
+    "value": -27.172082912279777,
     "valid": true
   },
   {
     "index": 934,
     "NAME": "Julian",
-    "value": -60.801291503669376,
+    "value": -60.80129150366937,
     "valid": true
   },
   {
     "index": 935,
     "NAME": "Junction City",
-    "value": -46.0519182254623,
+    "value": -46.051918225462316,
     "valid": true
   },
   {
     "index": 936,
     "NAME": "June Lake",
-    "value": -3.7792040171273653,
+    "value": -3.779204017127366,
     "valid": true
   },
   {
     "index": 937,
     "NAME": "Keddie",
-    "value": -37.53975587564928,
+    "value": -37.539755875649284,
     "valid": true
   },
   {
     "index": 938,
     "NAME": "Keeler",
-    "value": -53.889707920154166,
+    "value": -53.889707920154216,
     "valid": true
   },
   {
     "index": 939,
     "NAME": "Keene",
-    "value": -39.25527087902787,
+    "value": -39.255270879027876,
     "valid": true
   },
   {
     "index": 940,
     "NAME": "Kelly Ridge",
-    "value": -72.85638427734375,
+    "value": -72.85638427734388,
     "valid": true
   },
   {
     "index": 941,
     "NAME": "Kelseyville",
-    "value": -67.46977996826172,
+    "value": -67.46977996826192,
     "valid": true
   },
   {
@@ -5660,7 +5660,7 @@
   {
     "index": 943,
     "NAME": "Kennedy Meadows",
-    "value": -22.419864728623363,
+    "value": -22.419864728623352,
     "valid": true
   },
   {
@@ -5672,13 +5672,13 @@
   {
     "index": 945,
     "NAME": "Kentfield",
-    "value": -0.805794499586007,
+    "value": -0.8057944995860069,
     "valid": true
   },
   {
     "index": 946,
     "NAME": "Kenwood",
-    "value": -50.264013737766994,
+    "value": -50.264013737767165,
     "valid": true
   },
   {
@@ -5690,7 +5690,7 @@
   {
     "index": 948,
     "NAME": "Keswick",
-    "value": -69.39696483398303,
+    "value": -69.39696483398298,
     "valid": true
   },
   {
@@ -5708,25 +5708,25 @@
   {
     "index": 951,
     "NAME": "Kings Beach",
-    "value": -13.347833847567207,
+    "value": -13.347833847567205,
     "valid": true
   },
   {
     "index": 952,
     "NAME": "Kingvale",
-    "value": -4.773890286064491,
+    "value": -4.773890286064493,
     "valid": true
   },
   {
     "index": 953,
     "NAME": "Kirkwood",
-    "value": -3.70217631712881,
+    "value": -3.702176317128809,
     "valid": true
   },
   {
     "index": 954,
     "NAME": "Klamath",
-    "value": -54.46452908268905,
+    "value": -54.46452908268903,
     "valid": true
   },
   {
@@ -5744,7 +5744,7 @@
   {
     "index": 957,
     "NAME": "La Crescenta-Montrose",
-    "value": -79.43148685909729,
+    "value": -79.43148685909726,
     "valid": true
   },
   {
@@ -5774,13 +5774,13 @@
   {
     "index": 962,
     "NAME": "La Honda",
-    "value": -5.248529350352696,
+    "value": -5.248529350352695,
     "valid": true
   },
   {
     "index": 963,
     "NAME": "Lake Almanor Country Club",
-    "value": -37.98749738141437,
+    "value": -37.987497381414386,
     "valid": true
   },
   {
@@ -5792,7 +5792,7 @@
   {
     "index": 965,
     "NAME": "Lake Almanor West",
-    "value": -38.701018609679906,
+    "value": -38.70101860967989,
     "valid": true
   },
   {
@@ -5810,31 +5810,31 @@
   {
     "index": 968,
     "NAME": "Lake City",
-    "value": -30.859185871016543,
+    "value": -30.85918587101652,
     "valid": true
   },
   {
     "index": 969,
     "NAME": "Lake Davis",
-    "value": -25.74908652227678,
+    "value": -25.749086522276826,
     "valid": true
   },
   {
     "index": 970,
     "NAME": "Lake Don Pedro",
-    "value": -8.164630229908783,
+    "value": -8.164630229908779,
     "valid": true
   },
   {
     "index": 971,
     "NAME": "Lakehead",
-    "value": -55.813301971890816,
+    "value": -55.81330197189083,
     "valid": true
   },
   {
     "index": 972,
     "NAME": "Lake Hughes",
-    "value": -61.86062656615662,
+    "value": -61.860626566156604,
     "valid": true
   },
   {
@@ -5846,13 +5846,13 @@
   {
     "index": 974,
     "NAME": "Lakeland Village",
-    "value": -40.97365555424697,
+    "value": -40.9736555542469,
     "valid": true
   },
   {
     "index": 975,
     "NAME": "Lake Los Angeles",
-    "value": -67.66470931080815,
+    "value": -67.66470931080814,
     "valid": true
   },
   {
@@ -5870,19 +5870,19 @@
   {
     "index": 978,
     "NAME": "Lake of the Pines",
-    "value": -77.90804801677983,
+    "value": -77.90804801677972,
     "valid": true
   },
   {
     "index": 979,
     "NAME": "Lake of the Woods",
-    "value": -38.950730086262176,
+    "value": -38.95073008626217,
     "valid": true
   },
   {
     "index": 980,
     "NAME": "Lake Riverside",
-    "value": -58.76789860598355,
+    "value": -58.76789860598356,
     "valid": true
   },
   {
@@ -5912,7 +5912,7 @@
   {
     "index": 985,
     "NAME": "Lake Wildwood",
-    "value": -3.2138998620318358,
+    "value": -3.213899862031837,
     "valid": true
   },
   {
@@ -5948,7 +5948,7 @@
   {
     "index": 991,
     "NAME": "Larkfield-Wikiup",
-    "value": -25.90331547884615,
+    "value": -25.90331547884613,
     "valid": true
   },
   {
@@ -5990,25 +5990,25 @@
   {
     "index": 998,
     "NAME": "Laytonville",
-    "value": -61.51527575481667,
+    "value": -61.515275754816685,
     "valid": true
   },
   {
     "index": 999,
     "NAME": "Lebec",
-    "value": -51.61332231809291,
+    "value": -51.613322318092855,
     "valid": true
   },
   {
     "index": 1000,
     "NAME": "Lee Vining",
-    "value": -15.50163720284443,
+    "value": -15.501637202844435,
     "valid": true
   },
   {
     "index": 1001,
     "NAME": "Leggett",
-    "value": -65.31970800099037,
+    "value": -65.31970800099036,
     "valid": true
   },
   {
@@ -6020,7 +6020,7 @@
   {
     "index": 1003,
     "NAME": "Lemon Cove",
-    "value": -74.1047962292278,
+    "value": -74.10479622922779,
     "valid": true
   },
   {
@@ -6056,19 +6056,19 @@
   {
     "index": 1009,
     "NAME": "Lewiston",
-    "value": -48.42187622071342,
+    "value": -48.42187622071343,
     "valid": true
   },
   {
     "index": 1010,
     "NAME": "Lexington Hills",
-    "value": -49.349071877712674,
+    "value": -49.34907187771265,
     "valid": true
   },
   {
     "index": 1011,
     "NAME": "Likely",
-    "value": -34.42534994839491,
+    "value": -34.42534994839497,
     "valid": true
   },
   {
@@ -6086,7 +6086,7 @@
   {
     "index": 1014,
     "NAME": "Lindcove",
-    "value": -0.010043215925464323,
+    "value": -0.010043215925464321,
     "valid": true
   },
   {
@@ -6104,13 +6104,13 @@
   {
     "index": 1017,
     "NAME": "Litchfield",
-    "value": -36.66935222510216,
+    "value": -36.66935222510217,
     "valid": true
   },
   {
     "index": 1018,
     "NAME": "Little Grass Valley",
-    "value": -24.5181374602623,
+    "value": -24.518137460262267,
     "valid": true
   },
   {
@@ -6122,13 +6122,13 @@
   {
     "index": 1020,
     "NAME": "Littlerock",
-    "value": -65.03209530442241,
+    "value": -65.03209530442243,
     "valid": true
   },
   {
     "index": 1021,
     "NAME": "Little Valley",
-    "value": -34.28318786621094,
+    "value": -34.28318786621093,
     "valid": true
   },
   {
@@ -6146,13 +6146,13 @@
   {
     "index": 1024,
     "NAME": "Lockwood",
-    "value": 1.416206749195902,
+    "value": 1.4162067491959025,
     "valid": true
   },
   {
     "index": 1025,
     "NAME": "Lodoga",
-    "value": -61.983589979129185,
+    "value": -61.983589979129206,
     "valid": true
   },
   {
@@ -6170,7 +6170,7 @@
   {
     "index": 1028,
     "NAME": "Loma Rica",
-    "value": -9.654143169578058,
+    "value": -9.654143169578054,
     "valid": true
   },
   {
@@ -6188,7 +6188,7 @@
   {
     "index": 1031,
     "NAME": "Lone Pine",
-    "value": -48.71496026319223,
+    "value": -48.714960263192225,
     "valid": true
   },
   {
@@ -6200,7 +6200,7 @@
   {
     "index": 1033,
     "NAME": "Lookout",
-    "value": -33.871479045654375,
+    "value": -33.871479045654354,
     "valid": true
   },
   {
@@ -6248,7 +6248,7 @@
   {
     "index": 1041,
     "NAME": "Lower Lake",
-    "value": -58.44819565783016,
+    "value": -58.448195657830134,
     "valid": true
   },
   {
@@ -6266,7 +6266,7 @@
   {
     "index": 1044,
     "NAME": "Lucerne",
-    "value": -57.13786752977978,
+    "value": -57.13786752977982,
     "valid": true
   },
   {
@@ -6284,13 +6284,13 @@
   {
     "index": 1047,
     "NAME": "Mabie",
-    "value": -29.997788290475228,
+    "value": -29.997788290475253,
     "valid": true
   },
   {
     "index": 1048,
     "NAME": "McArthur",
-    "value": -39.894718170166016,
+    "value": -39.89471817016597,
     "valid": true
   },
   {
@@ -6302,25 +6302,25 @@
   {
     "index": 1050,
     "NAME": "McClenney Tract",
-    "value": -51.791419982910156,
+    "value": -51.79141998291025,
     "valid": true
   },
   {
     "index": 1051,
     "NAME": "McCloud",
-    "value": -30.3950936673938,
+    "value": -30.395093667393805,
     "valid": true
   },
   {
     "index": 1052,
     "NAME": "Macdoel",
-    "value": -31.592845916748047,
+    "value": -31.592845916748043,
     "valid": true
   },
   {
     "index": 1053,
     "NAME": "McGee Creek",
-    "value": -17.008264795838052,
+    "value": -17.008264795838056,
     "valid": true
   },
   {
@@ -6356,13 +6356,13 @@
   {
     "index": 1059,
     "NAME": "Mad River",
-    "value": -42.531302364956126,
+    "value": -42.53130236495615,
     "valid": true
   },
   {
     "index": 1060,
     "NAME": "Magalia",
-    "value": -65.94614253220247,
+    "value": -65.9461425322025,
     "valid": true
   },
   {
@@ -6386,7 +6386,7 @@
   {
     "index": 1064,
     "NAME": "Manton",
-    "value": -56.32404281554678,
+    "value": -56.32404281554687,
     "valid": true
   },
   {
@@ -6410,13 +6410,13 @@
   {
     "index": 1068,
     "NAME": "Mariposa",
-    "value": -67.94422993918617,
+    "value": -67.9442299391862,
     "valid": true
   },
   {
     "index": 1069,
     "NAME": "Markleeville",
-    "value": -15.528201764318917,
+    "value": -15.528201764318922,
     "valid": true
   },
   {
@@ -6464,13 +6464,13 @@
   {
     "index": 1077,
     "NAME": "Meadow Valley",
-    "value": -28.391557142713264,
+    "value": -28.391557142713232,
     "valid": true
   },
   {
     "index": 1078,
     "NAME": "Meadow Vista",
-    "value": -76.9248918067704,
+    "value": -76.92489180677042,
     "valid": true
   },
   {
@@ -6500,7 +6500,7 @@
   {
     "index": 1083,
     "NAME": "Mentone",
-    "value": -23.33218970597046,
+    "value": -23.332189705970464,
     "valid": true
   },
   {
@@ -6524,7 +6524,7 @@
   {
     "index": 1087,
     "NAME": "Mesa Vista",
-    "value": -28.118447197401274,
+    "value": -28.11844719740128,
     "valid": true
   },
   {
@@ -6542,13 +6542,13 @@
   {
     "index": 1090,
     "NAME": "Middletown",
-    "value": -63.56242202644269,
+    "value": -63.56242202644266,
     "valid": true
   },
   {
     "index": 1091,
     "NAME": "Midpines",
-    "value": -58.67071034113282,
+    "value": -58.67071034113279,
     "valid": true
   },
   {
@@ -6560,7 +6560,7 @@
   {
     "index": 1093,
     "NAME": "Milford",
-    "value": -29.11528831890874,
+    "value": -29.115288318908735,
     "valid": true
   },
   {
@@ -6572,7 +6572,7 @@
   {
     "index": 1095,
     "NAME": "Mineral",
-    "value": -10.345875929934511,
+    "value": -10.34587592993451,
     "valid": true
   },
   {
@@ -6590,13 +6590,13 @@
   {
     "index": 1098,
     "NAME": "Miranda",
-    "value": -74.55743884104231,
+    "value": -74.55743884104234,
     "valid": true
   },
   {
     "index": 1099,
     "NAME": "Mission Canyon",
-    "value": -15.186651229858398,
+    "value": -15.186651229858413,
     "valid": true
   },
   {
@@ -6608,7 +6608,7 @@
   {
     "index": 1101,
     "NAME": "Mi-Wuk Village",
-    "value": -47.59721461563091,
+    "value": -47.5972146156309,
     "valid": true
   },
   {
@@ -6626,7 +6626,7 @@
   {
     "index": 1104,
     "NAME": "Mokelumne Hill",
-    "value": -74.63191866165307,
+    "value": -74.63191866165309,
     "valid": true
   },
   {
@@ -6638,13 +6638,13 @@
   {
     "index": 1106,
     "NAME": "Mono City",
-    "value": -16.672691593290782,
+    "value": -16.67269159329078,
     "valid": true
   },
   {
     "index": 1107,
     "NAME": "Mono Vista",
-    "value": -56.27307185779962,
+    "value": -56.27307185779963,
     "valid": true
   },
   {
@@ -6668,7 +6668,7 @@
   {
     "index": 1111,
     "NAME": "Montecito",
-    "value": -23.806951578173642,
+    "value": -23.806951578173646,
     "valid": true
   },
   {
@@ -6686,7 +6686,7 @@
   {
     "index": 1114,
     "NAME": "Montgomery Creek",
-    "value": -47.676246643066406,
+    "value": -47.6762466430664,
     "valid": true
   },
   {
@@ -6704,13 +6704,13 @@
   {
     "index": 1117,
     "NAME": "Morongo Valley",
-    "value": -55.92103881111344,
+    "value": -55.921038811113434,
     "valid": true
   },
   {
     "index": 1118,
     "NAME": "Moskowite Corner",
-    "value": -24.86608839441416,
+    "value": -24.86608839441414,
     "valid": true
   },
   {
@@ -6728,13 +6728,13 @@
   {
     "index": 1121,
     "NAME": "Mountain Center",
-    "value": -47.85932540893555,
+    "value": -47.85932540893561,
     "valid": true
   },
   {
     "index": 1122,
     "NAME": "Mountain Gate",
-    "value": -61.82554609237543,
+    "value": -61.82554609237533,
     "valid": true
   },
   {
@@ -6746,13 +6746,13 @@
   {
     "index": 1124,
     "NAME": "Mountain Mesa",
-    "value": -73.84398651123047,
+    "value": -73.84398651123044,
     "valid": true
   },
   {
     "index": 1125,
     "NAME": "Mountain Ranch",
-    "value": -59.63925618713812,
+    "value": -59.63925618713811,
     "valid": true
   },
   {
@@ -6764,13 +6764,13 @@
   {
     "index": 1127,
     "NAME": "Mountain View Acres",
-    "value": -57.35173677380355,
+    "value": -57.35173677380358,
     "valid": true
   },
   {
     "index": 1128,
     "NAME": "Mount Hebron",
-    "value": -33.02195358276367,
+    "value": -33.02195358276368,
     "valid": true
   },
   {
@@ -6788,7 +6788,7 @@
   {
     "index": 1131,
     "NAME": "Muir Beach",
-    "value": -0.1440685143336847,
+    "value": -0.14406851433368464,
     "valid": true
   },
   {
@@ -6824,19 +6824,19 @@
   {
     "index": 1137,
     "NAME": "New Cuyama",
-    "value": -41.53675695701089,
+    "value": -41.5367569570109,
     "valid": true
   },
   {
     "index": 1138,
     "NAME": "Newell",
-    "value": -41.240244866047284,
+    "value": -41.24024486604727,
     "valid": true
   },
   {
     "index": 1139,
     "NAME": "New Pine Creek",
-    "value": -23.13555786655247,
+    "value": -23.135557866552478,
     "valid": true
   },
   {
@@ -6848,7 +6848,7 @@
   {
     "index": 1141,
     "NAME": "Nice",
-    "value": -57.873813661627445,
+    "value": -57.87381366162745,
     "valid": true
   },
   {
@@ -6866,7 +6866,7 @@
   {
     "index": 1144,
     "NAME": "Nipinnawasee",
-    "value": -55.30547332763672,
+    "value": -55.30547332763677,
     "valid": true
   },
   {
@@ -6890,13 +6890,13 @@
   {
     "index": 1148,
     "NAME": "North Auburn",
-    "value": -22.49717934231102,
+    "value": -22.49717934231104,
     "valid": true
   },
   {
     "index": 1149,
     "NAME": "North Edwards",
-    "value": -19.247059170500673,
+    "value": -19.247059170500663,
     "valid": true
   },
   {
@@ -6926,7 +6926,7 @@
   {
     "index": 1154,
     "NAME": "North Lakeport",
-    "value": -65.48483187727365,
+    "value": -65.48483187727363,
     "valid": true
   },
   {
@@ -6956,7 +6956,7 @@
   {
     "index": 1159,
     "NAME": "Nubieber",
-    "value": -33.853787078507246,
+    "value": -33.85378707850721,
     "valid": true
   },
   {
@@ -6968,7 +6968,7 @@
   {
     "index": 1161,
     "NAME": "Oak Glen",
-    "value": -52.39975826966109,
+    "value": -52.399758269661106,
     "valid": true
   },
   {
@@ -6980,7 +6980,7 @@
   {
     "index": 1163,
     "NAME": "Oakhurst",
-    "value": -62.66804948283362,
+    "value": -62.66804948283359,
     "valid": true
   },
   {
@@ -7016,7 +7016,7 @@
   {
     "index": 1169,
     "NAME": "Occidental",
-    "value": -47.814843529221335,
+    "value": -47.81484352922124,
     "valid": true
   },
   {
@@ -7040,7 +7040,7 @@
   {
     "index": 1173,
     "NAME": "Olancha",
-    "value": -54.34840135520276,
+    "value": -54.34840135520275,
     "valid": true
   },
   {
@@ -7052,7 +7052,7 @@
   {
     "index": 1175,
     "NAME": "Old Station",
-    "value": -34.16198160825748,
+    "value": -34.16198160825747,
     "valid": true
   },
   {
@@ -7064,7 +7064,7 @@
   {
     "index": 1177,
     "NAME": "Onyx",
-    "value": -56.181034040585146,
+    "value": -56.181034040585125,
     "valid": true
   },
   {
@@ -7094,7 +7094,7 @@
   {
     "index": 1182,
     "NAME": "Oroville East",
-    "value": -17.14100089037759,
+    "value": -17.141000890377597,
     "valid": true
   },
   {
@@ -7148,7 +7148,7 @@
   {
     "index": 1191,
     "NAME": "Paradise",
-    "value": -37.451392179368646,
+    "value": -37.4513921793687,
     "valid": true
   },
   {
@@ -7190,7 +7190,7 @@
   {
     "index": 1198,
     "NAME": "Paskenta",
-    "value": -71.62440777531411,
+    "value": -71.62440777531404,
     "valid": true
   },
   {
@@ -7202,25 +7202,25 @@
   {
     "index": 1200,
     "NAME": "Patton Village",
-    "value": -43.50344734231474,
+    "value": -43.50344734231473,
     "valid": true
   },
   {
     "index": 1201,
     "NAME": "Paxton",
-    "value": -38.92203855472399,
+    "value": -38.922038554724,
     "valid": true
   },
   {
     "index": 1202,
     "NAME": "Paynes Creek",
-    "value": -59.8904914855957,
+    "value": -59.89049148559577,
     "valid": true
   },
   {
     "index": 1203,
     "NAME": "Pearsonville",
-    "value": -40.53732540116249,
+    "value": -40.5373254011625,
     "valid": true
   },
   {
@@ -7232,7 +7232,7 @@
   {
     "index": 1205,
     "NAME": "Penn Valley",
-    "value": -13.810230547433143,
+    "value": -13.810230547433145,
     "valid": true
   },
   {
@@ -7262,7 +7262,7 @@
   {
     "index": 1210,
     "NAME": "Phillipsville",
-    "value": -76.13688659667969,
+    "value": -76.13688659667967,
     "valid": true
   },
   {
@@ -7274,19 +7274,19 @@
   {
     "index": 1212,
     "NAME": "Phoenix Lake",
-    "value": -56.62933062585651,
+    "value": -56.629330625856554,
     "valid": true
   },
   {
     "index": 1213,
     "NAME": "Pierpoint",
-    "value": -29.534213156932545,
+    "value": -29.534213156932527,
     "valid": true
   },
   {
     "index": 1214,
     "NAME": "Pike",
-    "value": -56.30182895864985,
+    "value": -56.301828958649914,
     "valid": true
   },
   {
@@ -7304,7 +7304,7 @@
   {
     "index": 1217,
     "NAME": "Pine Grove",
-    "value": -63.01752562039012,
+    "value": -63.017525620390025,
     "valid": true
   },
   {
@@ -7316,31 +7316,31 @@
   {
     "index": 1219,
     "NAME": "Pine Mountain Club",
-    "value": -24.84358566769672,
+    "value": -24.8435856676967,
     "valid": true
   },
   {
     "index": 1220,
     "NAME": "Pine Mountain Lake",
-    "value": -59.25476970914676,
+    "value": -59.25476970914674,
     "valid": true
   },
   {
     "index": 1221,
     "NAME": "Pine Valley",
-    "value": -55.9639362101061,
+    "value": -55.96393621010614,
     "valid": true
   },
   {
     "index": 1222,
     "NAME": "Pi\u00f1on Hills",
-    "value": -63.31742640725068,
+    "value": -63.31742640725065,
     "valid": true
   },
   {
     "index": 1223,
     "NAME": "Pioneer",
-    "value": -59.68656092195815,
+    "value": -59.686560921958176,
     "valid": true
   },
   {
@@ -7376,7 +7376,7 @@
   {
     "index": 1229,
     "NAME": "Plumas Eureka",
-    "value": -34.928393924321014,
+    "value": -34.928393924320986,
     "valid": true
   },
   {
@@ -7418,31 +7418,31 @@
   {
     "index": 1236,
     "NAME": "Posey",
-    "value": -48.596817024777984,
+    "value": -48.59681702477801,
     "valid": true
   },
   {
     "index": 1237,
     "NAME": "Poso Park",
-    "value": -48.324180518520095,
+    "value": -48.32418051852009,
     "valid": true
   },
   {
     "index": 1238,
     "NAME": "Potrero",
-    "value": -63.26877993609752,
+    "value": -63.268779936097516,
     "valid": true
   },
   {
     "index": 1239,
     "NAME": "Potter Valley",
-    "value": -67.02667077868507,
+    "value": -67.02667077868509,
     "valid": true
   },
   {
     "index": 1240,
     "NAME": "Prattville",
-    "value": -39.118255615234375,
+    "value": -39.11825561523439,
     "valid": true
   },
   {
@@ -7466,25 +7466,25 @@
   {
     "index": 1244,
     "NAME": "Quartz Hill",
-    "value": -52.423973083496094,
+    "value": -52.42397308349613,
     "valid": true
   },
   {
     "index": 1245,
     "NAME": "Quincy",
-    "value": -22.32880525044698,
+    "value": -22.328805250446962,
     "valid": true
   },
   {
     "index": 1246,
     "NAME": "Rackerby",
-    "value": -62.178083145253645,
+    "value": -62.1780831452536,
     "valid": true
   },
   {
     "index": 1247,
     "NAME": "Rail Road Flat",
-    "value": -60.232165251204684,
+    "value": -60.23216525120467,
     "valid": true
   },
   {
@@ -7502,7 +7502,7 @@
   {
     "index": 1250,
     "NAME": "Ramona",
-    "value": -0.5852128243745772,
+    "value": -0.5852128243745769,
     "valid": true
   },
   {
@@ -7538,31 +7538,31 @@
   {
     "index": 1256,
     "NAME": "Randsburg",
-    "value": -39.61740202792329,
+    "value": -39.617402027923305,
     "valid": true
   },
   {
     "index": 1257,
     "NAME": "Red Corral",
-    "value": -60.27350833352968,
+    "value": -60.27350833352972,
     "valid": true
   },
   {
     "index": 1258,
     "NAME": "Redcrest",
-    "value": -61.75451529775638,
+    "value": -61.75451529775631,
     "valid": true
   },
   {
     "index": 1259,
     "NAME": "Redway",
-    "value": -68.46506107721994,
+    "value": -68.46506107721991,
     "valid": true
   },
   {
     "index": 1260,
     "NAME": "Redwood Valley",
-    "value": -70.76188833427962,
+    "value": -70.76188833427955,
     "valid": true
   },
   {
@@ -7646,7 +7646,7 @@
   {
     "index": 1274,
     "NAME": "Robinson Mill",
-    "value": -58.26836566065449,
+    "value": -58.268365660654496,
     "valid": true
   },
   {
@@ -7682,7 +7682,7 @@
   {
     "index": 1280,
     "NAME": "Rosamond",
-    "value": -47.36137809322857,
+    "value": -47.361378093228566,
     "valid": true
   },
   {
@@ -7718,19 +7718,19 @@
   {
     "index": 1286,
     "NAME": "Rough and Ready",
-    "value": -67.04334644573758,
+    "value": -67.0433464457377,
     "valid": true
   },
   {
     "index": 1287,
     "NAME": "Round Mountain",
-    "value": -50.321220718434176,
+    "value": -50.32122071843416,
     "valid": true
   },
   {
     "index": 1288,
     "NAME": "Round Valley",
-    "value": -36.90019150586156,
+    "value": -36.90019150586157,
     "valid": true
   },
   {
@@ -7748,13 +7748,13 @@
   {
     "index": 1291,
     "NAME": "Running Springs",
-    "value": -41.22630650992665,
+    "value": -41.2263065099266,
     "valid": true
   },
   {
     "index": 1292,
     "NAME": "Ruth",
-    "value": -37.27581102040845,
+    "value": -37.275811020408476,
     "valid": true
   },
   {
@@ -7796,13 +7796,13 @@
   {
     "index": 1299,
     "NAME": "San Andreas",
-    "value": -26.317592889605148,
+    "value": -26.317592889605162,
     "valid": true
   },
   {
     "index": 1300,
     "NAME": "San Antonio Heights",
-    "value": -52.36335372924805,
+    "value": -52.36335372924808,
     "valid": true
   },
   {
@@ -7838,7 +7838,7 @@
   {
     "index": 1306,
     "NAME": "San Martin",
-    "value": -0.7014352730546302,
+    "value": -0.7014352730546306,
     "valid": true
   },
   {
@@ -7916,7 +7916,7 @@
   {
     "index": 1319,
     "NAME": "Sattley",
-    "value": -27.319601963057913,
+    "value": -27.31960196305792,
     "valid": true
   },
   {
@@ -7952,7 +7952,7 @@
   {
     "index": 1325,
     "NAME": "Sequoia Crest",
-    "value": -16.358895290328974,
+    "value": -16.358895290328977,
     "valid": true
   },
   {
@@ -7976,13 +7976,13 @@
   {
     "index": 1329,
     "NAME": "Shasta",
-    "value": -68.83128838965872,
+    "value": -68.8312883896587,
     "valid": true
   },
   {
     "index": 1330,
     "NAME": "Shaver Lake",
-    "value": -41.47935681138175,
+    "value": -41.47935681138177,
     "valid": true
   },
   {
@@ -7994,7 +7994,7 @@
   {
     "index": 1332,
     "NAME": "Shelter Cove",
-    "value": -31.55247691682255,
+    "value": -31.552476916822545,
     "valid": true
   },
   {
@@ -8006,13 +8006,13 @@
   {
     "index": 1334,
     "NAME": "Shingle Springs",
-    "value": -61.38773447465891,
+    "value": -61.387734474658885,
     "valid": true
   },
   {
     "index": 1335,
     "NAME": "Shingletown",
-    "value": -49.79324724132548,
+    "value": -49.79324724132549,
     "valid": true
   },
   {
@@ -8024,37 +8024,37 @@
   {
     "index": 1337,
     "NAME": "Sierra Brooks",
-    "value": -31.689197540283203,
+    "value": -31.689197540283224,
     "valid": true
   },
   {
     "index": 1338,
     "NAME": "Sierra City",
-    "value": -13.9437759766552,
+    "value": -13.943775976655203,
     "valid": true
   },
   {
     "index": 1339,
     "NAME": "Sierra Village",
-    "value": -42.998917846405824,
+    "value": -42.99891784640583,
     "valid": true
   },
   {
     "index": 1340,
     "NAME": "Sierraville",
-    "value": -27.966718015757827,
+    "value": -27.96671801575785,
     "valid": true
   },
   {
     "index": 1341,
     "NAME": "Silverado Resort",
-    "value": -21.697314366681525,
+    "value": -21.69731436668152,
     "valid": true
   },
   {
     "index": 1342,
     "NAME": "Silver City",
-    "value": -4.147950172424316,
+    "value": -4.147950172424315,
     "valid": true
   },
   {
@@ -8096,7 +8096,7 @@
   {
     "index": 1349,
     "NAME": "Smith River",
-    "value": -1.416098919246013,
+    "value": -1.4160989192460125,
     "valid": true
   },
   {
@@ -8108,13 +8108,13 @@
   {
     "index": 1351,
     "NAME": "Soda Bay",
-    "value": -62.69484566200363,
+    "value": -62.694845662003644,
     "valid": true
   },
   {
     "index": 1352,
     "NAME": "Soda Springs",
-    "value": -3.411540589675083,
+    "value": -3.4115405896750843,
     "valid": true
   },
   {
@@ -8126,7 +8126,7 @@
   {
     "index": 1354,
     "NAME": "Soulsbyville",
-    "value": -54.16666128939328,
+    "value": -54.166661289393275,
     "valid": true
   },
   {
@@ -8174,7 +8174,7 @@
   {
     "index": 1362,
     "NAME": "Spaulding",
-    "value": -31.676915003870718,
+    "value": -31.67691500387074,
     "valid": true
   },
   {
@@ -8186,13 +8186,13 @@
   {
     "index": 1364,
     "NAME": "Spring Garden",
-    "value": -37.04015506267073,
+    "value": -37.04015506267056,
     "valid": true
   },
   {
     "index": 1365,
     "NAME": "Spring Valley",
-    "value": -56.244655085801945,
+    "value": -56.24465508580193,
     "valid": true
   },
   {
@@ -8204,31 +8204,31 @@
   {
     "index": 1367,
     "NAME": "Spring Valley Lake",
-    "value": -67.5446532233776,
+    "value": -67.54465322337762,
     "valid": true
   },
   {
     "index": 1368,
     "NAME": "Springville",
-    "value": -43.080900035133894,
+    "value": -43.08090003513389,
     "valid": true
   },
   {
     "index": 1369,
     "NAME": "Squaw Valley",
-    "value": -61.07284384261129,
+    "value": -61.072843842611285,
     "valid": true
   },
   {
     "index": 1370,
     "NAME": "Squirrel Mountain Valley",
-    "value": -57.15666016426203,
+    "value": -57.15666016426202,
     "valid": true
   },
   {
     "index": 1371,
     "NAME": "Stallion Springs",
-    "value": -54.105581586888725,
+    "value": -54.105581586888746,
     "valid": true
   },
   {
@@ -8258,7 +8258,7 @@
   {
     "index": 1376,
     "NAME": "Stirling City",
-    "value": -56.985008239746094,
+    "value": -56.98500823974608,
     "valid": true
   },
   {
@@ -8270,7 +8270,7 @@
   {
     "index": 1378,
     "NAME": "Storrie",
-    "value": -47.258880615234375,
+    "value": -47.258880615234396,
     "valid": true
   },
   {
@@ -8294,19 +8294,19 @@
   {
     "index": 1382,
     "NAME": "Strawberry",
-    "value": -32.45438065153395,
+    "value": -32.454380651533995,
     "valid": true
   },
   {
     "index": 1383,
     "NAME": "Sugarloaf Mountain Park",
-    "value": -16.396339416503906,
+    "value": -16.396339416503903,
     "valid": true
   },
   {
     "index": 1384,
     "NAME": "Sugarloaf Saw Mill",
-    "value": -16.396339416503906,
+    "value": -16.39633941650391,
     "valid": true
   },
   {
@@ -8336,13 +8336,13 @@
   {
     "index": 1389,
     "NAME": "Sunnyside-Tahoe City",
-    "value": -21.7092886350576,
+    "value": -21.709288635057604,
     "valid": true
   },
   {
     "index": 1390,
     "NAME": "Sunny Slopes",
-    "value": -17.777750771061893,
+    "value": -17.777750771061896,
     "valid": true
   },
   {
@@ -8354,7 +8354,7 @@
   {
     "index": 1392,
     "NAME": "Sun Village",
-    "value": -62.46160327772097,
+    "value": -62.46160327772099,
     "valid": true
   },
   {
@@ -8366,7 +8366,7 @@
   {
     "index": 1394,
     "NAME": "Swall Meadows",
-    "value": -18.23702956879752,
+    "value": -18.237029568797517,
     "valid": true
   },
   {
@@ -8384,7 +8384,7 @@
   {
     "index": 1397,
     "NAME": "Tahoe Vista",
-    "value": -16.023989883850067,
+    "value": -16.02398988385007,
     "valid": true
   },
   {
@@ -8396,13 +8396,13 @@
   {
     "index": 1399,
     "NAME": "Talmage",
-    "value": -75.62566155066692,
+    "value": -75.62566155066693,
     "valid": true
   },
   {
     "index": 1400,
     "NAME": "Tamalpais-Homestead Valley",
-    "value": -2.7088882758715114,
+    "value": -2.7088882758715123,
     "valid": true
   },
   {
@@ -8420,19 +8420,19 @@
   {
     "index": 1403,
     "NAME": "Taylorsville",
-    "value": -22.728950093369313,
+    "value": -22.728950093369303,
     "valid": true
   },
   {
     "index": 1404,
     "NAME": "Tecopa",
-    "value": -0.6940175464868225,
+    "value": -0.6940175464868227,
     "valid": true
   },
   {
     "index": 1405,
     "NAME": "Temelec",
-    "value": -26.79395720748993,
+    "value": -26.793957207489946,
     "valid": true
   },
   {
@@ -8444,13 +8444,13 @@
   {
     "index": 1407,
     "NAME": "Templeton",
-    "value": -0.05823200533120183,
+    "value": -0.058232005331201826,
     "valid": true
   },
   {
     "index": 1408,
     "NAME": "Tennant",
-    "value": -35.09569549560547,
+    "value": -35.09569549560543,
     "valid": true
   },
   {
@@ -8498,7 +8498,7 @@
   {
     "index": 1416,
     "NAME": "Three Rivers",
-    "value": -62.842276054417425,
+    "value": -62.84227605441745,
     "valid": true
   },
   {
@@ -8522,7 +8522,7 @@
   {
     "index": 1420,
     "NAME": "Tobin",
-    "value": -34.14126518464874,
+    "value": -34.141265184648745,
     "valid": true
   },
   {
@@ -8534,7 +8534,7 @@
   {
     "index": 1422,
     "NAME": "Tonyville",
-    "value": -60.108160748885254,
+    "value": -60.10816074888526,
     "valid": true
   },
   {
@@ -8552,13 +8552,13 @@
   {
     "index": 1425,
     "NAME": "Topaz",
-    "value": -44.443381573395634,
+    "value": -44.44338157339561,
     "valid": true
   },
   {
     "index": 1426,
     "NAME": "Toro Canyon",
-    "value": -6.478475547403963,
+    "value": -6.478475547403961,
     "valid": true
   },
   {
@@ -8582,19 +8582,19 @@
   {
     "index": 1430,
     "NAME": "Trinity Center",
-    "value": -52.6469626465715,
+    "value": -52.64696264657149,
     "valid": true
   },
   {
     "index": 1431,
     "NAME": "Trinity Village",
-    "value": -57.686587407417335,
+    "value": -57.68658740741735,
     "valid": true
   },
   {
     "index": 1432,
     "NAME": "Trona",
-    "value": -50.40158331358514,
+    "value": -50.40158331358516,
     "valid": true
   },
   {
@@ -8606,7 +8606,7 @@
   {
     "index": 1434,
     "NAME": "Tuolumne City",
-    "value": -55.77183682714528,
+    "value": -55.771836827145144,
     "valid": true
   },
   {
@@ -8630,13 +8630,13 @@
   {
     "index": 1438,
     "NAME": "Twain",
-    "value": -39.78149119418923,
+    "value": -39.781491194189215,
     "valid": true
   },
   {
     "index": 1439,
     "NAME": "Twain Harte",
-    "value": -52.010333106094905,
+    "value": -52.01033310609489,
     "valid": true
   },
   {
@@ -8660,7 +8660,7 @@
   {
     "index": 1443,
     "NAME": "Upper Lake",
-    "value": -61.63463592529297,
+    "value": -61.63463592529298,
     "valid": true
   },
   {
@@ -8672,13 +8672,13 @@
   {
     "index": 1445,
     "NAME": "Vallecito",
-    "value": -59.258023240812186,
+    "value": -59.2580232408122,
     "valid": true
   },
   {
     "index": 1446,
     "NAME": "Valle Vista",
-    "value": -0.3696904330834895,
+    "value": -0.3696904330834894,
     "valid": true
   },
   {
@@ -8696,7 +8696,7 @@
   {
     "index": 1449,
     "NAME": "Valley Ford",
-    "value": -83.3138174298398,
+    "value": -83.31381742983976,
     "valid": true
   },
   {
@@ -8708,7 +8708,7 @@
   {
     "index": 1451,
     "NAME": "Valley Ranch",
-    "value": -26.50209494691916,
+    "value": -26.502094946919176,
     "valid": true
   },
   {
@@ -8792,7 +8792,7 @@
   {
     "index": 1465,
     "NAME": "Volcano",
-    "value": -62.492720273170875,
+    "value": -62.4927202731709,
     "valid": true
   },
   {
@@ -8804,7 +8804,7 @@
   {
     "index": 1467,
     "NAME": "Walker",
-    "value": -33.91524618198235,
+    "value": -33.91524618198232,
     "valid": true
   },
   {
@@ -8840,7 +8840,7 @@
   {
     "index": 1473,
     "NAME": "Washington",
-    "value": -51.121185302734375,
+    "value": -51.121185302734354,
     "valid": true
   },
   {
@@ -8858,7 +8858,7 @@
   {
     "index": 1476,
     "NAME": "Wawona",
-    "value": -38.2707700640031,
+    "value": -38.270770064003074,
     "valid": true
   },
   {
@@ -8876,13 +8876,13 @@
   {
     "index": 1479,
     "NAME": "Weldon",
-    "value": -67.53234066933798,
+    "value": -67.53234066933796,
     "valid": true
   },
   {
     "index": 1480,
     "NAME": "Weott",
-    "value": -56.81746292114258,
+    "value": -56.81746292114259,
     "valid": true
   },
   {
@@ -8894,7 +8894,7 @@
   {
     "index": 1482,
     "NAME": "West Bishop",
-    "value": -37.87559681972054,
+    "value": -37.87559681972055,
     "valid": true
   },
   {
@@ -8912,7 +8912,7 @@
   {
     "index": 1485,
     "NAME": "Westhaven-Moonstone",
-    "value": 1.2930939722184749,
+    "value": 1.2930939722184753,
     "valid": true
   },
   {
@@ -8948,7 +8948,7 @@
   {
     "index": 1491,
     "NAME": "West Point",
-    "value": -58.880271911621094,
+    "value": -58.88027191162103,
     "valid": true
   },
   {
@@ -8978,19 +8978,19 @@
   {
     "index": 1496,
     "NAME": "Westwood",
-    "value": -28.894765306356106,
+    "value": -28.8947653063561,
     "valid": true
   },
   {
     "index": 1497,
     "NAME": "Whitehawk",
-    "value": -30.14933024054259,
+    "value": -30.149330240542593,
     "valid": true
   },
   {
     "index": 1498,
     "NAME": "Whitewater",
-    "value": -23.025908358206134,
+    "value": -23.02590835820613,
     "valid": true
   },
   {
@@ -9014,13 +9014,13 @@
   {
     "index": 1502,
     "NAME": "Willow Creek",
-    "value": -60.596491392431055,
+    "value": -60.59649139243103,
     "valid": true
   },
   {
     "index": 1503,
     "NAME": "Wilsonia",
-    "value": -29.045246124267578,
+    "value": -29.045246124267567,
     "valid": true
   },
   {
@@ -9056,7 +9056,7 @@
   {
     "index": 1509,
     "NAME": "Wofford Heights",
-    "value": -53.508466257516815,
+    "value": -53.508466257516744,
     "valid": true
   },
   {
@@ -9092,13 +9092,13 @@
   {
     "index": 1515,
     "NAME": "Wrightwood",
-    "value": -30.87639434314012,
+    "value": -30.876394343140134,
     "valid": true
   },
   {
     "index": 1516,
     "NAME": "Yankee Hill",
-    "value": -72.08444671628904,
+    "value": -72.08444671628908,
     "valid": true
   },
   {
@@ -9116,13 +9116,13 @@
   {
     "index": 1519,
     "NAME": "Yosemite Lakes",
-    "value": -47.43958447920522,
+    "value": -47.439584479205244,
     "valid": true
   },
   {
     "index": 1520,
     "NAME": "Yosemite Valley",
-    "value": -9.436797668809124,
+    "value": -9.436797668809122,
     "valid": true
   },
   {

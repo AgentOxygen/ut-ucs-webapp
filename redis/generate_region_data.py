@@ -113,7 +113,7 @@ def analyzeRegions(region_shapefile_path:str, shapefile_variable:str, cumulative
                     # Add this weighted value to the weighted average
                     value += (overlap_area / total_area) * pt.item()
         # Once the analysis for this region is complete, generate a set and add it to the list
-        regions_analysis.append({ 'index':index, shapefile_variable:var, 'value':value, 'valid':valid})
+        regions_analysis.append({ 'index':index, 'NAME':var, 'value':value, 'valid':valid})
         # Also add the value for the metric for other data analysis stuff
         values.append(value)
     return (regions_analysis, values)
@@ -160,9 +160,9 @@ def calculate_over_rcp(metric, rcp, shapefile, s_var_name):
     region_agreement, region_agreement_valid = analyzeRegions(shapefile_dir + shapefile + ".shp", s_var_name, model_agreement)
     
     # Dump the information into a JSON file
-    with open(output_dir + metric + rcp + shapefile + "_totaleaverage.json", 'w') as output:
+    with open(output_dir + metric + rcp + shapefile + "_totalaverage.json", 'w') as output:
         json.dump(region_averages, output, indent=2)
-    with open(output_dir + metric + rcp + shapefile + "_totaleaverage_list.json", 'w') as output:
+    with open(output_dir + metric + rcp + shapefile + "_totalaverage_list.json", 'w') as output:
         json.dump(region_averages_valid, output, indent=2)
     with open(output_dir + metric + rcp + shapefile + "_totalagreement.json", 'w') as output:
         json.dump(region_agreement, output, indent=2)

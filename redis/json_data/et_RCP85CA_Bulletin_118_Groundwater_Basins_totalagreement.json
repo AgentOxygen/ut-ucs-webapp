@@ -1,3092 +1,3092 @@
 [
   {
     "index": 0,
-    "Basin_Su_1": "POTRERO VALLEY",
+    "NAME": "POTRERO VALLEY",
     "value": 9.999999999999961,
     "valid": true
   },
   {
     "index": 1,
-    "Basin_Su_1": "JACUMBA VALLEY",
-    "value": 5.124540565491103,
+    "NAME": "JACUMBA VALLEY",
+    "value": 5.1245405654911025,
     "valid": true
   },
   {
     "index": 2,
-    "Basin_Su_1": "CAMPO VALLEY",
-    "value": 9.621471930536206,
+    "NAME": "CAMPO VALLEY",
+    "value": 9.621471930536204,
     "valid": true
   },
   {
     "index": 3,
-    "Basin_Su_1": "DAVIES VALLEY",
-    "value": 7.934820967169168,
+    "NAME": "DAVIES VALLEY",
+    "value": 7.93482096716917,
     "valid": true
   },
   {
     "index": 4,
-    "Basin_Su_1": "COTTONWOOD VALLEY",
+    "NAME": "COTTONWOOD VALLEY",
     "value": 9.999999999999861,
     "valid": true
   },
   {
     "index": 5,
-    "Basin_Su_1": "EL CAJON VALLEY",
+    "NAME": "EL CAJON VALLEY",
     "value": 9.997054720886169,
     "valid": true
   },
   {
     "index": 6,
-    "Basin_Su_1": "CANEBRAKE VALLEY",
-    "value": 8.827022534620935,
+    "NAME": "CANEBRAKE VALLEY",
+    "value": 8.827022534620934,
     "valid": true
   },
   {
     "index": 7,
-    "Basin_Su_1": "COYOTE WELLS VALLEY",
+    "NAME": "COYOTE WELLS VALLEY",
     "value": 9.065807947075957,
     "valid": true
   },
   {
     "index": 8,
-    "Basin_Su_1": "POWAY VALLEY",
+    "NAME": "POWAY VALLEY",
     "value": 8.151250029450813,
     "valid": true
   },
   {
     "index": 9,
-    "Basin_Su_1": "SAN DIEGUITO CREEK",
-    "value": 7.3877860789051075,
+    "NAME": "SAN DIEGUITO CREEK",
+    "value": 7.387786078905105,
     "valid": true
   },
   {
     "index": 10,
-    "Basin_Su_1": "MASON VALLEY",
+    "NAME": "MASON VALLEY",
     "value": 9.752329699566888,
     "valid": true
   },
   {
     "index": 11,
-    "Basin_Su_1": "SAN ELIJO VALLEY",
-    "value": 9.000741186408847,
+    "NAME": "SAN ELIJO VALLEY",
+    "value": 9.000741186408845,
     "valid": true
   },
   {
     "index": 12,
-    "Basin_Su_1": "VALLECITO-CARRIZO VALLEY",
+    "NAME": "VALLECITO-CARRIZO VALLEY",
     "value": 8.42082305876727,
     "valid": true
   },
   {
     "index": 13,
-    "Basin_Su_1": "SANTA MARIA VALLEY",
-    "value": 8.554825150786755,
+    "NAME": "SANTA MARIA VALLEY",
+    "value": 8.554825150786753,
     "valid": true
   },
   {
     "index": 14,
-    "Basin_Su_1": "YUMA VALLEY",
+    "NAME": "YUMA VALLEY",
     "value": 7.697174702504959,
     "valid": true
   },
   {
     "index": 15,
-    "Basin_Su_1": "BATIQUITOS LAGOON VALLEY",
-    "value": 10.0,
+    "NAME": "BATIQUITOS LAGOON VALLEY",
+    "value": 9.999999999999998,
     "valid": true
   },
   {
     "index": 16,
-    "Basin_Su_1": "OGILBY VALLEY",
+    "NAME": "OGILBY VALLEY",
     "value": 8.545412229659265,
     "valid": true
   },
   {
     "index": 17,
-    "Basin_Su_1": "SAN MARCOS AREA",
+    "NAME": "SAN MARCOS AREA",
     "value": 9.99999999999995,
     "valid": true
   },
   {
     "index": 18,
-    "Basin_Su_1": "ESCONDIDO VALLEY",
+    "NAME": "ESCONDIDO VALLEY",
     "value": 8.999999999999986,
     "valid": true
   },
   {
     "index": 19,
-    "Basin_Su_1": "YAQUI WELL AREA",
-    "value": 6.833389450759703,
+    "NAME": "YAQUI WELL AREA",
+    "value": 6.833389450759702,
     "valid": true
   },
   {
     "index": 20,
-    "Basin_Su_1": "PAMO VALLEY",
+    "NAME": "PAMO VALLEY",
     "value": 9.758630300435925,
     "valid": true
   },
   {
     "index": 21,
-    "Basin_Su_1": "SAN FELIPE VALLEY",
-    "value": 9.11017439755328,
+    "NAME": "SAN FELIPE VALLEY",
+    "value": 9.110174397553278,
     "valid": true
   },
   {
     "index": 22,
-    "Basin_Su_1": "RANCHITA TOWN AREA",
-    "value": 9.992700277589453,
+    "NAME": "RANCHITA TOWN AREA",
+    "value": 9.992700277589451,
     "valid": true
   },
   {
     "index": 23,
-    "Basin_Su_1": "AMOS VALLEY",
+    "NAME": "AMOS VALLEY",
     "value": 9.028206459359101,
     "valid": true
   },
   {
     "index": 24,
-    "Basin_Su_1": "WARNER VALLEY",
-    "value": 10.00000000000002,
+    "NAME": "WARNER VALLEY",
+    "value": 10.000000000000018,
     "valid": true
   },
   {
     "index": 25,
-    "Basin_Su_1": "IMPERIAL VALLEY",
+    "NAME": "IMPERIAL VALLEY",
     "value": 9.606237299567606,
     "valid": true
   },
   {
     "index": 26,
-    "Basin_Su_1": "SAN ONOFRE VALLEY",
+    "NAME": "SAN ONOFRE VALLEY",
     "value": 10.00000000000017,
     "valid": true
   },
   {
     "index": 27,
-    "Basin_Su_1": "WEST SALTON SEA",
-    "value": 9.414321005432841,
+    "NAME": "WEST SALTON SEA",
+    "value": 9.41432100543284,
     "valid": true
   },
   {
     "index": 28,
-    "Basin_Su_1": "SAN MATEO VALLEY",
+    "NAME": "SAN MATEO VALLEY",
     "value": 10.000000000000046,
     "valid": true
   },
   {
     "index": 29,
-    "Basin_Su_1": "COLLINS VALLEY",
-    "value": 7.120029782940571,
+    "NAME": "COLLINS VALLEY",
+    "value": 7.120029782940569,
     "valid": true
   },
   {
     "index": 30,
-    "Basin_Su_1": "EAST SALTON SEA",
+    "NAME": "EAST SALTON SEA",
     "value": 8.70521340255001,
     "valid": true
   },
   {
     "index": 31,
-    "Basin_Su_1": "BUCK RIDGE FAULT VALLEY",
-    "value": 8.237364320440456,
+    "NAME": "BUCK RIDGE FAULT VALLEY",
+    "value": 8.237364320440458,
     "valid": true
   },
   {
     "index": 32,
-    "Basin_Su_1": "TERWILLIGER VALLEY",
-    "value": 9.999999999999998,
+    "NAME": "TERWILLIGER VALLEY",
+    "value": 9.999999999999996,
     "valid": true
   },
   {
     "index": 33,
-    "Basin_Su_1": "ARROYO SECO VALLEY",
+    "NAME": "ARROYO SECO VALLEY",
     "value": 8.58628002496655,
     "valid": true
   },
   {
     "index": 34,
-    "Basin_Su_1": "VANDEVENTER FLAT",
+    "NAME": "VANDEVENTER FLAT",
     "value": 10.000000000000021,
     "valid": true
   },
   {
     "index": 35,
-    "Basin_Su_1": "CAHUILLA VALLEY",
+    "NAME": "CAHUILLA VALLEY",
     "value": 9.820423779230698,
     "valid": true
   },
   {
     "index": 36,
-    "Basin_Su_1": "TEMECULA VALLEY",
-    "value": 6.801407741675512,
+    "NAME": "TEMECULA VALLEY",
+    "value": 6.8014077416755105,
     "valid": true
   },
   {
     "index": 37,
-    "Basin_Su_1": "SAN JUAN VALLEY",
-    "value": 9.71058579436859,
+    "NAME": "SAN JUAN VALLEY",
+    "value": 9.710585794368592,
     "valid": true
   },
   {
     "index": 38,
-    "Basin_Su_1": "CHOCOLATE VALLEY",
+    "NAME": "CHOCOLATE VALLEY",
     "value": 9.180301565424466,
     "valid": true
   },
   {
     "index": 39,
-    "Basin_Su_1": "HEMET LAKE VALLEY",
+    "NAME": "HEMET LAKE VALLEY",
     "value": 9.999999999999973,
     "valid": true
   },
   {
     "index": 40,
-    "Basin_Su_1": "OROCOPIA VALLEY",
+    "NAME": "OROCOPIA VALLEY",
     "value": 9.196338743424528,
     "valid": true
   },
   {
     "index": 41,
-    "Basin_Su_1": "PALO VERDE VALLEY",
+    "NAME": "PALO VERDE VALLEY",
     "value": 8.96588625884974,
     "valid": true
   },
   {
     "index": 42,
-    "Basin_Su_1": "PALO VERDE MESA",
-    "value": 0,
-    "valid": false
+    "NAME": "PALO VERDE MESA",
+    "value": 8.82699590120843,
+    "valid": true
   },
   {
     "index": 43,
-    "Basin_Su_1": "COACHELLA VALLEY - INDIO",
-    "value": 9.552779065208805,
+    "NAME": "COACHELLA VALLEY - INDIO",
+    "value": 9.552779065208803,
     "valid": true
   },
   {
     "index": 44,
-    "Basin_Su_1": "PLEASANT VALLEY",
-    "value": 7.909692983140571,
+    "NAME": "PLEASANT VALLEY",
+    "value": 7.90969298314057,
     "valid": true
   },
   {
     "index": 45,
-    "Basin_Su_1": "QUIEN SABE POINT VALLEY",
+    "NAME": "QUIEN SABE POINT VALLEY",
     "value": 9.398469483725748,
     "valid": true
   },
   {
     "index": 46,
-    "Basin_Su_1": "COACHELLA VALLEY - DESERT HOT SPRINGS",
-    "value": 9.08415187782101,
+    "NAME": "COACHELLA VALLEY - DESERT HOT SPRINGS",
+    "value": 9.084151877821009,
     "valid": true
   },
   {
     "index": 47,
-    "Basin_Su_1": "MALIBU VALLEY",
-    "value": 3.3012266757079143,
+    "NAME": "MALIBU VALLEY",
+    "value": 3.301226675707914,
     "valid": true
   },
   {
     "index": 48,
-    "Basin_Su_1": "COACHELLA VALLEY - SAN GORGONIO PASS",
-    "value": 7.380603856995188,
+    "NAME": "COACHELLA VALLEY - SAN GORGONIO PASS",
+    "value": 7.3806038569951875,
     "valid": true
   },
   {
     "index": 49,
-    "Basin_Su_1": "HEXIE MOUNTAIN AREA",
+    "NAME": "HEXIE MOUNTAIN AREA",
     "value": 7.153719011660321,
     "valid": true
   },
   {
     "index": 50,
-    "Basin_Su_1": "COASTAL PLAIN OF LOS ANGELES - SANTA MONICA",
-    "value": 9.999999999999979,
+    "NAME": "COASTAL PLAIN OF LOS ANGELES - SANTA MONICA",
+    "value": 9.999999999999977,
     "valid": true
   },
   {
     "index": 51,
-    "Basin_Su_1": "COACHELLA VALLEY - MISSION CREEK",
+    "NAME": "COACHELLA VALLEY - MISSION CREEK",
     "value": 8.848084892357258,
     "valid": true
   },
   {
     "index": 52,
-    "Basin_Su_1": "CHUCKWALLA VALLEY",
+    "NAME": "CHUCKWALLA VALLEY",
     "value": 8.347987401887965,
     "valid": true
   },
   {
     "index": 53,
-    "Basin_Su_1": "COASTAL PLAIN OF LOS ANGELES - HOLLYWOOD",
+    "NAME": "COASTAL PLAIN OF LOS ANGELES - HOLLYWOOD",
     "value": 10.000000000000114,
     "valid": true
   },
   {
     "index": 54,
-    "Basin_Su_1": "LOST HORSE VALLEY",
-    "value": 6.952742313038454,
+    "NAME": "LOST HORSE VALLEY",
+    "value": 6.952742313038453,
     "valid": true
   },
   {
     "index": 55,
-    "Basin_Su_1": "MORONGO VALLEY",
+    "NAME": "MORONGO VALLEY",
     "value": 8.578172822634018,
     "valid": true
   },
   {
     "index": 56,
-    "Basin_Su_1": "HIDDEN VALLEY",
-    "value": 9.999999999999993,
+    "NAME": "HIDDEN VALLEY",
+    "value": 9.99999999999999,
     "valid": true
   },
   {
     "index": 57,
-    "Basin_Su_1": "PINTO VALLEY",
-    "value": 8.931906590564655,
+    "NAME": "PINTO VALLEY",
+    "value": 8.931906590564653,
     "valid": true
   },
   {
     "index": 58,
-    "Basin_Su_1": "THOUSAND OAKS AREA",
-    "value": 10.000000000000076,
+    "NAME": "THOUSAND OAKS AREA",
+    "value": 10.000000000000073,
     "valid": true
   },
   {
     "index": 59,
-    "Basin_Su_1": "RUSSELL VALLEY",
-    "value": 9.878138178962452,
+    "NAME": "RUSSELL VALLEY",
+    "value": 9.878138178962455,
     "valid": true
   },
   {
     "index": 60,
-    "Basin_Su_1": "SEVEN OAKS VALLEY",
+    "NAME": "SEVEN OAKS VALLEY",
     "value": 9.99999999999998,
     "valid": true
   },
   {
     "index": 61,
-    "Basin_Su_1": "CONEJO",
-    "value": 9.999999999999988,
+    "NAME": "CONEJO",
+    "value": 9.99999999999999,
     "valid": true
   },
   {
     "index": 62,
-    "Basin_Su_1": "BIG MEADOWS VALLEY",
+    "NAME": "BIG MEADOWS VALLEY",
     "value": 10.000000000000014,
     "valid": true
   },
   {
     "index": 63,
-    "Basin_Su_1": "COPPER MOUNTAIN VALLEY",
+    "NAME": "COPPER MOUNTAIN VALLEY",
     "value": 9.93459485095229,
     "valid": true
   },
   {
     "index": 64,
-    "Basin_Su_1": "TIERRA REJADA",
-    "value": 9.990011736482321,
+    "NAME": "TIERRA REJADA",
+    "value": 9.99001173648232,
     "valid": true
   },
   {
     "index": 65,
-    "Basin_Su_1": "RICE VALLEY",
-    "value": 8.39265333998941,
+    "NAME": "RICE VALLEY",
+    "value": 8.392653339989412,
     "valid": true
   },
   {
     "index": 66,
-    "Basin_Su_1": "SIMI VALLEY",
+    "NAME": "SIMI VALLEY",
     "value": 9.64713562852176,
     "valid": true
   },
   {
     "index": 67,
-    "Basin_Su_1": "PIPES CANYON FAULT VALLEY",
-    "value": 10.00000000000006,
+    "NAME": "PIPES CANYON FAULT VALLEY",
+    "value": 10.000000000000064,
     "valid": true
   },
   {
     "index": 68,
-    "Basin_Su_1": "SAN FERNANDO VALLEY",
-    "value": 0,
-    "valid": false
+    "NAME": "SAN FERNANDO VALLEY",
+    "value": 9.942547268603207,
+    "valid": true
   },
   {
     "index": 69,
-    "Basin_Su_1": "TWENTYNINE PALMS VALLEY",
+    "NAME": "TWENTYNINE PALMS VALLEY",
     "value": 8.794622358993085,
     "valid": true
   },
   {
     "index": 70,
-    "Basin_Su_1": "HELENDALE FAULT VALLEY",
-    "value": 10.000000000000023,
+    "NAME": "HELENDALE FAULT VALLEY",
+    "value": 10.00000000000002,
     "valid": true
   },
   {
     "index": 71,
-    "Basin_Su_1": "VENTURA RIVER VALLEY - LOWER VENTURA RIVER",
-    "value": 8.188035331484313,
+    "NAME": "VENTURA RIVER VALLEY - LOWER VENTURA RIVER",
+    "value": 8.188035331484311,
     "valid": true
   },
   {
     "index": 72,
-    "Basin_Su_1": "CALZONA VALLEY",
+    "NAME": "CALZONA VALLEY",
     "value": 8.39963232558944,
     "valid": true
   },
   {
     "index": 73,
-    "Basin_Su_1": "SANTA BARBARA",
-    "value": 7.574018520719739,
+    "NAME": "SANTA BARBARA",
+    "value": 7.57401852071974,
     "valid": true
   },
   {
     "index": 74,
-    "Basin_Su_1": "VIDAL VALLEY",
+    "NAME": "VIDAL VALLEY",
     "value": 8.23409708382565,
     "valid": true
   },
   {
     "index": 75,
-    "Basin_Su_1": "DEADMAN VALLEY - SURPRISE SPRING",
-    "value": 8.373614771625173,
+    "NAME": "DEADMAN VALLEY - SURPRISE SPRING",
+    "value": 8.37361477162517,
     "valid": true
   },
   {
     "index": 76,
-    "Basin_Su_1": "UPPER OJAI VALLEY",
+    "NAME": "UPPER OJAI VALLEY",
     "value": 10.000000000000059,
     "valid": true
   },
   {
     "index": 77,
-    "Basin_Su_1": "GOLETA",
-    "value": 6.281908677960862,
+    "NAME": "GOLETA",
+    "value": 6.281908677960863,
     "valid": true
   },
   {
     "index": 78,
-    "Basin_Su_1": "DALE VALLEY",
+    "NAME": "DALE VALLEY",
     "value": 8.821027533671936,
     "valid": true
   },
   {
     "index": 79,
-    "Basin_Su_1": "MEANS VALLEY",
-    "value": 8.745046755743523,
+    "NAME": "MEANS VALLEY",
+    "value": 8.745046755743525,
     "valid": true
   },
   {
     "index": 80,
-    "Basin_Su_1": "ACTON VALLEY",
-    "value": 8.165087771795129,
+    "NAME": "ACTON VALLEY",
+    "value": 8.16508777179513,
     "valid": true
   },
   {
     "index": 81,
-    "Basin_Su_1": "JOHNSON VALLEY - SOGGY LAKE",
-    "value": 8.208179140921262,
+    "NAME": "JOHNSON VALLEY - SOGGY LAKE",
+    "value": 8.20817914092126,
     "valid": true
   },
   {
     "index": 82,
-    "Basin_Su_1": "AMES VALLEY",
+    "NAME": "AMES VALLEY",
     "value": 8.851187808809675,
     "valid": true
   },
   {
     "index": 83,
-    "Basin_Su_1": "JOHNSON VALLEY - UPPER JOHNSON VALLEY",
+    "NAME": "JOHNSON VALLEY - UPPER JOHNSON VALLEY",
     "value": 7.0969210707871255,
     "valid": true
   },
   {
     "index": 84,
-    "Basin_Su_1": "DEADMAN VALLEY - DEADMAN LAKE",
+    "NAME": "DEADMAN VALLEY - DEADMAN LAKE",
     "value": 8.817235673044658,
     "valid": true
   },
   {
     "index": 85,
-    "Basin_Su_1": "CADIZ VALLEY",
+    "NAME": "CADIZ VALLEY",
     "value": 8.62363520348819,
     "valid": true
   },
   {
     "index": 86,
-    "Basin_Su_1": "LUCERNE VALLEY",
-    "value": 6.862422132517358,
+    "NAME": "LUCERNE VALLEY",
+    "value": 6.862422132517357,
     "valid": true
   },
   {
     "index": 87,
-    "Basin_Su_1": "IRON RIDGE AREA",
-    "value": 6.028027976380744,
+    "NAME": "IRON RIDGE AREA",
+    "value": 6.028027976380743,
     "valid": true
   },
   {
     "index": 88,
-    "Basin_Su_1": "BESSEMER VALLEY",
+    "NAME": "BESSEMER VALLEY",
     "value": 8.235401172855,
     "valid": true
   },
   {
     "index": 89,
-    "Basin_Su_1": "UPPER MOJAVE RIVER VALLEY",
-    "value": 6.225397225460595,
+    "NAME": "UPPER MOJAVE RIVER VALLEY",
+    "value": 6.225397225460593,
     "valid": true
   },
   {
     "index": 90,
-    "Basin_Su_1": "EL MIRAGE VALLEY",
-    "value": 7.4786710073973595,
+    "NAME": "EL MIRAGE VALLEY",
+    "value": 7.478671007397358,
     "valid": true
   },
   {
     "index": 91,
-    "Basin_Su_1": "KANE WASH AREA",
-    "value": 5.023505737370172,
+    "NAME": "KANE WASH AREA",
+    "value": 5.023505737370175,
     "valid": true
   },
   {
     "index": 92,
-    "Basin_Su_1": "HUNGRY VALLEY",
-    "value": 8.821102663723295,
+    "NAME": "HUNGRY VALLEY",
+    "value": 8.821102663723293,
     "valid": true
   },
   {
     "index": 93,
-    "Basin_Su_1": "LOCKWOOD VALLEY",
+    "NAME": "LOCKWOOD VALLEY",
     "value": 10.00000000000001,
     "valid": true
   },
   {
     "index": 94,
-    "Basin_Su_1": "CUDDY RANCH AREA",
+    "NAME": "CUDDY RANCH AREA",
     "value": 9.999999999999993,
     "valid": true
   },
   {
     "index": 95,
-    "Basin_Su_1": "CHEMEHUEVI VALLEY",
-    "value": 8.274957168108571,
+    "NAME": "CHEMEHUEVI VALLEY",
+    "value": 8.274957168108568,
     "valid": true
   },
   {
     "index": 96,
-    "Basin_Su_1": "CUDDY CANYON VALLEY",
-    "value": 9.999999999999957,
+    "NAME": "CUDDY CANYON VALLEY",
+    "value": 9.999999999999961,
     "valid": true
   },
   {
     "index": 97,
-    "Basin_Su_1": "BRISTOL VALLEY",
-    "value": 0,
-    "valid": false
+    "NAME": "BRISTOL VALLEY",
+    "value": 8.763944686966346,
+    "valid": true
   },
   {
     "index": 98,
-    "Basin_Su_1": "CUDDY VALLEY",
-    "value": 9.999999999999929,
+    "NAME": "CUDDY VALLEY",
+    "value": 9.99999999999993,
     "valid": true
   },
   {
     "index": 99,
-    "Basin_Su_1": "MIL POTRERO AREA",
+    "NAME": "MIL POTRERO AREA",
     "value": 9.999999999999956,
     "valid": true
   },
   {
     "index": 100,
-    "Basin_Su_1": "CASTAC LAKE VALLEY",
-    "value": 9.149761444993285,
+    "NAME": "CASTAC LAKE VALLEY",
+    "value": 9.149761444993286,
     "valid": true
   },
   {
     "index": 101,
-    "Basin_Su_1": "LAVIC VALLEY",
+    "NAME": "LAVIC VALLEY",
     "value": 7.881514013612577,
     "valid": true
   },
   {
     "index": 102,
-    "Basin_Su_1": "BROADWELL VALLEY",
+    "NAME": "BROADWELL VALLEY",
     "value": 8.44207324244241,
     "valid": true
   },
   {
     "index": 103,
-    "Basin_Su_1": "MIDDLE MOJAVE RIVER VALLEY",
+    "NAME": "MIDDLE MOJAVE RIVER VALLEY",
     "value": 6.826623002759138,
     "valid": true
   },
   {
     "index": 104,
-    "Basin_Su_1": "CADY FAULT AREA",
-    "value": 9.999999999999945,
+    "NAME": "CADY FAULT AREA",
+    "value": 9.999999999999956,
     "valid": true
   },
   {
     "index": 105,
-    "Basin_Su_1": "WARD VALLEY",
+    "NAME": "WARD VALLEY",
     "value": 8.805713250957492,
     "valid": true
   },
   {
     "index": 106,
-    "Basin_Su_1": "LOWER MOJAVE RIVER VALLEY",
+    "NAME": "LOWER MOJAVE RIVER VALLEY",
     "value": 9.385847938607238,
     "valid": true
   },
   {
     "index": 107,
-    "Basin_Su_1": "BRITE VALLEY",
-    "value": 9.999999999999913,
+    "NAME": "BRITE VALLEY",
+    "value": 9.999999999999917,
     "valid": true
   },
   {
     "index": 108,
-    "Basin_Su_1": "CUMMINGS VALLEY",
-    "value": 9.8823156312732,
+    "NAME": "CUMMINGS VALLEY",
+    "value": 9.882315631273197,
     "valid": true
   },
   {
     "index": 109,
-    "Basin_Su_1": "CAVES CANYON VALLEY",
-    "value": 9.146006969539675,
+    "NAME": "CAVES CANYON VALLEY",
+    "value": 9.146006969539677,
     "valid": true
   },
   {
     "index": 110,
-    "Basin_Su_1": "HUASNA VALLEY",
+    "NAME": "HUASNA VALLEY",
     "value": 10.000000000000092,
     "valid": true
   },
   {
     "index": 111,
-    "Basin_Su_1": "NEEDLES VALLEY",
+    "NAME": "NEEDLES VALLEY",
     "value": 8.788301367998336,
     "valid": true
   },
   {
     "index": 112,
-    "Basin_Su_1": "TEHACHAPI VALLEY WEST",
+    "NAME": "TEHACHAPI VALLEY WEST",
     "value": 9.643973364913217,
     "valid": true
   },
   {
     "index": 113,
-    "Basin_Su_1": "FENNER VALLEY",
-    "value": 0,
-    "valid": false
+    "NAME": "FENNER VALLEY",
+    "value": 9.447134725509974,
+    "valid": true
   },
   {
     "index": 114,
-    "Basin_Su_1": "ANTELOPE VALLEY",
+    "NAME": "ANTELOPE VALLEY",
     "value": 7.056695541692104,
     "valid": true
   },
   {
     "index": 115,
-    "Basin_Su_1": "CUYAMA VALLEY",
-    "value": 9.705525763752783,
+    "NAME": "CUYAMA VALLEY",
+    "value": 9.705525763752782,
     "valid": true
   },
   {
     "index": 116,
-    "Basin_Su_1": "TEHACHAPI VALLEY EAST",
+    "NAME": "TEHACHAPI VALLEY EAST",
     "value": 9.99518937120646,
     "valid": true
   },
   {
     "index": 117,
-    "Basin_Su_1": "COYOTE LAKE VALLEY",
+    "NAME": "COYOTE LAKE VALLEY",
     "value": 9.278702100970944,
     "valid": true
   },
   {
     "index": 118,
-    "Basin_Su_1": "BIG SPRING AREA",
-    "value": 10.000000000000037,
+    "NAME": "BIG SPRING AREA",
+    "value": 10.000000000000036,
     "valid": true
   },
   {
     "index": 119,
-    "Basin_Su_1": "LANGFORD VALLEY - LANGFORD WELL LAKE",
+    "NAME": "LANGFORD VALLEY - LANGFORD WELL LAKE",
     "value": 9.048388094831022,
     "valid": true
   },
   {
     "index": 120,
-    "Basin_Su_1": "RAFAEL VALLEY",
-    "value": 10.000000000000092,
+    "NAME": "RAFAEL VALLEY",
+    "value": 10.000000000000098,
     "valid": true
   },
   {
     "index": 121,
-    "Basin_Su_1": "SAN LUIS OBISPO VALLEY",
+    "NAME": "SAN LUIS OBISPO VALLEY",
     "value": 10.000000000000005,
     "valid": true
   },
   {
     "index": 122,
-    "Basin_Su_1": "LANGFORD VALLEY - IRWIN",
-    "value": 8.7596402764733,
+    "NAME": "LANGFORD VALLEY - IRWIN",
+    "value": 8.759640276473299,
     "valid": true
   },
   {
     "index": 123,
-    "Basin_Su_1": "KELSO VALLEY",
+    "NAME": "KELSO VALLEY",
     "value": 8.97307195666524,
     "valid": true
   },
   {
     "index": 124,
-    "Basin_Su_1": "HARPER VALLEY",
-    "value": 9.012189604492539,
+    "NAME": "HARPER VALLEY",
+    "value": 9.012189604492537,
     "valid": true
   },
   {
     "index": 125,
-    "Basin_Su_1": "RINCONADA VALLEY",
-    "value": 10.000000000000096,
+    "NAME": "RINCONADA VALLEY",
+    "value": 10.000000000000098,
     "valid": true
   },
   {
     "index": 126,
-    "Basin_Su_1": "POZO VALLEY",
+    "NAME": "POZO VALLEY",
     "value": 10.000000000000039,
     "valid": true
   },
   {
     "index": 127,
-    "Basin_Su_1": "CHORRO VALLEY",
-    "value": 10.000000000000018,
+    "NAME": "CHORRO VALLEY",
+    "value": 10.000000000000016,
     "valid": true
   },
   {
     "index": 128,
-    "Basin_Su_1": "CRONISE VALLEY",
+    "NAME": "CRONISE VALLEY",
     "value": 8.826864650906664,
     "valid": true
   },
   {
     "index": 129,
-    "Basin_Su_1": "PIUTE VALLEY",
+    "NAME": "PIUTE VALLEY",
     "value": 9.421271951319211,
     "valid": true
   },
   {
     "index": 130,
-    "Basin_Su_1": "MORRO VALLEY",
-    "value": 10.0,
+    "NAME": "MORRO VALLEY",
+    "value": 9.999999999999998,
     "valid": true
   },
   {
     "index": 131,
-    "Basin_Su_1": "GRASS VALLEY",
-    "value": 9.916020874981776,
+    "NAME": "GRASS VALLEY",
+    "value": 9.916020874981772,
     "valid": true
   },
   {
     "index": 132,
-    "Basin_Su_1": "TORO VALLEY",
+    "NAME": "TORO VALLEY",
     "value": 9.999999999999721,
     "valid": true
   },
   {
     "index": 133,
-    "Basin_Su_1": "GOLDSTONE VALLEY",
+    "NAME": "GOLDSTONE VALLEY",
     "value": 9.994086867678345,
     "valid": true
   },
   {
     "index": 134,
-    "Basin_Su_1": "KELSO LANDER VALLEY",
-    "value": 7.882387850457191,
+    "NAME": "KELSO LANDER VALLEY",
+    "value": 7.882387850457193,
     "valid": true
   },
   {
     "index": 135,
-    "Basin_Su_1": "SUPERIOR VALLEY",
+    "NAME": "SUPERIOR VALLEY",
     "value": 9.919289537510545,
     "valid": true
   },
   {
     "index": 136,
-    "Basin_Su_1": "CARRIZO PLAIN",
+    "NAME": "CARRIZO PLAIN",
     "value": 8.807920699370921,
     "valid": true
   },
   {
     "index": 137,
-    "Basin_Su_1": "WALKER BASIN CREEK VALLEY",
-    "value": 7.696222990427437,
+    "NAME": "WALKER BASIN CREEK VALLEY",
+    "value": 7.696222990427433,
     "valid": true
   },
   {
     "index": 138,
-    "Basin_Su_1": "CUDDEBACK VALLEY",
+    "NAME": "CUDDEBACK VALLEY",
     "value": 9.952863382628195,
     "valid": true
   },
   {
     "index": 139,
-    "Basin_Su_1": "SILVER LAKE VALLEY",
-    "value": 8.916974279563005,
+    "NAME": "SILVER LAKE VALLEY",
+    "value": 8.916974279563004,
     "valid": true
   },
   {
     "index": 140,
-    "Basin_Su_1": "CAYUCOS VALLEY",
+    "NAME": "CAYUCOS VALLEY",
     "value": 9.999999999999968,
     "valid": true
   },
   {
     "index": 141,
-    "Basin_Su_1": "LANFAIR VALLEY",
+    "NAME": "LANFAIR VALLEY",
     "value": 8.53106349908919,
     "valid": true
   },
   {
     "index": 142,
-    "Basin_Su_1": "FREMONT VALLEY",
-    "value": 7.469129488153657,
+    "NAME": "FREMONT VALLEY",
+    "value": 7.469129488153658,
     "valid": true
   },
   {
     "index": 143,
-    "Basin_Su_1": "SODA LAKE VALLEY",
+    "NAME": "SODA LAKE VALLEY",
     "value": 8.71282189116141,
     "valid": true
   },
   {
     "index": 144,
-    "Basin_Su_1": "OLD VALLEY",
-    "value": 10.0000000000002,
+    "NAME": "OLD VALLEY",
+    "value": 10.000000000000203,
     "valid": true
   },
   {
     "index": 145,
-    "Basin_Su_1": "VILLA VALLEY",
+    "NAME": "VILLA VALLEY",
     "value": 9.99999999999952,
     "valid": true
   },
   {
     "index": 146,
-    "Basin_Su_1": "RED PASS VALLEY",
+    "NAME": "RED PASS VALLEY",
     "value": 8.396146620621277,
     "valid": true
   },
   {
     "index": 147,
-    "Basin_Su_1": "BICYCLE VALLEY",
+    "NAME": "BICYCLE VALLEY",
     "value": 8.84400076686362,
     "valid": true
   },
   {
     "index": 148,
-    "Basin_Su_1": "AVAWATZ VALLEY",
-    "value": 9.17047800266679,
+    "NAME": "AVAWATZ VALLEY",
+    "value": 9.170478002666792,
     "valid": true
   },
   {
     "index": 149,
-    "Basin_Su_1": "SANTA ROSA VALLEY",
-    "value": 9.624169666304816,
+    "NAME": "SANTA ROSA VALLEY",
+    "value": 9.624169666304818,
     "valid": true
   },
   {
     "index": 150,
-    "Basin_Su_1": "RIGGS VALLEY",
+    "NAME": "RIGGS VALLEY",
     "value": 8.493139070656012,
     "valid": true
   },
   {
     "index": 151,
-    "Basin_Su_1": "SAN SIMEON VALLEY",
-    "value": 8.507261809474269,
+    "NAME": "SAN SIMEON VALLEY",
+    "value": 8.507261809474263,
     "valid": true
   },
   {
     "index": 152,
-    "Basin_Su_1": "DENNING SPRING VALLEY",
-    "value": 8.494535314483507,
+    "NAME": "DENNING SPRING VALLEY",
+    "value": 8.494535314483503,
     "valid": true
   },
   {
     "index": 153,
-    "Basin_Su_1": "PILOT KNOB VALLEY",
-    "value": 9.414230843777066,
+    "NAME": "PILOT KNOB VALLEY",
+    "value": 9.414230843777064,
     "valid": true
   },
   {
     "index": 154,
-    "Basin_Su_1": "LEACH VALLEY",
-    "value": 8.770951863313222,
+    "NAME": "LEACH VALLEY",
+    "value": 8.770951863313224,
     "valid": true
   },
   {
     "index": 155,
-    "Basin_Su_1": "ARROYO DE LA CRUZ VALLEY",
-    "value": 9.717502151522673,
+    "NAME": "ARROYO DE LA CRUZ VALLEY",
+    "value": 9.717502151522671,
     "valid": true
   },
   {
     "index": 156,
-    "Basin_Su_1": "IVANPAH VALLEY",
+    "NAME": "IVANPAH VALLEY",
     "value": 8.362855834179971,
     "valid": true
   },
   {
     "index": 157,
-    "Basin_Su_1": "SALT WELLS VALLEY",
-    "value": 9.241966080141975,
+    "NAME": "SALT WELLS VALLEY",
+    "value": 9.241966080141973,
     "valid": true
   },
   {
     "index": 158,
-    "Basin_Su_1": "SAN CARPOFORO VALLEY",
-    "value": 7.132238468827881,
+    "NAME": "SAN CARPOFORO VALLEY",
+    "value": 7.13223846882788,
     "valid": true
   },
   {
     "index": 159,
-    "Basin_Su_1": "UPPER KINGSTON VALLEY",
-    "value": 7.86859673549686,
+    "NAME": "UPPER KINGSTON VALLEY",
+    "value": 7.868596735496861,
     "valid": true
   },
   {
     "index": 160,
-    "Basin_Su_1": "BROWN MOUNTAIN VALLEY",
+    "NAME": "BROWN MOUNTAIN VALLEY",
     "value": 9.569324597699897,
     "valid": true
   },
   {
     "index": 161,
-    "Basin_Su_1": "LOWER KINGSTON VALLEY",
-    "value": 8.876406586664821,
+    "NAME": "LOWER KINGSTON VALLEY",
+    "value": 8.876406586664823,
     "valid": true
   },
   {
     "index": 162,
-    "Basin_Su_1": "LOST LAKE VALLEY",
+    "NAME": "LOST LAKE VALLEY",
     "value": 9.427447312393118,
     "valid": true
   },
   {
     "index": 163,
-    "Basin_Su_1": "OWL LAKE VALLEY",
-    "value": 9.039475339423369,
+    "NAME": "OWL LAKE VALLEY",
+    "value": 9.03947533942337,
     "valid": true
   },
   {
     "index": 164,
-    "Basin_Su_1": "KERN RIVER VALLEY",
+    "NAME": "KERN RIVER VALLEY",
     "value": 7.725121157719715,
     "valid": true
   },
   {
     "index": 165,
-    "Basin_Su_1": "WINGATE VALLEY",
-    "value": 8.971511756087562,
+    "NAME": "WINGATE VALLEY",
+    "value": 8.971511756087564,
     "valid": true
   },
   {
     "index": 166,
-    "Basin_Su_1": "INDIAN WELLS VALLEY",
+    "NAME": "INDIAN WELLS VALLEY",
     "value": 9.182273774149905,
     "valid": true
   },
   {
     "index": 167,
-    "Basin_Su_1": "SEARLES VALLEY",
-    "value": 8.610653450446254,
+    "NAME": "SEARLES VALLEY",
+    "value": 8.610653450446257,
     "valid": true
   },
   {
     "index": 168,
-    "Basin_Su_1": "MESQUITE VALLEY",
-    "value": 7.762751129588569,
+    "NAME": "MESQUITE VALLEY",
+    "value": 7.762751129588571,
     "valid": true
   },
   {
     "index": 169,
-    "Basin_Su_1": "SPRING CANYON VALLEY",
-    "value": 9.503087204504828,
+    "NAME": "SPRING CANYON VALLEY",
+    "value": 9.50308720450483,
     "valid": true
   },
   {
     "index": 170,
-    "Basin_Su_1": "RHODES HILL AREA",
-    "value": 8.61049815962612,
+    "NAME": "RHODES HILL AREA",
+    "value": 8.610498159626124,
     "valid": true
   },
   {
     "index": 171,
-    "Basin_Su_1": "COSO VALLEY",
-    "value": 9.378129044218554,
+    "NAME": "COSO VALLEY",
+    "value": 9.378129044218552,
     "valid": true
   },
   {
     "index": 172,
-    "Basin_Su_1": "BUTTE VALLEY",
-    "value": 8.048087284319315,
+    "NAME": "BUTTE VALLEY",
+    "value": 8.048087284319312,
     "valid": true
   },
   {
     "index": 173,
-    "Basin_Su_1": "MIDDLE PARK CANYON",
+    "NAME": "MIDDLE PARK CANYON",
     "value": 9.740262027761496,
     "valid": true
   },
   {
     "index": 174,
-    "Basin_Su_1": "WILD HORSE MESA AREA",
-    "value": 7.077538831091796,
+    "NAME": "WILD HORSE MESA AREA",
+    "value": 7.077538831091795,
     "valid": true
   },
   {
     "index": 175,
-    "Basin_Su_1": "CALIFORNIA VALLEY",
+    "NAME": "CALIFORNIA VALLEY",
     "value": 9.54963639532262,
     "valid": true
   },
   {
     "index": 176,
-    "Basin_Su_1": "LOCKWOOD VALLEY",
+    "NAME": "LOCKWOOD VALLEY",
     "value": 9.907503633243048,
     "valid": true
   },
   {
     "index": 177,
-    "Basin_Su_1": "GOLD VALLEY",
-    "value": 6.217082165313174,
+    "NAME": "GOLD VALLEY",
+    "value": 6.217082165313171,
     "valid": true
   },
   {
     "index": 178,
-    "Basin_Su_1": "ROSE VALLEY",
+    "NAME": "ROSE VALLEY",
     "value": 7.606415523100157,
     "valid": true
   },
   {
     "index": 179,
-    "Basin_Su_1": "COLES FLAT",
-    "value": 9.870488815518302,
+    "NAME": "COLES FLAT",
+    "value": 9.870488815518303,
     "valid": true
   },
   {
     "index": 180,
-    "Basin_Su_1": "CACTUS FLAT",
-    "value": 8.429393028191512,
+    "NAME": "CACTUS FLAT",
+    "value": 8.429393028191514,
     "valid": true
   },
   {
     "index": 181,
-    "Basin_Su_1": "PAHRUMP VALLEY",
-    "value": 7.189506739780208,
+    "NAME": "PAHRUMP VALLEY",
+    "value": 7.189506739780207,
     "valid": true
   },
   {
     "index": 182,
-    "Basin_Su_1": "WILDROSE CANYON",
-    "value": 8.787860012946107,
+    "NAME": "WILDROSE CANYON",
+    "value": 8.787860012946105,
     "valid": true
   },
   {
     "index": 183,
-    "Basin_Su_1": "PEACH TREE VALLEY",
-    "value": 9.015992474922056,
+    "NAME": "PEACH TREE VALLEY",
+    "value": 9.015992474922058,
     "valid": true
   },
   {
     "index": 184,
-    "Basin_Su_1": "GREENWATER VALLEY",
+    "NAME": "GREENWATER VALLEY",
     "value": 7.7432418816541295,
     "valid": true
   },
   {
     "index": 185,
-    "Basin_Su_1": "DARWIN VALLEY",
-    "value": 7.384934867858315,
+    "NAME": "DARWIN VALLEY",
+    "value": 7.3849348678583135,
     "valid": true
   },
   {
     "index": 186,
-    "Basin_Su_1": "HERNANDEZ VALLEY",
-    "value": 10.000000000000064,
+    "NAME": "HERNANDEZ VALLEY",
+    "value": 10.000000000000066,
     "valid": true
   },
   {
     "index": 187,
-    "Basin_Su_1": "SANTA ROSA FLAT",
-    "value": 7.848408023126009,
+    "NAME": "SANTA ROSA FLAT",
+    "value": 7.848408023126008,
     "valid": true
   },
   {
     "index": 188,
-    "Basin_Su_1": "BLACK SPRINGS VALLEY",
-    "value": 9.444274243602697,
+    "NAME": "BLACK SPRINGS VALLEY",
+    "value": 9.444274243602695,
     "valid": true
   },
   {
     "index": 189,
-    "Basin_Su_1": "HARRISBURG FLATS",
-    "value": 7.866468788153777,
+    "NAME": "HARRISBURG FLATS",
+    "value": 7.866468788153775,
     "valid": true
   },
   {
     "index": 190,
-    "Basin_Su_1": "SALINAS VALLEY - FOREBAY AQUIFER",
+    "NAME": "SALINAS VALLEY - FOREBAY AQUIFER",
     "value": 9.023547673878433,
     "valid": true
   },
   {
     "index": 191,
-    "Basin_Su_1": "BITTER WATER VALLEY",
+    "NAME": "BITTER WATER VALLEY",
     "value": 9.062979378235834,
     "valid": true
   },
   {
     "index": 192,
-    "Basin_Su_1": "PANAMINT VALLEY",
+    "NAME": "PANAMINT VALLEY",
     "value": 8.469918626682055,
     "valid": true
   },
   {
     "index": 193,
-    "Basin_Su_1": "VALLECITOS CREEK VALLEY",
+    "NAME": "VALLECITOS CREEK VALLEY",
     "value": 7.993129692856468,
     "valid": true
   },
   {
     "index": 194,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - KAWEAH",
+    "NAME": "SAN JOAQUIN VALLEY - KAWEAH",
     "value": 9.926844969314159,
     "valid": true
   },
   {
     "index": 195,
-    "Basin_Su_1": "DRY LAKE VALLEY",
-    "value": 9.116856831467368,
+    "NAME": "DRY LAKE VALLEY",
+    "value": 9.116856831467365,
     "valid": true
   },
   {
     "index": 196,
-    "Basin_Su_1": "COTTONWOOD SPRING AREA",
-    "value": 7.000000000000277,
+    "NAME": "COTTONWOOD SPRING AREA",
+    "value": 7.000000000000276,
     "valid": true
   },
   {
     "index": 197,
-    "Basin_Su_1": "LEE FLAT",
-    "value": 8.934732700172779,
+    "NAME": "LEE FLAT",
+    "value": 8.93473270017278,
     "valid": true
   },
   {
     "index": 198,
-    "Basin_Su_1": "SALINAS VALLEY - MONTEREY",
-    "value": 9.678164420272335,
+    "NAME": "SALINAS VALLEY - MONTEREY",
+    "value": 9.678164420272337,
     "valid": true
   },
   {
     "index": 199,
-    "Basin_Su_1": "MARBLE CANYON AREA",
+    "NAME": "MARBLE CANYON AREA",
     "value": 8.373515444598686,
     "valid": true
   },
   {
     "index": 200,
-    "Basin_Su_1": "MIDDLE AMARGOSA VALLEY",
-    "value": 7.754342195905088,
+    "NAME": "MIDDLE AMARGOSA VALLEY",
+    "value": 7.754342195905089,
     "valid": true
   },
   {
     "index": 201,
-    "Basin_Su_1": "PANOCHE VALLEY",
+    "NAME": "PANOCHE VALLEY",
     "value": 8.975825862870888,
     "valid": true
   },
   {
     "index": 202,
-    "Basin_Su_1": "SAN BENITO RIVER VALLEY",
+    "NAME": "SAN BENITO RIVER VALLEY",
     "value": 9.447469394682228,
     "valid": true
   },
   {
     "index": 203,
-    "Basin_Su_1": "SALINAS VALLEY - EAST SIDE AQUIFER",
+    "NAME": "SALINAS VALLEY - EAST SIDE AQUIFER",
     "value": 9.999999999999979,
     "valid": true
   },
   {
     "index": 204,
-    "Basin_Su_1": "HIDDEN VALLEY",
-    "value": 7.3650346591546825,
+    "NAME": "HIDDEN VALLEY",
+    "value": 7.365034659154683,
     "valid": true
   },
   {
     "index": 205,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - WESTSIDE",
+    "NAME": "SAN JOAQUIN VALLEY - WESTSIDE",
     "value": 9.9974623073483,
     "valid": true
   },
   {
     "index": 206,
-    "Basin_Su_1": "UPPER SANTA ANA VALLEY",
+    "NAME": "UPPER SANTA ANA VALLEY",
     "value": 9.999999999999684,
     "valid": true
   },
   {
     "index": 207,
-    "Basin_Su_1": "RACE TRACK VALLEY",
+    "NAME": "RACE TRACK VALLEY",
     "value": 8.874723052083159,
     "valid": true
   },
   {
     "index": 208,
-    "Basin_Su_1": "SALINAS VALLEY - LANGLEY AREA",
-    "value": 10.00000000000002,
+    "NAME": "SALINAS VALLEY - LANGLEY AREA",
+    "value": 10.000000000000018,
     "valid": true
   },
   {
     "index": 209,
-    "Basin_Su_1": "SANTA ANA VALLEY",
-    "value": 9.999999999999988,
+    "NAME": "SANTA ANA VALLEY",
+    "value": 9.999999999999986,
     "valid": true
   },
   {
     "index": 210,
-    "Basin_Su_1": "CAMEO AREA",
+    "NAME": "CAMEO AREA",
     "value": 9.000000000000005,
     "valid": true
   },
   {
     "index": 211,
-    "Basin_Su_1": "QUIEN SABE VALLEY",
+    "NAME": "QUIEN SABE VALLEY",
     "value": 10.00000000000007,
     "valid": true
   },
   {
     "index": 212,
-    "Basin_Su_1": "MAJORS CREEK",
+    "NAME": "MAJORS CREEK",
     "value": 0,
     "valid": true
   },
   {
     "index": 213,
-    "Basin_Su_1": "LOS BANOS CREEK VALLEY",
+    "NAME": "LOS BANOS CREEK VALLEY",
     "value": 8.789969607863094,
     "valid": true
   },
   {
     "index": 214,
-    "Basin_Su_1": "SALINE VALLEY",
+    "NAME": "SALINE VALLEY",
     "value": 8.681589794741866,
     "valid": true
   },
   {
     "index": 215,
-    "Basin_Su_1": "A\u00d1O NUEVO AREA",
+    "NAME": "A\u00d1O NUEVO AREA",
     "value": 0.44992593589681906,
     "valid": true
   },
   {
     "index": 216,
-    "Basin_Su_1": "PESCADERO VALLEY",
-    "value": 3.9661905027979714,
+    "NAME": "PESCADERO VALLEY",
+    "value": 3.9661905027979723,
     "valid": true
   },
   {
     "index": 217,
-    "Basin_Su_1": "DEATH VALLEY",
+    "NAME": "DEATH VALLEY",
     "value": 8.493507788417464,
     "valid": true
   },
   {
     "index": 218,
-    "Basin_Su_1": "SAN GREGORIO VALLEY",
-    "value": 5.734353283575356,
+    "NAME": "SAN GREGORIO VALLEY",
+    "value": 5.734353283575354,
     "valid": true
   },
   {
     "index": 219,
-    "Basin_Su_1": "DEEP SPRINGS VALLEY",
-    "value": 9.463080131336998,
+    "NAME": "DEEP SPRINGS VALLEY",
+    "value": 9.463080131337001,
     "valid": true
   },
   {
     "index": 220,
-    "Basin_Su_1": "EUREKA VALLEY",
-    "value": 9.035023809575389,
+    "NAME": "EUREKA VALLEY",
+    "value": 9.035023809575392,
     "valid": true
   },
   {
     "index": 221,
-    "Basin_Su_1": "HALF MOON BAY TERRACE",
-    "value": 6.331464889162235,
+    "NAME": "HALF MOON BAY TERRACE",
+    "value": 6.331464889162234,
     "valid": true
   },
   {
     "index": 222,
-    "Basin_Su_1": "SAN PEDRO VALLEY",
-    "value": 8.099019570120952,
+    "NAME": "SAN PEDRO VALLEY",
+    "value": 8.099019570120948,
     "valid": true
   },
   {
     "index": 223,
-    "Basin_Su_1": "SUNOL VALLEY",
-    "value": 10.00000000000001,
+    "NAME": "SUNOL VALLEY",
+    "value": 10.000000000000009,
     "valid": true
   },
   {
     "index": 224,
-    "Basin_Su_1": "FISH LAKE VALLEY",
+    "NAME": "FISH LAKE VALLEY",
     "value": 8.752056448435205,
     "valid": true
   },
   {
     "index": 225,
-    "Basin_Su_1": "CASTRO VALLEY",
+    "NAME": "CASTRO VALLEY",
     "value": 9.999999999999703,
     "valid": true
   },
   {
     "index": 226,
-    "Basin_Su_1": "VISITACION VALLEY",
-    "value": 9.998737669016116,
+    "NAME": "VISITACION VALLEY",
+    "value": 9.998737669016112,
     "valid": true
   },
   {
     "index": 227,
-    "Basin_Su_1": "SOUTH SAN FRANCISCO",
-    "value": 8.595831267386604,
+    "NAME": "SOUTH SAN FRANCISCO",
+    "value": 8.595831267386602,
     "valid": true
   },
   {
     "index": 228,
-    "Basin_Su_1": "YOSEMITE VALLEY",
-    "value": 10.000000000000021,
+    "NAME": "YOSEMITE VALLEY",
+    "value": 10.000000000000023,
     "valid": true
   },
   {
     "index": 229,
-    "Basin_Su_1": "LONG VALLEY",
+    "NAME": "LONG VALLEY",
     "value": 10.000000000000021,
     "valid": true
   },
   {
     "index": 230,
-    "Basin_Su_1": "ISLAIS VALLEY",
+    "NAME": "ISLAIS VALLEY",
     "value": 9.561894161839552,
     "valid": true
   },
   {
     "index": 231,
-    "Basin_Su_1": "LIVERMORE VALLEY",
+    "NAME": "LIVERMORE VALLEY",
     "value": 9.171629185834,
     "valid": true
   },
   {
     "index": 232,
-    "Basin_Su_1": "WESTSIDE",
+    "NAME": "WESTSIDE",
     "value": 9.280778518118497,
     "valid": true
   },
   {
     "index": 233,
-    "Basin_Su_1": "LOBOS",
-    "value": 9.616365814569555,
+    "NAME": "LOBOS",
+    "value": 9.616365814569557,
     "valid": true
   },
   {
     "index": 234,
-    "Basin_Su_1": "DOWNTOWN",
-    "value": 0,
-    "valid": false
+    "NAME": "DOWNTOWN",
+    "value": 10.00000000000005,
+    "valid": true
   },
   {
     "index": 235,
-    "Basin_Su_1": "MARINA",
-    "value": 10.000000000000004,
+    "NAME": "MARINA",
+    "value": 10.0,
     "valid": true
   },
   {
     "index": 236,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - MODESTO",
+    "NAME": "SAN JOAQUIN VALLEY - MODESTO",
     "value": 9.80941086074506,
     "valid": true
   },
   {
     "index": 237,
-    "Basin_Su_1": "SAN RAMON VALLEY",
-    "value": 9.878212882288668,
+    "NAME": "SAN RAMON VALLEY",
+    "value": 9.878212882288665,
     "valid": true
   },
   {
     "index": 238,
-    "Basin_Su_1": "ROSS VALLEY",
-    "value": 9.447629303026044,
+    "NAME": "ROSS VALLEY",
+    "value": 9.447629303026043,
     "valid": true
   },
   {
     "index": 239,
-    "Basin_Su_1": "ADOBE LAKE VALLEY",
-    "value": 10.000000000000005,
+    "NAME": "ADOBE LAKE VALLEY",
+    "value": 10.000000000000004,
     "valid": true
   },
   {
     "index": 240,
-    "Basin_Su_1": "SAN RAFAEL VALLEY",
-    "value": 7.1150194995383265,
+    "NAME": "SAN RAFAEL VALLEY",
+    "value": 7.11501949953833,
     "valid": true
   },
   {
     "index": 241,
-    "Basin_Su_1": "ARROYO DEL HAMBRE VALLEY",
-    "value": 9.999999999999668,
+    "NAME": "ARROYO DEL HAMBRE VALLEY",
+    "value": 9.999999999999664,
     "valid": true
   },
   {
     "index": 242,
-    "Basin_Su_1": "YGNACIO VALLEY",
+    "NAME": "YGNACIO VALLEY",
     "value": 9.988908891936516,
     "valid": true
   },
   {
     "index": 243,
-    "Basin_Su_1": "PITTSBURG PLAIN",
-    "value": 9.04820019464064,
+    "NAME": "PITTSBURG PLAIN",
+    "value": 9.048200194640641,
     "valid": true
   },
   {
     "index": 244,
-    "Basin_Su_1": "CLAYTON VALLEY",
+    "NAME": "CLAYTON VALLEY",
     "value": 9.627266649929279,
     "valid": true
   },
   {
     "index": 245,
-    "Basin_Su_1": "MONO VALLEY",
+    "NAME": "MONO VALLEY",
     "value": 9.719550524532428,
     "valid": true
   },
   {
     "index": 246,
-    "Basin_Su_1": "NOVATO VALLEY",
-    "value": 8.907087735512707,
+    "NAME": "NOVATO VALLEY",
+    "value": 8.907087735512706,
     "valid": true
   },
   {
     "index": 247,
-    "Basin_Su_1": "SUISUN-FAIRFIELD VALLEY",
-    "value": 7.58226566215289,
+    "NAME": "SUISUN-FAIRFIELD VALLEY",
+    "value": 7.582265662152891,
     "valid": true
   },
   {
     "index": 248,
-    "Basin_Su_1": "BODEGA BAY AREA",
-    "value": 5.504068859759977,
+    "NAME": "BODEGA BAY AREA",
+    "value": 5.504068859759975,
     "valid": true
   },
   {
     "index": 249,
-    "Basin_Su_1": "BRIDGEPORT VALLEY",
-    "value": 9.999999999999995,
+    "NAME": "BRIDGEPORT VALLEY",
+    "value": 9.999999999999993,
     "valid": true
   },
   {
     "index": 250,
-    "Basin_Su_1": "SWEETWATER FLAT",
-    "value": 7.011303490832992,
+    "NAME": "SWEETWATER FLAT",
+    "value": 7.011303490832994,
     "valid": true
   },
   {
     "index": 251,
-    "Basin_Su_1": "FORT ROSS TERRACE DEPOSITS",
-    "value": 5.271807018158316,
+    "NAME": "FORT ROSS TERRACE DEPOSITS",
+    "value": 5.271807018158312,
     "valid": true
   },
   {
     "index": 252,
-    "Basin_Su_1": "KENWOOD VALLEY",
+    "NAME": "KENWOOD VALLEY",
     "value": 10.000000000000078,
     "valid": true
   },
   {
     "index": 253,
-    "Basin_Su_1": "LITTLE ANTELOPE VALLEY",
+    "NAME": "LITTLE ANTELOPE VALLEY",
     "value": 10.000000000000144,
     "valid": true
   },
   {
     "index": 254,
-    "Basin_Su_1": "SANTA ROSA VALLEY - RINCON VALLEY",
-    "value": 9.999999999999993,
+    "NAME": "SANTA ROSA VALLEY - RINCON VALLEY",
+    "value": 9.999999999999995,
     "valid": true
   },
   {
     "index": 255,
-    "Basin_Su_1": "LOWER RUSSIAN RIVER VALLEY",
-    "value": 10.000000000000075,
+    "NAME": "LOWER RUSSIAN RIVER VALLEY",
+    "value": 10.000000000000073,
     "valid": true
   },
   {
     "index": 256,
-    "Basin_Su_1": "BERRYESSA VALLEY",
+    "NAME": "BERRYESSA VALLEY",
     "value": 7.502942353694154,
     "valid": true
   },
   {
     "index": 257,
-    "Basin_Su_1": "NAPA-SONOMA VALLEY - NAPA VALLEY",
-    "value": 9.999999999999975,
-    "valid": true
-  },
-  {
-    "index": 258,
-    "Basin_Su_1": "SLINKARD VALLEY",
+    "NAME": "NAPA-SONOMA VALLEY - NAPA VALLEY",
     "value": 9.999999999999973,
     "valid": true
   },
   {
+    "index": 258,
+    "NAME": "SLINKARD VALLEY",
+    "value": 9.99999999999997,
+    "valid": true
+  },
+  {
     "index": 259,
-    "Basin_Su_1": "ANTELOPE VALLEY",
-    "value": 9.2780576808802,
+    "NAME": "ANTELOPE VALLEY",
+    "value": 9.278057680880199,
     "valid": true
   },
   {
     "index": 260,
-    "Basin_Su_1": "ANNAPOLIS OHLSON RANCH FORMATION HIGHLANDS",
-    "value": 9.684709481860063,
+    "NAME": "ANNAPOLIS OHLSON RANCH FORMATION HIGHLANDS",
+    "value": 9.684709481860061,
     "valid": true
   },
   {
     "index": 261,
-    "Basin_Su_1": "POPE VALLEY",
-    "value": 10.000000000000064,
+    "NAME": "POPE VALLEY",
+    "value": 10.00000000000006,
     "valid": true
   },
   {
     "index": 262,
-    "Basin_Su_1": "KNIGHTS VALLEY",
-    "value": 10.000000000000156,
+    "NAME": "KNIGHTS VALLEY",
+    "value": 10.00000000000016,
     "valid": true
   },
   {
     "index": 263,
-    "Basin_Su_1": "SANTA ROSA VALLEY - HEALDSBURG AREA",
-    "value": 9.999999999999947,
+    "NAME": "SANTA ROSA VALLEY - HEALDSBURG AREA",
+    "value": 9.999999999999945,
     "valid": true
   },
   {
     "index": 264,
-    "Basin_Su_1": "COLLAYOMI VALLEY",
-    "value": 10.000000000000037,
+    "NAME": "COLLAYOMI VALLEY",
+    "value": 10.000000000000039,
     "valid": true
   },
   {
     "index": 265,
-    "Basin_Su_1": "COYOTE VALLEY",
+    "NAME": "COYOTE VALLEY",
     "value": 9.97705734175082,
     "valid": true
   },
   {
     "index": 266,
-    "Basin_Su_1": "CARSON VALLEY",
-    "value": 9.684698934346018,
+    "NAME": "CARSON VALLEY",
+    "value": 9.68469893434602,
     "valid": true
   },
   {
     "index": 267,
-    "Basin_Su_1": "ALEXANDER VALLEY - CLOVERDALE AREA",
+    "NAME": "ALEXANDER VALLEY - CLOVERDALE AREA",
     "value": 9.99999999999997,
     "valid": true
   },
   {
     "index": 268,
-    "Basin_Su_1": "LOWER LAKE VALLEY",
-    "value": 10.000000000000142,
+    "NAME": "LOWER LAKE VALLEY",
+    "value": 10.000000000000144,
     "valid": true
   },
   {
     "index": 269,
-    "Basin_Su_1": "FORT BRAGG TERRACE AREA",
-    "value": 7.503043839372581,
+    "NAME": "FORT BRAGG TERRACE AREA",
+    "value": 7.503043839372585,
     "valid": true
   },
   {
     "index": 270,
-    "Basin_Su_1": "McDOWELL VALLEY",
-    "value": 10.0,
+    "NAME": "McDOWELL VALLEY",
+    "value": 10.000000000000004,
     "valid": true
   },
   {
     "index": 271,
-    "Basin_Su_1": "BURNS VALLEY",
+    "NAME": "BURNS VALLEY",
     "value": 10.000000000000018,
     "valid": true
   },
   {
     "index": 272,
-    "Basin_Su_1": "GARCIA RIVER VALLEY",
+    "NAME": "GARCIA RIVER VALLEY",
     "value": 1.0928672324590236,
     "valid": true
   },
   {
     "index": 273,
-    "Basin_Su_1": "BIG VALLEY",
-    "value": 9.35079675547037,
+    "NAME": "BIG VALLEY",
+    "value": 9.350796755470366,
     "valid": true
   },
   {
     "index": 274,
-    "Basin_Su_1": "SANEL VALLEY",
-    "value": 8.695851388527888,
+    "NAME": "SANEL VALLEY",
+    "value": 8.695851388527887,
     "valid": true
   },
   {
     "index": 275,
-    "Basin_Su_1": "HIGH VALLEY",
+    "NAME": "HIGH VALLEY",
     "value": 10.000000000000043,
     "valid": true
   },
   {
     "index": 276,
-    "Basin_Su_1": "CLEAR LAKE CACHE FORMATION",
+    "NAME": "CLEAR LAKE CACHE FORMATION",
     "value": 9.999999999999972,
     "valid": true
   },
   {
     "index": 277,
-    "Basin_Su_1": "SCOTTS VALLEY",
+    "NAME": "SCOTTS VALLEY",
     "value": 8.794633428668284,
     "valid": true
   },
   {
     "index": 278,
-    "Basin_Su_1": "ANDERSON VALLEY",
+    "NAME": "ANDERSON VALLEY",
     "value": 10.000000000000057,
     "valid": true
   },
   {
     "index": 279,
-    "Basin_Su_1": "LONG VALLEY",
+    "NAME": "LONG VALLEY",
     "value": 10.000000000000009,
     "valid": true
   },
   {
     "index": 280,
-    "Basin_Su_1": "BLANCHARD VALLEY",
+    "NAME": "BLANCHARD VALLEY",
     "value": 8.572377133075557,
     "valid": true
   },
   {
     "index": 281,
-    "Basin_Su_1": "TAHOE VALLEY - TAHOE WEST",
-    "value": 9.999999999999899,
+    "NAME": "TAHOE VALLEY - TAHOE WEST",
+    "value": 9.999999999999897,
     "valid": true
   },
   {
     "index": 282,
-    "Basin_Su_1": "OLYMPIC VALLEY",
-    "value": 10.0,
+    "NAME": "OLYMPIC VALLEY",
+    "value": 10.000000000000002,
     "valid": true
   },
   {
     "index": 283,
-    "Basin_Su_1": "UPPER LAKE VALLEY",
-    "value": 9.835439775525995,
+    "NAME": "UPPER LAKE VALLEY",
+    "value": 9.83543977552599,
     "valid": true
   },
   {
     "index": 284,
-    "Basin_Su_1": "NAVARRO RIVER VALLEY",
-    "value": 8.271404455871933,
+    "NAME": "NAVARRO RIVER VALLEY",
+    "value": 8.271404455871934,
     "valid": true
   },
   {
     "index": 285,
-    "Basin_Su_1": "BEAR VALLEY",
-    "value": 7.462833757273453,
+    "NAME": "BEAR VALLEY",
+    "value": 7.4628337572734535,
     "valid": true
   },
   {
     "index": 286,
-    "Basin_Su_1": "TAHOE VALLEY - TAHOE NORTH",
-    "value": 9.999999999999932,
+    "NAME": "TAHOE VALLEY - TAHOE NORTH",
+    "value": 9.999999999999934,
     "valid": true
   },
   {
     "index": 287,
-    "Basin_Su_1": "MIDDLE CREEK",
-    "value": 9.999999999999861,
+    "NAME": "MIDDLE CREEK",
+    "value": 9.999999999999863,
     "valid": true
   },
   {
     "index": 288,
-    "Basin_Su_1": "LITTLE INDIAN VALLEY",
+    "NAME": "LITTLE INDIAN VALLEY",
     "value": 7.5414988223469255,
     "valid": true
   },
   {
     "index": 289,
-    "Basin_Su_1": "ANTELOPE CREEK",
+    "NAME": "ANTELOPE CREEK",
     "value": 9.939763671926903,
     "valid": true
   },
   {
     "index": 290,
-    "Basin_Su_1": "UKIAH VALLEY",
-    "value": 9.799462329505761,
+    "NAME": "UKIAH VALLEY",
+    "value": 9.799462329505763,
     "valid": true
   },
   {
     "index": 291,
-    "Basin_Su_1": "BIG RIVER VALLEY",
-    "value": 10.000000000000183,
+    "NAME": "BIG RIVER VALLEY",
+    "value": 10.000000000000185,
     "valid": true
   },
   {
     "index": 292,
-    "Basin_Su_1": "POTTER VALLEY",
-    "value": 9.539256924779627,
+    "NAME": "POTTER VALLEY",
+    "value": 9.539256924779625,
     "valid": true
   },
   {
     "index": 293,
-    "Basin_Su_1": "MARTIS VALLEY",
+    "NAME": "MARTIS VALLEY",
     "value": 10.0,
     "valid": true
   },
   {
     "index": 294,
-    "Basin_Su_1": "FUNKS CREEK",
-    "value": 9.58695658242635,
+    "NAME": "FUNKS CREEK",
+    "value": 9.586956582426351,
     "valid": true
   },
   {
     "index": 295,
-    "Basin_Su_1": "STONYFORD TOWN AREA",
-    "value": 8.010220219111309,
+    "NAME": "STONYFORD TOWN AREA",
+    "value": 8.01022021911131,
     "valid": true
   },
   {
     "index": 296,
-    "Basin_Su_1": "GRAVELLY VALLEY",
-    "value": 9.999999999999966,
+    "NAME": "GRAVELLY VALLEY",
+    "value": 9.999999999999964,
     "valid": true
   },
   {
     "index": 297,
-    "Basin_Su_1": "LITTLE LAKE VALLEY",
+    "NAME": "LITTLE LAKE VALLEY",
     "value": 10.00000000000001,
     "valid": true
   },
   {
     "index": 298,
-    "Basin_Su_1": "SQUAW FLAT",
-    "value": 10.000000000000044,
+    "NAME": "SQUAW FLAT",
+    "value": 10.000000000000046,
     "valid": true
   },
   {
     "index": 299,
-    "Basin_Su_1": "STONY GORGE RESERVOIR",
-    "value": 8.0,
+    "NAME": "STONY GORGE RESERVOIR",
+    "value": 7.999999999999998,
     "valid": true
   },
   {
     "index": 300,
-    "Basin_Su_1": "LITTLE VALLEY",
+    "NAME": "LITTLE VALLEY",
     "value": 9.999999999999876,
     "valid": true
   },
   {
     "index": 301,
-    "Basin_Su_1": "SHERWOOD VALLEY",
+    "NAME": "SHERWOOD VALLEY",
     "value": 10.000000000000018,
     "valid": true
   },
   {
     "index": 302,
-    "Basin_Su_1": "TEN MILE RIVER VALLEY",
+    "NAME": "TEN MILE RIVER VALLEY",
     "value": 8.08481670058227,
     "valid": true
   },
   {
     "index": 303,
-    "Basin_Su_1": "ELK CREEK AREA",
-    "value": 7.617590215900738,
+    "NAME": "ELK CREEK AREA",
+    "value": 7.617590215900737,
     "valid": true
   },
   {
     "index": 304,
-    "Basin_Su_1": "EDEN VALLEY",
-    "value": 10.000000000000302,
+    "NAME": "EDEN VALLEY",
+    "value": 10.0000000000003,
     "valid": true
   },
   {
     "index": 305,
-    "Basin_Su_1": "LAYTONVILLE VALLEY",
-    "value": 10.000000000000064,
+    "NAME": "LAYTONVILLE VALLEY",
+    "value": 10.000000000000066,
     "valid": true
   },
   {
     "index": 306,
-    "Basin_Su_1": "BRANSCOMB TOWN AREA",
+    "NAME": "BRANSCOMB TOWN AREA",
     "value": 9.99999999999986,
     "valid": true
   },
   {
     "index": 307,
-    "Basin_Su_1": "CHROME TOWN AREA",
-    "value": 9.000000000000014,
+    "NAME": "CHROME TOWN AREA",
+    "value": 9.000000000000012,
     "valid": true
   },
   {
     "index": 308,
-    "Basin_Su_1": "LOWER LAYTONVILLE VALLEY",
+    "NAME": "LOWER LAYTONVILLE VALLEY",
     "value": 9.999999999999982,
     "valid": true
   },
   {
     "index": 309,
-    "Basin_Su_1": "MOHAWK VALLEY",
+    "NAME": "MOHAWK VALLEY",
     "value": 10.000000000000004,
     "valid": true
   },
   {
     "index": 310,
-    "Basin_Su_1": "HUMBUG VALLEY",
-    "value": 10.000000000000009,
+    "NAME": "HUMBUG VALLEY",
+    "value": 10.000000000000012,
     "valid": true
   },
   {
     "index": 311,
-    "Basin_Su_1": "COTTONEVA CREEK VALLEY",
+    "NAME": "COTTONEVA CREEK VALLEY",
     "value": 1.8009021652958161,
     "valid": true
   },
   {
     "index": 312,
-    "Basin_Su_1": "SIERRA VALLEY - CHILCOOT",
-    "value": 10.000000000000387,
+    "NAME": "SIERRA VALLEY - CHILCOOT",
+    "value": 10.000000000000394,
     "valid": true
   },
   {
     "index": 313,
-    "Basin_Su_1": "COVELO ROUND VALLEY",
+    "NAME": "COVELO ROUND VALLEY",
     "value": 8.929972963272215,
     "valid": true
   },
   {
     "index": 314,
-    "Basin_Su_1": "MIDDLE FORK FEATHER RIVER",
-    "value": 9.999999999999938,
+    "NAME": "MIDDLE FORK FEATHER RIVER",
+    "value": 9.999999999999936,
     "valid": true
   },
   {
     "index": 315,
-    "Basin_Su_1": "WILLIAMS VALLEY",
+    "NAME": "WILLIAMS VALLEY",
     "value": 9.999999999999854,
     "valid": true
   },
   {
     "index": 316,
-    "Basin_Su_1": "LONG VALLEY",
+    "NAME": "LONG VALLEY",
     "value": 9.987762517315693,
     "valid": true
   },
   {
     "index": 317,
-    "Basin_Su_1": "GRIZZLY VALLEY",
-    "value": 10.0,
+    "NAME": "GRIZZLY VALLEY",
+    "value": 10.000000000000004,
     "valid": true
   },
   {
     "index": 318,
-    "Basin_Su_1": "AMERICAN VALLEY",
+    "NAME": "AMERICAN VALLEY",
     "value": 10.00000000000005,
     "valid": true
   },
   {
     "index": 319,
-    "Basin_Su_1": "MEADOW VALLEY",
-    "value": 9.999999999999995,
+    "NAME": "MEADOW VALLEY",
+    "value": 9.999999999999993,
     "valid": true
   },
   {
     "index": 320,
-    "Basin_Su_1": "INDIAN VALLEY",
-    "value": 9.999999999999964,
+    "NAME": "INDIAN VALLEY",
+    "value": 9.999999999999961,
     "valid": true
   },
   {
     "index": 321,
-    "Basin_Su_1": "CLOVER VALLEY",
+    "NAME": "CLOVER VALLEY",
     "value": 9.999999999999968,
     "valid": true
   },
   {
     "index": 322,
-    "Basin_Su_1": "LAST CHANCE CREEK VALLEY",
-    "value": 9.999999999999847,
+    "NAME": "LAST CHANCE CREEK VALLEY",
+    "value": 9.999999999999854,
     "valid": true
   },
   {
     "index": 323,
-    "Basin_Su_1": "YELLOW CREEK VALLEY",
+    "NAME": "YELLOW CREEK VALLEY",
     "value": 9.999999999999941,
     "valid": true
   },
   {
     "index": 324,
-    "Basin_Su_1": "GARBERVILLE TOWN AREA",
+    "NAME": "GARBERVILLE TOWN AREA",
     "value": 10.000000000000078,
     "valid": true
   },
   {
     "index": 325,
-    "Basin_Su_1": "SACRAMENTO VALLEY - ANTELOPE",
+    "NAME": "SACRAMENTO VALLEY - ANTELOPE",
     "value": 9.994621601945513,
     "valid": true
   },
   {
     "index": 326,
-    "Basin_Su_1": "MOUNTAIN MEADOWS VALLEY",
+    "NAME": "MOUNTAIN MEADOWS VALLEY",
     "value": 9.999999999999964,
     "valid": true
   },
   {
     "index": 327,
-    "Basin_Su_1": "SACRAMENTO VALLEY - RED BLUFF",
+    "NAME": "SACRAMENTO VALLEY - RED BLUFF",
     "value": 9.78939369426648,
     "valid": true
   },
   {
     "index": 328,
-    "Basin_Su_1": "HONEYDEW TOWN AREA",
+    "NAME": "HONEYDEW TOWN AREA",
     "value": 10.000000000000046,
     "valid": true
   },
   {
     "index": 329,
-    "Basin_Su_1": "HETTENSHAW VALLEY",
-    "value": 10.0,
+    "NAME": "HETTENSHAW VALLEY",
+    "value": 10.000000000000004,
     "valid": true
   },
   {
     "index": 330,
-    "Basin_Su_1": "SACRAMENTO VALLEY - BEND",
-    "value": 9.520196370048454,
+    "NAME": "SACRAMENTO VALLEY - BEND",
+    "value": 9.520196370048456,
     "valid": true
   },
   {
     "index": 331,
-    "Basin_Su_1": "LAKE ALMANOR VALLEY",
-    "value": 9.999999999999979,
+    "NAME": "LAKE ALMANOR VALLEY",
+    "value": 9.99999999999998,
     "valid": true
   },
   {
     "index": 332,
-    "Basin_Su_1": "MATTOLE RIVER VALLEY",
-    "value": 7.9178622499115585,
+    "NAME": "MATTOLE RIVER VALLEY",
+    "value": 7.917862249911556,
     "valid": true
   },
   {
     "index": 333,
-    "Basin_Su_1": "WEOTT TOWN AREA",
-    "value": 10.000000000000043,
+    "NAME": "WEOTT TOWN AREA",
+    "value": 10.000000000000046,
     "valid": true
   },
   {
     "index": 334,
-    "Basin_Su_1": "HONEY LAKE VALLEY",
-    "value": 9.805721487538984,
+    "NAME": "HONEY LAKE VALLEY",
+    "value": 9.805721487538987,
     "valid": true
   },
   {
     "index": 335,
-    "Basin_Su_1": "WILSON POINT AREA",
+    "NAME": "WILSON POINT AREA",
     "value": 10.000000000000103,
     "valid": true
   },
   {
     "index": 336,
-    "Basin_Su_1": "LARABEE VALLEY",
+    "NAME": "LARABEE VALLEY",
     "value": 9.999999999999702,
     "valid": true
   },
   {
     "index": 337,
-    "Basin_Su_1": "PEPPERWOOD TOWN AREA",
-    "value": 9.999999999999988,
+    "NAME": "PEPPERWOOD TOWN AREA",
+    "value": 9.999999999999984,
     "valid": true
   },
   {
     "index": 338,
-    "Basin_Su_1": "DINSMORES TOWN AREA",
-    "value": 10.000000000000025,
+    "NAME": "DINSMORES TOWN AREA",
+    "value": 10.000000000000028,
     "valid": true
   },
   {
     "index": 339,
-    "Basin_Su_1": "WILLOW CREEK VALLEY",
-    "value": 9.999999999999986,
+    "NAME": "WILLOW CREEK VALLEY",
+    "value": 9.999999999999984,
     "valid": true
   },
   {
     "index": 340,
-    "Basin_Su_1": "NORTH FORK BATTLE CREEK",
-    "value": 10.000000000000032,
+    "NAME": "NORTH FORK BATTLE CREEK",
+    "value": 10.000000000000034,
     "valid": true
   },
   {
     "index": 341,
-    "Basin_Su_1": "REDDING AREA - ANDERSON",
+    "NAME": "REDDING AREA - ANDERSON",
     "value": 8.68608728832875,
     "valid": true
   },
   {
     "index": 342,
-    "Basin_Su_1": "SECRET VALLEY",
+    "NAME": "SECRET VALLEY",
     "value": 10.000000000000004,
     "valid": true
   },
   {
     "index": 343,
-    "Basin_Su_1": "HAYFORK VALLEY",
-    "value": 10.000000000000112,
+    "NAME": "HAYFORK VALLEY",
+    "value": 10.00000000000011,
     "valid": true
   },
   {
     "index": 344,
-    "Basin_Su_1": "BULL FLAT",
+    "NAME": "BULL FLAT",
     "value": 9.633195449158153,
     "valid": true
   },
   {
     "index": 345,
-    "Basin_Su_1": "PINE CREEK VALLEY",
-    "value": 9.99999999999997,
+    "NAME": "PINE CREEK VALLEY",
+    "value": 9.999999999999972,
     "valid": true
   },
   {
     "index": 346,
-    "Basin_Su_1": "HORSE LAKE VALLEY",
+    "NAME": "HORSE LAKE VALLEY",
     "value": 10.000000000000195,
     "valid": true
   },
   {
     "index": 347,
-    "Basin_Su_1": "GRAYS VALLEY",
+    "NAME": "GRAYS VALLEY",
     "value": 9.99999999999999,
     "valid": true
   },
   {
     "index": 348,
-    "Basin_Su_1": "BUTTE CREEK VALLEY",
-    "value": 10.000000000000087,
+    "NAME": "BUTTE CREEK VALLEY",
+    "value": 10.000000000000085,
     "valid": true
   },
   {
     "index": 349,
-    "Basin_Su_1": "HYAMPOM VALLEY",
+    "NAME": "HYAMPOM VALLEY",
     "value": 10.0,
     "valid": true
   },
   {
     "index": 350,
-    "Basin_Su_1": "REDDING AREA - ENTERPRISE",
+    "NAME": "REDDING AREA - ENTERPRISE",
     "value": 8.992781162726263,
     "valid": true
   },
   {
     "index": 351,
-    "Basin_Su_1": "EAGLE LAKE AREA",
-    "value": 10.000000000000007,
+    "NAME": "EAGLE LAKE AREA",
+    "value": 10.000000000000009,
     "valid": true
   },
   {
     "index": 352,
-    "Basin_Su_1": "HARVEY VALLEY",
-    "value": 10.000000000000044,
+    "NAME": "HARVEY VALLEY",
+    "value": 10.00000000000004,
     "valid": true
   },
   {
     "index": 353,
-    "Basin_Su_1": "DRY BURNEY CREEK VALLEY",
-    "value": 10.000000000000012,
+    "NAME": "DRY BURNEY CREEK VALLEY",
+    "value": 10.000000000000016,
     "valid": true
   },
   {
     "index": 354,
-    "Basin_Su_1": "PAINTERS FLAT",
-    "value": 9.815929859910556,
+    "NAME": "PAINTERS FLAT",
+    "value": 9.815929859910561,
     "valid": true
   },
   {
     "index": 355,
-    "Basin_Su_1": "DIXIE VALLEY",
-    "value": 9.999999999999964,
+    "NAME": "DIXIE VALLEY",
+    "value": 9.999999999999961,
     "valid": true
   },
   {
     "index": 356,
-    "Basin_Su_1": "BURNEY CREEK VALLEY",
-    "value": 9.999999999999934,
+    "NAME": "BURNEY CREEK VALLEY",
+    "value": 9.99999999999994,
     "valid": true
   },
   {
     "index": 357,
-    "Basin_Su_1": "GRASSHOPPER VALLEY",
-    "value": 10.00000000000003,
+    "NAME": "GRASSHOPPER VALLEY",
+    "value": 10.000000000000028,
     "valid": true
   },
   {
     "index": 358,
-    "Basin_Su_1": "DRY VALLEY",
+    "NAME": "DRY VALLEY",
     "value": 9.999999999999845,
     "valid": true
   },
   {
     "index": 359,
-    "Basin_Su_1": "GOOSE VALLEY",
+    "NAME": "GOOSE VALLEY",
     "value": 10.0,
     "valid": true
   },
   {
     "index": 360,
-    "Basin_Su_1": "FALL RIVER VALLEY",
-    "value": 9.999999999999998,
+    "NAME": "FALL RIVER VALLEY",
+    "value": 9.999999999999996,
     "valid": true
   },
   {
     "index": 361,
-    "Basin_Su_1": "MAD RIVER VALLEY - MAD RIVER LOWLAND",
+    "NAME": "MAD RIVER VALLEY - MAD RIVER LOWLAND",
     "value": 9.933448318408441,
     "valid": true
   },
   {
     "index": 362,
-    "Basin_Su_1": "LAKE BRITTON AREA",
-    "value": 10.000000000000009,
+    "NAME": "LAKE BRITTON AREA",
+    "value": 10.000000000000012,
     "valid": true
   },
   {
     "index": 363,
-    "Basin_Su_1": "TULEDAD CANYON VALLEY",
-    "value": 9.98043761326193,
+    "NAME": "TULEDAD CANYON VALLEY",
+    "value": 9.980437613261929,
     "valid": true
   },
   {
     "index": 364,
-    "Basin_Su_1": "MADELINE PLAINS",
+    "NAME": "MADELINE PLAINS",
     "value": 9.999999999999991,
     "valid": true
   },
   {
     "index": 365,
-    "Basin_Su_1": "CAYTON VALLEY",
+    "NAME": "CAYTON VALLEY",
     "value": 10.000000000000705,
     "valid": true
   },
   {
     "index": 366,
-    "Basin_Su_1": "MAD RIVER VALLEY - DOWS PRAIRIE SCHOOL AREA",
+    "NAME": "MAD RIVER VALLEY - DOWS PRAIRIE SCHOOL AREA",
     "value": 9.941132293148117,
     "valid": true
   },
   {
     "index": 367,
-    "Basin_Su_1": "ASH VALLEY",
-    "value": 10.000000000000027,
+    "NAME": "ASH VALLEY",
+    "value": 10.000000000000028,
     "valid": true
   },
   {
     "index": 368,
-    "Basin_Su_1": "HOOPA VALLEY",
-    "value": 9.999999999999975,
+    "NAME": "HOOPA VALLEY",
+    "value": 9.999999999999979,
     "valid": true
   },
   {
     "index": 369,
-    "Basin_Su_1": "LONG VALLEY",
-    "value": 10.000000000000105,
+    "NAME": "LONG VALLEY",
+    "value": 10.000000000000107,
     "valid": true
   },
   {
     "index": 370,
-    "Basin_Su_1": "PONDOSA TOWN AREA",
-    "value": 10.000000000000087,
+    "NAME": "PONDOSA TOWN AREA",
+    "value": 10.000000000000083,
     "valid": true
   },
   {
     "index": 371,
-    "Basin_Su_1": "BIG LAGOON AREA",
-    "value": 5.297221370567061,
+    "NAME": "BIG LAGOON AREA",
+    "value": 5.297221370567054,
     "valid": true
   },
   {
     "index": 372,
-    "Basin_Su_1": "HOT SPRINGS VALLEY",
+    "NAME": "HOT SPRINGS VALLEY",
     "value": 9.999999999999995,
     "valid": true
   },
   {
     "index": 373,
-    "Basin_Su_1": "ROUND VALLEY",
+    "NAME": "ROUND VALLEY",
     "value": 10.000000000000007,
     "valid": true
   },
   {
     "index": 374,
-    "Basin_Su_1": "JESS VALLEY",
-    "value": 10.000000000000057,
+    "NAME": "JESS VALLEY",
+    "value": 10.000000000000059,
     "valid": true
   },
   {
     "index": 375,
-    "Basin_Su_1": "ROCK PRAIRIE VALLEY",
-    "value": 10.000000000000025,
+    "NAME": "ROCK PRAIRIE VALLEY",
+    "value": 10.000000000000021,
     "valid": true
   },
   {
     "index": 376,
-    "Basin_Su_1": "BIG VALLEY",
+    "NAME": "BIG VALLEY",
     "value": 9.999999999999984,
     "valid": true
   },
   {
     "index": 377,
-    "Basin_Su_1": "EGG LAKE VALLEY",
+    "NAME": "EGG LAKE VALLEY",
     "value": 9.999999999999957,
     "valid": true
   },
   {
     "index": 378,
-    "Basin_Su_1": "MCCLOUD AREA",
+    "NAME": "MCCLOUD AREA",
     "value": 10.000000000000007,
     "valid": true
   },
   {
     "index": 379,
-    "Basin_Su_1": "REDWOOD CREEK AREA",
-    "value": 9.999999999999954,
+    "NAME": "REDWOOD CREEK AREA",
+    "value": 9.999999999999956,
     "valid": true
   },
   {
     "index": 380,
-    "Basin_Su_1": "TOAD WELL AREA",
-    "value": 9.999999999999893,
+    "NAME": "TOAD WELL AREA",
+    "value": 9.999999999999897,
     "valid": true
   },
   {
     "index": 381,
-    "Basin_Su_1": "PRAIRIE CREEK AREA",
-    "value": 8.610255550119847,
+    "NAME": "PRAIRIE CREEK AREA",
+    "value": 8.610255550119849,
     "valid": true
   },
   {
     "index": 382,
-    "Basin_Su_1": "ALTURAS AREA - WARM SPRINGS VALLEY",
-    "value": 9.999999999999993,
+    "NAME": "ALTURAS AREA - WARM SPRINGS VALLEY",
+    "value": 9.999999999999991,
     "valid": true
   },
   {
     "index": 383,
-    "Basin_Su_1": "ALTURAS AREA - SOUTH FORK PITT RIVER",
+    "NAME": "ALTURAS AREA - SOUTH FORK PITT RIVER",
     "value": 10.00000000000001,
     "valid": true
   },
   {
     "index": 384,
-    "Basin_Su_1": "JOSEPH CREEK",
-    "value": 10.000000000000115,
+    "NAME": "JOSEPH CREEK",
+    "value": 10.000000000000119,
     "valid": true
   },
   {
     "index": 385,
-    "Basin_Su_1": "FAIRCHILD SWAMP VALLEY",
-    "value": 10.000000000000012,
+    "NAME": "FAIRCHILD SWAMP VALLEY",
+    "value": 10.00000000000001,
     "valid": true
   },
   {
     "index": 386,
-    "Basin_Su_1": "LOWER KLAMATH RIVER VALLEY",
+    "NAME": "LOWER KLAMATH RIVER VALLEY",
     "value": 9.070964975690632,
     "valid": true
   },
   {
     "index": 387,
-    "Basin_Su_1": "SCOTT RIVER VALLEY",
-    "value": 9.886890746056892,
+    "NAME": "SCOTT RIVER VALLEY",
+    "value": 9.886890746056894,
     "valid": true
   },
   {
     "index": 388,
-    "Basin_Su_1": "BRAY TOWN AREA",
-    "value": 9.999999999999982,
+    "NAME": "BRAY TOWN AREA",
+    "value": 9.99999999999998,
     "valid": true
   },
   {
     "index": 389,
-    "Basin_Su_1": "RED ROCK VALLEY",
+    "NAME": "RED ROCK VALLEY",
     "value": 10.000000000000027,
     "valid": true
   },
   {
     "index": 390,
-    "Basin_Su_1": "SHASTA VALLEY",
-    "value": 9.920693224929185,
+    "NAME": "SHASTA VALLEY",
+    "value": 9.920693224929183,
     "valid": true
   },
   {
     "index": 391,
-    "Basin_Su_1": "HAPPY CAMP TOWN AREA",
-    "value": 9.999999999999984,
+    "NAME": "HAPPY CAMP TOWN AREA",
+    "value": 9.999999999999986,
     "valid": true
   },
   {
     "index": 392,
-    "Basin_Su_1": "GOOSE LAKE - GOOSE VALLEY",
+    "NAME": "GOOSE LAKE - GOOSE VALLEY",
     "value": 9.999999999999991,
     "valid": true
   },
   {
     "index": 393,
-    "Basin_Su_1": "SEIAD VALLEY",
-    "value": 9.999999999999991,
+    "NAME": "SEIAD VALLEY",
+    "value": 9.99999999999999,
     "valid": true
   },
   {
     "index": 394,
-    "Basin_Su_1": "SURPRISE VALLEY",
+    "NAME": "SURPRISE VALLEY",
     "value": 9.986814560011625,
     "valid": true
   },
   {
     "index": 395,
-    "Basin_Su_1": "COW HEAD LAKE VALLEY",
-    "value": 9.970191988623517,
+    "NAME": "COW HEAD LAKE VALLEY",
+    "value": 9.970191988623515,
     "valid": true
   },
   {
     "index": 396,
-    "Basin_Su_1": "GOOSE LAKE - FANDANGO VALLEY",
-    "value": 10.000000000000016,
+    "NAME": "GOOSE LAKE - FANDANGO VALLEY",
+    "value": 10.000000000000018,
     "valid": true
   },
   {
     "index": 397,
-    "Basin_Su_1": "KLAMATH RIVER VALLEY - LOWER KLAMATH",
+    "NAME": "KLAMATH RIVER VALLEY - LOWER KLAMATH",
     "value": 9.889468572629365,
     "valid": true
   },
   {
     "index": 398,
-    "Basin_Su_1": "BUTTE VALLEY",
-    "value": 9.99076751297786,
+    "NAME": "BUTTE VALLEY",
+    "value": 9.990767512977857,
     "valid": true
   },
   {
     "index": 399,
-    "Basin_Su_1": "SMITH RIVER PLAIN",
+    "NAME": "SMITH RIVER PLAIN",
     "value": 9.160763630944297,
     "valid": true
   },
   {
     "index": 400,
-    "Basin_Su_1": "ALEXANDER VALLEY - ALEXANDER AREA",
-    "value": 10.000000000000028,
+    "NAME": "ALEXANDER VALLEY - ALEXANDER AREA",
+    "value": 10.00000000000003,
     "valid": true
   },
   {
     "index": 401,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - TURLOCK",
-    "value": 9.875088647987965,
+    "NAME": "SAN JOAQUIN VALLEY - TURLOCK",
+    "value": 9.875088647987967,
     "valid": true
   },
   {
     "index": 402,
-    "Basin_Su_1": "COASTAL PLAIN OF LOS ANGELES - WEST COAST",
+    "NAME": "COASTAL PLAIN OF LOS ANGELES - WEST COAST",
     "value": 9.374039983490915,
     "valid": true
   },
   {
     "index": 403,
-    "Basin_Su_1": "NEEDLE ROCK POINT",
+    "NAME": "NEEDLE ROCK POINT",
     "value": 0,
     "valid": true
   },
   {
     "index": 404,
-    "Basin_Su_1": "SALINAS VALLEY - 180/400 FOOT AQUIFER",
-    "value": 10.000000000000004,
+    "NAME": "SALINAS VALLEY - 180/400 FOOT AQUIFER",
+    "value": 10.000000000000005,
     "valid": true
   },
   {
     "index": 405,
-    "Basin_Su_1": "SANTA CLARA VALLEY - SAN MATEO PLAIN",
+    "NAME": "SANTA CLARA VALLEY - SAN MATEO PLAIN",
     "value": 9.31707548287167,
     "valid": true
   },
   {
     "index": 406,
-    "Basin_Su_1": "BEAR VALLEY",
-    "value": 10.000000000000032,
+    "NAME": "BEAR VALLEY",
+    "value": 10.000000000000034,
     "valid": true
   },
   {
     "index": 407,
-    "Basin_Su_1": "SANTA MARGARITA VALLEY",
-    "value": 10.000000000000004,
+    "NAME": "SANTA MARGARITA VALLEY",
+    "value": 10.000000000000009,
     "valid": true
   },
   {
     "index": 408,
-    "Basin_Su_1": "EEL RIVER VALLEY",
-    "value": 9.37829603949641,
+    "NAME": "EEL RIVER VALLEY",
+    "value": 9.378296039496412,
     "valid": true
   },
   {
     "index": 409,
-    "Basin_Su_1": "MISSION VALLEY",
-    "value": 9.999999999999975,
+    "NAME": "MISSION VALLEY",
+    "value": 9.999999999999968,
     "valid": true
   },
   {
     "index": 410,
-    "Basin_Su_1": "CORRALITOS - PURISIMA HIGHLANDS",
-    "value": 10.000000000000025,
+    "NAME": "CORRALITOS - PURISIMA HIGHLANDS",
+    "value": 10.000000000000028,
     "valid": true
   },
   {
     "index": 411,
-    "Basin_Su_1": "CORRALITOS - PAJARO VALLEY",
+    "NAME": "CORRALITOS - PAJARO VALLEY",
     "value": 9.954659723341942,
     "valid": true
   },
   {
     "index": 412,
-    "Basin_Su_1": "CARMEL VALLEY",
-    "value": 9.999999999999986,
+    "NAME": "CARMEL VALLEY",
+    "value": 9.999999999999975,
     "valid": true
   },
   {
     "index": 413,
-    "Basin_Su_1": "SALINAS VALLEY - SEASIDE",
-    "value": 9.136301022359127,
+    "NAME": "SALINAS VALLEY - SEASIDE",
+    "value": 9.136301022359124,
     "valid": true
   },
   {
     "index": 414,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - PLEASANT VALLEY",
-    "value": 9.594743938159288,
+    "NAME": "SAN JOAQUIN VALLEY - PLEASANT VALLEY",
+    "value": 9.59474393815929,
     "valid": true
   },
   {
     "index": 415,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - WHITE WOLF",
+    "NAME": "SAN JOAQUIN VALLEY - WHITE WOLF",
     "value": 8.717038648644339,
     "valid": true
   },
   {
     "index": 416,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - KETTLEMAN PLAIN",
-    "value": 9.984185324607434,
+    "NAME": "SAN JOAQUIN VALLEY - KETTLEMAN PLAIN",
+    "value": 9.984185324607433,
     "valid": true
   },
   {
     "index": 417,
-    "Basin_Su_1": "KLAMATH RIVER VALLEY - TULELAKE",
+    "NAME": "KLAMATH RIVER VALLEY - TULELAKE",
     "value": 10.00000000000001,
     "valid": true
   },
   {
     "index": 418,
-    "Basin_Su_1": "BORREGO VALLEY - BORREGO SPRINGS",
-    "value": 8.519692192549272,
+    "NAME": "BORREGO VALLEY - BORREGO SPRINGS",
+    "value": 8.51969219254927,
     "valid": true
   },
   {
     "index": 419,
-    "Basin_Su_1": "COASTAL PLAIN OF ORANGE COUNTY",
-    "value": 9.721113274657052,
+    "NAME": "COASTAL PLAIN OF ORANGE COUNTY",
+    "value": 9.72111327465705,
     "valid": true
   },
   {
     "index": 420,
-    "Basin_Su_1": "OWENS VALLEY - FISH SLOUGH",
-    "value": 7.528716649156142,
+    "NAME": "OWENS VALLEY - FISH SLOUGH",
+    "value": 7.5287166491561415,
     "valid": true
   },
   {
     "index": 421,
-    "Basin_Su_1": "FOOTHILL",
-    "value": 10.000000000000133,
+    "NAME": "FOOTHILL",
+    "value": 10.000000000000124,
     "valid": true
   },
   {
     "index": 422,
-    "Basin_Su_1": "PLEASANT VALLEY",
-    "value": 9.99999999999997,
+    "NAME": "PLEASANT VALLEY",
+    "value": 9.999999999999972,
     "valid": true
   },
   {
     "index": 423,
-    "Basin_Su_1": "OJAI VALLEY",
-    "value": 10.000000000000004,
+    "NAME": "OJAI VALLEY",
+    "value": 10.0,
     "valid": true
   },
   {
     "index": 424,
-    "Basin_Su_1": "VENTURA RIVER VALLEY - UPPER VENTURA RIVER",
+    "NAME": "VENTURA RIVER VALLEY - UPPER VENTURA RIVER",
     "value": 10.0,
     "valid": true
   },
   {
     "index": 425,
-    "Basin_Su_1": "LAS POSAS VALLEY",
+    "NAME": "LAS POSAS VALLEY",
     "value": 10.000000000000012,
     "valid": true
   },
   {
     "index": 426,
-    "Basin_Su_1": "SAN ANTONIO CREEK VALLEY",
+    "NAME": "SAN ANTONIO CREEK VALLEY",
     "value": 10.000000000000014,
     "valid": true
   },
   {
     "index": 427,
-    "Basin_Su_1": "SANTA YNEZ RIVER VALLEY",
+    "NAME": "SANTA YNEZ RIVER VALLEY",
     "value": 9.947953336827956,
     "valid": true
   },
   {
     "index": 428,
-    "Basin_Su_1": "SANTA CLARA RIVER VALLEY - SANTA CLARA RIVER VALLEY EAST",
+    "NAME": "SANTA CLARA RIVER VALLEY - SANTA CLARA RIVER VALLEY EAST",
     "value": 7.266598445632177,
     "valid": true
   },
   {
     "index": 429,
-    "Basin_Su_1": "ELSINORE - BEDFORD-COLDWATER",
-    "value": 8.778684296906572,
+    "NAME": "ELSINORE - BEDFORD-COLDWATER",
+    "value": 8.778684296906567,
     "valid": true
   },
   {
     "index": 430,
-    "Basin_Su_1": "UPPER SANTA ANA VALLEY - TEMESCAL",
+    "NAME": "UPPER SANTA ANA VALLEY - TEMESCAL",
     "value": 7.580412606656051,
     "valid": true
   },
   {
     "index": 431,
-    "Basin_Su_1": "ELSINORE - ELSINORE VALLEY",
-    "value": 6.086854417196192,
-    "valid": false
+    "NAME": "ELSINORE - ELSINORE VALLEY",
+    "value": 8.109150958594226,
+    "valid": true
   },
   {
     "index": 432,
-    "Basin_Su_1": "UPPER SANTA ANA VALLEY - SAN BERNARDINO",
-    "value": 7.97937988320836,
+    "NAME": "UPPER SANTA ANA VALLEY - SAN BERNARDINO",
+    "value": 7.979379883208359,
     "valid": true
   },
   {
     "index": 433,
-    "Basin_Su_1": "COASTAL PLAIN OF LOS ANGELES - CENTRAL",
+    "NAME": "COASTAL PLAIN OF LOS ANGELES - CENTRAL",
     "value": 9.96920440777085,
     "valid": true
   },
   {
     "index": 434,
-    "Basin_Su_1": "UPPER SANTA ANA VALLEY - CHINO",
-    "value": 7.103557828463511,
-    "valid": false
+    "NAME": "UPPER SANTA ANA VALLEY - CHINO",
+    "value": 7.6387563096107645,
+    "valid": true
   },
   {
     "index": 435,
-    "Basin_Su_1": "SAN GABRIEL VALLEY",
-    "value": 9.122969338845373,
+    "NAME": "SAN GABRIEL VALLEY",
+    "value": 9.122969338845374,
     "valid": true
   },
   {
     "index": 436,
-    "Basin_Su_1": "UPPER SANTA ANA VALLEY - CUCAMONGA",
+    "NAME": "UPPER SANTA ANA VALLEY - CUCAMONGA",
     "value": 9.342651788255036,
     "valid": true
   },
   {
     "index": 437,
-    "Basin_Su_1": "RAYMOND",
+    "NAME": "RAYMOND",
     "value": 9.8842603299708,
     "valid": true
   },
   {
     "index": 438,
-    "Basin_Su_1": "UPPER SANTA ANA VALLEY - RIALTO-COLTON",
-    "value": 6.270161789221902,
+    "NAME": "UPPER SANTA ANA VALLEY - RIALTO-COLTON",
+    "value": 6.270161789221901,
     "valid": true
   },
   {
     "index": 439,
-    "Basin_Su_1": "UPPER SANTA ANA VALLEY - RIVERSIDE-ARLINGTON",
-    "value": 7.044960368163887,
+    "NAME": "UPPER SANTA ANA VALLEY - RIVERSIDE-ARLINGTON",
+    "value": 7.0449603681638875,
     "valid": true
   },
   {
     "index": 440,
-    "Basin_Su_1": "UPPER SANTA ANA VALLEY - YUCAIPA",
-    "value": 8.68036790421287,
+    "NAME": "UPPER SANTA ANA VALLEY - YUCAIPA",
+    "value": 8.680367904212869,
     "valid": true
   },
   {
     "index": 441,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - COSUMNES",
-    "value": 9.999942103319675,
+    "NAME": "SAN JOAQUIN VALLEY - COSUMNES",
+    "value": 9.999942103319674,
     "valid": true
   },
   {
     "index": 442,
-    "Basin_Su_1": "SANTA CLARA VALLEY - EAST BAY PLAIN",
-    "value": 8.369948072728684,
+    "NAME": "SANTA CLARA VALLEY - EAST BAY PLAIN",
+    "value": 8.369948072728683,
     "valid": true
   },
   {
     "index": 443,
-    "Basin_Su_1": "SANTA CLARA VALLEY - NILES CONE",
-    "value": 9.502608913198147,
+    "NAME": "SANTA CLARA VALLEY - NILES CONE",
+    "value": 9.502608913198145,
     "valid": true
   },
   {
     "index": 444,
-    "Basin_Su_1": "SANTA CLARA VALLEY - SANTA CLARA",
+    "NAME": "SANTA CLARA VALLEY - SANTA CLARA",
     "value": 9.999999999999988,
     "valid": true
   },
   {
     "index": 445,
-    "Basin_Su_1": "GILROY-HOLLISTER VALLEY - LLAGAS AREA",
-    "value": 10.00000000000001,
+    "NAME": "GILROY-HOLLISTER VALLEY - LLAGAS AREA",
+    "value": 10.000000000000012,
     "valid": true
   },
   {
     "index": 446,
-    "Basin_Su_1": "UPPER SANTA ANA VALLEY - CAJON",
+    "NAME": "UPPER SANTA ANA VALLEY - CAJON",
     "value": 9.968844289117627,
     "valid": true
   },
   {
     "index": 447,
-    "Basin_Su_1": "SAN PASQUAL VALLEY",
-    "value": 8.544726919199814,
+    "NAME": "SAN PASQUAL VALLEY",
+    "value": 8.544726919199817,
     "valid": true
   },
   {
     "index": 448,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - KERN COUNTY",
-    "value": 9.684088840885979,
+    "NAME": "SAN JOAQUIN VALLEY - KERN COUNTY",
+    "value": 9.684088840885977,
     "valid": true
   },
   {
     "index": 449,
-    "Basin_Su_1": "EUREKA PLAIN",
+    "NAME": "EUREKA PLAIN",
     "value": 8.491064353925703,
     "valid": true
   },
   {
     "index": 450,
-    "Basin_Su_1": "SANTA CRUZ MID-COUNTY",
+    "NAME": "SANTA CRUZ MID-COUNTY",
     "value": 10.000000000000012,
     "valid": true
   },
   {
     "index": 451,
-    "Basin_Su_1": "SANTA MARGARITA",
-    "value": 10.000000000000005,
+    "NAME": "SANTA MARGARITA",
+    "value": 10.000000000000004,
     "valid": true
   },
   {
     "index": 452,
-    "Basin_Su_1": "WEST SANTA CRUZ TERRACE",
+    "NAME": "WEST SANTA CRUZ TERRACE",
     "value": 8.862340501607537,
     "valid": true
   },
   {
     "index": 453,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - TULARE LAKE",
+    "NAME": "SAN JOAQUIN VALLEY - TULARE LAKE",
     "value": 10.0,
     "valid": true
   },
   {
     "index": 454,
-    "Basin_Su_1": "SALINAS VALLEY - ATASCADERO AREA",
+    "NAME": "SALINAS VALLEY - ATASCADERO AREA",
     "value": 9.025628453924481,
     "valid": true
   },
   {
     "index": 455,
-    "Basin_Su_1": "BORREGO VALLEY - OCOTILLO WELLS",
+    "NAME": "BORREGO VALLEY - OCOTILLO WELLS",
     "value": 8.42123495276176,
     "valid": true
   },
   {
     "index": 456,
-    "Basin_Su_1": "COASTAL PLAIN OF SAN DIEGO",
+    "NAME": "COASTAL PLAIN OF SAN DIEGO",
     "value": 8.754621333799294,
     "valid": true
   },
   {
     "index": 457,
-    "Basin_Su_1": "OCOTILLO-CLARK VALLEY",
+    "NAME": "OCOTILLO-CLARK VALLEY",
     "value": 9.013749860010597,
     "valid": true
   },
   {
     "index": 458,
-    "Basin_Su_1": "TAHOE VALLEY - TAHOE SOUTH",
+    "NAME": "TAHOE VALLEY - TAHOE SOUTH",
     "value": 9.885671472221347,
     "valid": true
   },
   {
     "index": 459,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - TULE",
+    "NAME": "SAN JOAQUIN VALLEY - TULE",
     "value": 9.95994687599254,
     "valid": true
   },
   {
     "index": 460,
-    "Basin_Su_1": "CHOLAME VALLEY",
-    "value": 8.571448576952658,
+    "NAME": "CHOLAME VALLEY",
+    "value": 8.571448576952655,
     "valid": true
   },
   {
     "index": 461,
-    "Basin_Su_1": "SALINAS VALLEY - PASO ROBLES AREA",
+    "NAME": "SALINAS VALLEY - PASO ROBLES AREA",
     "value": 8.906266023331266,
     "valid": true
   },
   {
     "index": 462,
-    "Basin_Su_1": "SALINAS VALLEY - UPPER VALLEY AQUIFER",
+    "NAME": "SALINAS VALLEY - UPPER VALLEY AQUIFER",
     "value": 8.85561639512121,
     "valid": true
   },
   {
     "index": 463,
-    "Basin_Su_1": "WARREN VALLEY",
+    "NAME": "WARREN VALLEY",
     "value": 7.697406773435127,
     "valid": true
   },
   {
     "index": 464,
-    "Basin_Su_1": "JOSHUA TREE",
+    "NAME": "JOSHUA TREE",
     "value": 8.236897181656339,
     "valid": true
   },
   {
     "index": 465,
-    "Basin_Su_1": "ARROYO SANTA ROSA VALLEY",
+    "NAME": "ARROYO SANTA ROSA VALLEY",
     "value": 10.000000000000082,
     "valid": true
   },
   {
     "index": 466,
-    "Basin_Su_1": "CARPINTERIA",
-    "value": 9.824895209705472,
+    "NAME": "CARPINTERIA",
+    "value": 9.82489520970548,
     "valid": true
   },
   {
     "index": 467,
-    "Basin_Su_1": "MONTECITO",
-    "value": 4.309414088834286,
+    "NAME": "MONTECITO",
+    "value": 4.309414088834285,
     "valid": true
   },
   {
     "index": 468,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - CHOWCHILLA",
+    "NAME": "SAN JOAQUIN VALLEY - CHOWCHILLA",
     "value": 9.999999999999961,
     "valid": true
   },
   {
     "index": 469,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - MERCED",
-    "value": 9.995405284025122,
+    "NAME": "SAN JOAQUIN VALLEY - MERCED",
+    "value": 9.995405284025118,
     "valid": true
   },
   {
     "index": 470,
-    "Basin_Su_1": "OWENS VALLEY - OWENS VALLEY",
-    "value": 7.997263201352323,
+    "NAME": "OWENS VALLEY - OWENS VALLEY",
+    "value": 7.997263201352321,
     "valid": true
   },
   {
     "index": 471,
-    "Basin_Su_1": "SAND POINT AREA",
+    "NAME": "SAND POINT AREA",
     "value": 9.235771339465419,
     "valid": true
   },
   {
     "index": 472,
-    "Basin_Su_1": "NAPA-SONOMA VALLEY - NAPA-SONOMA LOWLANDS",
-    "value": 8.916391791258873,
+    "NAME": "NAPA-SONOMA VALLEY - NAPA-SONOMA LOWLANDS",
+    "value": 8.916391791258874,
     "valid": true
   },
   {
     "index": 473,
-    "Basin_Su_1": "PETALUMA VALLEY",
+    "NAME": "PETALUMA VALLEY",
     "value": 9.756681709381818,
     "valid": true
   },
   {
     "index": 474,
-    "Basin_Su_1": "NAPA-SONOMA VALLEY - SONOMA VALLEY",
-    "value": 9.719407166737048,
+    "NAME": "NAPA-SONOMA VALLEY - SONOMA VALLEY",
+    "value": 9.719407166737046,
     "valid": true
   },
   {
     "index": 475,
-    "Basin_Su_1": "WILSON GROVE FORMATION HIGHLANDS",
+    "NAME": "WILSON GROVE FORMATION HIGHLANDS",
     "value": 10.000000000000005,
     "valid": true
   },
   {
     "index": 476,
-    "Basin_Su_1": "SANTA ROSA VALLEY - SANTA ROSA PLAIN",
+    "NAME": "SANTA ROSA VALLEY - SANTA ROSA PLAIN",
     "value": 10.0,
     "valid": true
   },
   {
     "index": 477,
-    "Basin_Su_1": "SACRAMENTO VALLEY - LOS MOLINOS",
-    "value": 9.851551426364582,
+    "NAME": "SACRAMENTO VALLEY - LOS MOLINOS",
+    "value": 9.85155142636458,
     "valid": true
   },
   {
     "index": 478,
-    "Basin_Su_1": "REDDING AREA - BOWMAN",
-    "value": 9.17846775486062,
+    "NAME": "REDDING AREA - BOWMAN",
+    "value": 9.178467754860618,
     "valid": true
   },
   {
     "index": 479,
-    "Basin_Su_1": "REDDING AREA - SOUTH BATTLE CREEK",
+    "NAME": "REDDING AREA - SOUTH BATTLE CREEK",
     "value": 9.631631709880432,
     "valid": true
   },
   {
     "index": 480,
-    "Basin_Su_1": "REDDING AREA - MILLVILLE",
+    "NAME": "REDDING AREA - MILLVILLE",
     "value": 9.427939789633166,
     "valid": true
   },
   {
     "index": 481,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - DELTA-MENDOTA",
+    "NAME": "SAN JOAQUIN VALLEY - DELTA-MENDOTA",
     "value": 9.930347474757989,
     "valid": true
   },
   {
     "index": 482,
-    "Basin_Su_1": "SANTA CLARA RIVER VALLEY - FILLMORE",
-    "value": 10.000000000000007,
+    "NAME": "SANTA CLARA RIVER VALLEY - FILLMORE",
+    "value": 10.000000000000005,
     "valid": true
   },
   {
     "index": 483,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - TRACY",
+    "NAME": "SAN JOAQUIN VALLEY - TRACY",
     "value": 9.771936968690829,
     "valid": true
   },
   {
     "index": 484,
-    "Basin_Su_1": "SIERRA VALLEY - SIERRA VALLEY",
+    "NAME": "SIERRA VALLEY - SIERRA VALLEY",
     "value": 9.99999999999999,
     "valid": true
   },
   {
     "index": 485,
-    "Basin_Su_1": "SACRAMENTO VALLEY - SOLANO",
+    "NAME": "SACRAMENTO VALLEY - SOLANO",
     "value": 9.543932681502927,
     "valid": true
   },
   {
     "index": 486,
-    "Basin_Su_1": "SACRAMENTO VALLEY - YOLO",
-    "value": 9.776920114786188,
+    "NAME": "SACRAMENTO VALLEY - YOLO",
+    "value": 9.77692011478619,
     "valid": true
   },
   {
     "index": 487,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - EASTERN SAN JOAQUIN",
+    "NAME": "SAN JOAQUIN VALLEY - EASTERN SAN JOAQUIN",
     "value": 9.58526883960846,
     "valid": true
   },
   {
     "index": 488,
-    "Basin_Su_1": "SACRAMENTO VALLEY - SOUTH AMERICAN",
-    "value": 9.356654744454882,
+    "NAME": "SACRAMENTO VALLEY - SOUTH AMERICAN",
+    "value": 9.356654744454884,
     "valid": true
   },
   {
     "index": 489,
-    "Basin_Su_1": "SACRAMENTO VALLEY - NORTH YUBA",
+    "NAME": "SACRAMENTO VALLEY - NORTH YUBA",
     "value": 9.408258515554596,
     "valid": true
   },
   {
     "index": 490,
-    "Basin_Su_1": "SACRAMENTO VALLEY - CORNING",
+    "NAME": "SACRAMENTO VALLEY - CORNING",
     "value": 9.835065299193433,
     "valid": true
   },
   {
     "index": 491,
-    "Basin_Su_1": "SACRAMENTO VALLEY - COLUSA",
+    "NAME": "SACRAMENTO VALLEY - COLUSA",
     "value": 9.894024530271652,
     "valid": true
   },
   {
     "index": 492,
-    "Basin_Su_1": "SANTA CLARA RIVER VALLEY - PIRU",
-    "value": 7.997649100272964,
+    "NAME": "SANTA CLARA RIVER VALLEY - PIRU",
+    "value": 7.997649100272959,
     "valid": true
   },
   {
     "index": 493,
-    "Basin_Su_1": "SANTA CLARA RIVER VALLEY - OXNARD",
+    "NAME": "SANTA CLARA RIVER VALLEY - OXNARD",
     "value": 9.050713515200531,
     "valid": true
   },
   {
     "index": 494,
-    "Basin_Su_1": "SANTA CLARA RIVER VALLEY - SANTA PAULA",
-    "value": 10.000000000000027,
+    "NAME": "SANTA CLARA RIVER VALLEY - SANTA PAULA",
+    "value": 10.000000000000025,
     "valid": true
   },
   {
     "index": 495,
-    "Basin_Su_1": "SANTA CLARA RIVER VALLEY - MOUND",
-    "value": 9.485097432748415,
+    "NAME": "SANTA CLARA RIVER VALLEY - MOUND",
+    "value": 9.485097432748422,
     "valid": true
   },
   {
     "index": 496,
-    "Basin_Su_1": "SAN DIEGO RIVER VALLEY",
-    "value": 9.452327815440132,
+    "NAME": "SAN DIEGO RIVER VALLEY",
+    "value": 9.452327815440121,
     "valid": true
   },
   {
     "index": 497,
-    "Basin_Su_1": "UPPER SANTA ANA VALLEY - SAN TIMOTEO",
-    "value": 7.289569568607559,
+    "NAME": "UPPER SANTA ANA VALLEY - SAN TIMOTEO",
+    "value": 7.289569568607561,
     "valid": true
   },
   {
     "index": 498,
-    "Basin_Su_1": "SAN JACINTO",
+    "NAME": "SAN JACINTO",
     "value": 7.158952826291853,
     "valid": true
   },
   {
     "index": 499,
-    "Basin_Su_1": "SACRAMENTO VALLEY - SOUTH YUBA",
-    "value": 9.834919012985575,
+    "NAME": "SACRAMENTO VALLEY - SOUTH YUBA",
+    "value": 9.834919012985576,
     "valid": true
   },
   {
     "index": 500,
-    "Basin_Su_1": "SACRAMENTO VALLEY - NORTH AMERICAN",
+    "NAME": "SACRAMENTO VALLEY - NORTH AMERICAN",
     "value": 9.86723145959312,
     "valid": true
   },
   {
     "index": 501,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - EAST CONTRA COSTA",
+    "NAME": "SAN JOAQUIN VALLEY - EAST CONTRA COSTA",
     "value": 8.871474199672358,
     "valid": true
   },
   {
     "index": 502,
-    "Basin_Su_1": "SACRAMENTO VALLEY - VINA",
-    "value": 9.421924953288727,
+    "NAME": "SACRAMENTO VALLEY - VINA",
+    "value": 9.421924953288729,
     "valid": true
   },
   {
     "index": 503,
-    "Basin_Su_1": "LOS OSOS VALLEY - WARDEN CREEK",
-    "value": 9.999999999999641,
+    "NAME": "LOS OSOS VALLEY - WARDEN CREEK",
+    "value": 9.999999999999638,
     "valid": true
   },
   {
     "index": 504,
-    "Basin_Su_1": "GILROY-HOLLISTER VALLEY - NORTH SAN BENITO",
+    "NAME": "GILROY-HOLLISTER VALLEY - NORTH SAN BENITO",
     "value": 9.999999999999975,
     "valid": true
   },
   {
     "index": 505,
-    "Basin_Su_1": "LOS OSOS VALLEY - LOS OSOS AREA",
-    "value": 9.999999999999998,
+    "NAME": "LOS OSOS VALLEY - LOS OSOS AREA",
+    "value": 10.000000000000002,
     "valid": true
   },
   {
     "index": 506,
-    "Basin_Su_1": "SANTA MARIA RIVER VALLEY - ARROYO GRANDE",
-    "value": 10.00000000000003,
+    "NAME": "SANTA MARIA RIVER VALLEY - ARROYO GRANDE",
+    "value": 9.999999999999998,
     "valid": true
   },
   {
     "index": 507,
-    "Basin_Su_1": "SACRAMENTO VALLEY - WYANDOTTE CREEK",
-    "value": 9.835777875375857,
+    "NAME": "SACRAMENTO VALLEY - WYANDOTTE CREEK",
+    "value": 9.83577787537586,
     "valid": true
   },
   {
     "index": 508,
-    "Basin_Su_1": "SACRAMENTO VALLEY - SUTTER",
+    "NAME": "SACRAMENTO VALLEY - SUTTER",
     "value": 9.935826970812004,
     "valid": true
   },
   {
     "index": 509,
-    "Basin_Su_1": "SANTA MARIA RIVER VALLEY - SANTA MARIA",
-    "value": 9.664040589581212,
+    "NAME": "SANTA MARIA RIVER VALLEY - SANTA MARIA",
+    "value": 9.664040589581214,
     "valid": true
   },
   {
     "index": 510,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - KINGS",
-    "value": 9.6773342071025,
+    "NAME": "SAN JOAQUIN VALLEY - KINGS",
+    "value": 9.677334207102499,
     "valid": true
   },
   {
     "index": 511,
-    "Basin_Su_1": "SACRAMENTO VALLEY - BUTTE",
-    "value": 9.7693662255255,
+    "NAME": "SACRAMENTO VALLEY - BUTTE",
+    "value": 9.769366225525502,
     "valid": true
   },
   {
     "index": 512,
-    "Basin_Su_1": "SAN JOAQUIN VALLEY - MADERA",
+    "NAME": "SAN JOAQUIN VALLEY - MADERA",
     "value": 10.000000000000023,
     "valid": true
   },
   {
     "index": 513,
-    "Basin_Su_1": "SAN LUIS REY VALLEY - UPPER SAN LUIS REY VALLEY",
-    "value": 8.113981458079428,
+    "NAME": "SAN LUIS REY VALLEY - UPPER SAN LUIS REY VALLEY",
+    "value": 8.113981458079426,
     "valid": true
   },
   {
     "index": 514,
-    "Basin_Su_1": "SAN LUIS REY VALLEY - LOWER SAN LUIS REY VALLEY",
-    "value": 9.640724185101147,
+    "NAME": "SAN LUIS REY VALLEY - LOWER SAN LUIS REY VALLEY",
+    "value": 9.64072418510115,
     "valid": true
   }
 ]

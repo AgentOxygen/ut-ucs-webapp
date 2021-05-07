@@ -1,6770 +1,6770 @@
 [
   {
     "index": 0,
-    "Name": "Honcut Creek",
-    "value": -1.861546554046864,
+    "NAME": "Honcut Creek",
+    "value": -1.8615465540468636,
     "valid": true
   },
   {
     "index": 1,
-    "Name": "Upper Feather River",
+    "NAME": "Upper Feather River",
     "value": 0,
     "valid": true
   },
   {
     "index": 2,
-    "Name": "Hutchinson Creek-Reeds Creek",
+    "NAME": "Hutchinson Creek-Reeds Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 3,
-    "Name": "Gilsizer Slough-Snake River",
+    "NAME": "Gilsizer Slough-Snake River",
     "value": 0,
     "valid": true
   },
   {
     "index": 4,
-    "Name": "Lower Feather River",
+    "NAME": "Lower Feather River",
     "value": 0,
     "valid": true
   },
   {
     "index": 5,
-    "Name": "Auburn Ravine",
+    "NAME": "Auburn Ravine",
     "value": 0,
     "valid": true
   },
   {
     "index": 6,
-    "Name": "Coon Creek",
+    "NAME": "Coon Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 7,
-    "Name": "Pleasant Grove Creek-Cross Canal",
+    "NAME": "Pleasant Grove Creek-Cross Canal",
     "value": 0,
     "valid": true
   },
   {
     "index": 8,
-    "Name": "Curry Creek-Sacramento River",
+    "NAME": "Curry Creek-Sacramento River",
     "value": 0,
     "valid": true
   },
   {
     "index": 9,
-    "Name": "Eticuera Creek",
+    "NAME": "Eticuera Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 10,
-    "Name": "Pope Creek",
+    "NAME": "Pope Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 11,
-    "Name": "Upper Putah Creek",
-    "value": -19.12336534480737,
+    "NAME": "Upper Putah Creek",
+    "value": -19.123365344807368,
     "valid": true
   },
   {
     "index": 12,
-    "Name": "Middle Putah Creek",
+    "NAME": "Middle Putah Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 13,
-    "Name": "Lower Putah Creek",
+    "NAME": "Lower Putah Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 14,
-    "Name": "South Fork Willow Slough",
+    "NAME": "South Fork Willow Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 15,
-    "Name": "Willow Slough",
+    "NAME": "Willow Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 16,
-    "Name": "Knights Landing Ridge Cut-Tule Canal",
+    "NAME": "Knights Landing Ridge Cut-Tule Canal",
     "value": 0,
     "valid": true
   },
   {
     "index": 17,
-    "Name": "Morrison Creek",
+    "NAME": "Morrison Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 18,
-    "Name": "Ulatis Creek",
+    "NAME": "Ulatis Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 19,
-    "Name": "Cache Slough",
+    "NAME": "Cache Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 20,
-    "Name": "Sherman Lake-Sacramento River",
+    "NAME": "Sherman Lake-Sacramento River",
     "value": 0,
     "valid": true
   },
   {
     "index": 21,
-    "Name": "Rock Creek-Kern River",
-    "value": -12.806799738505426,
+    "NAME": "Rock Creek-Kern River",
+    "value": -12.806799738505427,
     "valid": true
   },
   {
     "index": 22,
-    "Name": "Golden Trout Creek-Kern River",
+    "NAME": "Golden Trout Creek-Kern River",
     "value": -24.888635672395175,
     "valid": true
   },
   {
     "index": 23,
-    "Name": "Little Kern River",
-    "value": -54.150119266672064,
+    "NAME": "Little Kern River",
+    "value": -54.15011926667206,
     "valid": true
   },
   {
     "index": 24,
-    "Name": "Rattlesnake Creek-Kern River",
-    "value": -64.10566121363517,
+    "NAME": "Rattlesnake Creek-Kern River",
+    "value": -64.10566121363519,
     "valid": true
   },
   {
     "index": 25,
-    "Name": "Brush Creek-Kern River",
-    "value": -81.66513341643662,
+    "NAME": "Brush Creek-Kern River",
+    "value": -81.66513341643666,
     "valid": true
   },
   {
     "index": 26,
-    "Name": "Bull Run Creek-Kern River",
+    "NAME": "Bull Run Creek-Kern River",
     "value": -75.42315719463822,
     "valid": true
   },
   {
     "index": 27,
-    "Name": "Headwaters South Fork Kern River",
+    "NAME": "Headwaters South Fork Kern River",
     "value": -53.555631780873625,
     "valid": true
   },
   {
     "index": 28,
-    "Name": "Upper South Fork Kern River",
+    "NAME": "Upper South Fork Kern River",
     "value": -78.4311937212112,
     "valid": true
   },
   {
     "index": 29,
-    "Name": "Middle South Fork Kern River",
+    "NAME": "Middle South Fork Kern River",
     "value": -84.27124996649576,
     "valid": true
   },
   {
     "index": 30,
-    "Name": "Chimney Creek",
-    "value": -87.82117291986958,
+    "NAME": "Chimney Creek",
+    "value": -87.8211729198696,
     "valid": true
   },
   {
     "index": 31,
-    "Name": "Canebrake Creek",
-    "value": -85.81092250393498,
+    "NAME": "Canebrake Creek",
+    "value": -85.810922503935,
     "valid": true
   },
   {
     "index": 32,
-    "Name": "Kelso Creek",
+    "NAME": "Kelso Creek",
     "value": -85.7464835991017,
     "valid": true
   },
   {
     "index": 33,
-    "Name": "Lower South Fork Kern River",
-    "value": -59.49676975247215,
+    "NAME": "Lower South Fork Kern River",
+    "value": -59.49676975247216,
     "valid": true
   },
   {
     "index": 34,
-    "Name": "Cottonwood Creek-Kern River",
-    "value": -46.276588273768816,
+    "NAME": "Cottonwood Creek-Kern River",
+    "value": -46.27658827376882,
     "valid": true
   },
   {
     "index": 35,
-    "Name": "Tehachapi Creek",
+    "NAME": "Tehachapi Creek",
     "value": -80.66281687283201,
     "valid": true
   },
   {
     "index": 36,
-    "Name": "Walker Basin Creek",
+    "NAME": "Walker Basin Creek",
     "value": -55.043899964562954,
     "valid": true
   },
   {
     "index": 37,
-    "Name": "Caliente Creek",
-    "value": -60.64889233621784,
+    "NAME": "Caliente Creek",
+    "value": -60.648892336217834,
     "valid": true
   },
   {
     "index": 38,
-    "Name": "Tejon Creek",
+    "NAME": "Tejon Creek",
     "value": -68.49096965955505,
     "valid": true
   },
   {
     "index": 39,
-    "Name": "Lake Paulina-Comanche Creek",
+    "NAME": "Lake Paulina-Comanche Creek",
     "value": -23.407146257908316,
     "valid": true
   },
   {
     "index": 40,
-    "Name": "Grapevine Creek",
-    "value": -86.71500007546307,
+    "NAME": "Grapevine Creek",
+    "value": -86.7150000754631,
     "valid": true
   },
   {
     "index": 41,
-    "Name": "El Paso Creek",
-    "value": -58.23319144349134,
+    "NAME": "El Paso Creek",
+    "value": -58.23319144349133,
     "valid": true
   },
   {
     "index": 42,
-    "Name": "Liveoak Canyon-Pastoria Creek",
-    "value": -48.10866597106682,
+    "NAME": "Liveoak Canyon-Pastoria Creek",
+    "value": -48.10866597106681,
     "valid": true
   },
   {
     "index": 43,
-    "Name": "Caparell Creek-Frontal Kern Lake Bed",
-    "value": -0.1277827204389335,
+    "NAME": "Caparell Creek-Frontal Kern Lake Bed",
+    "value": -0.12778272043893346,
     "valid": true
   },
   {
     "index": 44,
-    "Name": "Tecuya Creek-Frontal Kern Lake Bed",
+    "NAME": "Tecuya Creek-Frontal Kern Lake Bed",
     "value": -35.58225116623023,
     "valid": true
   },
   {
     "index": 45,
-    "Name": "Pleitito Creek-Kern Lake Bed",
-    "value": -0.6998422582129873,
+    "NAME": "Pleitito Creek-Kern Lake Bed",
+    "value": -0.6998422582129874,
     "valid": true
   },
   {
     "index": 46,
-    "Name": "San Emigdio Creek-Frontal Buena Vista Lake Bed",
-    "value": -27.921917772092865,
+    "NAME": "San Emigdio Creek-Frontal Buena Vista Lake Bed",
+    "value": -27.92191777209287,
     "valid": true
   },
   {
     "index": 47,
-    "Name": "Sandy Creek-Frontal Buena Vista Lake Bed",
-    "value": -11.243317402472432,
+    "NAME": "Sandy Creek-Frontal Buena Vista Lake Bed",
+    "value": -11.24331740247243,
     "valid": true
   },
   {
     "index": 48,
-    "Name": "Buena Vista Creek",
+    "NAME": "Buena Vista Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 49,
-    "Name": "Buena Vista Lake Bed",
+    "NAME": "Buena Vista Lake Bed",
     "value": 0,
     "valid": true
   },
   {
     "index": 50,
-    "Name": "Headwaters Poso Creek",
-    "value": -85.61255300364573,
+    "NAME": "Headwaters Poso Creek",
+    "value": -85.61255300364574,
     "valid": true
   },
   {
     "index": 51,
-    "Name": "Upper Poso Creek",
-    "value": -49.56200161399307,
+    "NAME": "Upper Poso Creek",
+    "value": -49.562001613993075,
     "valid": true
   },
   {
     "index": 52,
-    "Name": "Middle Poso Creek",
+    "NAME": "Middle Poso Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 53,
-    "Name": "Lower Poso Creek",
+    "NAME": "Lower Poso Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 54,
-    "Name": "Upper Deer Creek",
+    "NAME": "Upper Deer Creek",
     "value": -83.48646779350483,
     "valid": true
   },
   {
     "index": 55,
-    "Name": "Upper White River",
-    "value": -37.231671464420835,
+    "NAME": "Upper White River",
+    "value": -37.23167146442082,
     "valid": true
   },
   {
     "index": 56,
-    "Name": "Rag Gulch",
+    "NAME": "Rag Gulch",
     "value": -13.184372608633145,
     "valid": true
   },
   {
     "index": 57,
-    "Name": "Middle Deer Creek",
-    "value": -5.315882199274124,
+    "NAME": "Middle Deer Creek",
+    "value": -5.315882199274123,
     "valid": true
   },
   {
     "index": 58,
-    "Name": "Lower White River",
+    "NAME": "Lower White River",
     "value": 0,
     "valid": true
   },
   {
     "index": 59,
-    "Name": "Dyer Creek-Lake Woollomes",
+    "NAME": "Dyer Creek-Lake Woollomes",
     "value": 0,
     "valid": true
   },
   {
     "index": 60,
-    "Name": "Old Channel Poso Creek-Alpaugh Irrigation District Canal",
+    "NAME": "Old Channel Poso Creek-Alpaugh Irrigation District Canal",
     "value": 0,
     "valid": true
   },
   {
     "index": 61,
-    "Name": "Town of Richgrove-Town of Allensworth",
+    "NAME": "Town of Richgrove-Town of Allensworth",
     "value": 0,
     "valid": true
   },
   {
     "index": 62,
-    "Name": "Lower Deer Creek",
+    "NAME": "Lower Deer Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 63,
-    "Name": "Middle Fork Tule River",
-    "value": -73.26473681845191,
+    "NAME": "Middle Fork Tule River",
+    "value": -73.2647368184519,
     "valid": true
   },
   {
     "index": 64,
-    "Name": "North Fork Tule River",
+    "NAME": "North Fork Tule River",
     "value": -74.29130032411516,
     "valid": true
   },
   {
     "index": 65,
-    "Name": "South Fork Tule River",
+    "NAME": "South Fork Tule River",
     "value": -57.293714703673615,
     "valid": true
   },
   {
     "index": 66,
-    "Name": "Yokohl Creek",
-    "value": -13.119042310215947,
+    "NAME": "Yokohl Creek",
+    "value": -13.119042310215946,
     "valid": true
   },
   {
     "index": 67,
-    "Name": "Lewis Creek",
+    "NAME": "Lewis Creek",
     "value": -1.2855645437338206,
     "valid": true
   },
   {
     "index": 68,
-    "Name": "Foothill Ditch-Outside Creek",
+    "NAME": "Foothill Ditch-Outside Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 69,
-    "Name": "Upper Tule River",
-    "value": -12.412929867121607,
+    "NAME": "Upper Tule River",
+    "value": -12.412929867121598,
     "valid": true
   },
   {
     "index": 70,
-    "Name": "Elk Bayou",
+    "NAME": "Elk Bayou",
     "value": 0,
     "valid": true
   },
   {
     "index": 71,
-    "Name": "Deep Creek",
+    "NAME": "Deep Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 72,
-    "Name": "Lower Tule River",
+    "NAME": "Lower Tule River",
     "value": 0,
     "valid": true
   },
   {
     "index": 73,
-    "Name": "Middle Fork Kaweah River",
-    "value": -53.150451303805994,
+    "NAME": "Middle Fork Kaweah River",
+    "value": -53.15045130380601,
     "valid": true
   },
   {
     "index": 74,
-    "Name": "East Fork Kaweah River",
+    "NAME": "East Fork Kaweah River",
     "value": -53.47126031388638,
     "valid": true
   },
   {
     "index": 75,
-    "Name": "North Fork Kaweah River",
-    "value": -60.607465926805126,
+    "NAME": "North Fork Kaweah River",
+    "value": -60.60746592680512,
     "valid": true
   },
   {
     "index": 76,
-    "Name": "Marble Fork Kaweah River-Kaweah River",
-    "value": -56.513068394485174,
+    "NAME": "Marble Fork Kaweah River-Kaweah River",
+    "value": -56.51306839448516,
     "valid": true
   },
   {
     "index": 77,
-    "Name": "South Fork Kaweah River",
+    "NAME": "South Fork Kaweah River",
     "value": -65.65353104591877,
     "valid": true
   },
   {
     "index": 78,
-    "Name": "Dry Creek",
-    "value": -36.726446659963955,
+    "NAME": "Dry Creek",
+    "value": -36.72644665996395,
     "valid": true
   },
   {
     "index": 79,
-    "Name": "Upper Cottonwood Creek",
-    "value": -12.834580896857043,
+    "NAME": "Upper Cottonwood Creek",
+    "value": -12.834580896857046,
     "valid": true
   },
   {
     "index": 80,
-    "Name": "Sand Creek",
+    "NAME": "Sand Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 81,
-    "Name": "Horse Creek-Kaweah River",
+    "NAME": "Horse Creek-Kaweah River",
     "value": -8.853597127098531,
     "valid": true
   },
   {
     "index": 82,
-    "Name": "Lower Cottonwood Creek",
+    "NAME": "Lower Cottonwood Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 83,
-    "Name": "Upper Cross Creek",
+    "NAME": "Upper Cross Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 84,
-    "Name": "Middle Cross Creek",
+    "NAME": "Middle Cross Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 85,
-    "Name": "Lower Cross Creek",
+    "NAME": "Lower Cross Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 86,
-    "Name": "Gerber Reservoir-Miller Creek",
+    "NAME": "Gerber Reservoir-Miller Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 87,
-    "Name": "Yonna Valley-Lost River",
+    "NAME": "Yonna Valley-Lost River",
     "value": 0,
     "valid": true
   },
   {
     "index": 88,
-    "Name": "Swan Lake Valley",
+    "NAME": "Swan Lake Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 89,
-    "Name": "Lake Ewauna-Klamath River",
+    "NAME": "Lake Ewauna-Klamath River",
     "value": 0,
     "valid": true
   },
   {
     "index": 90,
-    "Name": "Spencer Creek",
+    "NAME": "Spencer Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 91,
-    "Name": "Drews Creek-Frontal Goose Lake",
+    "NAME": "Drews Creek-Frontal Goose Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 92,
-    "Name": "Thomas Creek",
+    "NAME": "Thomas Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 93,
-    "Name": "Middle Branch Cross Creek",
+    "NAME": "Middle Branch Cross Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 94,
-    "Name": "Murphy Slough-Fresno Slough",
+    "NAME": "Murphy Slough-Fresno Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 95,
-    "Name": "Kennedy Pond-Fresno Slough",
+    "NAME": "Kennedy Pond-Fresno Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 96,
-    "Name": "Fancher Creek-Fancher Creek Canal",
+    "NAME": "Fancher Creek-Fancher Creek Canal",
     "value": 0,
     "valid": true
   },
   {
     "index": 97,
-    "Name": "Dry Creek",
-    "value": -8.858396865547961,
+    "NAME": "Dry Creek",
+    "value": -8.858396865547967,
     "valid": true
   },
   {
     "index": 98,
-    "Name": "Dog Creek-Fish Slough",
+    "NAME": "Dog Creek-Fish Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 99,
-    "Name": "Cantua Creek-Fresno Slough",
+    "NAME": "Cantua Creek-Fresno Slough",
     "value": -8.373964172113364,
     "valid": true
   },
   {
     "index": 100,
-    "Name": "James Bypass",
+    "NAME": "James Bypass",
     "value": 0,
     "valid": true
   },
   {
     "index": 101,
-    "Name": "Arroyo Hondo-Fresno Slough",
+    "NAME": "Arroyo Hondo-Fresno Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 102,
-    "Name": "Tumey Gulch-FresnoSlough",
+    "NAME": "Tumey Gulch-FresnoSlough",
     "value": 0,
     "valid": true
   },
   {
     "index": 103,
-    "Name": "Town of Mendota-Fresno Slough",
+    "NAME": "Town of Mendota-Fresno Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 104,
-    "Name": "Roaring River",
-    "value": -30.764459338038094,
+    "NAME": "Roaring River",
+    "value": -30.764459338038087,
     "valid": true
   },
   {
     "index": 105,
-    "Name": "Upper South Fork Kings River",
+    "NAME": "Upper South Fork Kings River",
     "value": -22.62028269511994,
     "valid": true
   },
   {
     "index": 106,
-    "Name": "Middle Fork Kings River",
-    "value": -31.88058622079358,
+    "NAME": "Middle Fork Kings River",
+    "value": -31.88058622079359,
     "valid": true
   },
   {
     "index": 107,
-    "Name": "Lower South Fork Kings River",
+    "NAME": "Lower South Fork Kings River",
     "value": -62.93134997509855,
     "valid": true
   },
   {
     "index": 108,
-    "Name": "Dinkey Creek",
+    "NAME": "Dinkey Creek",
     "value": -71.53918375637717,
     "valid": true
   },
   {
     "index": 109,
-    "Name": "North Fork Kings River",
-    "value": -49.44479136274184,
+    "NAME": "North Fork Kings River",
+    "value": -49.444791362741825,
     "valid": true
   },
   {
     "index": 110,
-    "Name": "Mill Flat Creek-Kings River",
+    "NAME": "Mill Flat Creek-Kings River",
     "value": -68.77039089190887,
     "valid": true
   },
   {
     "index": 111,
-    "Name": "Pine Flat Reservoir-Kings River",
+    "NAME": "Pine Flat Reservoir-Kings River",
     "value": -31.122269186887603,
     "valid": true
   },
   {
     "index": 112,
-    "Name": "Mill Creek",
-    "value": -23.66387661000159,
+    "NAME": "Mill Creek",
+    "value": -23.663876610001587,
     "valid": true
   },
   {
     "index": 113,
-    "Name": "Cole Slough-Kings River",
+    "NAME": "Cole Slough-Kings River",
     "value": 0,
     "valid": true
   },
   {
     "index": 114,
-    "Name": "Warthan Creek",
+    "NAME": "Warthan Creek",
     "value": -32.67927128114537,
     "valid": true
   },
   {
     "index": 115,
-    "Name": "Jacalitos Creek",
-    "value": -10.347595264902338,
+    "NAME": "Jacalitos Creek",
+    "value": -10.347595264902345,
     "valid": true
   },
   {
     "index": 116,
-    "Name": "Zapato Chino Creek",
+    "NAME": "Zapato Chino Creek",
     "value": -12.082758688623834,
     "valid": true
   },
   {
     "index": 117,
-    "Name": "Los Gatos Creek",
+    "NAME": "Los Gatos Creek",
     "value": -29.271058578954733,
     "valid": true
   },
   {
     "index": 118,
-    "Name": "North Fork Kings River-Kings River",
+    "NAME": "North Fork Kings River-Kings River",
     "value": 0,
     "valid": true
   },
   {
     "index": 119,
-    "Name": "Goose Lake Slough-Jerry Slough",
+    "NAME": "Goose Lake Slough-Jerry Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 120,
-    "Name": "West Side Canal",
+    "NAME": "West Side Canal",
     "value": 0,
     "valid": true
   },
   {
     "index": 121,
-    "Name": "Goose Lake Canal",
+    "NAME": "Goose Lake Canal",
     "value": 0,
     "valid": true
   },
   {
     "index": 122,
-    "Name": "Browns Canyon",
+    "NAME": "Browns Canyon",
     "value": 0,
     "valid": true
   },
   {
     "index": 123,
-    "Name": "Upper Kern River Flood Canal",
+    "NAME": "Upper Kern River Flood Canal",
     "value": 0,
     "valid": true
   },
   {
     "index": 124,
-    "Name": "Bitterwater Creek",
+    "NAME": "Bitterwater Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 125,
-    "Name": "Antelope Valley-Antelope Plain",
+    "NAME": "Antelope Valley-Antelope Plain",
     "value": 0,
     "valid": true
   },
   {
     "index": 126,
-    "Name": "Antelope Plain",
+    "NAME": "Antelope Plain",
     "value": 0,
     "valid": true
   },
   {
     "index": 127,
-    "Name": "Lower Kern River Flood Canal-Kern River Channel",
+    "NAME": "Lower Kern River Flood Canal-Kern River Channel",
     "value": 0,
     "valid": true
   },
   {
     "index": 128,
-    "Name": "Avenal Creek-Alamo Solo Spring",
-    "value": -5.81252275589873,
+    "NAME": "Avenal Creek-Alamo Solo Spring",
+    "value": -5.812522755898729,
     "valid": true
   },
   {
     "index": 129,
-    "Name": "Arroyo Ramoso-El Rincon",
+    "NAME": "Arroyo Ramoso-El Rincon",
     "value": 0,
     "valid": true
   },
   {
     "index": 130,
-    "Name": "Arroyo Tozo-Hacienda Spillway",
+    "NAME": "Arroyo Tozo-Hacienda Spillway",
     "value": 0,
     "valid": true
   },
   {
     "index": 131,
-    "Name": "Jacobs Slough-Frontal Tulare Lake Bed",
+    "NAME": "Jacobs Slough-Frontal Tulare Lake Bed",
     "value": 0,
     "valid": true
   },
   {
     "index": 132,
-    "Name": "Town of Poplar-Frontal Tulare Lake Bed",
+    "NAME": "Town of Poplar-Frontal Tulare Lake Bed",
     "value": 0,
     "valid": true
   },
   {
     "index": 133,
-    "Name": "Arroyo Doblegado-Frontal Tulare Lake Bed",
+    "NAME": "Arroyo Doblegado-Frontal Tulare Lake Bed",
     "value": 0,
     "valid": true
   },
   {
     "index": 134,
-    "Name": "Arroyo Torcido-Frontal Tulare Lake Bed",
+    "NAME": "Arroyo Torcido-Frontal Tulare Lake Bed",
     "value": 0,
     "valid": true
   },
   {
     "index": 135,
-    "Name": "Tulare Lake Bed",
+    "NAME": "Tulare Lake Bed",
     "value": 0,
     "valid": true
   },
   {
     "index": 136,
-    "Name": "Little Dry Creek",
+    "NAME": "Little Dry Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 137,
-    "Name": "Cottonwood Creek",
+    "NAME": "Cottonwood Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 138,
-    "Name": "Cottonwood Creek-San Joaquin River",
+    "NAME": "Cottonwood Creek-San Joaquin River",
     "value": 0,
     "valid": true
   },
   {
     "index": 139,
-    "Name": "Little Panoche Creek",
-    "value": -14.49343917215199,
+    "NAME": "Little Panoche Creek",
+    "value": -14.493439172151987,
     "valid": true
   },
   {
     "index": 140,
-    "Name": "Upper Chowchilla River",
+    "NAME": "Upper Chowchilla River",
     "value": -30.608872983218166,
     "valid": true
   },
   {
     "index": 141,
-    "Name": "Upper Los Banos Creek",
-    "value": -17.119055069666576,
+    "NAME": "Upper Los Banos Creek",
+    "value": -17.119055069666572,
     "valid": true
   },
   {
     "index": 142,
-    "Name": "Lower Chowchilla River",
+    "NAME": "Lower Chowchilla River",
     "value": 0,
     "valid": true
   },
   {
     "index": 143,
-    "Name": "Root Creek-San Joaquin River",
+    "NAME": "Root Creek-San Joaquin River",
     "value": 0,
     "valid": true
   },
   {
     "index": 144,
-    "Name": "Dutchman Creek",
+    "NAME": "Dutchman Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 145,
-    "Name": "Upper Bear Creek",
-    "value": -2.231090577517985,
+    "NAME": "Upper Bear Creek",
+    "value": -2.2310905775179855,
     "valid": true
   },
   {
     "index": 146,
-    "Name": "Burns Creek",
+    "NAME": "Burns Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 147,
-    "Name": "San Luis Creek",
+    "NAME": "San Luis Creek",
     "value": -2.413699128767763,
     "valid": true
   },
   {
     "index": 148,
-    "Name": "Mud Slough",
+    "NAME": "Mud Slough",
     "value": -0.8612525761675845,
     "valid": true
   },
   {
     "index": 149,
-    "Name": "Black Rascal Creek",
+    "NAME": "Black Rascal Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 150,
-    "Name": "Duck Slough",
+    "NAME": "Duck Slough",
     "value": -6.0884135887676365,
     "valid": true
   },
   {
     "index": 151,
-    "Name": "Deadman Creek",
+    "NAME": "Deadman Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 152,
-    "Name": "Owens Creek",
+    "NAME": "Owens Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 153,
-    "Name": "Lower Bear Creek",
+    "NAME": "Lower Bear Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 154,
-    "Name": "Lower Los Banos Creek",
+    "NAME": "Lower Los Banos Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 155,
-    "Name": "Salt Slough",
+    "NAME": "Salt Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 156,
-    "Name": "Mud Slough-San Joaquin River",
+    "NAME": "Mud Slough-San Joaquin River",
     "value": 0,
     "valid": true
   },
   {
     "index": 157,
-    "Name": "Orestimba Creek",
+    "NAME": "Orestimba Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 158,
-    "Name": "Crow Creek-San Joaquin River",
+    "NAME": "Crow Creek-San Joaquin River",
     "value": 0,
     "valid": true
   },
   {
     "index": 159,
-    "Name": "Del Puerto Creek",
+    "NAME": "Del Puerto Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 160,
-    "Name": "Salado Creek-San Joaquin River",
+    "NAME": "Salado Creek-San Joaquin River",
     "value": 0,
     "valid": true
   },
   {
     "index": 161,
-    "Name": "Ingram Creek-San Joaquin River",
+    "NAME": "Ingram Creek-San Joaquin River",
     "value": 0,
     "valid": true
   },
   {
     "index": 162,
-    "Name": "Corral Hollow Creek",
+    "NAME": "Corral Hollow Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 163,
-    "Name": "Lone Tree Creek-San Joaquin River",
+    "NAME": "Lone Tree Creek-San Joaquin River",
     "value": 0,
     "valid": true
   },
   {
     "index": 164,
-    "Name": "Mormon Slough",
+    "NAME": "Mormon Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 165,
-    "Name": "Bear Creek",
+    "NAME": "Bear Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 166,
-    "Name": "Fivemile Creek-San Joaquin River",
+    "NAME": "Fivemile Creek-San Joaquin River",
     "value": 0,
     "valid": true
   },
   {
     "index": 167,
-    "Name": "Old River",
+    "NAME": "Old River",
     "value": 0,
     "valid": true
   },
   {
     "index": 168,
-    "Name": "Marsh Creek",
+    "NAME": "Marsh Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 169,
-    "Name": "Kellogg Creek-Big Break",
+    "NAME": "Kellogg Creek-Big Break",
     "value": 0,
     "valid": true
   },
   {
     "index": 170,
-    "Name": "Middle River-San Joaquin River",
+    "NAME": "Middle River-San Joaquin River",
     "value": 0,
     "valid": true
   },
   {
     "index": 171,
-    "Name": "Mono Creek",
-    "value": -35.619407482742474,
+    "NAME": "Mono Creek",
+    "value": -35.61940748274246,
     "valid": true
   },
   {
     "index": 172,
-    "Name": "Upper South Fork San Joaquin River",
+    "NAME": "Upper South Fork San Joaquin River",
     "value": -26.262402477932298,
     "valid": true
   },
   {
     "index": 173,
-    "Name": "Fish Creek",
+    "NAME": "Fish Creek",
     "value": -37.07034425151121,
     "valid": true
   },
   {
     "index": 174,
-    "Name": "Middle Fork San Joaquin River",
+    "NAME": "Middle Fork San Joaquin River",
     "value": -46.53066585032677,
     "valid": true
   },
   {
     "index": 175,
-    "Name": "Granite Creek",
+    "NAME": "Granite Creek",
     "value": -55.69528738481976,
     "valid": true
   },
   {
     "index": 176,
-    "Name": "Lower South Fork San Joaquin River",
+    "NAME": "Lower South Fork San Joaquin River",
     "value": -77.41645670069346,
     "valid": true
   },
   {
     "index": 177,
-    "Name": "Chiquito Creek",
+    "NAME": "Chiquito Creek",
     "value": -78.48023930402137,
     "valid": true
   },
   {
     "index": 178,
-    "Name": "Kaiser Creek-San Joaquin River",
-    "value": -81.14707716140593,
+    "NAME": "Kaiser Creek-San Joaquin River",
+    "value": -81.14707716140592,
     "valid": true
   },
   {
     "index": 179,
-    "Name": "Big Creek",
-    "value": -69.55227589419314,
+    "NAME": "Big Creek",
+    "value": -69.55227589419316,
     "valid": true
   },
   {
     "index": 180,
-    "Name": "Stevenson Creek-San Joaquin River",
+    "NAME": "Stevenson Creek-San Joaquin River",
     "value": -80.51941781473273,
     "valid": true
   },
   {
     "index": 181,
-    "Name": "Willow Creek",
-    "value": -79.53337351624862,
+    "NAME": "Willow Creek",
+    "value": -79.5333735162486,
     "valid": true
   },
   {
     "index": 182,
-    "Name": "Big Sandy Creek-San Joaquin River",
+    "NAME": "Big Sandy Creek-San Joaquin River",
     "value": -15.764113137766323,
     "valid": true
   },
   {
     "index": 183,
-    "Name": "Upper Fresno River",
+    "NAME": "Upper Fresno River",
     "value": -69.9629647272591,
     "valid": true
   },
   {
     "index": 184,
-    "Name": "Coarse Gold Creek",
-    "value": -20.527682668636377,
+    "NAME": "Coarse Gold Creek",
+    "value": -20.527682668636373,
     "valid": true
   },
   {
     "index": 185,
-    "Name": "Middle Fresno River",
+    "NAME": "Middle Fresno River",
     "value": -3.2545201120587657,
     "valid": true
   },
   {
     "index": 186,
-    "Name": "Dry Creek",
+    "NAME": "Dry Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 187,
-    "Name": "Lower Fresno River",
+    "NAME": "Lower Fresno River",
     "value": 0,
     "valid": true
   },
   {
     "index": 188,
-    "Name": "Headwaters Merced River",
-    "value": -39.87719161736414,
+    "NAME": "Headwaters Merced River",
+    "value": -39.87719161736415,
     "valid": true
   },
   {
     "index": 189,
-    "Name": "South Fork Merced River",
-    "value": -74.34278640370167,
+    "NAME": "South Fork Merced River",
+    "value": -74.34278640370165,
     "valid": true
   },
   {
     "index": 190,
-    "Name": "Yosemite Creek-Merced River",
+    "NAME": "Yosemite Creek-Merced River",
     "value": -73.72639469856836,
     "valid": true
   },
   {
     "index": 191,
-    "Name": "North Fork Merced River",
-    "value": -71.72709963172295,
+    "NAME": "North Fork Merced River",
+    "value": -71.72709963172296,
     "valid": true
   },
   {
     "index": 192,
-    "Name": "Bear Creek-Merced River",
-    "value": -43.76516402803367,
+    "NAME": "Bear Creek-Merced River",
+    "value": -43.76516402803365,
     "valid": true
   },
   {
     "index": 193,
-    "Name": "Maxwell Creek-Merced River",
+    "NAME": "Maxwell Creek-Merced River",
     "value": -18.65400610310134,
     "valid": true
   },
   {
     "index": 194,
-    "Name": "Dry Creek",
+    "NAME": "Dry Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 195,
-    "Name": "Ingalsbe Slough-Merced River",
+    "NAME": "Ingalsbe Slough-Merced River",
     "value": 0,
     "valid": true
   },
   {
     "index": 196,
-    "Name": "Headwaters Tuolumne River",
-    "value": -28.260741258566775,
+    "NAME": "Headwaters Tuolumne River",
+    "value": -28.260741258566778,
     "valid": true
   },
   {
     "index": 197,
-    "Name": "Rancheria Creek",
+    "NAME": "Rancheria Creek",
     "value": -41.48115292537514,
     "valid": true
   },
   {
     "index": 198,
-    "Name": "Eleanor Creek",
-    "value": -68.979650849902,
+    "NAME": "Eleanor Creek",
+    "value": -68.97965084990201,
     "valid": true
   },
   {
     "index": 199,
-    "Name": "Cherry Creek",
-    "value": -58.924690383058326,
+    "NAME": "Cherry Creek",
+    "value": -58.92469038305831,
     "valid": true
   },
   {
     "index": 200,
-    "Name": "Falls Creek-Tuolumne River",
-    "value": -55.2956963709374,
+    "NAME": "Falls Creek-Tuolumne River",
+    "value": -55.29569637093739,
     "valid": true
   },
   {
     "index": 201,
-    "Name": "Middle Tuolumne River",
+    "NAME": "Middle Tuolumne River",
     "value": -74.51668882812542,
     "valid": true
   },
   {
     "index": 202,
-    "Name": "South Fork Tuolumne River",
-    "value": -82.37654186667726,
+    "NAME": "South Fork Tuolumne River",
+    "value": -82.37654186667727,
     "valid": true
   },
   {
     "index": 203,
-    "Name": "Clavey River",
+    "NAME": "Clavey River",
     "value": -80.60020363534007,
     "valid": true
   },
   {
     "index": 204,
-    "Name": "North Fork Tuolumne River",
+    "NAME": "North Fork Tuolumne River",
     "value": -78.74851305383729,
     "valid": true
   },
   {
     "index": 205,
-    "Name": "Big Creek-Tuolumne River",
-    "value": -71.80577693570078,
+    "NAME": "Big Creek-Tuolumne River",
+    "value": -71.80577693570079,
     "valid": true
   },
   {
     "index": 206,
-    "Name": "Woods Creek",
+    "NAME": "Woods Creek",
     "value": -26.880842135717124,
     "valid": true
   },
   {
     "index": 207,
-    "Name": "Moccasin Creek-Tuolumne River",
+    "NAME": "Moccasin Creek-Tuolumne River",
     "value": -8.451275788008601,
     "valid": true
   },
   {
     "index": 208,
-    "Name": "Dry Creek",
+    "NAME": "Dry Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 209,
-    "Name": "Peaslee Creek-Tuolumne River",
+    "NAME": "Peaslee Creek-Tuolumne River",
     "value": 0,
     "valid": true
   },
   {
     "index": 210,
-    "Name": "Clark Fork",
-    "value": -65.73567862119073,
+    "NAME": "Clark Fork",
+    "value": -65.73567862119071,
     "valid": true
   },
   {
     "index": 211,
-    "Name": "Upper Middle Fork Stanislaus River",
+    "NAME": "Upper Middle Fork Stanislaus River",
     "value": -47.392553059958324,
     "valid": true
   },
   {
     "index": 212,
-    "Name": "North Fork Stanislaus River",
-    "value": -82.3503903112076,
+    "NAME": "North Fork Stanislaus River",
+    "value": -82.35039031120762,
     "valid": true
   },
   {
     "index": 213,
-    "Name": "Lower Middle Fork Stanislaus River",
+    "NAME": "Lower Middle Fork Stanislaus River",
     "value": -82.60423535168201,
     "valid": true
   },
   {
     "index": 214,
-    "Name": "South Fork Stanislaus River",
-    "value": -62.32665296478356,
+    "NAME": "South Fork Stanislaus River",
+    "value": -62.32665296478357,
     "valid": true
   },
   {
     "index": 215,
-    "Name": "Upper Stanislaus River",
-    "value": -14.276718697619717,
+    "NAME": "Upper Stanislaus River",
+    "value": -14.276718697619714,
     "valid": true
   },
   {
     "index": 216,
-    "Name": "Lower Stanislaus River",
+    "NAME": "Lower Stanislaus River",
     "value": 0,
     "valid": true
   },
   {
     "index": 217,
-    "Name": "San Antonio Creek-South Fork Calaveras River",
-    "value": -20.575447133042946,
+    "NAME": "San Antonio Creek-South Fork Calaveras River",
+    "value": -20.575447133042942,
     "valid": true
   },
   {
     "index": 218,
-    "Name": "North Fork Calaveras River",
-    "value": -28.352437509015285,
+    "NAME": "North Fork Calaveras River",
+    "value": -28.35243750901528,
     "valid": true
   },
   {
     "index": 219,
-    "Name": "Calaveras River",
+    "NAME": "Calaveras River",
     "value": 0,
     "valid": true
   },
   {
     "index": 220,
-    "Name": "Upper North Fork Mokelumne River",
+    "NAME": "Upper North Fork Mokelumne River",
     "value": -75.58753161135803,
     "valid": true
   },
   {
     "index": 221,
-    "Name": "South Fork Mokelumne River",
-    "value": -85.87176883701893,
+    "NAME": "South Fork Mokelumne River",
+    "value": -85.87176883701895,
     "valid": true
   },
   {
     "index": 222,
-    "Name": "Middle Fork Mokelumne River",
-    "value": -88.79711962917487,
+    "NAME": "Middle Fork Mokelumne River",
+    "value": -88.79711962917489,
     "valid": true
   },
   {
     "index": 223,
-    "Name": "Lower North Fork Mokelumne River",
+    "NAME": "Lower North Fork Mokelumne River",
     "value": -88.02878450204352,
     "valid": true
   },
   {
     "index": 224,
-    "Name": "Sutter Creek",
+    "NAME": "Sutter Creek",
     "value": -32.43325471510201,
     "valid": true
   },
   {
     "index": 225,
-    "Name": "Upper Dry Creek",
-    "value": -2.2553729676267023,
+    "NAME": "Upper Dry Creek",
+    "value": -2.255372967626703,
     "valid": true
   },
   {
     "index": 226,
-    "Name": "Jackson Creek",
+    "NAME": "Jackson Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 227,
-    "Name": "Upper Mokelumne River",
-    "value": -3.028286718636588,
+    "NAME": "Upper Mokelumne River",
+    "value": -3.0282867186365863,
     "valid": true
   },
   {
     "index": 228,
-    "Name": "Lower Dry Creek",
+    "NAME": "Lower Dry Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 229,
-    "Name": "Snodgrass Slough",
+    "NAME": "Snodgrass Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 230,
-    "Name": "Lower Mokelumne River",
+    "NAME": "Lower Mokelumne River",
     "value": 0,
     "valid": true
   },
   {
     "index": 231,
-    "Name": "Camp Creek",
+    "NAME": "Camp Creek",
     "value": -86.00923136180253,
     "valid": true
   },
   {
     "index": 232,
-    "Name": "North Fork Cosumnes River",
-    "value": -53.36797005386663,
+    "NAME": "North Fork Cosumnes River",
+    "value": -53.367970053866635,
     "valid": true
   },
   {
     "index": 233,
-    "Name": "South Fork Cosumnes River",
-    "value": -69.75976079333688,
+    "NAME": "South Fork Cosumnes River",
+    "value": -69.75976079333687,
     "valid": true
   },
   {
     "index": 234,
-    "Name": "Middle Fork Cosumnes River",
+    "NAME": "Middle Fork Cosumnes River",
     "value": -68.16881530083657,
     "valid": true
   },
   {
     "index": 235,
-    "Name": "Deer Creek",
+    "NAME": "Deer Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 236,
-    "Name": "Upper Cosumnes River",
-    "value": -0.3810279775064329,
+    "NAME": "Upper Cosumnes River",
+    "value": -0.38102797750643275,
     "valid": true
   },
   {
     "index": 237,
-    "Name": "Laguna",
+    "NAME": "Laguna",
     "value": 0,
     "valid": true
   },
   {
     "index": 238,
-    "Name": "Lower Cosumnes River",
+    "NAME": "Lower Cosumnes River",
     "value": 0,
     "valid": true
   },
   {
     "index": 239,
-    "Name": "Griswold Creek",
-    "value": -40.891081285352215,
+    "NAME": "Griswold Creek",
+    "value": -40.89108128535223,
     "valid": true
   },
   {
     "index": 240,
-    "Name": "Upper Panoche Creek",
-    "value": -16.78205297788319,
+    "NAME": "Upper Panoche Creek",
+    "value": -16.782052977883197,
     "valid": true
   },
   {
     "index": 241,
-    "Name": "Larious Creek-Silver Creek",
-    "value": -25.807325820359452,
+    "NAME": "Larious Creek-Silver Creek",
+    "value": -25.807325820359456,
     "valid": true
   },
   {
     "index": 242,
-    "Name": "Lower Panoche Creek",
+    "NAME": "Lower Panoche Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 243,
-    "Name": "Rock Creek",
+    "NAME": "Rock Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 244,
-    "Name": "Littlejohns Creek",
+    "NAME": "Littlejohns Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 245,
-    "Name": "Lone Tree Creek",
+    "NAME": "Lone Tree Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 246,
-    "Name": "French Camp Slough",
+    "NAME": "French Camp Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 247,
-    "Name": "Wooden Valley Creek-Frontal Suisun Bay Estuaries",
+    "NAME": "Wooden Valley Creek-Frontal Suisun Bay Estuaries",
     "value": 0,
     "valid": true
   },
   {
     "index": 248,
-    "Name": "Walnut Creek-Frontal Suisin Bay Estuaries",
+    "NAME": "Walnut Creek-Frontal Suisin Bay Estuaries",
     "value": 0,
     "valid": true
   },
   {
     "index": 249,
-    "Name": "Mount Diablo Creek-Frontal Suisun Bay Estuaries",
+    "NAME": "Mount Diablo Creek-Frontal Suisun Bay Estuaries",
     "value": 0,
     "valid": true
   },
   {
     "index": 250,
-    "Name": "Suisun Bay",
+    "NAME": "Suisun Bay",
     "value": 0,
     "valid": true
   },
   {
     "index": 251,
-    "Name": "Conn Creek",
+    "NAME": "Conn Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 252,
-    "Name": "Napa River",
+    "NAME": "Napa River",
     "value": -2.5664307472457346,
     "valid": true
   },
   {
     "index": 253,
-    "Name": "Sonoma Creek-Frontal San Pablo Bay Estuaries",
+    "NAME": "Sonoma Creek-Frontal San Pablo Bay Estuaries",
     "value": 0,
     "valid": true
   },
   {
     "index": 254,
-    "Name": "Tulucay Creek-Frontal San Pablo Bay Estuaries",
+    "NAME": "Tulucay Creek-Frontal San Pablo Bay Estuaries",
     "value": 0,
     "valid": true
   },
   {
     "index": 255,
-    "Name": "Carneros Creek-Frontal San Pablo Bay Estuaries",
+    "NAME": "Carneros Creek-Frontal San Pablo Bay Estuaries",
     "value": 0,
     "valid": true
   },
   {
     "index": 256,
-    "Name": "Petaluma River-Frontal San Pablo Bay Estuaries",
+    "NAME": "Petaluma River-Frontal San Pablo Bay Estuaries",
     "value": 0,
     "valid": true
   },
   {
     "index": 257,
-    "Name": "San Pablo Creek-Frontal San Pablo Bay Estuaries",
+    "NAME": "San Pablo Creek-Frontal San Pablo Bay Estuaries",
     "value": 0,
     "valid": true
   },
   {
     "index": 258,
-    "Name": "San Pablo Bay",
+    "NAME": "San Pablo Bay",
     "value": 0,
     "valid": true
   },
   {
     "index": 259,
-    "Name": "Corte Madera Creek-Frontal San Fransisco Bay Estuaries",
+    "NAME": "Corte Madera Creek-Frontal San Fransisco Bay Estuaries",
     "value": 0,
     "valid": true
   },
   {
     "index": 260,
-    "Name": "San Francisco Bay",
+    "NAME": "San Francisco Bay",
     "value": 0,
     "valid": true
   },
   {
     "index": 261,
-    "Name": "Upper Coyote Creek",
+    "NAME": "Upper Coyote Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 262,
-    "Name": "Lower Coyote Creek-Frontal San Francisco Bay Estuaries",
+    "NAME": "Lower Coyote Creek-Frontal San Francisco Bay Estuaries",
     "value": 0,
     "valid": true
   },
   {
     "index": 263,
-    "Name": "Guadalupe River-Frontal San Francisco Bay Estuaries",
-    "value": -5.024396266696322,
+    "NAME": "Guadalupe River-Frontal San Francisco Bay Estuaries",
+    "value": -5.024396266696321,
     "valid": true
   },
   {
     "index": 264,
-    "Name": "Saratoga Creek-Frontal San Francisco Bay Estuaries",
+    "NAME": "Saratoga Creek-Frontal San Francisco Bay Estuaries",
     "value": 0,
     "valid": true
   },
   {
     "index": 265,
-    "Name": "Arroyo Hondo",
+    "NAME": "Arroyo Hondo",
     "value": 0,
     "valid": true
   },
   {
     "index": 266,
-    "Name": "Arroyo Las Positas",
+    "NAME": "Arroyo Las Positas",
     "value": 0,
     "valid": true
   },
   {
     "index": 267,
-    "Name": "Arroyo Mocho",
+    "NAME": "Arroyo Mocho",
     "value": 0,
     "valid": true
   },
   {
     "index": 268,
-    "Name": "Arroyo Valle",
-    "value": -0.9071423939290583,
+    "NAME": "Arroyo Valle",
+    "value": -0.9071423939290587,
     "valid": true
   },
   {
     "index": 269,
-    "Name": "Arroyo de la Laguna",
+    "NAME": "Arroyo de la Laguna",
     "value": 0,
     "valid": true
   },
   {
     "index": 270,
-    "Name": "Alameda Creek",
-    "value": -7.4164706761984505,
+    "NAME": "Alameda Creek",
+    "value": -7.416470676198451,
     "valid": true
   },
   {
     "index": 271,
-    "Name": "Agua Caliente Creek-Frontal San Francisco Bay Estuaries",
+    "NAME": "Agua Caliente Creek-Frontal San Francisco Bay Estuaries",
     "value": 0,
     "valid": true
   },
   {
     "index": 272,
-    "Name": "San Lorenzo Creek-Frontal San Francisco Bay Estuaries",
+    "NAME": "San Lorenzo Creek-Frontal San Francisco Bay Estuaries",
     "value": 0,
     "valid": true
   },
   {
     "index": 273,
-    "Name": "San Mateo Creek-Frontal San Francisco Bay Estuaries",
+    "NAME": "San Mateo Creek-Frontal San Francisco Bay Estuaries",
     "value": 0,
     "valid": true
   },
   {
     "index": 274,
-    "Name": "San Francisco Bay",
+    "NAME": "San Francisco Bay",
     "value": 0,
     "valid": true
   },
   {
     "index": 275,
-    "Name": "Lagunitas Creek",
+    "NAME": "Lagunitas Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 276,
-    "Name": "Walker Creek",
+    "NAME": "Walker Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 277,
-    "Name": "Abbotts Lagoon-Frontal Pacific Ocean",
+    "NAME": "Abbotts Lagoon-Frontal Pacific Ocean",
     "value": 0,
     "valid": true
   },
   {
     "index": 278,
-    "Name": "Drakes Bay-Frontal Pacific Ocean",
+    "NAME": "Drakes Bay-Frontal Pacific Ocean",
     "value": 0,
     "valid": true
   },
   {
     "index": 279,
-    "Name": "Farallon Islands",
+    "NAME": "Farallon Islands",
     "value": 0,
     "valid": true
   },
   {
     "index": 280,
-    "Name": "Pescadero Creek",
+    "NAME": "Pescadero Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 281,
-    "Name": "San Gregorio Creek-Frontal Pacific Ocean",
+    "NAME": "San Gregorio Creek-Frontal Pacific Ocean",
     "value": 0,
     "valid": true
   },
   {
     "index": 282,
-    "Name": "Waddell Creek-Frontal Ano Nuevo Bay",
+    "NAME": "Waddell Creek-Frontal Ano Nuevo Bay",
     "value": 0,
     "valid": true
   },
   {
     "index": 283,
-    "Name": "Tequisquita Slough",
+    "NAME": "Tequisquita Slough",
     "value": -2.1173705589510794,
     "valid": true
   },
   {
     "index": 284,
-    "Name": "Pacheco Creek",
-    "value": -1.348364235649665,
+    "NAME": "Pacheco Creek",
+    "value": -1.3483642356496652,
     "valid": true
   },
   {
     "index": 285,
-    "Name": "Llagas Creek",
-    "value": -0.7944636778390586,
+    "NAME": "Llagas Creek",
+    "value": -0.794463677839059,
     "valid": true
   },
   {
     "index": 286,
-    "Name": "Uvas Creek",
-    "value": -1.306468566957822,
+    "NAME": "Uvas Creek",
+    "value": -1.306468566957821,
     "valid": true
   },
   {
     "index": 287,
-    "Name": "Upper San Benito River",
+    "NAME": "Upper San Benito River",
     "value": -45.731391317003194,
     "valid": true
   },
   {
     "index": 288,
-    "Name": "Tres Pinos Creek",
-    "value": -21.04707412068762,
+    "NAME": "Tres Pinos Creek",
+    "value": -21.047074120687615,
     "valid": true
   },
   {
     "index": 289,
-    "Name": "Lower San Benito River",
+    "NAME": "Lower San Benito River",
     "value": 0,
     "valid": true
   },
   {
     "index": 290,
-    "Name": "Pajaro River",
-    "value": -0.1307178984979164,
+    "NAME": "Pajaro River",
+    "value": -0.13071789849791637,
     "valid": true
   },
   {
     "index": 291,
-    "Name": "Black Sulphur Spring-Carrizo Plain",
-    "value": -2.3718521716304353,
+    "NAME": "Black Sulphur Spring-Carrizo Plain",
+    "value": -2.3718521716304344,
     "valid": true
   },
   {
     "index": 292,
-    "Name": "Carrizo Plain-Soda Lake",
-    "value": -0.0965774051495851,
+    "NAME": "Carrizo Plain-Soda Lake",
+    "value": -0.09657740514958511,
     "valid": true
   },
   {
     "index": 293,
-    "Name": "Upper San Juan Creek",
+    "NAME": "Upper San Juan Creek",
     "value": -2.004984415467301,
     "valid": true
   },
   {
     "index": 294,
-    "Name": "Cholame Creek",
+    "NAME": "Cholame Creek",
     "value": -15.591317503869512,
     "valid": true
   },
   {
     "index": 295,
-    "Name": "Lower San Juan Creek",
+    "NAME": "Lower San Juan Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 296,
-    "Name": "Estrella River",
+    "NAME": "Estrella River",
     "value": 0,
     "valid": true
   },
   {
     "index": 297,
-    "Name": "Santa Margarita Lake-Salinas River",
+    "NAME": "Santa Margarita Lake-Salinas River",
     "value": -7.4610379740898445,
     "valid": true
   },
   {
     "index": 298,
-    "Name": "Santa Margarita Creek-Salinas River",
+    "NAME": "Santa Margarita Creek-Salinas River",
     "value": 0,
     "valid": true
   },
   {
     "index": 299,
-    "Name": "Huerhuero Creek",
+    "NAME": "Huerhuero Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 300,
-    "Name": "Paso Robles Creek-Salinas River",
+    "NAME": "Paso Robles Creek-Salinas River",
     "value": 0,
     "valid": true
   },
   {
     "index": 301,
-    "Name": "Big Sandy Creek",
-    "value": -14.502978397515992,
+    "NAME": "Big Sandy Creek",
+    "value": -14.502978397515994,
     "valid": true
   },
   {
     "index": 302,
-    "Name": "Nacimiento River",
+    "NAME": "Nacimiento River",
     "value": -7.917419708338318,
     "valid": true
   },
   {
     "index": 303,
-    "Name": "San Antonio River",
-    "value": -9.801485387033237,
+    "NAME": "San Antonio River",
+    "value": -9.801485387033239,
     "valid": true
   },
   {
     "index": 304,
-    "Name": "Indian Valley-Salinas River",
+    "NAME": "Indian Valley-Salinas River",
     "value": -0.003792481909248205,
     "valid": true
   },
   {
     "index": 305,
-    "Name": "Lewis Creek",
+    "NAME": "Lewis Creek",
     "value": -46.96869041512891,
     "valid": true
   },
   {
     "index": 306,
-    "Name": "San Lorenzo Creek",
-    "value": -11.874555942213744,
+    "NAME": "San Lorenzo Creek",
+    "value": -11.874555942213746,
     "valid": true
   },
   {
     "index": 307,
-    "Name": "Pancho Rico Creek-Salinas River",
-    "value": -3.6661815602302985,
+    "NAME": "Pancho Rico Creek-Salinas River",
+    "value": -3.6661815602302967,
     "valid": true
   },
   {
     "index": 308,
-    "Name": "Chalone Creek",
+    "NAME": "Chalone Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 309,
-    "Name": "Arroyo Seco",
-    "value": -44.628692397960535,
+    "NAME": "Arroyo Seco",
+    "value": -44.62869239796052,
     "valid": true
   },
   {
     "index": 310,
-    "Name": "Stonewall Creek-Salinas River",
+    "NAME": "Stonewall Creek-Salinas River",
     "value": 0,
     "valid": true
   },
   {
     "index": 311,
-    "Name": "El Toro Creek-Salinas River",
-    "value": -3.2805917864196807,
+    "NAME": "El Toro Creek-Salinas River",
+    "value": -3.280591786419681,
     "valid": true
   },
   {
     "index": 312,
-    "Name": "Carmel River",
-    "value": -32.07152160538326,
+    "NAME": "Carmel River",
+    "value": -32.07152160538327,
     "valid": true
   },
   {
     "index": 313,
-    "Name": "Carmel Bay-Frontal Pacific Ocean",
-    "value": -16.171396733728,
+    "NAME": "Carmel Bay-Frontal Pacific Ocean",
+    "value": -16.171396733727995,
     "valid": true
   },
   {
     "index": 314,
-    "Name": "Big Creek-Frontal Pacific Ocean",
-    "value": -29.881426710948393,
+    "NAME": "Big Creek-Frontal Pacific Ocean",
+    "value": -29.881426710948396,
     "valid": true
   },
   {
     "index": 315,
-    "Name": "Santa Rosa Creek-Frontal Pacific Ocean",
+    "NAME": "Santa Rosa Creek-Frontal Pacific Ocean",
     "value": 0,
     "valid": true
   },
   {
     "index": 316,
-    "Name": "Morro Bay-Frontal Estero Bay",
+    "NAME": "Morro Bay-Frontal Estero Bay",
     "value": 0,
     "valid": true
   },
   {
     "index": 317,
-    "Name": "Arroyo Grande Creek",
+    "NAME": "Arroyo Grande Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 318,
-    "Name": "Pismo Creek-Frontal Pacific Ocean",
+    "NAME": "Pismo Creek-Frontal Pacific Ocean",
     "value": 0,
     "valid": true
   },
   {
     "index": 319,
-    "Name": "Headwaters Cuyama River",
+    "NAME": "Headwaters Cuyama River",
     "value": -77.90302582669042,
     "valid": true
   },
   {
     "index": 320,
-    "Name": "Upper Cuyama River",
-    "value": -27.522883069620317,
+    "NAME": "Upper Cuyama River",
+    "value": -27.52288306962032,
     "valid": true
   },
   {
     "index": 321,
-    "Name": "Middle Cuyama River",
-    "value": -30.10151392215644,
+    "NAME": "Middle Cuyama River",
+    "value": -30.101513922156443,
     "valid": true
   },
   {
     "index": 322,
-    "Name": "Alamo Creek",
-    "value": -0.46102732870321805,
+    "NAME": "Alamo Creek",
+    "value": -0.46102732870321783,
     "valid": true
   },
   {
     "index": 323,
-    "Name": "Huasna River",
+    "NAME": "Huasna River",
     "value": 0,
     "valid": true
   },
   {
     "index": 324,
-    "Name": "Lower Cuyama River",
+    "NAME": "Lower Cuyama River",
     "value": -3.391199735573298,
     "valid": true
   },
   {
     "index": 325,
-    "Name": "Upper Sisquoc River",
+    "NAME": "Upper Sisquoc River",
     "value": -68.65657881314107,
     "valid": true
   },
   {
     "index": 326,
-    "Name": "La Brea Creek",
-    "value": -9.92960701417202,
+    "NAME": "La Brea Creek",
+    "value": -9.929607014172023,
     "valid": true
   },
   {
     "index": 327,
-    "Name": "Middle Sisquoc River",
+    "NAME": "Middle Sisquoc River",
     "value": -18.388554508001437,
     "valid": true
   },
   {
     "index": 328,
-    "Name": "Lower Sisquoc River",
+    "NAME": "Lower Sisquoc River",
     "value": 0,
     "valid": true
   },
   {
     "index": 329,
-    "Name": "Orcutt Creek-Corralitos Canyon",
+    "NAME": "Orcutt Creek-Corralitos Canyon",
     "value": 0,
     "valid": true
   },
   {
     "index": 330,
-    "Name": "Santa Maria River",
+    "NAME": "Santa Maria River",
     "value": 0,
     "valid": true
   },
   {
     "index": 331,
-    "Name": "San Antonio Creek",
+    "NAME": "San Antonio Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 332,
-    "Name": "Shuman Canyon-Frontal Pacific Ocean",
+    "NAME": "Shuman Canyon-Frontal Pacific Ocean",
     "value": 0,
     "valid": true
   },
   {
     "index": 333,
-    "Name": "Mono Creek",
+    "NAME": "Mono Creek",
     "value": -62.03113850265496,
     "valid": true
   },
   {
     "index": 334,
-    "Name": "Headwaters Santa Ynez River",
+    "NAME": "Headwaters Santa Ynez River",
     "value": -47.12647459301739,
     "valid": true
   },
   {
     "index": 335,
-    "Name": "Santa Cruz Creek",
-    "value": -70.24632175093933,
+    "NAME": "Santa Cruz Creek",
+    "value": -70.24632175093934,
     "valid": true
   },
   {
     "index": 336,
-    "Name": "Redrock Canyon-Santa Ynez River",
-    "value": -4.940616438482705,
+    "NAME": "Redrock Canyon-Santa Ynez River",
+    "value": -4.9406164384827065,
     "valid": true
   },
   {
     "index": 337,
-    "Name": "Alamo Pintado Creek-Santa Ynez River",
-    "value": -8.330808493853802,
+    "NAME": "Alamo Pintado Creek-Santa Ynez River",
+    "value": -8.330808493853805,
     "valid": true
   },
   {
     "index": 338,
-    "Name": "Zaca Creek-Santa Ynez River",
+    "NAME": "Zaca Creek-Santa Ynez River",
     "value": 0,
     "valid": true
   },
   {
     "index": 339,
-    "Name": "Salsipuedes Creek-Santa Ynez River",
+    "NAME": "Salsipuedes Creek-Santa Ynez River",
     "value": 0,
     "valid": true
   },
   {
     "index": 340,
-    "Name": "Jalama Creek-Frontal Santa Barbara Channel",
+    "NAME": "Jalama Creek-Frontal Santa Barbara Channel",
     "value": 0,
     "valid": true
   },
   {
     "index": 341,
-    "Name": "San Pedro Creek-Frontal Santa Barbara Channel",
+    "NAME": "San Pedro Creek-Frontal Santa Barbara Channel",
     "value": 0,
     "valid": true
   },
   {
     "index": 342,
-    "Name": "San Miguel Island-Santa Rosa Island",
+    "NAME": "San Miguel Island-Santa Rosa Island",
     "value": 0,
     "valid": true
   },
   {
     "index": 343,
-    "Name": "Santa Cruz Island",
+    "NAME": "Santa Cruz Island",
     "value": 0,
     "valid": true
   },
   {
     "index": 344,
-    "Name": "Tembladero Slough",
+    "NAME": "Tembladero Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 345,
-    "Name": "San Lorenzo River",
+    "NAME": "San Lorenzo River",
     "value": 0,
     "valid": true
   },
   {
     "index": 346,
-    "Name": "Monterey Bay",
-    "value": -0.5971231956088431,
+    "NAME": "Monterey Bay",
+    "value": -0.5971231956088424,
     "valid": true
   },
   {
     "index": 347,
-    "Name": "Ventura River",
+    "NAME": "Ventura River",
     "value": -34.702352492954155,
     "valid": true
   },
   {
     "index": 348,
-    "Name": "Rincon Creek-Frontal Pacific Ocean",
+    "NAME": "Rincon Creek-Frontal Pacific Ocean",
     "value": -1.4463202431473159,
     "valid": true
   },
   {
     "index": 349,
-    "Name": "Headwaters Santa Clara River",
+    "NAME": "Headwaters Santa Clara River",
     "value": -26.494930341084345,
     "valid": true
   },
   {
     "index": 350,
-    "Name": "Bouquet Canyon",
+    "NAME": "Bouquet Canyon",
     "value": -12.487841153662437,
     "valid": true
   },
   {
     "index": 351,
-    "Name": "Castaic Creek",
+    "NAME": "Castaic Creek",
     "value": -38.56148374006466,
     "valid": true
   },
   {
     "index": 352,
-    "Name": "Upper Santa Clara River",
-    "value": -3.4566715218065758,
+    "NAME": "Upper Santa Clara River",
+    "value": -3.4566715218065767,
     "valid": true
   },
   {
     "index": 353,
-    "Name": "Upper Piru Creek",
+    "NAME": "Upper Piru Creek",
     "value": -85.91825289369972,
     "valid": true
   },
   {
     "index": 354,
-    "Name": "Lower Piru Creek",
+    "NAME": "Lower Piru Creek",
     "value": -24.232938537143013,
     "valid": true
   },
   {
     "index": 355,
-    "Name": "Sespe Creek",
-    "value": -78.65687427008227,
+    "NAME": "Sespe Creek",
+    "value": -78.65687427008228,
     "valid": true
   },
   {
     "index": 356,
-    "Name": "Middle Santa Clara River",
-    "value": -5.850753248816183,
+    "NAME": "Middle Santa Clara River",
+    "value": -5.850753248816185,
     "valid": true
   },
   {
     "index": 357,
-    "Name": "Lower Santa Clara River",
+    "NAME": "Lower Santa Clara River",
     "value": -15.780880484924467,
     "valid": true
   },
   {
     "index": 358,
-    "Name": "Calleguas Creek",
+    "NAME": "Calleguas Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 359,
-    "Name": "McGrath Lake-Frontal Pacific Ocean",
+    "NAME": "McGrath Lake-Frontal Pacific Ocean",
     "value": 0,
     "valid": true
   },
   {
     "index": 360,
-    "Name": "Malibu Creek",
+    "NAME": "Malibu Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 361,
-    "Name": "Big Sycamore Canyon-Frontal Santa Monica Bay",
+    "NAME": "Big Sycamore Canyon-Frontal Santa Monica Bay",
     "value": 0,
     "valid": true
   },
   {
     "index": 362,
-    "Name": "Ballona Creek",
+    "NAME": "Ballona Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 363,
-    "Name": "Garapito Creek-Frontal Santa Monica Bay",
+    "NAME": "Garapito Creek-Frontal Santa Monica Bay",
     "value": 0,
     "valid": true
   },
   {
     "index": 364,
-    "Name": "Frontal Santa Monica Bay-San Pedro Bay",
+    "NAME": "Frontal Santa Monica Bay-San Pedro Bay",
     "value": 0,
     "valid": true
   },
   {
     "index": 365,
-    "Name": "Upper Los Angeles River",
-    "value": -2.6264500504157664,
+    "NAME": "Upper Los Angeles River",
+    "value": -2.6264500504157677,
     "valid": true
   },
   {
     "index": 366,
-    "Name": "Rio Hondo",
-    "value": -15.297700067549481,
+    "NAME": "Rio Hondo",
+    "value": -15.297700067549485,
     "valid": true
   },
   {
     "index": 367,
-    "Name": "Lower Los Angeles River",
+    "NAME": "Lower Los Angeles River",
     "value": 0,
     "valid": true
   },
   {
     "index": 368,
-    "Name": "Dominguez Channel",
+    "NAME": "Dominguez Channel",
     "value": 0,
     "valid": true
   },
   {
     "index": 369,
-    "Name": "West Fork San Gabriel River",
-    "value": -78.88695470610372,
+    "NAME": "West Fork San Gabriel River",
+    "value": -78.88695470610374,
     "valid": true
   },
   {
     "index": 370,
-    "Name": "Upper San Gabriel River",
+    "NAME": "Upper San Gabriel River",
     "value": -78.15532132422368,
     "valid": true
   },
   {
     "index": 371,
-    "Name": "Walnut Creek",
-    "value": -6.224683062233398,
+    "NAME": "Walnut Creek",
+    "value": -6.224683062233401,
     "valid": true
   },
   {
     "index": 372,
-    "Name": "Lower San Gabriel River",
+    "NAME": "Lower San Gabriel River",
     "value": 0,
     "valid": true
   },
   {
     "index": 373,
-    "Name": "Alamitos Bay-San Pedro Bay",
+    "NAME": "Alamitos Bay-San Pedro Bay",
     "value": 0,
     "valid": true
   },
   {
     "index": 374,
-    "Name": "San Nicholas Island-Santa Catalina Island",
+    "NAME": "San Nicholas Island-Santa Catalina Island",
     "value": 0,
     "valid": true
   },
   {
     "index": 375,
-    "Name": "Bolsa Chica Channel-Frontal Hunington Harbour",
+    "NAME": "Bolsa Chica Channel-Frontal Hunington Harbour",
     "value": 0,
     "valid": true
   },
   {
     "index": 376,
-    "Name": "Upper San Jacinto River",
+    "NAME": "Upper San Jacinto River",
     "value": -64.80729061036715,
     "valid": true
   },
   {
     "index": 377,
-    "Name": "Middle San Jacinto River",
+    "NAME": "Middle San Jacinto River",
     "value": 0,
     "valid": true
   },
   {
     "index": 378,
-    "Name": "Lower San Jacinto River",
+    "NAME": "Lower San Jacinto River",
     "value": 0,
     "valid": true
   },
   {
     "index": 379,
-    "Name": "Bear Creek",
+    "NAME": "Bear Creek",
     "value": -86.59158090435642,
     "valid": true
   },
   {
     "index": 380,
-    "Name": "Headwaters Santa Ana River",
-    "value": -82.49471363938497,
+    "NAME": "Headwaters Santa Ana River",
+    "value": -82.49471363938498,
     "valid": true
   },
   {
     "index": 381,
-    "Name": "Lytle Creek",
-    "value": -57.598033028195836,
+    "NAME": "Lytle Creek",
+    "value": -57.59803302819583,
     "valid": true
   },
   {
     "index": 382,
-    "Name": "San Timoteo Wash",
-    "value": -19.6630699738518,
+    "NAME": "San Timoteo Wash",
+    "value": -19.663069973851805,
     "valid": true
   },
   {
     "index": 383,
-    "Name": "Upper Santa Ana River",
+    "NAME": "Upper Santa Ana River",
     "value": -34.801820408108114,
     "valid": true
   },
   {
     "index": 384,
-    "Name": "Temescal Wash",
-    "value": -2.003633261967757,
+    "NAME": "Temescal Wash",
+    "value": -2.0036332619677566,
     "valid": true
   },
   {
     "index": 385,
-    "Name": "Chino Creek",
-    "value": -12.819485120018554,
+    "NAME": "Chino Creek",
+    "value": -12.819485120018552,
     "valid": true
   },
   {
     "index": 386,
-    "Name": "Middle Santa Ana River",
-    "value": -2.425480665920249,
+    "NAME": "Middle Santa Ana River",
+    "value": -2.4254806659202486,
     "valid": true
   },
   {
     "index": 387,
-    "Name": "Santiago Creek",
-    "value": -4.721895411130858,
+    "NAME": "Santiago Creek",
+    "value": -4.721895411130859,
     "valid": true
   },
   {
     "index": 388,
-    "Name": "Lower Santa Ana River",
+    "NAME": "Lower Santa Ana River",
     "value": 0,
     "valid": true
   },
   {
     "index": 389,
-    "Name": "San Diego Creek",
+    "NAME": "San Diego Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 390,
-    "Name": "Newport Bay-Frontal Pacific Ocean",
+    "NAME": "Newport Bay-Frontal Pacific Ocean",
     "value": 0,
     "valid": true
   },
   {
     "index": 391,
-    "Name": "San Juan Creek",
-    "value": -2.0492489817517017,
+    "NAME": "San Juan Creek",
+    "value": -2.0492489817517012,
     "valid": true
   },
   {
     "index": 392,
-    "Name": "San Mateo Creek",
+    "NAME": "San Mateo Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 393,
-    "Name": "Aliso Creek-Frontal Gulf of Santa Catalina",
+    "NAME": "Aliso Creek-Frontal Gulf of Santa Catalina",
     "value": 0,
     "valid": true
   },
   {
     "index": 394,
-    "Name": "San Onofre Creek-Frontal Gulf of Santa Catalina",
+    "NAME": "San Onofre Creek-Frontal Gulf of Santa Catalina",
     "value": 0,
     "valid": true
   },
   {
     "index": 395,
-    "Name": "Upper Temecula Creek",
+    "NAME": "Upper Temecula Creek",
     "value": -37.861704474319254,
     "valid": true
   },
   {
     "index": 396,
-    "Name": "Wilson Creek",
+    "NAME": "Wilson Creek",
     "value": -24.535525992717794,
     "valid": true
   },
   {
     "index": 397,
-    "Name": "Lower Temecula Creek",
+    "NAME": "Lower Temecula Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 398,
-    "Name": "Murrieta Creek",
+    "NAME": "Murrieta Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 399,
-    "Name": "Santa Margarita River",
+    "NAME": "Santa Margarita River",
     "value": 0,
     "valid": true
   },
   {
     "index": 400,
-    "Name": "Upper San Luis Rey River",
-    "value": -61.048973821131,
+    "NAME": "Upper San Luis Rey River",
+    "value": -61.048973821131014,
     "valid": true
   },
   {
     "index": 401,
-    "Name": "Middle San Luis Rey River",
+    "NAME": "Middle San Luis Rey River",
     "value": -15.298160071583071,
     "valid": true
   },
   {
     "index": 402,
-    "Name": "Lower San Luis Rey River",
+    "NAME": "Lower San Luis Rey River",
     "value": 0,
     "valid": true
   },
   {
     "index": 403,
-    "Name": "Escondido Creek",
+    "NAME": "Escondido Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 404,
-    "Name": "San Marcos Creek-Frontal Gulf of Santa Catalina",
+    "NAME": "San Marcos Creek-Frontal Gulf of Santa Catalina",
     "value": 0,
     "valid": true
   },
   {
     "index": 405,
-    "Name": "Upper Santa Ysabel Creek",
-    "value": -32.42989343167436,
+    "NAME": "Upper Santa Ysabel Creek",
+    "value": -32.429893431674365,
     "valid": true
   },
   {
     "index": 406,
-    "Name": "Lower Santa Ysabel Creek",
+    "NAME": "Lower Santa Ysabel Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 407,
-    "Name": "San Dieguito River",
+    "NAME": "San Dieguito River",
     "value": 0,
     "valid": true
   },
   {
     "index": 408,
-    "Name": "Poway Creek",
+    "NAME": "Poway Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 409,
-    "Name": "Upper San Diego River",
+    "NAME": "Upper San Diego River",
     "value": -28.717930246524546,
     "valid": true
   },
   {
     "index": 410,
-    "Name": "San Vicente Creek",
+    "NAME": "San Vicente Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 411,
-    "Name": "Lower San Diego River",
+    "NAME": "Lower San Diego River",
     "value": 0,
     "valid": true
   },
   {
     "index": 412,
-    "Name": "Upper Sweetwater River",
-    "value": -43.637802651538216,
+    "NAME": "Upper Sweetwater River",
+    "value": -43.63780265153822,
     "valid": true
   },
   {
     "index": 413,
-    "Name": "Lower Sweetwater River",
+    "NAME": "Lower Sweetwater River",
     "value": 0,
     "valid": true
   },
   {
     "index": 414,
-    "Name": "Otay River",
+    "NAME": "Otay River",
     "value": 0,
     "valid": true
   },
   {
     "index": 415,
-    "Name": "Mission Bay",
+    "NAME": "Mission Bay",
     "value": 0,
     "valid": true
   },
   {
     "index": 416,
-    "Name": "San Diego Bay",
+    "NAME": "San Diego Bay",
     "value": 0,
     "valid": true
   },
   {
     "index": 417,
-    "Name": "Upper Alkali Lake",
+    "NAME": "Upper Alkali Lake",
     "value": -68.74895105119063,
     "valid": true
   },
   {
     "index": 418,
-    "Name": "Middle Alkali Lake",
+    "NAME": "Middle Alkali Lake",
     "value": -56.46450409131193,
     "valid": true
   },
   {
     "index": 419,
-    "Name": "Lower Alkali Lake",
+    "NAME": "Lower Alkali Lake",
     "value": -49.710944825309184,
     "valid": true
   },
   {
     "index": 420,
-    "Name": "Cold Spring Creek-Madeline Plains",
+    "NAME": "Cold Spring Creek-Madeline Plains",
     "value": -69.43080136061488,
     "valid": true
   },
   {
     "index": 421,
-    "Name": "Van Loan Creek-Madeline Plains",
-    "value": -75.40249410426611,
+    "NAME": "Van Loan Creek-Madeline Plains",
+    "value": -75.40249410426613,
     "valid": true
   },
   {
     "index": 422,
-    "Name": "Dry Valley-Grasshopper Valley",
-    "value": -83.25572689185674,
+    "NAME": "Dry Valley-Grasshopper Valley",
+    "value": -83.25572689185672,
     "valid": true
   },
   {
     "index": 423,
-    "Name": "Upper Pine Creek",
-    "value": -82.68240263869984,
+    "NAME": "Upper Pine Creek",
+    "value": -82.68240263869986,
     "valid": true
   },
   {
     "index": 424,
-    "Name": "Middle Pine Creek",
-    "value": -87.20733151222254,
+    "NAME": "Middle Pine Creek",
+    "value": -87.20733151222255,
     "valid": true
   },
   {
     "index": 425,
-    "Name": "Lower Pine Creek-Eagle Lake",
-    "value": -86.04417426564018,
+    "NAME": "Lower Pine Creek-Eagle Lake",
+    "value": -86.04417426564017,
     "valid": true
   },
   {
     "index": 426,
-    "Name": "Upper Susan River",
+    "NAME": "Upper Susan River",
     "value": -85.11492431976363,
     "valid": true
   },
   {
     "index": 427,
-    "Name": "Deep Creek-Secret Creek",
+    "NAME": "Deep Creek-Secret Creek",
     "value": -75.97942579043215,
     "valid": true
   },
   {
     "index": 428,
-    "Name": "Horse Lake-Willow Creek",
-    "value": -80.9574110767442,
+    "NAME": "Horse Lake-Willow Creek",
+    "value": -80.95741107674418,
     "valid": true
   },
   {
     "index": 429,
-    "Name": "Lower Susan River-Frontal Honey Lake",
+    "NAME": "Lower Susan River-Frontal Honey Lake",
     "value": -78.1187641103204,
     "valid": true
   },
   {
     "index": 430,
-    "Name": "Baxter Creek-Frontal Honey Lake",
+    "NAME": "Baxter Creek-Frontal Honey Lake",
     "value": -78.57539408659733,
     "valid": true
   },
   {
     "index": 431,
-    "Name": "Lower Long Valley Creek-Frontal Honey Lake",
+    "NAME": "Lower Long Valley Creek-Frontal Honey Lake",
     "value": -71.90827205920112,
     "valid": true
   },
   {
     "index": 432,
-    "Name": "Honey Lake Valley-Frontal Honey Lake",
+    "NAME": "Honey Lake Valley-Frontal Honey Lake",
     "value": -69.21346965229836,
     "valid": true
   },
   {
     "index": 433,
-    "Name": "Honey Lake",
+    "NAME": "Honey Lake",
     "value": -68.87426420614285,
     "valid": true
   },
   {
     "index": 434,
-    "Name": "Dry Creek-Frontal Mono Lake",
+    "NAME": "Dry Creek-Frontal Mono Lake",
     "value": -63.534126443085945,
     "valid": true
   },
   {
     "index": 435,
-    "Name": "Rush Creek",
+    "NAME": "Rush Creek",
     "value": -50.66051820903477,
     "valid": true
   },
   {
     "index": 436,
-    "Name": "Lee Vining Creek-Frontal Mono Lake",
-    "value": -49.49080053617107,
+    "NAME": "Lee Vining Creek-Frontal Mono Lake",
+    "value": -49.49080053617108,
     "valid": true
   },
   {
     "index": 437,
-    "Name": "Mono Lake",
+    "NAME": "Mono Lake",
     "value": -77.9194994683095,
     "valid": true
   },
   {
     "index": 438,
-    "Name": "Adobe Valley",
+    "NAME": "Adobe Valley",
     "value": -66.08346351530933,
     "valid": true
   },
   {
     "index": 439,
-    "Name": "Hot Creek-Owens River",
+    "NAME": "Hot Creek-Owens River",
     "value": -59.39324800820831,
     "valid": true
   },
   {
     "index": 440,
-    "Name": "Rock Creek",
-    "value": -41.10953213392954,
+    "NAME": "Rock Creek",
+    "value": -41.10953213392955,
     "valid": true
   },
   {
     "index": 441,
-    "Name": "Horton Creek-Owens River",
+    "NAME": "Horton Creek-Owens River",
     "value": -63.296443220695096,
     "valid": true
   },
   {
     "index": 442,
-    "Name": "Lower Spring Canyon Creek",
+    "NAME": "Lower Spring Canyon Creek",
     "value": -60.25986943756247,
     "valid": true
   },
   {
     "index": 443,
-    "Name": "Bishop Creek",
+    "NAME": "Bishop Creek",
     "value": -22.091942460110033,
     "valid": true
   },
   {
     "index": 444,
-    "Name": "Big Pine Creek-Owens River",
+    "NAME": "Big Pine Creek-Owens River",
     "value": -55.97990326913583,
     "valid": true
   },
   {
     "index": 445,
-    "Name": "Tinemaha Creek-Owens River",
+    "NAME": "Tinemaha Creek-Owens River",
     "value": -63.66256703161379,
     "valid": true
   },
   {
     "index": 446,
-    "Name": "Shepherd Creek-Owens River",
+    "NAME": "Shepherd Creek-Owens River",
     "value": -53.426397758794565,
     "valid": true
   },
   {
     "index": 447,
-    "Name": "Lone Pine Creek-Owens River",
-    "value": -41.629936196451204,
+    "NAME": "Lone Pine Creek-Owens River",
+    "value": -41.62993619645121,
     "valid": true
   },
   {
     "index": 448,
-    "Name": "Centennial Flat",
-    "value": -88.9449023653237,
+    "NAME": "Centennial Flat",
+    "value": -88.94490236532373,
     "valid": true
   },
   {
     "index": 449,
-    "Name": "Owens Lake",
+    "NAME": "Owens Lake",
     "value": -59.76069809036033,
     "valid": true
   },
   {
     "index": 450,
-    "Name": "Haiwee Reservoirs",
-    "value": -87.788406195503,
+    "NAME": "Haiwee Reservoirs",
+    "value": -87.78840619550297,
     "valid": true
   },
   {
     "index": 451,
-    "Name": "Deep Springs Lake",
+    "NAME": "Deep Springs Lake",
     "value": -59.997692311643874,
     "valid": true
   },
   {
     "index": 452,
-    "Name": "Marble Canyon",
+    "NAME": "Marble Canyon",
     "value": -68.5370740040838,
     "valid": true
   },
   {
     "index": 453,
-    "Name": "Upper Eureka Valley",
+    "NAME": "Upper Eureka Valley",
     "value": -70.89201989875684,
     "valid": true
   },
   {
     "index": 454,
-    "Name": "Lower Eureka Valley",
-    "value": -79.18424675167559,
+    "NAME": "Lower Eureka Valley",
+    "value": -79.18424675167557,
     "valid": true
   },
   {
     "index": 455,
-    "Name": "Waucoba Wash",
-    "value": -51.66776005039264,
+    "NAME": "Waucoba Wash",
+    "value": -51.66776005039262,
     "valid": true
   },
   {
     "index": 456,
-    "Name": "Lower Warm Springs-Frontal Salt Lake",
+    "NAME": "Lower Warm Springs-Frontal Salt Lake",
     "value": -47.10034493224091,
     "valid": true
   },
   {
     "index": 457,
-    "Name": "Ubehebe Peak",
+    "NAME": "Ubehebe Peak",
     "value": -50.87137923458295,
     "valid": true
   },
   {
     "index": 458,
-    "Name": "Salt Lake",
+    "NAME": "Salt Lake",
     "value": -59.55183952245099,
     "valid": true
   },
   {
     "index": 459,
-    "Name": "Greenwater Canyon-Amargosa River",
-    "value": -3.488306467029687,
+    "NAME": "Greenwater Canyon-Amargosa River",
+    "value": -3.4883064670296915,
     "valid": true
   },
   {
     "index": 460,
-    "Name": "Greenwater Valley",
-    "value": -5.848760092687158,
+    "NAME": "Greenwater Valley",
+    "value": -5.848760092687157,
     "valid": true
   },
   {
     "index": 461,
-    "Name": "Chicago Valley",
+    "NAME": "Chicago Valley",
     "value": -12.396607798194538,
     "valid": true
   },
   {
     "index": 462,
-    "Name": "Tecopa Hot Springs-Amargosa River",
+    "NAME": "Tecopa Hot Springs-Amargosa River",
     "value": 0,
     "valid": true
   },
   {
     "index": 463,
-    "Name": "Marble Canyon",
+    "NAME": "Marble Canyon",
     "value": -63.80410544333824,
     "valid": true
   },
   {
     "index": 464,
-    "Name": "Emigrant Wash",
+    "NAME": "Emigrant Wash",
     "value": -63.30406909006184,
     "valid": true
   },
   {
     "index": 465,
-    "Name": "Mesquite Flat",
-    "value": -32.14736745703334,
+    "NAME": "Mesquite Flat",
+    "value": -32.14736745703333,
     "valid": true
   },
   {
     "index": 466,
-    "Name": "Lower Death Valley Wash",
+    "NAME": "Lower Death Valley Wash",
     "value": -24.841921358211668,
     "valid": true
   },
   {
     "index": 467,
-    "Name": "Furnace Creek Wash",
+    "NAME": "Furnace Creek Wash",
     "value": -35.856498319163734,
     "valid": true
   },
   {
     "index": 468,
-    "Name": "Upper Salt Creek",
+    "NAME": "Upper Salt Creek",
     "value": -17.481191024802417,
     "valid": true
   },
   {
     "index": 469,
-    "Name": "Lower Salt Creek",
+    "NAME": "Lower Salt Creek",
     "value": -14.754173241505113,
     "valid": true
   },
   {
     "index": 470,
-    "Name": "Red Pass Lake-Salt Creek",
-    "value": -1.8985229225486309,
+    "NAME": "Red Pass Lake-Salt Creek",
+    "value": -1.8985229225486315,
     "valid": true
   },
   {
     "index": 471,
-    "Name": "Upper Kingston Wash",
+    "NAME": "Upper Kingston Wash",
     "value": -25.193384807801166,
     "valid": true
   },
   {
     "index": 472,
-    "Name": "Lower Kingston Wash",
-    "value": -10.474395826901535,
+    "NAME": "Lower Kingston Wash",
+    "value": -10.474395826901546,
     "valid": true
   },
   {
     "index": 473,
-    "Name": "Kingston Peak",
+    "NAME": "Kingston Peak",
     "value": -9.626712783552392,
     "valid": true
   },
   {
     "index": 474,
-    "Name": "Riggs Wash-Salt Creek",
-    "value": -1.4983748365006322,
+    "NAME": "Riggs Wash-Salt Creek",
+    "value": -1.4983748365006326,
     "valid": true
   },
   {
     "index": 475,
-    "Name": "Saddle Peak Hills-Amargosa River",
+    "NAME": "Saddle Peak Hills-Amargosa River",
     "value": -4.738947056385742,
     "valid": true
   },
   {
     "index": 476,
-    "Name": "Leach Lake",
+    "NAME": "Leach Lake",
     "value": -0.040721967189902175,
     "valid": true
   },
   {
     "index": 477,
-    "Name": "Buckwheat Wash-Amargosa River",
+    "NAME": "Buckwheat Wash-Amargosa River",
     "value": -2.722735601428984,
     "valid": true
   },
   {
     "index": 478,
-    "Name": "Owl Lake",
-    "value": -4.5628898287541935,
+    "NAME": "Owl Lake",
+    "value": -4.562889828754195,
     "valid": true
   },
   {
     "index": 479,
-    "Name": "Wingate Wash",
+    "NAME": "Wingate Wash",
     "value": -2.9397817967365256,
     "valid": true
   },
   {
     "index": 480,
-    "Name": "Jubilee Wash-Amargosa River",
-    "value": -0.039131633005623855,
+    "NAME": "Jubilee Wash-Amargosa River",
+    "value": -0.03913163300562387,
     "valid": true
   },
   {
     "index": 481,
-    "Name": "Anvil Spring Canyon",
-    "value": -26.991301053798328,
+    "NAME": "Anvil Spring Canyon",
+    "value": -26.99130105379832,
     "valid": true
   },
   {
     "index": 482,
-    "Name": "Bad Water Basin-Amargosa River",
-    "value": -25.91050941383415,
+    "NAME": "Bad Water Basin-Amargosa River",
+    "value": -25.910509413834152,
     "valid": true
   },
   {
     "index": 483,
-    "Name": "Santa Rosa Wash",
-    "value": -88.42005061894687,
+    "NAME": "Santa Rosa Wash",
+    "value": -88.42005061894689,
     "valid": true
   },
   {
     "index": 484,
-    "Name": "Lee Wash",
-    "value": -81.0887102171539,
+    "NAME": "Lee Wash",
+    "value": -81.08871021715389,
     "valid": true
   },
   {
     "index": 485,
-    "Name": "Darwin Wash",
+    "NAME": "Darwin Wash",
     "value": -84.40995181305686,
     "valid": true
   },
   {
     "index": 486,
-    "Name": "Mill Canyon-Panamint Valley",
-    "value": -36.694112642324626,
+    "NAME": "Mill Canyon-Panamint Valley",
+    "value": -36.69411264232462,
     "valid": true
   },
   {
     "index": 487,
-    "Name": "Mesquite Spring",
-    "value": -4.52576106469608,
+    "NAME": "Mesquite Spring",
+    "value": -4.525761064696081,
     "valid": true
   },
   {
     "index": 488,
-    "Name": "Pilot Knob Valley",
+    "NAME": "Pilot Knob Valley",
     "value": -9.191665650221918,
     "valid": true
   },
   {
     "index": 489,
-    "Name": "Myrick Spring",
+    "NAME": "Myrick Spring",
     "value": -10.603748972533742,
     "valid": true
   },
   {
     "index": 490,
-    "Name": "Fish Canyon-Panamint Valley",
+    "NAME": "Fish Canyon-Panamint Valley",
     "value": -17.86716845240744,
     "valid": true
   },
   {
     "index": 491,
-    "Name": "Wildrose Wash",
+    "NAME": "Wildrose Wash",
     "value": -77.77775308739933,
     "valid": true
   },
   {
     "index": 492,
-    "Name": "Jail Canyon-Warm Sulphur Springs",
+    "NAME": "Jail Canyon-Warm Sulphur Springs",
     "value": -40.0704642952265,
     "valid": true
   },
   {
     "index": 493,
-    "Name": "Surprise Canyon-Panamint Valley",
+    "NAME": "Surprise Canyon-Panamint Valley",
     "value": -39.004669679163264,
     "valid": true
   },
   {
     "index": 494,
-    "Name": "Water Canyon-Panamint Valley",
-    "value": -52.116151373484044,
+    "NAME": "Water Canyon-Panamint Valley",
+    "value": -52.11615137348404,
     "valid": true
   },
   {
     "index": 495,
-    "Name": "Coso Wash",
+    "NAME": "Coso Wash",
     "value": -78.17319745902607,
     "valid": true
   },
   {
     "index": 496,
-    "Name": "Airport Lake",
+    "NAME": "Airport Lake",
     "value": -54.782282546259644,
     "valid": true
   },
   {
     "index": 497,
-    "Name": "Rose Valley",
-    "value": -77.68788561957082,
+    "NAME": "Rose Valley",
+    "value": -77.6878856195708,
     "valid": true
   },
   {
     "index": 498,
-    "Name": "Little Dixie Wash",
-    "value": -41.88712173512604,
+    "NAME": "Little Dixie Wash",
+    "value": -41.887121735126044,
     "valid": true
   },
   {
     "index": 499,
-    "Name": "Ninemile Canyon",
-    "value": -41.19262596285475,
+    "NAME": "Ninemile Canyon",
+    "value": -41.192625962854734,
     "valid": true
   },
   {
     "index": 500,
-    "Name": "Burro Canyon-Dry Lakes",
+    "NAME": "Burro Canyon-Dry Lakes",
     "value": -38.467530457724266,
     "valid": true
   },
   {
     "index": 501,
-    "Name": "Grapevine Canyon",
+    "NAME": "Grapevine Canyon",
     "value": -28.694834394551858,
     "valid": true
   },
   {
     "index": 502,
-    "Name": "China Lake",
-    "value": -2.1892180623251543,
+    "NAME": "China Lake",
+    "value": -2.189218062325154,
     "valid": true
   },
   {
     "index": 503,
-    "Name": "Black Hills",
-    "value": -5.764622959467835,
+    "NAME": "Black Hills",
+    "value": -5.764622959467836,
     "valid": true
   },
   {
     "index": 504,
-    "Name": "Teagle Wash",
+    "NAME": "Teagle Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 505,
-    "Name": "Poison Canyon",
-    "value": -0.6896260861867932,
+    "NAME": "Poison Canyon",
+    "value": -0.6896260861867936,
     "valid": true
   },
   {
     "index": 506,
-    "Name": "Searles Valley",
+    "NAME": "Searles Valley",
     "value": -36.2306601257283,
     "valid": true
   },
   {
     "index": 507,
-    "Name": "Searles Lake",
-    "value": -19.092447172905583,
+    "NAME": "Searles Lake",
+    "value": -19.09244717290558,
     "valid": true
   },
   {
     "index": 508,
-    "Name": "Upper Cache Creek",
+    "NAME": "Upper Cache Creek",
     "value": -85.73980002089074,
     "valid": true
   },
   {
     "index": 509,
-    "Name": "Cottonwood Creek",
-    "value": -84.46506923817485,
+    "NAME": "Cottonwood Creek",
+    "value": -84.46506923817483,
     "valid": true
   },
   {
     "index": 510,
-    "Name": "Jawbone Canyon",
-    "value": -57.063294125712915,
+    "NAME": "Jawbone Canyon",
+    "value": -57.063294125712886,
     "valid": true
   },
   {
     "index": 511,
-    "Name": "Lower Cache Creek",
-    "value": -0.01983624414063693,
+    "NAME": "Lower Cache Creek",
+    "value": -0.019836244140636918,
     "valid": true
   },
   {
     "index": 512,
-    "Name": "Pine Tree Canyon",
+    "NAME": "Pine Tree Canyon",
     "value": -19.32258033191191,
     "valid": true
   },
   {
     "index": 513,
-    "Name": "Fiddler Gulch-Goler Gulch",
-    "value": -5.751932848235455,
+    "NAME": "Fiddler Gulch-Goler Gulch",
+    "value": -5.751932848235451,
     "valid": true
   },
   {
     "index": 514,
-    "Name": "Dove Spring Canyon-Red Rock Canyon",
-    "value": -28.689487488762282,
+    "NAME": "Dove Spring Canyon-Red Rock Canyon",
+    "value": -28.689487488762264,
     "valid": true
   },
   {
     "index": 515,
-    "Name": "Koehn Lake",
-    "value": -3.8458469607352117,
+    "NAME": "Koehn Lake",
+    "value": -3.845846960735211,
     "valid": true
   },
   {
     "index": 516,
-    "Name": "Le Montaine Creek-Eller Slough",
+    "NAME": "Le Montaine Creek-Eller Slough",
     "value": -18.94888976997541,
     "valid": true
   },
   {
     "index": 517,
-    "Name": "Big Rock Creek-Big Rock Wash",
+    "NAME": "Big Rock Creek-Big Rock Wash",
     "value": -59.14759030224485,
     "valid": true
   },
   {
     "index": 518,
-    "Name": "Little Rock Wash",
+    "NAME": "Little Rock Wash",
     "value": -67.02021912402056,
     "valid": true
   },
   {
     "index": 519,
-    "Name": "Sidney Peak",
-    "value": -1.3272619838746778,
+    "NAME": "Sidney Peak",
+    "value": -1.3272619838746789,
     "valid": true
   },
   {
     "index": 520,
-    "Name": "Sacatara Creek-Kings Canyon",
+    "NAME": "Sacatara Creek-Kings Canyon",
     "value": -44.290400946414564,
     "valid": true
   },
   {
     "index": 521,
-    "Name": "Amargosa Creek",
-    "value": -12.468139893948567,
+    "NAME": "Amargosa Creek",
+    "value": -12.46813989394857,
     "valid": true
   },
   {
     "index": 522,
-    "Name": "Lake Palmdale-Piute Ponds",
-    "value": -8.136754349939409,
+    "NAME": "Lake Palmdale-Piute Ponds",
+    "value": -8.136754349939407,
     "valid": true
   },
   {
     "index": 523,
-    "Name": "Town of Pearblossom",
-    "value": -20.100991927309472,
+    "NAME": "Town of Pearblossom",
+    "value": -20.10099192730947,
     "valid": true
   },
   {
     "index": 524,
-    "Name": "Tropico Hill-Oak Creek",
+    "NAME": "Tropico Hill-Oak Creek",
     "value": -37.78380979045592,
     "valid": true
   },
   {
     "index": 525,
-    "Name": "Cottonwood Creek-Tylerhorse Canyon",
+    "NAME": "Cottonwood Creek-Tylerhorse Canyon",
     "value": -40.64430529822252,
     "valid": true
   },
   {
     "index": 526,
-    "Name": "Mescal Creek-Rocky Buttes",
+    "NAME": "Mescal Creek-Rocky Buttes",
     "value": -13.529154130435135,
     "valid": true
   },
   {
     "index": 527,
-    "Name": "Bissell Hills",
-    "value": -2.865106407884603,
+    "NAME": "Bissell Hills",
+    "value": -2.8651064078846016,
     "valid": true
   },
   {
     "index": 528,
-    "Name": "Peerless Valley",
+    "NAME": "Peerless Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 529,
-    "Name": "Rogers Lake",
+    "NAME": "Rogers Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 530,
-    "Name": "Rock Creek-Buckhorn Lake",
+    "NAME": "Rock Creek-Buckhorn Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 531,
-    "Name": "Rosamond Lake",
+    "NAME": "Rosamond Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 532,
-    "Name": "Nelson Lake-Bicycle Lake",
-    "value": -0.671250094813938,
+    "NAME": "Nelson Lake-Bicycle Lake",
+    "value": -0.6712500948139383,
     "valid": true
   },
   {
     "index": 533,
-    "Name": "Goldstone Lake",
+    "NAME": "Goldstone Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 534,
-    "Name": "Coyote Lake",
+    "NAME": "Coyote Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 535,
-    "Name": "Superior Lake",
-    "value": -4.1782587791145565,
+    "NAME": "Superior Lake",
+    "value": -4.178258779114561,
     "valid": true
   },
   {
     "index": 536,
-    "Name": "Inscription Canyon",
-    "value": -9.504388706018563,
+    "NAME": "Inscription Canyon",
+    "value": -9.504388706018561,
     "valid": true
   },
   {
     "index": 537,
-    "Name": "Cuddeback Lake",
-    "value": -2.06138715980898,
+    "NAME": "Cuddeback Lake",
+    "value": -2.0613871598089792,
     "valid": true
   },
   {
     "index": 538,
-    "Name": "Town of Kramer Junction-Town of Jimgrey",
+    "NAME": "Town of Kramer Junction-Town of Jimgrey",
     "value": 0,
     "valid": true
   },
   {
     "index": 539,
-    "Name": "The Buttes",
+    "NAME": "The Buttes",
     "value": 0,
     "valid": true
   },
   {
     "index": 540,
-    "Name": "Black Canyon",
+    "NAME": "Black Canyon",
     "value": -1.1897920975338083,
     "valid": true
   },
   {
     "index": 541,
-    "Name": "Mount General",
+    "NAME": "Mount General",
     "value": 0,
     "valid": true
   },
   {
     "index": 542,
-    "Name": "Harper Lake",
+    "NAME": "Harper Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 543,
-    "Name": "Deep Creek",
+    "NAME": "Deep Creek",
     "value": -89.29982362001617,
     "valid": true
   },
   {
     "index": 544,
-    "Name": "West Fork Mojave River",
+    "NAME": "West Fork Mojave River",
     "value": -68.45288572009702,
     "valid": true
   },
   {
     "index": 545,
-    "Name": "Apple Valley Dry Lake",
-    "value": -0.07188263269039671,
+    "NAME": "Apple Valley Dry Lake",
+    "value": -0.07188263269039673,
     "valid": true
   },
   {
     "index": 546,
-    "Name": "Sheep Creek-El Mirage Lake",
+    "NAME": "Sheep Creek-El Mirage Lake",
     "value": -12.660717981853193,
     "valid": true
   },
   {
     "index": 547,
-    "Name": "Upper Fremont Wash",
+    "NAME": "Upper Fremont Wash",
     "value": -21.713328808704667,
     "valid": true
   },
   {
     "index": 548,
-    "Name": "Lower Fremont Wash",
+    "NAME": "Lower Fremont Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 549,
-    "Name": "Bell Mountain Wash-Mojave River",
+    "NAME": "Bell Mountain Wash-Mojave River",
     "value": -2.6903137912829256,
     "valid": true
   },
   {
     "index": 550,
-    "Name": "Wild Wash",
+    "NAME": "Wild Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 551,
-    "Name": "Buckthorn Wash-Mojave River",
+    "NAME": "Buckthorn Wash-Mojave River",
     "value": 0,
     "valid": true
   },
   {
     "index": 552,
-    "Name": "Stoddard Valley",
+    "NAME": "Stoddard Valley",
     "value": -5.735463722355429,
     "valid": true
   },
   {
     "index": 553,
-    "Name": "Daggett Wash-Mojave River",
+    "NAME": "Daggett Wash-Mojave River",
     "value": 0,
     "valid": true
   },
   {
     "index": 554,
-    "Name": "Wall Street Canyon",
+    "NAME": "Wall Street Canyon",
     "value": 0,
     "valid": true
   },
   {
     "index": 555,
-    "Name": "Troy Lake",
+    "NAME": "Troy Lake",
     "value": -2.065141552558441,
     "valid": true
   },
   {
     "index": 556,
-    "Name": "Langford Well Lake",
+    "NAME": "Langford Well Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 557,
-    "Name": "Broadwell Lake",
+    "NAME": "Broadwell Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 558,
-    "Name": "Cronise Valley",
+    "NAME": "Cronise Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 559,
-    "Name": "Devils Playground Wash",
-    "value": -2.443616318826519,
+    "NAME": "Devils Playground Wash",
+    "value": -2.4436163188265185,
     "valid": true
   },
   {
     "index": 560,
-    "Name": "Upper Kelso Wash",
-    "value": -7.4408373330701885,
+    "NAME": "Upper Kelso Wash",
+    "value": -7.44083733307019,
     "valid": true
   },
   {
     "index": 561,
-    "Name": "Lower Kelso Wash",
+    "NAME": "Lower Kelso Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 562,
-    "Name": "Crucero Hill",
+    "NAME": "Crucero Hill",
     "value": 0,
     "valid": true
   },
   {
     "index": 563,
-    "Name": "Deer Creek",
+    "NAME": "Deer Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 564,
-    "Name": "Josephine Creek-Illinois River",
+    "NAME": "Josephine Creek-Illinois River",
     "value": 0,
     "valid": true
   },
   {
     "index": 565,
-    "Name": "Briggs Creek",
+    "NAME": "Briggs Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 566,
-    "Name": "Klondike Creek-Illinois River",
+    "NAME": "Klondike Creek-Illinois River",
     "value": 0,
     "valid": true
   },
   {
     "index": 567,
-    "Name": "Silver Creek",
+    "NAME": "Silver Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 568,
-    "Name": "Indigo Creek",
+    "NAME": "Indigo Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 569,
-    "Name": "Lawson Creek-Illinois River",
+    "NAME": "Lawson Creek-Illinois River",
     "value": 0,
     "valid": true
   },
   {
     "index": 570,
-    "Name": "Chetco River",
+    "NAME": "Chetco River",
     "value": 0,
     "valid": true
   },
   {
     "index": 571,
-    "Name": "Pistol River",
+    "NAME": "Pistol River",
     "value": 0,
     "valid": true
   },
   {
     "index": 572,
-    "Name": "Hunter Creek",
+    "NAME": "Hunter Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 573,
-    "Name": "Mack Arch Cove-Pacific Ocean",
+    "NAME": "Mack Arch Cove-Pacific Ocean",
     "value": 0,
     "valid": true
   },
   {
     "index": 574,
-    "Name": "Baxter Wash-Mojave River",
+    "NAME": "Baxter Wash-Mojave River",
     "value": 0,
     "valid": true
   },
   {
     "index": 575,
-    "Name": "Willow Wash",
+    "NAME": "Willow Wash",
     "value": -1.9608531852662923,
     "valid": true
   },
   {
     "index": 576,
-    "Name": "Halloran Wash",
+    "NAME": "Halloran Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 577,
-    "Name": "Soda Lake",
+    "NAME": "Soda Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 578,
-    "Name": "Silver Lake",
+    "NAME": "Silver Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 579,
-    "Name": "North Lucerne Valley",
-    "value": -5.556139862452579,
+    "NAME": "North Lucerne Valley",
+    "value": -5.556139862452576,
     "valid": true
   },
   {
     "index": 580,
-    "Name": "Ericksen Dry Lake",
-    "value": -16.72935669475668,
+    "NAME": "Ericksen Dry Lake",
+    "value": -16.729356694756678,
     "valid": true
   },
   {
     "index": 581,
-    "Name": "Blackhawk Canyon-Cougar Buttes",
-    "value": -10.932207770567368,
+    "NAME": "Blackhawk Canyon-Cougar Buttes",
+    "value": -10.932207770567373,
     "valid": true
   },
   {
     "index": 582,
-    "Name": "Crystal Creek-Lucerne Lake",
+    "NAME": "Crystal Creek-Lucerne Lake",
     "value": -20.899664919869664,
     "valid": true
   },
   {
     "index": 583,
-    "Name": "Silver Creek-Rabbit Lake",
+    "NAME": "Silver Creek-Rabbit Lake",
     "value": -54.49114100478971,
     "valid": true
   },
   {
     "index": 584,
-    "Name": "Rattlesnake Canyon",
+    "NAME": "Rattlesnake Canyon",
     "value": -38.55961416417129,
     "valid": true
   },
   {
     "index": 585,
-    "Name": "Arrastre Creek-Mellville Lake",
+    "NAME": "Arrastre Creek-Mellville Lake",
     "value": -17.506324427720173,
     "valid": true
   },
   {
     "index": 586,
-    "Name": "Iron Ridge-Galway Lake",
+    "NAME": "Iron Ridge-Galway Lake",
     "value": -9.906774566963481,
     "valid": true
   },
   {
     "index": 587,
-    "Name": "Pipes Wash",
+    "NAME": "Pipes Wash",
     "value": -21.959190444522935,
     "valid": true
   },
   {
     "index": 588,
-    "Name": "Means Lake-Emerson Lake",
-    "value": -1.631866496284677,
+    "NAME": "Means Lake-Emerson Lake",
+    "value": -1.6318664962846776,
     "valid": true
   },
   {
     "index": 589,
-    "Name": "Sunshine Peak-Lavic Lake",
+    "NAME": "Sunshine Peak-Lavic Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 590,
-    "Name": "Goat Mountain-Keys Lake",
+    "NAME": "Goat Mountain-Keys Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 591,
-    "Name": "Quackenbush Lake-Bullion Wash",
+    "NAME": "Quackenbush Lake-Bullion Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 592,
-    "Name": "Surprise Springs-Deadman Lake",
+    "NAME": "Surprise Springs-Deadman Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 593,
-    "Name": "Quail Wash",
-    "value": -11.733740673177872,
+    "NAME": "Quail Wash",
+    "value": -11.73374067317787,
     "valid": true
   },
   {
     "index": 594,
-    "Name": "Black Rock Spring-Coyote Well",
-    "value": -5.175215150708923,
+    "NAME": "Black Rock Spring-Coyote Well",
+    "value": -5.175215150708925,
     "valid": true
   },
   {
     "index": 595,
-    "Name": "Coyote Lake",
+    "NAME": "Coyote Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 596,
-    "Name": "Mesquite Lake",
+    "NAME": "Mesquite Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 597,
-    "Name": "Cleghorn Pass",
+    "NAME": "Cleghorn Pass",
     "value": 0,
     "valid": true
   },
   {
     "index": 598,
-    "Name": "Lava Hills",
+    "NAME": "Lava Hills",
     "value": 0,
     "valid": true
   },
   {
     "index": 599,
-    "Name": "Fortynine Palms Canyon-Shortz Lake",
+    "NAME": "Fortynine Palms Canyon-Shortz Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 600,
-    "Name": "Valley Mountain",
+    "NAME": "Valley Mountain",
     "value": 0,
     "valid": true
   },
   {
     "index": 601,
-    "Name": "Town of Old Dale-Dog Wash",
+    "NAME": "Town of Old Dale-Dog Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 602,
-    "Name": "Dale Lake",
+    "NAME": "Dale Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 603,
-    "Name": "Amboy Crater",
+    "NAME": "Amboy Crater",
     "value": 0,
     "valid": true
   },
   {
     "index": 604,
-    "Name": "Orange Blossom Wash",
-    "value": -7.937538496068264,
+    "NAME": "Orange Blossom Wash",
+    "value": -7.937538496068269,
     "valid": true
   },
   {
     "index": 605,
-    "Name": "Marble Mountains",
+    "NAME": "Marble Mountains",
     "value": -0.025092215742680585,
     "valid": true
   },
   {
     "index": 606,
-    "Name": "Sheep Hole Mountains",
+    "NAME": "Sheep Hole Mountains",
     "value": 0,
     "valid": true
   },
   {
     "index": 607,
-    "Name": "Cleghorn Lakes",
+    "NAME": "Cleghorn Lakes",
     "value": 0,
     "valid": true
   },
   {
     "index": 608,
-    "Name": "Bristol Lake",
+    "NAME": "Bristol Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 609,
-    "Name": "Upper Watson Wash",
-    "value": -14.001218484973304,
+    "NAME": "Upper Watson Wash",
+    "value": -14.001218484973311,
     "valid": true
   },
   {
     "index": 610,
-    "Name": "Clipper Valley Wash",
+    "NAME": "Clipper Valley Wash",
     "value": -8.544749671786956,
     "valid": true
   },
   {
     "index": 611,
-    "Name": "Lower Watson Wash",
+    "NAME": "Lower Watson Wash",
     "value": -6.582422433197237,
     "valid": true
   },
   {
     "index": 612,
-    "Name": "Clipper Wash",
+    "NAME": "Clipper Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 613,
-    "Name": "Schulyler Wash",
+    "NAME": "Schulyler Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 614,
-    "Name": "Cadiz Valley",
+    "NAME": "Cadiz Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 615,
-    "Name": "Browns Wash-Cadiz Lake",
+    "NAME": "Browns Wash-Cadiz Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 616,
-    "Name": "Upper Homer Wash",
+    "NAME": "Upper Homer Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 617,
-    "Name": "Lower Homer Wash",
+    "NAME": "Lower Homer Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 618,
-    "Name": "Iron Mountain Tunnel-Sand Draw",
+    "NAME": "Iron Mountain Tunnel-Sand Draw",
     "value": 0,
     "valid": true
   },
   {
     "index": 619,
-    "Name": "Ironwood Wash-Danby Lake",
+    "NAME": "Ironwood Wash-Danby Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 620,
-    "Name": "Martins Well-Danby Lake",
+    "NAME": "Martins Well-Danby Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 621,
-    "Name": "Tank Spring-Rice Valley",
+    "NAME": "Tank Spring-Rice Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 622,
-    "Name": "Upper Pinto Wash",
+    "NAME": "Upper Pinto Wash",
     "value": -0.6906231182973108,
     "valid": true
   },
   {
     "index": 623,
-    "Name": "Middle Pinto Wash",
+    "NAME": "Middle Pinto Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 624,
-    "Name": "Packard Well",
+    "NAME": "Packard Well",
     "value": 0,
     "valid": true
   },
   {
     "index": 625,
-    "Name": "Lower Pinto Wash",
+    "NAME": "Lower Pinto Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 626,
-    "Name": "Hayfield Lake-Lake Tamarisk",
+    "NAME": "Hayfield Lake-Lake Tamarisk",
     "value": 0,
     "valid": true
   },
   {
     "index": 627,
-    "Name": "Big Wash",
+    "NAME": "Big Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 628,
-    "Name": "Palen Lake",
+    "NAME": "Palen Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 629,
-    "Name": "Mesquito Spring",
+    "NAME": "Mesquito Spring",
     "value": 0,
     "valid": true
   },
   {
     "index": 630,
-    "Name": "Ford Well",
+    "NAME": "Ford Well",
     "value": 0,
     "valid": true
   },
   {
     "index": 631,
-    "Name": "McCoy Spring",
+    "NAME": "McCoy Spring",
     "value": 0,
     "valid": true
   },
   {
     "index": 632,
-    "Name": "Ship Creek-Ford Dry Lake",
+    "NAME": "Ship Creek-Ford Dry Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 633,
-    "Name": "San Gorgonio River",
-    "value": -28.54348316943132,
+    "NAME": "San Gorgonio River",
+    "value": -28.543483169431312,
     "valid": true
   },
   {
     "index": 634,
-    "Name": "Palm Canyon Wash",
+    "NAME": "Palm Canyon Wash",
     "value": -55.43071902508692,
     "valid": true
   },
   {
     "index": 635,
-    "Name": "Headwaters Whitewater River",
+    "NAME": "Headwaters Whitewater River",
     "value": -36.43480638363327,
     "valid": true
   },
   {
     "index": 636,
-    "Name": "Little Morongo Creek-Morongo Wash",
+    "NAME": "Little Morongo Creek-Morongo Wash",
     "value": -20.40771820194689,
     "valid": true
   },
   {
     "index": 637,
-    "Name": "Deep Canyon",
-    "value": -41.7661796911784,
+    "NAME": "Deep Canyon",
+    "value": -41.766179691178394,
     "valid": true
   },
   {
     "index": 638,
-    "Name": "Upper Whitewater River",
-    "value": -3.5258563495917326,
+    "NAME": "Upper Whitewater River",
+    "value": -3.525856349591732,
     "valid": true
   },
   {
     "index": 639,
-    "Name": "Middle Whitewater River",
-    "value": -3.029385813621414,
+    "NAME": "Middle Whitewater River",
+    "value": -3.0293858136214142,
     "valid": true
   },
   {
     "index": 640,
-    "Name": "Lower Whitewater River",
-    "value": -13.5955230905448,
+    "NAME": "Lower Whitewater River",
+    "value": -13.595523090544802,
     "valid": true
   },
   {
     "index": 641,
-    "Name": "Clark Valley",
-    "value": -29.037006029271993,
+    "NAME": "Clark Valley",
+    "value": -29.037006029271986,
     "valid": true
   },
   {
     "index": 642,
-    "Name": "Coyote Creek",
-    "value": -37.26655765174487,
+    "NAME": "Coyote Creek",
+    "value": -37.266557651744854,
     "valid": true
   },
   {
     "index": 643,
-    "Name": "Borrego Valley-Borrego Sink Wash",
-    "value": -23.24887754514675,
+    "NAME": "Borrego Valley-Borrego Sink Wash",
+    "value": -23.248877545146748,
     "valid": true
   },
   {
     "index": 644,
-    "Name": "Upper San Felipe Creek",
-    "value": -14.738504716943341,
+    "NAME": "Upper San Felipe Creek",
+    "value": -14.738504716943337,
     "valid": true
   },
   {
     "index": 645,
-    "Name": "Lower Borrego Valley",
+    "NAME": "Lower Borrego Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 646,
-    "Name": "Fish Creek Wash",
+    "NAME": "Fish Creek Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 647,
-    "Name": "Middle San Felipe Creek",
+    "NAME": "Middle San Felipe Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 648,
-    "Name": "Lower San Felipe Creek",
+    "NAME": "Lower San Felipe Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 649,
-    "Name": "Headwaters Applegate River",
-    "value": -29.128995136994206,
+    "NAME": "Headwaters Applegate River",
+    "value": -29.128995136994195,
     "valid": true
   },
   {
     "index": 650,
-    "Name": "Althouse Creek",
-    "value": -1.007628008152384,
+    "NAME": "Althouse Creek",
+    "value": -1.0076280081523836,
     "valid": true
   },
   {
     "index": 651,
-    "Name": "East Fork Illinois River",
+    "NAME": "East Fork Illinois River",
     "value": -36.49883600991724,
     "valid": true
   },
   {
     "index": 652,
-    "Name": "West Fork Illinois River",
-    "value": -14.909081763366176,
+    "NAME": "West Fork Illinois River",
+    "value": -14.909081763366174,
     "valid": true
   },
   {
     "index": 653,
-    "Name": "Winchuck River",
-    "value": -0.5507586590641375,
+    "NAME": "Winchuck River",
+    "value": -0.5507586590641377,
     "valid": true
   },
   {
     "index": 654,
-    "Name": "Whalehead Creek-Frontal Cape Ferrelo",
+    "NAME": "Whalehead Creek-Frontal Cape Ferrelo",
     "value": 0,
     "valid": true
   },
   {
     "index": 655,
-    "Name": "Coleman Creek",
+    "NAME": "Coleman Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 656,
-    "Name": "Mission Beach-Frontal Pacific Ocean",
+    "NAME": "Mission Beach-Frontal Pacific Ocean",
     "value": 0,
     "valid": true
   },
   {
     "index": 657,
-    "Name": "Upper Piute Wash",
-    "value": -4.005099825986874,
+    "NAME": "Upper Piute Wash",
+    "value": -4.005099825986872,
     "valid": true
   },
   {
     "index": 658,
-    "Name": "Smoke Creek-Frontal Smoke Creek Desert",
-    "value": -28.936228350256986,
+    "NAME": "Smoke Creek-Frontal Smoke Creek Desert",
+    "value": -28.93622835025699,
     "valid": true
   },
   {
     "index": 659,
-    "Name": "Third Creek-Frontal Lake Tahoe",
-    "value": -46.20876011302225,
+    "NAME": "Third Creek-Frontal Lake Tahoe",
+    "value": -46.20876011302226,
     "valid": true
   },
   {
     "index": 660,
-    "Name": "Marlette Lake-Frontal Lake Tahoe",
-    "value": -9.754015839148604,
+    "NAME": "Marlette Lake-Frontal Lake Tahoe",
+    "value": -9.75401583914861,
     "valid": true
   },
   {
     "index": 661,
-    "Name": "Lake Tahoe",
+    "NAME": "Lake Tahoe",
     "value": -60.647392155427724,
     "valid": true
   },
   {
     "index": 662,
-    "Name": "City of Reno-Truckee River",
+    "NAME": "City of Reno-Truckee River",
     "value": -19.757867626529933,
     "valid": true
   },
   {
     "index": 663,
-    "Name": "Middle East Fork Carson River",
+    "NAME": "Middle East Fork Carson River",
     "value": -42.442382307072364,
     "valid": true
   },
   {
     "index": 664,
-    "Name": "Rough Creek",
+    "NAME": "Rough Creek",
     "value": -11.188498145653519,
     "valid": true
   },
   {
     "index": 665,
-    "Name": "Desert Creek",
+    "NAME": "Desert Creek",
     "value": -7.120830297829203,
     "valid": true
   },
   {
     "index": 666,
-    "Name": "Lower West Walker River",
+    "NAME": "Lower West Walker River",
     "value": 0,
     "valid": true
   },
   {
     "index": 667,
-    "Name": "Huntoon Valley",
+    "NAME": "Huntoon Valley",
     "value": -11.840579958900113,
     "valid": true
   },
   {
     "index": 668,
-    "Name": "Chiatovich Creek-Frontal Fish Lake Valley",
+    "NAME": "Chiatovich Creek-Frontal Fish Lake Valley",
     "value": -5.671903925471624,
     "valid": true
   },
   {
     "index": 669,
-    "Name": "Fish Lake Valley",
-    "value": -5.888384140428682,
+    "NAME": "Fish Lake Valley",
+    "value": -5.88838414042868,
     "valid": true
   },
   {
     "index": 670,
-    "Name": "Town of Pahrump",
+    "NAME": "Town of Pahrump",
     "value": 0,
     "valid": true
   },
   {
     "index": 671,
-    "Name": "Stewart Valley",
+    "NAME": "Stewart Valley",
     "value": -0.04175152924763144,
     "valid": true
   },
   {
     "index": 672,
-    "Name": "Calvada Springs",
+    "NAME": "Calvada Springs",
     "value": 0,
     "valid": true
   },
   {
     "index": 673,
-    "Name": "Pahrump Valley",
-    "value": -1.2791960080501217,
+    "NAME": "Pahrump Valley",
+    "value": -1.2791960080501221,
     "valid": true
   },
   {
     "index": 674,
-    "Name": "Potosi Wash",
+    "NAME": "Potosi Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 675,
-    "Name": "Devil Canyon-Frontal Ivanpah Lake",
+    "NAME": "Devil Canyon-Frontal Ivanpah Lake",
     "value": -16.425183503025565,
     "valid": true
   },
   {
     "index": 676,
-    "Name": "Lucy Gray Mountains-Frontal Ivanpah Lake",
+    "NAME": "Lucy Gray Mountains-Frontal Ivanpah Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 677,
-    "Name": "Ivanpah Lake",
+    "NAME": "Ivanpah Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 678,
-    "Name": "Lemmon Valley",
-    "value": -0.17862647932832443,
+    "NAME": "Lemmon Valley",
+    "value": -0.1786264793283244,
     "valid": true
   },
   {
     "index": 679,
-    "Name": "Dry Valley Creek",
-    "value": -2.83576582151651,
+    "NAME": "Dry Valley Creek",
+    "value": -2.835765821516509,
     "valid": true
   },
   {
     "index": 680,
-    "Name": "Upper Long Valley Creek",
-    "value": -67.04403755908105,
+    "NAME": "Upper Long Valley Creek",
+    "value": -67.04403755908103,
     "valid": true
   },
   {
     "index": 681,
-    "Name": "Alkali Valley-Frontal Mono Lake",
+    "NAME": "Alkali Valley-Frontal Mono Lake",
     "value": -43.0098024523355,
     "valid": true
   },
   {
     "index": 682,
-    "Name": "Upper Spring Canyon Creek",
+    "NAME": "Upper Spring Canyon Creek",
     "value": -41.18225582059363,
     "valid": true
   },
   {
     "index": 683,
-    "Name": "Town of Rhyolite",
-    "value": -3.6650806613654994,
+    "NAME": "Town of Rhyolite",
+    "value": -3.665080661365498,
     "valid": true
   },
   {
     "index": 684,
-    "Name": "Big Dune",
+    "NAME": "Big Dune",
     "value": 0,
     "valid": true
   },
   {
     "index": 685,
-    "Name": "Funeral Mountains-Amargosa River",
-    "value": -14.481851997811916,
+    "NAME": "Funeral Mountains-Amargosa River",
+    "value": -14.48185199781192,
     "valid": true
   },
   {
     "index": 686,
-    "Name": "Lower Fortymile Canyon",
-    "value": -5.10799649628671,
+    "NAME": "Lower Fortymile Canyon",
+    "value": -5.107996496286708,
     "valid": true
   },
   {
     "index": 687,
-    "Name": "Rock Valley",
+    "NAME": "Rock Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 688,
-    "Name": "Upper Death Valley Wash",
+    "NAME": "Upper Death Valley Wash",
     "value": -36.186264453449816,
     "valid": true
   },
   {
     "index": 689,
-    "Name": "Middle Death Valley Wash",
+    "NAME": "Middle Death Valley Wash",
     "value": -35.70818337934852,
     "valid": true
   },
   {
     "index": 690,
-    "Name": "North Fork Smith River",
-    "value": -39.025207127149365,
+    "NAME": "North Fork Smith River",
+    "value": -39.02520712714937,
     "valid": true
   },
   {
     "index": 691,
-    "Name": "Rock Creek-Lost River",
-    "value": -30.231989776926742,
+    "NAME": "Rock Creek-Lost River",
+    "value": -30.23198977692675,
     "valid": true
   },
   {
     "index": 692,
-    "Name": "Langell Valley-Lost River",
-    "value": -0.06293537348689679,
+    "NAME": "Langell Valley-Lost River",
+    "value": -0.06293537348689678,
     "valid": true
   },
   {
     "index": 693,
-    "Name": "Mills Creek-Lost River",
+    "NAME": "Mills Creek-Lost River",
     "value": -29.9084232390254,
     "valid": true
   },
   {
     "index": 694,
-    "Name": "John C Boyle Reservoir-Klamath River",
+    "NAME": "John C Boyle Reservoir-Klamath River",
     "value": -11.785884606287533,
     "valid": true
   },
   {
     "index": 695,
-    "Name": "Jenny Creek",
-    "value": -0.7733133186197246,
+    "NAME": "Jenny Creek",
+    "value": -0.773313318619724,
     "valid": true
   },
   {
     "index": 696,
-    "Name": "Iron Gate Reservoir-Klamath River",
-    "value": -40.618265353187546,
+    "NAME": "Iron Gate Reservoir-Klamath River",
+    "value": -40.618265353187525,
     "valid": true
   },
   {
     "index": 697,
-    "Name": "Willow Creek-Frontal Goose Lake",
+    "NAME": "Willow Creek-Frontal Goose Lake",
     "value": -62.00709392240749,
     "valid": true
   },
   {
     "index": 698,
-    "Name": "Dry Creek-Frontal Goose Lake",
+    "NAME": "Dry Creek-Frontal Goose Lake",
     "value": -51.633193791767496,
     "valid": true
   },
   {
     "index": 699,
-    "Name": "Goose Lake",
+    "NAME": "Goose Lake",
     "value": -57.92657859071814,
     "valid": true
   },
   {
     "index": 700,
-    "Name": "Upper Applegate River",
+    "NAME": "Upper Applegate River",
     "value": 0,
     "valid": true
   },
   {
     "index": 701,
-    "Name": "Little Applegate River",
+    "NAME": "Little Applegate River",
     "value": 0,
     "valid": true
   },
   {
     "index": 702,
-    "Name": "Middle Applegate River",
+    "NAME": "Middle Applegate River",
     "value": 0,
     "valid": true
   },
   {
     "index": 703,
-    "Name": "Williams Creek",
+    "NAME": "Williams Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 704,
-    "Name": "Lower Applegate River",
+    "NAME": "Lower Applegate River",
     "value": 0,
     "valid": true
   },
   {
     "index": 705,
-    "Name": "Honey Creek",
+    "NAME": "Honey Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 706,
-    "Name": "Crump Lake",
+    "NAME": "Crump Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 707,
-    "Name": "Rabbit Creek",
+    "NAME": "Rabbit Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 708,
-    "Name": "Kit Canyon-Frontal Blue Joint Lake",
+    "NAME": "Kit Canyon-Frontal Blue Joint Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 709,
-    "Name": "Campbell Lake",
+    "NAME": "Campbell Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 710,
-    "Name": "Deep Creek",
+    "NAME": "Deep Creek",
     "value": -0.9050559412026313,
     "valid": true
   },
   {
     "index": 711,
-    "Name": "Twentymile Creek",
+    "NAME": "Twentymile Creek",
     "value": -15.758279557961512,
     "valid": true
   },
   {
     "index": 712,
-    "Name": "Fine Gold Creek",
-    "value": -15.17371734430698,
+    "NAME": "Fine Gold Creek",
+    "value": -15.173717344306983,
     "valid": true
   },
   {
     "index": 713,
-    "Name": "Tomales Bay-Bodega Bay",
+    "NAME": "Tomales Bay-Bodega Bay",
     "value": 0,
     "valid": true
   },
   {
     "index": 714,
-    "Name": "Big Tujunga Creek",
-    "value": -49.14264305517251,
+    "NAME": "Big Tujunga Creek",
+    "value": -49.14264305517253,
     "valid": true
   },
   {
     "index": 715,
-    "Name": "San Jose Creek",
+    "NAME": "San Jose Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 716,
-    "Name": "Racetrack Valley",
+    "NAME": "Racetrack Valley",
     "value": -79.13430431078562,
     "valid": true
   },
   {
     "index": 717,
-    "Name": "California Valley",
-    "value": -12.222278145298187,
+    "NAME": "California Valley",
+    "value": -12.22227814529819,
     "valid": true
   },
   {
     "index": 718,
-    "Name": "Manix Wash-Mojave River",
+    "NAME": "Manix Wash-Mojave River",
     "value": 0,
     "valid": true
   },
   {
     "index": 719,
-    "Name": "Ehrenberg Wash-Colorado River",
+    "NAME": "Ehrenberg Wash-Colorado River",
     "value": 0,
     "valid": true
   },
   {
     "index": 720,
-    "Name": "Sucker Creek",
+    "NAME": "Sucker Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 721,
-    "Name": "Yreka Creek-Shasta River",
-    "value": -95.75044887679051,
+    "NAME": "Yreka Creek-Shasta River",
+    "value": -95.75044887679049,
     "valid": true
   },
   {
     "index": 722,
-    "Name": "Colusa Basin Drainage Canal",
+    "NAME": "Colusa Basin Drainage Canal",
     "value": 0,
     "valid": true
   },
   {
     "index": 723,
-    "Name": "Middle Stony Creek",
+    "NAME": "Middle Stony Creek",
     "value": -48.574406973454515,
     "valid": true
   },
   {
     "index": 724,
-    "Name": "Oat Creek-Sacramento River",
-    "value": -3.8954108017796494,
+    "NAME": "Oat Creek-Sacramento River",
+    "value": -3.8954108017796507,
     "valid": true
   },
   {
     "index": 725,
-    "Name": "Middle Butte Creek",
+    "NAME": "Middle Butte Creek",
     "value": -10.683789820330032,
     "valid": true
   },
   {
     "index": 726,
-    "Name": "Topock Marsh-Colorado River",
+    "NAME": "Topock Marsh-Colorado River",
     "value": 0,
     "valid": true
   },
   {
     "index": 727,
-    "Name": "Colorado River-Lake Havasu",
+    "NAME": "Colorado River-Lake Havasu",
     "value": 0,
     "valid": true
   },
   {
     "index": 728,
-    "Name": "Osborne Wash-Colorado River",
+    "NAME": "Osborne Wash-Colorado River",
     "value": 0,
     "valid": true
   },
   {
     "index": 729,
-    "Name": "Upper Parker Valley-Colorado River",
+    "NAME": "Upper Parker Valley-Colorado River",
     "value": 0,
     "valid": true
   },
   {
     "index": 730,
-    "Name": "Lower Parker Valley-Colorado River",
+    "NAME": "Lower Parker Valley-Colorado River",
     "value": 0,
     "valid": true
   },
   {
     "index": 731,
-    "Name": "Mohave Wash-Colorado River",
+    "NAME": "Mohave Wash-Colorado River",
     "value": 0,
     "valid": true
   },
   {
     "index": 732,
-    "Name": "Gould Wash-Colorado River",
+    "NAME": "Gould Wash-Colorado River",
     "value": 0,
     "valid": true
   },
   {
     "index": 733,
-    "Name": "Yuma Wash-Colorado River",
+    "NAME": "Yuma Wash-Colorado River",
     "value": 0,
     "valid": true
   },
   {
     "index": 734,
-    "Name": "Martinez Lake-Colorado River",
+    "NAME": "Martinez Lake-Colorado River",
     "value": 0,
     "valid": true
   },
   {
     "index": 735,
-    "Name": "High Rock Creek",
+    "NAME": "High Rock Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 736,
-    "Name": "High Rock Lake",
+    "NAME": "High Rock Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 737,
-    "Name": "Hualapai Flat",
+    "NAME": "Hualapai Flat",
     "value": 0,
     "valid": true
   },
   {
     "index": 738,
-    "Name": "San Emidio Desert",
+    "NAME": "San Emidio Desert",
     "value": 0,
     "valid": true
   },
   {
     "index": 739,
-    "Name": "Town of Empire",
+    "NAME": "Town of Empire",
     "value": 0,
     "valid": true
   },
   {
     "index": 740,
-    "Name": "Dry Creek-Frontal Smoke Creek Desert",
+    "NAME": "Dry Creek-Frontal Smoke Creek Desert",
     "value": 0,
     "valid": true
   },
   {
     "index": 741,
-    "Name": "Squaw Creek-Frontal Smoke Creek Desert",
+    "NAME": "Squaw Creek-Frontal Smoke Creek Desert",
     "value": 0,
     "valid": true
   },
   {
     "index": 742,
-    "Name": "Buffalo Creek-Frontal Smoke Creek Desert",
+    "NAME": "Buffalo Creek-Frontal Smoke Creek Desert",
     "value": 0,
     "valid": true
   },
   {
     "index": 743,
-    "Name": "Wild Horse Creek-Frontal Smoke Creek Desert",
+    "NAME": "Wild Horse Creek-Frontal Smoke Creek Desert",
     "value": 0,
     "valid": true
   },
   {
     "index": 744,
-    "Name": "Smoke Creek Desert",
+    "NAME": "Smoke Creek Desert",
     "value": 0,
     "valid": true
   },
   {
     "index": 745,
-    "Name": "Massacre Lake",
+    "NAME": "Massacre Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 746,
-    "Name": "Fortynine Lake",
+    "NAME": "Fortynine Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 747,
-    "Name": "Alkali Lake",
+    "NAME": "Alkali Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 748,
-    "Name": "Boulder Flat",
+    "NAME": "Boulder Flat",
     "value": 0,
     "valid": true
   },
   {
     "index": 749,
-    "Name": "Steamboat Creek",
+    "NAME": "Steamboat Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 750,
-    "Name": "Spanish Springs Valley",
+    "NAME": "Spanish Springs Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 751,
-    "Name": "Long Valley Creek-Truckee River",
+    "NAME": "Long Valley Creek-Truckee River",
     "value": 0,
     "valid": true
   },
   {
     "index": 752,
-    "Name": "Lower East Fork Carson River",
+    "NAME": "Lower East Fork Carson River",
     "value": 0,
     "valid": true
   },
   {
     "index": 753,
-    "Name": "Carson Valley-Carson River",
+    "NAME": "Carson Valley-Carson River",
     "value": 0,
     "valid": true
   },
   {
     "index": 754,
-    "Name": "Jumbo Wash-Colorado River",
+    "NAME": "Jumbo Wash-Colorado River",
     "value": 0,
     "valid": true
   },
   {
     "index": 755,
-    "Name": "Colorado River-Lake Mohave",
+    "NAME": "Colorado River-Lake Mohave",
     "value": 0,
     "valid": true
   },
   {
     "index": 756,
-    "Name": "Silver Creek Wash-Colorado River",
+    "NAME": "Silver Creek Wash-Colorado River",
     "value": 0,
     "valid": true
   },
   {
     "index": 757,
-    "Name": "Upper Chemehuevi Wash",
+    "NAME": "Upper Chemehuevi Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 758,
-    "Name": "Lower Chemehuevi Wash",
+    "NAME": "Lower Chemehuevi Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 759,
-    "Name": "Sacramento Wash",
-    "value": -7.575686346667904,
+    "NAME": "Sacramento Wash",
+    "value": -7.575686346667903,
     "valid": true
   },
   {
     "index": 760,
-    "Name": "Lower Piute Wash",
+    "NAME": "Lower Piute Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 761,
-    "Name": "Vidal Wash",
+    "NAME": "Vidal Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 762,
-    "Name": "McCoy Wash",
+    "NAME": "McCoy Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 763,
-    "Name": "Palo Verde Valley",
+    "NAME": "Palo Verde Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 764,
-    "Name": "Arroyo Seco-Upper Milpitas Wash",
+    "NAME": "Arroyo Seco-Upper Milpitas Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 765,
-    "Name": "Lower Milpitas Wash",
+    "NAME": "Lower Milpitas Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 766,
-    "Name": "Upper Truckee River-Frontal Lake Tahoe",
+    "NAME": "Upper Truckee River-Frontal Lake Tahoe",
     "value": -69.89488814650939,
     "valid": true
   },
   {
     "index": 767,
-    "Name": "General Creek-Frontal Lake Tahoe",
+    "NAME": "General Creek-Frontal Lake Tahoe",
     "value": -74.57477298335749,
     "valid": true
   },
   {
     "index": 768,
-    "Name": "Middle East Walker River",
+    "NAME": "Middle East Walker River",
     "value": 0,
     "valid": true
   },
   {
     "index": 769,
-    "Name": "Pine Grove Canyon",
+    "NAME": "Pine Grove Canyon",
     "value": 0,
     "valid": true
   },
   {
     "index": 770,
-    "Name": "Lower East Walker River",
+    "NAME": "Lower East Walker River",
     "value": 0,
     "valid": true
   },
   {
     "index": 771,
-    "Name": "Artesia Lake",
+    "NAME": "Artesia Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 772,
-    "Name": "Little Truckee River",
+    "NAME": "Little Truckee River",
     "value": -77.29723176612019,
     "valid": true
   },
   {
     "index": 773,
-    "Name": "Prosser Creek-Truckee River",
+    "NAME": "Prosser Creek-Truckee River",
     "value": -77.2611371220888,
     "valid": true
   },
   {
     "index": 774,
-    "Name": "Upper East Fork Carson River",
+    "NAME": "Upper East Fork Carson River",
     "value": -72.36985745200279,
     "valid": true
   },
   {
     "index": 775,
-    "Name": "West Fork Carson River",
-    "value": -45.71025689178571,
+    "NAME": "West Fork Carson River",
+    "value": -45.710256891785704,
     "valid": true
   },
   {
     "index": 776,
-    "Name": "Headwaters East Walker River",
+    "NAME": "Headwaters East Walker River",
     "value": -58.243570706767784,
     "valid": true
   },
   {
     "index": 777,
-    "Name": "Upper East Walker River",
+    "NAME": "Upper East Walker River",
     "value": -29.67748592134041,
     "valid": true
   },
   {
     "index": 778,
-    "Name": "Upper West Walker River",
+    "NAME": "Upper West Walker River",
     "value": -48.335276281034695,
     "valid": true
   },
   {
     "index": 779,
-    "Name": "Middle West Walker River",
-    "value": -59.29471823775245,
+    "NAME": "Middle West Walker River",
+    "value": -59.29471823775244,
     "valid": true
   },
   {
     "index": 780,
-    "Name": "Furnace Creek-Frontal Fish Lake Valley",
+    "NAME": "Furnace Creek-Frontal Fish Lake Valley",
     "value": -50.83468664230454,
     "valid": true
   },
   {
     "index": 781,
-    "Name": "Mesquite Valley",
-    "value": -5.4614994940552455,
+    "NAME": "Mesquite Valley",
+    "value": -5.461499494055247,
     "valid": true
   },
   {
     "index": 782,
-    "Name": "Town of Ivanpah-Frontal Ivanpah Lake",
+    "NAME": "Town of Ivanpah-Frontal Ivanpah Lake",
     "value": -17.44310124177248,
     "valid": true
   },
   {
     "index": 783,
-    "Name": "Middle Fork Smith River",
+    "NAME": "Middle Fork Smith River",
     "value": -86.96512672339765,
     "valid": true
   },
   {
     "index": 784,
-    "Name": "South Fork Smith River",
+    "NAME": "South Fork Smith River",
     "value": -89.46825331951763,
     "valid": true
   },
   {
     "index": 785,
-    "Name": "Smith River",
+    "NAME": "Smith River",
     "value": -42.96482358415689,
     "valid": true
   },
   {
     "index": 786,
-    "Name": "Point Saint George-Frontal Pacific Ocean",
-    "value": -0.6645519163228363,
+    "NAME": "Point Saint George-Frontal Pacific Ocean",
+    "value": -0.6645519163228357,
     "valid": true
   },
   {
     "index": 787,
-    "Name": "Redwood Creek",
+    "NAME": "Redwood Creek",
     "value": -74.77651903687004,
     "valid": true
   },
   {
     "index": 788,
-    "Name": "Upper Mad River",
-    "value": -91.7737012796646,
+    "NAME": "Upper Mad River",
+    "value": -91.77370127966458,
     "valid": true
   },
   {
     "index": 789,
-    "Name": "Middle Mad River",
-    "value": -92.97820216822618,
+    "NAME": "Middle Mad River",
+    "value": -92.97820216822615,
     "valid": true
   },
   {
     "index": 790,
-    "Name": "Lower Mad River",
-    "value": -62.98500215867058,
+    "NAME": "Lower Mad River",
+    "value": -62.985002158670596,
     "valid": true
   },
   {
     "index": 791,
-    "Name": "Big Lagoon-Frontal Pacific Ocean",
-    "value": -5.421044013657411,
+    "NAME": "Big Lagoon-Frontal Pacific Ocean",
+    "value": -5.421044013657413,
     "valid": true
   },
   {
     "index": 792,
-    "Name": "Humboldt Bay-Frontal Pacific Ocean",
+    "NAME": "Humboldt Bay-Frontal Pacific Ocean",
     "value": -4.095471968955491,
     "valid": true
   },
   {
     "index": 793,
-    "Name": "Rice Fork",
+    "NAME": "Rice Fork",
     "value": -88.82770378088729,
     "valid": true
   },
   {
     "index": 794,
-    "Name": "Corbin Creek-Eel River",
-    "value": -90.94322090802378,
+    "NAME": "Corbin Creek-Eel River",
+    "value": -90.94322090802379,
     "valid": true
   },
   {
     "index": 795,
-    "Name": "Tomki Creek",
+    "NAME": "Tomki Creek",
     "value": -80.71735152756492,
     "valid": true
   },
   {
     "index": 796,
-    "Name": "Outlet Creek",
+    "NAME": "Outlet Creek",
     "value": -81.67098270548547,
     "valid": true
   },
   {
     "index": 797,
-    "Name": "Bucknell Creek-Eel River",
+    "NAME": "Bucknell Creek-Eel River",
     "value": -86.20522094249627,
     "valid": true
   },
   {
     "index": 798,
-    "Name": "Black Butte River",
-    "value": -87.9576137808432,
+    "NAME": "Black Butte River",
+    "value": -87.95761378084319,
     "valid": true
   },
   {
     "index": 799,
-    "Name": "Upper Middle Fork Eel River",
+    "NAME": "Upper Middle Fork Eel River",
     "value": -81.97284901346464,
     "valid": true
   },
   {
     "index": 800,
-    "Name": "Mill Creek",
+    "NAME": "Mill Creek",
     "value": -81.29651626245214,
     "valid": true
   },
   {
     "index": 801,
-    "Name": "Elk Creek",
+    "NAME": "Elk Creek",
     "value": -88.11771504537175,
     "valid": true
   },
   {
     "index": 802,
-    "Name": "Lower Middle Fork Eel River",
-    "value": -86.48216893908047,
+    "NAME": "Lower Middle Fork Eel River",
+    "value": -86.48216893908044,
     "valid": true
   },
   {
     "index": 803,
-    "Name": "North Fork Eel River",
-    "value": -89.48508831381915,
+    "NAME": "North Fork Eel River",
+    "value": -89.48508831381913,
     "valid": true
   },
   {
     "index": 804,
-    "Name": "Woodman Creek-Eel River",
-    "value": -87.0583772627129,
+    "NAME": "Woodman Creek-Eel River",
+    "value": -87.05837726271288,
     "valid": true
   },
   {
     "index": 805,
-    "Name": "Dobbyn Creek",
+    "NAME": "Dobbyn Creek",
     "value": -73.56701174676319,
     "valid": true
   },
   {
     "index": 806,
-    "Name": "Chamise Creek-Eel River",
+    "NAME": "Chamise Creek-Eel River",
     "value": -78.3027380290667,
     "valid": true
   },
   {
     "index": 807,
-    "Name": "Basin Creek-Eel River",
-    "value": -60.89730844965228,
+    "NAME": "Basin Creek-Eel River",
+    "value": -60.89730844965227,
     "valid": true
   },
   {
     "index": 808,
-    "Name": "Larabee Creek",
+    "NAME": "Larabee Creek",
     "value": -85.5535055917893,
     "valid": true
   },
   {
     "index": 809,
-    "Name": "Upper Van Duzen River",
+    "NAME": "Upper Van Duzen River",
     "value": -93.6908916708093,
     "valid": true
   },
   {
     "index": 810,
-    "Name": "Yager Creek",
+    "NAME": "Yager Creek",
     "value": -70.68404972482904,
     "valid": true
   },
   {
     "index": 811,
-    "Name": "Lower Van Duzen River",
-    "value": -73.13829142830944,
+    "NAME": "Lower Van Duzen River",
+    "value": -73.13829142830943,
     "valid": true
   },
   {
     "index": 812,
-    "Name": "Price Creek-Eel River",
-    "value": -19.222544973399817,
+    "NAME": "Price Creek-Eel River",
+    "value": -19.22254497339982,
     "valid": true
   },
   {
     "index": 813,
-    "Name": "Salt River-Eel River",
+    "NAME": "Salt River-Eel River",
     "value": 0,
     "valid": true
   },
   {
     "index": 814,
-    "Name": "Upper South Fork Eel River",
-    "value": -87.27547114451835,
+    "NAME": "Upper South Fork Eel River",
+    "value": -87.27547114451833,
     "valid": true
   },
   {
     "index": 815,
-    "Name": "East Branch South Fork Eel River",
-    "value": -85.66499161679445,
+    "NAME": "East Branch South Fork Eel River",
+    "value": -85.66499161679444,
     "valid": true
   },
   {
     "index": 816,
-    "Name": "Middle South Fork Eel River",
+    "NAME": "Middle South Fork Eel River",
     "value": -45.311488341722296,
     "valid": true
   },
   {
     "index": 817,
-    "Name": "Lower South Fork Eel River",
+    "NAME": "Lower South Fork Eel River",
     "value": -54.531988529573255,
     "valid": true
   },
   {
     "index": 818,
-    "Name": "Bear River",
+    "NAME": "Bear River",
     "value": -63.15272236724458,
     "valid": true
   },
   {
     "index": 819,
-    "Name": "Mattole River",
-    "value": -73.36595545872505,
+    "NAME": "Mattole River",
+    "value": -73.36595545872507,
     "valid": true
   },
   {
     "index": 820,
-    "Name": "Cape Mendicino-Frontal Pacific Ocean",
-    "value": -0.794086424362219,
+    "NAME": "Cape Mendicino-Frontal Pacific Ocean",
+    "value": -0.7940864243622187,
     "valid": true
   },
   {
     "index": 821,
-    "Name": "Cooksie Creek-Frontal Pacific Ocean",
-    "value": -20.179332407217032,
+    "NAME": "Cooksie Creek-Frontal Pacific Ocean",
+    "value": -20.179332407217036,
     "valid": true
   },
   {
     "index": 822,
-    "Name": "Ten Mile River",
+    "NAME": "Ten Mile River",
     "value": -25.926130213011195,
     "valid": true
   },
   {
     "index": 823,
-    "Name": "Noyo River",
+    "NAME": "Noyo River",
     "value": -15.520836100583654,
     "valid": true
   },
   {
     "index": 824,
-    "Name": "Big River",
-    "value": -7.599301091053729,
+    "NAME": "Big River",
+    "value": -7.599301091053724,
     "valid": true
   },
   {
     "index": 825,
-    "Name": "Navarro River",
-    "value": -18.376838342133848,
+    "NAME": "Navarro River",
+    "value": -18.37683834213385,
     "valid": true
   },
   {
     "index": 826,
-    "Name": "Garcia River",
-    "value": -13.50857232049438,
+    "NAME": "Garcia River",
+    "value": -13.508572320494384,
     "valid": true
   },
   {
     "index": 827,
-    "Name": "Usal Creek-Frontal Pacific Ocean",
+    "NAME": "Usal Creek-Frontal Pacific Ocean",
     "value": -4.583918760776284,
     "valid": true
   },
   {
     "index": 828,
-    "Name": "Pudding Creek-Frontal Pacific Ocean",
+    "NAME": "Pudding Creek-Frontal Pacific Ocean",
     "value": 0,
     "valid": true
   },
   {
     "index": 829,
-    "Name": "Albion River-Frontal Pacific Ocean",
+    "NAME": "Albion River-Frontal Pacific Ocean",
     "value": 0,
     "valid": true
   },
   {
     "index": 830,
-    "Name": "Alder Creek-Frontal Pacific Ocean",
+    "NAME": "Alder Creek-Frontal Pacific Ocean",
     "value": -4.0253630052630385,
     "valid": true
   },
   {
     "index": 831,
-    "Name": "Gualala River",
-    "value": -12.839143006572156,
+    "NAME": "Gualala River",
+    "value": -12.83914300657216,
     "valid": true
   },
   {
     "index": 832,
-    "Name": "Salmon Creek-Frontal Pacific Ocean",
+    "NAME": "Salmon Creek-Frontal Pacific Ocean",
     "value": 0,
     "valid": true
   },
   {
     "index": 833,
-    "Name": "East Fork Russian River",
-    "value": -36.51847197942639,
+    "NAME": "East Fork Russian River",
+    "value": -36.51847197942637,
     "valid": true
   },
   {
     "index": 834,
-    "Name": "Headwaters Russian River",
-    "value": -30.88242758683578,
+    "NAME": "Headwaters Russian River",
+    "value": -30.882427586835778,
     "valid": true
   },
   {
     "index": 835,
-    "Name": "Big Sulphur Creek",
-    "value": -70.05657869148398,
+    "NAME": "Big Sulphur Creek",
+    "value": -70.05657869148399,
     "valid": true
   },
   {
     "index": 836,
-    "Name": "Upper Russian River",
-    "value": -34.23237114525866,
+    "NAME": "Upper Russian River",
+    "value": -34.232371145258654,
     "valid": true
   },
   {
     "index": 837,
-    "Name": "Dry Creek",
-    "value": -14.483347976689652,
+    "NAME": "Dry Creek",
+    "value": -14.483347976689654,
     "valid": true
   },
   {
     "index": 838,
-    "Name": "Middle Russian River",
-    "value": -6.098627988614623,
+    "NAME": "Middle Russian River",
+    "value": -6.098627988614624,
     "valid": true
   },
   {
     "index": 839,
-    "Name": "Mark West Creek",
+    "NAME": "Mark West Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 840,
-    "Name": "Austin Creek",
-    "value": -4.6234007038316225,
+    "NAME": "Austin Creek",
+    "value": -4.623400703831618,
     "valid": true
   },
   {
     "index": 841,
-    "Name": "Lower Russian River",
+    "NAME": "Lower Russian River",
     "value": 0,
     "valid": true
   },
   {
     "index": 842,
-    "Name": "Fletcher Creek-Boles Creek",
+    "NAME": "Fletcher Creek-Boles Creek",
     "value": -84.77903727678716,
     "valid": true
   },
   {
     "index": 843,
-    "Name": "North Fork Willow Creek-Willow Creek",
+    "NAME": "North Fork Willow Creek-Willow Creek",
     "value": -59.3693148972754,
     "valid": true
   },
   {
     "index": 844,
-    "Name": "Mowitz Creek-Clear Lake",
+    "NAME": "Mowitz Creek-Clear Lake",
     "value": -85.34626802903195,
     "valid": true
   },
   {
     "index": 845,
-    "Name": "Tule Lake",
+    "NAME": "Tule Lake",
     "value": -88.01378678561882,
     "valid": true
   },
   {
     "index": 846,
-    "Name": "Copic Bay",
+    "NAME": "Copic Bay",
     "value": -86.75596346029812,
     "valid": true
   },
   {
     "index": 847,
-    "Name": "Badger Basin-Willow Creek",
+    "NAME": "Badger Basin-Willow Creek",
     "value": -85.80529827756627,
     "valid": true
   },
   {
     "index": 848,
-    "Name": "Lower Klamath Lake",
+    "NAME": "Lower Klamath Lake",
     "value": -61.402780600842775,
     "valid": true
   },
   {
     "index": 849,
-    "Name": "Butte Creek",
+    "NAME": "Butte Creek",
     "value": -84.42989759755328,
     "valid": true
   },
   {
     "index": 850,
-    "Name": "Red Rock Valley-Antelope Creek",
+    "NAME": "Red Rock Valley-Antelope Creek",
     "value": -84.93687860943083,
     "valid": true
   },
   {
     "index": 851,
-    "Name": "Butte Valley",
-    "value": -80.28643309138762,
+    "NAME": "Butte Valley",
+    "value": -80.28643309138764,
     "valid": true
   },
   {
     "index": 852,
-    "Name": "Copco Reservoir-Klamath River",
-    "value": -53.7477475336684,
+    "NAME": "Copco Reservoir-Klamath River",
+    "value": -53.74774753366841,
     "valid": true
   },
   {
     "index": 853,
-    "Name": "Cottonwood Creek",
+    "NAME": "Cottonwood Creek",
     "value": -56.986230659714145,
     "valid": true
   },
   {
     "index": 854,
-    "Name": "Bogus Creek-Klamath River",
+    "NAME": "Bogus Creek-Klamath River",
     "value": -91.98508460858137,
     "valid": true
   },
   {
     "index": 855,
-    "Name": "Humbug Creek-Klamath River",
+    "NAME": "Humbug Creek-Klamath River",
     "value": -95.5792309099261,
     "valid": true
   },
   {
     "index": 856,
-    "Name": "Beaver Creek",
+    "NAME": "Beaver Creek",
     "value": -60.45342857244934,
     "valid": true
   },
   {
     "index": 857,
-    "Name": "Horse Creek-Klamath River",
+    "NAME": "Horse Creek-Klamath River",
     "value": -91.45511487912567,
     "valid": true
   },
   {
     "index": 858,
-    "Name": "Seiad Creek-Klamath River",
+    "NAME": "Seiad Creek-Klamath River",
     "value": -85.9087674519688,
     "valid": true
   },
   {
     "index": 859,
-    "Name": "Lake Shastina-Shasta River",
+    "NAME": "Lake Shastina-Shasta River",
     "value": -86.94617482848484,
     "valid": true
   },
   {
     "index": 860,
-    "Name": "Willow Creek",
+    "NAME": "Willow Creek",
     "value": -94.40711867066136,
     "valid": true
   },
   {
     "index": 861,
-    "Name": "Little Shasta River",
+    "NAME": "Little Shasta River",
     "value": -88.76877845976333,
     "valid": true
   },
   {
     "index": 862,
-    "Name": "Parks Creek-Shasta River",
-    "value": -89.19417219068538,
+    "NAME": "Parks Creek-Shasta River",
+    "value": -89.19417219068539,
     "valid": true
   },
   {
     "index": 863,
-    "Name": "East Fork Scott River",
-    "value": -87.95533163802887,
+    "NAME": "East Fork Scott River",
+    "value": -87.95533163802885,
     "valid": true
   },
   {
     "index": 864,
-    "Name": "French Creek-Scott River",
+    "NAME": "French Creek-Scott River",
     "value": -86.67188359218831,
     "valid": true
   },
   {
     "index": 865,
-    "Name": "Moffett Creek",
+    "NAME": "Moffett Creek",
     "value": -95.48464608081625,
     "valid": true
   },
   {
     "index": 866,
-    "Name": "Kidder Creek-Scott River",
-    "value": -90.97891558212768,
+    "NAME": "Kidder Creek-Scott River",
+    "value": -90.97891558212767,
     "valid": true
   },
   {
     "index": 867,
-    "Name": "Monte Cristo Valley",
+    "NAME": "Monte Cristo Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 868,
-    "Name": "Soda Spring Valley",
+    "NAME": "Soda Spring Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 869,
-    "Name": "Garfield Flat",
+    "NAME": "Garfield Flat",
     "value": 0,
     "valid": true
   },
   {
     "index": 870,
-    "Name": "Rhodes Salt Marsh",
+    "NAME": "Rhodes Salt Marsh",
     "value": 0,
     "valid": true
   },
   {
     "index": 871,
-    "Name": "Columbia Valley",
+    "NAME": "Columbia Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 872,
-    "Name": "Teels Marsh Valley",
-    "value": -0.392436880160523,
+    "NAME": "Teels Marsh Valley",
+    "value": -0.39243688016052314,
     "valid": true
   },
   {
     "index": 873,
-    "Name": "Argentite Canyon-Frontal Fish Lake Valley",
+    "NAME": "Argentite Canyon-Frontal Fish Lake Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 874,
-    "Name": "Indian Creek-Scott River",
-    "value": -91.1145403621739,
+    "NAME": "Indian Creek-Scott River",
+    "value": -91.11454036217391,
     "valid": true
   },
   {
     "index": 875,
-    "Name": "Canyon Creek-Scott River",
-    "value": -84.81681937499086,
+    "NAME": "Canyon Creek-Scott River",
+    "value": -84.81681937499084,
     "valid": true
   },
   {
     "index": 876,
-    "Name": "Indian Creek",
-    "value": -83.439659294351,
+    "NAME": "Indian Creek",
+    "value": -83.43965929435102,
     "valid": true
   },
   {
     "index": 877,
-    "Name": "Thompson Creek-Klamath River",
-    "value": -87.26480514265475,
+    "NAME": "Thompson Creek-Klamath River",
+    "value": -87.26480514265477,
     "valid": true
   },
   {
     "index": 878,
-    "Name": "Elk Creek",
-    "value": -79.62048929961124,
+    "NAME": "Elk Creek",
+    "value": -79.62048929961125,
     "valid": true
   },
   {
     "index": 879,
-    "Name": "Clear Creek",
-    "value": -84.5234393265913,
+    "NAME": "Clear Creek",
+    "value": -84.52343932659129,
     "valid": true
   },
   {
     "index": 880,
-    "Name": "Dillon Creek",
-    "value": -89.38510366130099,
+    "NAME": "Dillon Creek",
+    "value": -89.38510366130096,
     "valid": true
   },
   {
     "index": 881,
-    "Name": "Ukonom Creek-Klamath River",
-    "value": -87.56402730181406,
+    "NAME": "Ukonom Creek-Klamath River",
+    "value": -87.56402730181408,
     "valid": true
   },
   {
     "index": 882,
-    "Name": "Rock Creek-Klamath River",
-    "value": -91.13692073158589,
+    "NAME": "Rock Creek-Klamath River",
+    "value": -91.13692073158587,
     "valid": true
   },
   {
     "index": 883,
-    "Name": "Bluff Creek-Klamath River",
-    "value": -89.83871915316628,
+    "NAME": "Bluff Creek-Klamath River",
+    "value": -89.83871915316625,
     "valid": true
   },
   {
     "index": 884,
-    "Name": "Blue Creek",
+    "NAME": "Blue Creek",
     "value": -91.31452135277027,
     "valid": true
   },
   {
     "index": 885,
-    "Name": "Tectah Creek-Klamath River",
-    "value": -86.34271135566614,
+    "NAME": "Tectah Creek-Klamath River",
+    "value": -86.34271135566613,
     "valid": true
   },
   {
     "index": 886,
-    "Name": "Turwar Creek-Klamath River",
-    "value": -40.71983068220042,
+    "NAME": "Turwar Creek-Klamath River",
+    "value": -40.719830682200424,
     "valid": true
   },
   {
     "index": 887,
-    "Name": "South Fork Salmon River",
+    "NAME": "South Fork Salmon River",
     "value": -85.19095214247844,
     "valid": true
   },
   {
     "index": 888,
-    "Name": "North Fork Salmon River",
-    "value": -86.74941846770379,
+    "NAME": "North Fork Salmon River",
+    "value": -86.74941846770376,
     "valid": true
   },
   {
     "index": 889,
-    "Name": "Wooley Creek",
-    "value": -82.88136978270302,
+    "NAME": "Wooley Creek",
+    "value": -82.881369782703,
     "valid": true
   },
   {
     "index": 890,
-    "Name": "Salmon River",
-    "value": -89.02270608395482,
+    "NAME": "Salmon River",
+    "value": -89.0227060839548,
     "valid": true
   },
   {
     "index": 891,
-    "Name": "Coffee Creek",
-    "value": -75.94506417669248,
+    "NAME": "Coffee Creek",
+    "value": -75.9450641766925,
     "valid": true
   },
   {
     "index": 892,
-    "Name": "Tangle Blue Creek-Trinity River",
+    "NAME": "Tangle Blue Creek-Trinity River",
     "value": -83.54627171096429,
     "valid": true
   },
   {
     "index": 893,
-    "Name": "East Fork Trinity River",
+    "NAME": "East Fork Trinity River",
     "value": -85.5391027171667,
     "valid": true
   },
   {
     "index": 894,
-    "Name": "Stuart Fork",
+    "NAME": "Stuart Fork",
     "value": -77.65051145033635,
     "valid": true
   },
   {
     "index": 895,
-    "Name": "Swift Creek-Trinity River",
+    "NAME": "Swift Creek-Trinity River",
     "value": -85.61063615302228,
     "valid": true
   },
   {
     "index": 896,
-    "Name": "Browns Creek",
+    "NAME": "Browns Creek",
     "value": -92.39069797655164,
     "valid": true
   },
   {
     "index": 897,
-    "Name": "Weaver Creek-Trinity River",
+    "NAME": "Weaver Creek-Trinity River",
     "value": -91.40405495747558,
     "valid": true
   },
   {
     "index": 898,
-    "Name": "Canyon Creek",
+    "NAME": "Canyon Creek",
     "value": -79.25015267578821,
     "valid": true
   },
   {
     "index": 899,
-    "Name": "North Fork Trinity River",
+    "NAME": "North Fork Trinity River",
     "value": -85.67355191316068,
     "valid": true
   },
   {
     "index": 900,
-    "Name": "New River",
+    "NAME": "New River",
     "value": -91.14557137419537,
     "valid": true
   },
   {
     "index": 901,
-    "Name": "Big French Creek-Trinity River",
-    "value": -92.01416992358813,
+    "NAME": "Big French Creek-Trinity River",
+    "value": -92.01416992358811,
     "valid": true
   },
   {
     "index": 902,
-    "Name": "Horse Linto Creek-Trinity River",
+    "NAME": "Horse Linto Creek-Trinity River",
     "value": -92.14008456057428,
     "valid": true
   },
   {
     "index": 903,
-    "Name": "Upper South Fork Trinity River",
+    "NAME": "Upper South Fork Trinity River",
     "value": -86.28742318710212,
     "valid": true
   },
   {
     "index": 904,
-    "Name": "Upper Hayfork Creek",
-    "value": -92.46716287452017,
+    "NAME": "Upper Hayfork Creek",
+    "value": -92.4671628745202,
     "valid": true
   },
   {
     "index": 905,
-    "Name": "Lower Hayfork Creek",
-    "value": -92.42439524280728,
+    "NAME": "Lower Hayfork Creek",
+    "value": -92.4243952428073,
     "valid": true
   },
   {
     "index": 906,
-    "Name": "Middle South Fork Trinity River",
+    "NAME": "Middle South Fork Trinity River",
     "value": -91.89418922931378,
     "valid": true
   },
   {
     "index": 907,
-    "Name": "Lower South Fork Trinity River",
+    "NAME": "Lower South Fork Trinity River",
     "value": -92.78372290497413,
     "valid": true
   },
   {
     "index": 908,
-    "Name": "Jess Valley-South Fork Pit River",
-    "value": -76.50866634810242,
+    "NAME": "Jess Valley-South Fork Pit River",
+    "value": -76.50866634810241,
     "valid": true
   },
   {
     "index": 909,
-    "Name": "Cedar Creek",
+    "NAME": "Cedar Creek",
     "value": -81.81059556081208,
     "valid": true
   },
   {
     "index": 910,
-    "Name": "Dry Creek-South Fork Pit River",
+    "NAME": "Dry Creek-South Fork Pit River",
     "value": -83.40511781039591,
     "valid": true
   },
   {
     "index": 911,
-    "Name": "Pine Creek-South Fork Pit River",
-    "value": -80.93047715707591,
+    "NAME": "Pine Creek-South Fork Pit River",
+    "value": -80.93047715707593,
     "valid": true
   },
   {
     "index": 912,
-    "Name": "Parker Creek",
-    "value": -85.19041888237194,
+    "NAME": "Parker Creek",
+    "value": -85.19041888237193,
     "valid": true
   },
   {
     "index": 913,
-    "Name": "North Fork Pit River",
-    "value": -84.56386882510063,
+    "NAME": "North Fork Pit River",
+    "value": -84.56386882510061,
     "valid": true
   },
   {
     "index": 914,
-    "Name": "Big Sage Reservoir-Rattlesnake Creek",
+    "NAME": "Big Sage Reservoir-Rattlesnake Creek",
     "value": -84.42102418454266,
     "valid": true
   },
   {
     "index": 915,
-    "Name": "Canyon Creek",
-    "value": -84.88843708043383,
+    "NAME": "Canyon Creek",
+    "value": -84.88843708043382,
     "valid": true
   },
   {
     "index": 916,
-    "Name": "Warm Springs Valley-Pit River",
-    "value": -82.26251281345259,
+    "NAME": "Warm Springs Valley-Pit River",
+    "value": -82.26251281345257,
     "valid": true
   },
   {
     "index": 917,
-    "Name": "Clover Swale Creek",
+    "NAME": "Clover Swale Creek",
     "value": -85.14215866901057,
     "valid": true
   },
   {
     "index": 918,
-    "Name": "Turner Creek",
+    "NAME": "Turner Creek",
     "value": -88.82174039697344,
     "valid": true
   },
   {
     "index": 919,
-    "Name": "Blacks Canyon-Pit River",
+    "NAME": "Blacks Canyon-Pit River",
     "value": -88.10504821560723,
     "valid": true
   },
   {
     "index": 920,
-    "Name": "Taylor Reservoir",
+    "NAME": "Taylor Reservoir",
     "value": -90.21083706160151,
     "valid": true
   },
   {
     "index": 921,
-    "Name": "Cottonwood Creek-Ash Creek",
-    "value": -83.95721889830675,
+    "NAME": "Cottonwood Creek-Ash Creek",
+    "value": -83.95721889830676,
     "valid": true
   },
   {
     "index": 922,
-    "Name": "Rush Creek-Ash Creek",
+    "NAME": "Rush Creek-Ash Creek",
     "value": -85.93085564726752,
     "valid": true
   },
   {
     "index": 923,
-    "Name": "Willow Creek",
-    "value": -86.68230245583221,
+    "NAME": "Willow Creek",
+    "value": -86.68230245583223,
     "valid": true
   },
   {
     "index": 924,
-    "Name": "Butte Creek-Ash Creek",
+    "NAME": "Butte Creek-Ash Creek",
     "value": -82.35644880911562,
     "valid": true
   },
   {
     "index": 925,
-    "Name": "Juniper Creek",
-    "value": -86.31651751524713,
+    "NAME": "Juniper Creek",
+    "value": -86.31651751524714,
     "valid": true
   },
   {
     "index": 926,
-    "Name": "Widow Valley Creek-Pit River",
-    "value": -87.91620131301644,
+    "NAME": "Widow Valley Creek-Pit River",
+    "value": -87.91620131301646,
     "valid": true
   },
   {
     "index": 927,
-    "Name": "Horse Creek",
+    "NAME": "Horse Creek",
     "value": -88.06715574644805,
     "valid": true
   },
   {
     "index": 928,
-    "Name": "Beaver Creek",
-    "value": -89.68766126514426,
+    "NAME": "Beaver Creek",
+    "value": -89.68766126514424,
     "valid": true
   },
   {
     "index": 929,
-    "Name": "Medicine Lake-Paynes Creek",
+    "NAME": "Medicine Lake-Paynes Creek",
     "value": -88.26481539082013,
     "valid": true
   },
   {
     "index": 930,
-    "Name": "Bear Creek",
+    "NAME": "Bear Creek",
     "value": -91.26516254005985,
     "valid": true
   },
   {
     "index": 931,
-    "Name": "Fall River",
+    "NAME": "Fall River",
     "value": -92.90109031196917,
     "valid": true
   },
   {
     "index": 932,
-    "Name": "Butte Creek-Lost Creek",
+    "NAME": "Butte Creek-Lost Creek",
     "value": -84.18924198334052,
     "valid": true
   },
   {
     "index": 933,
-    "Name": "Hat Creek",
+    "NAME": "Hat Creek",
     "value": -85.21137503148458,
     "valid": true
   },
   {
     "index": 934,
-    "Name": "Town of Pittville-Pit River",
+    "NAME": "Town of Pittville-Pit River",
     "value": -90.64911724193435,
     "valid": true
   },
   {
     "index": 935,
-    "Name": "Burney Creek",
+    "NAME": "Burney Creek",
     "value": -90.77770405838292,
     "valid": true
   },
   {
     "index": 936,
-    "Name": "Kosk Creek-Pit River",
+    "NAME": "Kosk Creek-Pit River",
     "value": -91.6845458401985,
     "valid": true
   },
   {
     "index": 937,
-    "Name": "Roaring Creek-Pit River",
+    "NAME": "Roaring Creek-Pit River",
     "value": -91.2055957984926,
     "valid": true
   },
   {
     "index": 938,
-    "Name": "Squaw Creek",
-    "value": -84.51679932103612,
+    "NAME": "Squaw Creek",
+    "value": -84.51679932103609,
     "valid": true
   },
   {
     "index": 939,
-    "Name": "Pit River Arm-Shasta Lake",
+    "NAME": "Pit River Arm-Shasta Lake",
     "value": -64.51170580489747,
     "valid": true
   },
   {
     "index": 940,
-    "Name": "Ash Creek",
+    "NAME": "Ash Creek",
     "value": -82.98973092799893,
     "valid": true
   },
   {
     "index": 941,
-    "Name": "Mud Creek-McCloud River",
+    "NAME": "Mud Creek-McCloud River",
     "value": -89.27828539302206,
     "valid": true
   },
   {
     "index": 942,
-    "Name": "Squaw Valley Creek",
+    "NAME": "Squaw Valley Creek",
     "value": -85.92655619246906,
     "valid": true
   },
   {
     "index": 943,
-    "Name": "Claiborne Creek-McCloud River",
+    "NAME": "Claiborne Creek-McCloud River",
     "value": -91.06422061820174,
     "valid": true
   },
   {
     "index": 944,
-    "Name": "McCloud River Arm-Shasta Lake",
-    "value": -86.78504125720552,
+    "NAME": "McCloud River Arm-Shasta Lake",
+    "value": -86.7850412572055,
     "valid": true
   },
   {
     "index": 945,
-    "Name": "Wagon Creek-Sacramento River",
+    "NAME": "Wagon Creek-Sacramento River",
     "value": -81.55877625922666,
     "valid": true
   },
   {
     "index": 946,
-    "Name": "Castle Creek-Sacramento River",
-    "value": -88.5928372117054,
+    "NAME": "Castle Creek-Sacramento River",
+    "value": -88.59283721170542,
     "valid": true
   },
   {
     "index": 947,
-    "Name": "Slate Creek-Sacramento River",
+    "NAME": "Slate Creek-Sacramento River",
     "value": -88.94567744946437,
     "valid": true
   },
   {
     "index": 948,
-    "Name": "Sacramento River Arm-Shasta Lake",
-    "value": -74.84083793935262,
+    "NAME": "Sacramento River Arm-Shasta Lake",
+    "value": -74.84083793935264,
     "valid": true
   },
   {
     "index": 949,
-    "Name": "South Fork Willow Creek",
-    "value": -1.2913035070417826,
+    "NAME": "South Fork Willow Creek",
+    "value": -1.2913035070417818,
     "valid": true
   },
   {
     "index": 950,
-    "Name": "Walker Creek",
+    "NAME": "Walker Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 951,
-    "Name": "Willow Creek",
+    "NAME": "Willow Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 952,
-    "Name": "Colusa Drain",
+    "NAME": "Colusa Drain",
     "value": 0,
     "valid": true
   },
   {
     "index": 953,
-    "Name": "Logan Creek",
+    "NAME": "Logan Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 954,
-    "Name": "Stone Corral Creek",
+    "NAME": "Stone Corral Creek",
     "value": -2.9799829893806313,
     "valid": true
   },
   {
     "index": 955,
-    "Name": "Freshwater Creek",
-    "value": -3.3827223936852455,
+    "NAME": "Freshwater Creek",
+    "value": -3.3827223936852437,
     "valid": true
   },
   {
     "index": 956,
-    "Name": "Colusa Trough",
+    "NAME": "Colusa Trough",
     "value": -0.12183136141221336,
     "valid": true
   },
   {
     "index": 957,
-    "Name": "Sycamore Slough",
+    "NAME": "Sycamore Slough",
     "value": 0,
     "valid": true
   },
   {
     "index": 958,
-    "Name": "Sutter Basin",
+    "NAME": "Sutter Basin",
     "value": 0,
     "valid": true
   },
   {
     "index": 959,
-    "Name": "Sacramento River",
+    "NAME": "Sacramento River",
     "value": 0,
     "valid": true
   },
   {
     "index": 960,
-    "Name": "Dry Creek",
+    "NAME": "Dry Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 961,
-    "Name": "American River",
+    "NAME": "American River",
     "value": 0,
     "valid": true
   },
   {
     "index": 962,
-    "Name": "Steelhead Creek",
+    "NAME": "Steelhead Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 963,
-    "Name": "Little Stony Creek",
-    "value": -49.74130025396188,
+    "NAME": "Little Stony Creek",
+    "value": -49.741300253961874,
     "valid": true
   },
   {
     "index": 964,
-    "Name": "Upper Stony Creek",
-    "value": -80.38643614510444,
+    "NAME": "Upper Stony Creek",
+    "value": -80.38643614510445,
     "valid": true
   },
   {
     "index": 965,
-    "Name": "Grindstone Creek",
-    "value": -82.24041112844368,
+    "NAME": "Grindstone Creek",
+    "value": -82.2404111284437,
     "valid": true
   },
   {
     "index": 966,
-    "Name": "North Fork Stony Creek",
+    "NAME": "North Fork Stony Creek",
     "value": -28.676414425662117,
     "valid": true
   },
   {
     "index": 967,
-    "Name": "Lower Stony Creek",
+    "NAME": "Lower Stony Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 968,
-    "Name": "Scotts Creek",
-    "value": -47.19693567192267,
+    "NAME": "Scotts Creek",
+    "value": -47.19693567192265,
     "valid": true
   },
   {
     "index": 969,
-    "Name": "Middle Creek",
-    "value": -82.4130905230795,
+    "NAME": "Middle Creek",
+    "value": -82.41309052307952,
     "valid": true
   },
   {
     "index": 970,
-    "Name": "Lovell Wash",
+    "NAME": "Lovell Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 971,
-    "Name": "Goodsprings Valley-Frontal Ivanpah Lake",
+    "NAME": "Goodsprings Valley-Frontal Ivanpah Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 972,
-    "Name": "Jean Lake",
+    "NAME": "Jean Lake",
     "value": 0,
     "valid": true
   },
   {
     "index": 973,
-    "Name": "Hidden Valley",
+    "NAME": "Hidden Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 974,
-    "Name": "McCullough Spring",
+    "NAME": "McCullough Spring",
     "value": 0,
     "valid": true
   },
   {
     "index": 975,
-    "Name": "Ora Hanna Spring",
+    "NAME": "Ora Hanna Spring",
     "value": 0,
     "valid": true
   },
   {
     "index": 976,
-    "Name": "Eldorado Valley",
+    "NAME": "Eldorado Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 977,
-    "Name": "Thirsty Canyon",
+    "NAME": "Thirsty Canyon",
     "value": 0,
     "valid": true
   },
   {
     "index": 978,
-    "Name": "Beatty Wash",
+    "NAME": "Beatty Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 979,
-    "Name": "Headwaters Amargosa River",
+    "NAME": "Headwaters Amargosa River",
     "value": 0,
     "valid": true
   },
   {
     "index": 980,
-    "Name": "Crater Flat",
+    "NAME": "Crater Flat",
     "value": 0,
     "valid": true
   },
   {
     "index": 981,
-    "Name": "Upper Fortymile Canyon",
+    "NAME": "Upper Fortymile Canyon",
     "value": 0,
     "valid": true
   },
   {
     "index": 982,
-    "Name": "Middle Fortymile Canyon",
+    "NAME": "Middle Fortymile Canyon",
     "value": 0,
     "valid": true
   },
   {
     "index": 983,
-    "Name": "Kiwi Mesa",
+    "NAME": "Kiwi Mesa",
     "value": 0,
     "valid": true
   },
   {
     "index": 984,
-    "Name": "Topopah Wash",
+    "NAME": "Topopah Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 985,
-    "Name": "Mercury Valley",
+    "NAME": "Mercury Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 986,
-    "Name": "Amargosa Flat",
+    "NAME": "Amargosa Flat",
     "value": 0,
     "valid": true
   },
   {
     "index": 987,
-    "Name": "Duck Flat Wash-Frontal Duck Lake",
-    "value": -14.802613399623514,
+    "NAME": "Duck Flat Wash-Frontal Duck Lake",
+    "value": -14.802613399623516,
     "valid": true
   },
   {
     "index": 988,
-    "Name": "Duck Lake",
+    "NAME": "Duck Lake",
     "value": -0.3171755649129315,
     "valid": true
   },
   {
     "index": 989,
-    "Name": "Palmetto Wash-Frontal Fish Lake Valley",
+    "NAME": "Palmetto Wash-Frontal Fish Lake Valley",
     "value": -21.37269249849232,
     "valid": true
   },
   {
     "index": 990,
-    "Name": "McAfee Canyon-Frontal Fish Lake Valley",
+    "NAME": "McAfee Canyon-Frontal Fish Lake Valley",
     "value": 0,
     "valid": true
   },
   {
     "index": 991,
-    "Name": "Wheeler Wash",
+    "NAME": "Wheeler Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 992,
-    "Name": "Red Rock Canyon",
-    "value": -0.3637393997040599,
+    "NAME": "Red Rock Canyon",
+    "value": -0.36373939970405994,
     "valid": true
   },
   {
     "index": 993,
-    "Name": "Skedaddle Creek",
+    "NAME": "Skedaddle Creek",
     "value": -22.348725527253734,
     "valid": true
   },
   {
     "index": 994,
-    "Name": "Kelsey Creek-Clear Lake",
+    "NAME": "Kelsey Creek-Clear Lake",
     "value": -33.53877809233728,
     "valid": true
   },
   {
     "index": 995,
-    "Name": "North Fork Cache Creek",
+    "NAME": "North Fork Cache Creek",
     "value": -59.14356025693049,
     "valid": true
   },
   {
     "index": 996,
-    "Name": "Bear Creek",
-    "value": -41.20720645588597,
+    "NAME": "Bear Creek",
+    "value": -41.20720645588596,
     "valid": true
   },
   {
     "index": 997,
-    "Name": "Upper Cache Creek",
-    "value": -21.398621974561966,
+    "NAME": "Upper Cache Creek",
+    "value": -21.39862197456197,
     "valid": true
   },
   {
     "index": 998,
-    "Name": "Lower Cache Creek",
+    "NAME": "Lower Cache Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 999,
-    "Name": "Headwaters North Fork Feather River",
+    "NAME": "Headwaters North Fork Feather River",
     "value": -79.51619781300084,
     "valid": true
   },
   {
     "index": 1000,
-    "Name": "Hamilton Branch",
+    "NAME": "Hamilton Branch",
     "value": -86.54467788842518,
     "valid": true
   },
   {
     "index": 1001,
-    "Name": "Butt Creek",
-    "value": -86.96657757393453,
+    "NAME": "Butt Creek",
+    "value": -86.9665775739345,
     "valid": true
   },
   {
     "index": 1002,
-    "Name": "Upper North Fork Feather River",
+    "NAME": "Upper North Fork Feather River",
     "value": -87.1683041947463,
     "valid": true
   },
   {
     "index": 1003,
-    "Name": "Yellow Creek",
-    "value": -88.92563687624653,
+    "NAME": "Yellow Creek",
+    "value": -88.9256368762465,
     "valid": true
   },
   {
     "index": 1004,
-    "Name": "Middle North Fork Feather River",
-    "value": -88.93263444232858,
+    "NAME": "Middle North Fork Feather River",
+    "value": -88.93263444232856,
     "valid": true
   },
   {
     "index": 1005,
-    "Name": "West Branch Feather River",
+    "NAME": "West Branch Feather River",
     "value": -73.59604935830428,
     "valid": true
   },
   {
     "index": 1006,
-    "Name": "Lower North Fork Feather River",
-    "value": -67.55516829378891,
+    "NAME": "Lower North Fork Feather River",
+    "value": -67.55516829378892,
     "valid": true
   },
   {
     "index": 1007,
-    "Name": "Red Clover Creek",
-    "value": -83.38333872700598,
+    "NAME": "Red Clover Creek",
+    "value": -83.38333872700593,
     "valid": true
   },
   {
     "index": 1008,
-    "Name": "Last Chance Creek",
-    "value": -82.96392462007546,
+    "NAME": "Last Chance Creek",
+    "value": -82.96392462007547,
     "valid": true
   },
   {
     "index": 1009,
-    "Name": "Upper Indian Creek",
-    "value": -83.62300116935683,
+    "NAME": "Upper Indian Creek",
+    "value": -83.62300116935684,
     "valid": true
   },
   {
     "index": 1010,
-    "Name": "Lights Creek",
-    "value": -85.45088064445304,
+    "NAME": "Lights Creek",
+    "value": -85.45088064445301,
     "valid": true
   },
   {
     "index": 1011,
-    "Name": "Wolf Creek",
+    "NAME": "Wolf Creek",
     "value": -88.68528905714278,
     "valid": true
   },
   {
     "index": 1012,
-    "Name": "Lower Indian Creek",
-    "value": -82.85911122697634,
+    "NAME": "Lower Indian Creek",
+    "value": -82.85911122697635,
     "valid": true
   },
   {
     "index": 1013,
-    "Name": "Greenhorn Creek",
-    "value": -84.08765542651751,
+    "NAME": "Greenhorn Creek",
+    "value": -84.0876554265175,
     "valid": true
   },
   {
     "index": 1014,
-    "Name": "Spanish Creek",
-    "value": -86.80497382330861,
+    "NAME": "Spanish Creek",
+    "value": -86.80497382330863,
     "valid": true
   },
   {
     "index": 1015,
-    "Name": "East Branch North Fork Feather River",
-    "value": -88.91304921876942,
+    "NAME": "East Branch North Fork Feather River",
+    "value": -88.91304921876943,
     "valid": true
   },
   {
     "index": 1016,
-    "Name": "Little Last Chance Creek",
-    "value": -79.62488011505205,
+    "NAME": "Little Last Chance Creek",
+    "value": -79.62488011505204,
     "valid": true
   },
   {
     "index": 1017,
-    "Name": "Smithneck Creek",
-    "value": -81.7036062002505,
+    "NAME": "Smithneck Creek",
+    "value": -81.70360620025052,
     "valid": true
   },
   {
     "index": 1018,
-    "Name": "Sierra Valley",
+    "NAME": "Sierra Valley",
     "value": -80.96345166541002,
     "valid": true
   },
   {
     "index": 1019,
-    "Name": "Upper Middle Fork Feather River",
+    "NAME": "Upper Middle Fork Feather River",
     "value": -84.66292375274989,
     "valid": true
   },
   {
     "index": 1020,
-    "Name": "Middle Middle Fork Feather River",
+    "NAME": "Middle Middle Fork Feather River",
     "value": -86.17483544047957,
     "valid": true
   },
   {
     "index": 1021,
-    "Name": "South Fork Feather River",
-    "value": -75.31091254421796,
+    "NAME": "South Fork Feather River",
+    "value": -75.31091254421794,
     "valid": true
   },
   {
     "index": 1022,
-    "Name": "Lower Middle Fork Feather River",
-    "value": -75.75355933494089,
+    "NAME": "Lower Middle Fork Feather River",
+    "value": -75.75355933494087,
     "valid": true
   },
   {
     "index": 1023,
-    "Name": "Downie River",
+    "NAME": "Downie River",
     "value": -85.82426002585954,
     "valid": true
   },
   {
     "index": 1024,
-    "Name": "Upper North Yuba River",
-    "value": -82.00933888906023,
+    "NAME": "Upper North Yuba River",
+    "value": -82.00933888906022,
     "valid": true
   },
   {
     "index": 1025,
-    "Name": "Middle North Yuba River",
+    "NAME": "Middle North Yuba River",
     "value": -91.9765669794842,
     "valid": true
   },
   {
     "index": 1026,
-    "Name": "Lower North Yuba River",
+    "NAME": "Lower North Yuba River",
     "value": -88.4758222200685,
     "valid": true
   },
   {
     "index": 1027,
-    "Name": "Middle Yuba River",
-    "value": -79.79709480204006,
+    "NAME": "Middle Yuba River",
+    "value": -79.79709480204005,
     "valid": true
   },
   {
     "index": 1028,
-    "Name": "Upper South Yuba River",
-    "value": -78.07595307331921,
+    "NAME": "Upper South Yuba River",
+    "value": -78.0759530733192,
     "valid": true
   },
   {
     "index": 1029,
-    "Name": "Lower South Yuba River",
+    "NAME": "Lower South Yuba River",
     "value": -66.37320790260462,
     "valid": true
   },
   {
     "index": 1030,
-    "Name": "Deer Creek",
+    "NAME": "Deer Creek",
     "value": -45.797090096082115,
     "valid": true
   },
   {
     "index": 1031,
-    "Name": "Dry Creek",
-    "value": -33.54201828905278,
+    "NAME": "Dry Creek",
+    "value": -33.542018289052784,
     "valid": true
   },
   {
     "index": 1032,
-    "Name": "Yuba River",
+    "NAME": "Yuba River",
     "value": -3.10663736251676,
     "valid": true
   },
   {
     "index": 1033,
-    "Name": "Upper Bear River",
+    "NAME": "Upper Bear River",
     "value": -85.21911889367499,
     "valid": true
   },
   {
     "index": 1034,
-    "Name": "Wolf Creek",
-    "value": -20.298325709236337,
+    "NAME": "Wolf Creek",
+    "value": -20.29832570923633,
     "valid": true
   },
   {
     "index": 1035,
-    "Name": "Middle Bear River",
-    "value": -2.778655597829556,
+    "NAME": "Middle Bear River",
+    "value": -2.778655597829552,
     "valid": true
   },
   {
     "index": 1036,
-    "Name": "Dry Creek",
+    "NAME": "Dry Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 1037,
-    "Name": "Lower Bear River",
+    "NAME": "Lower Bear River",
     "value": 0,
     "valid": true
   },
   {
     "index": 1038,
-    "Name": "Upper North Fork American River",
+    "NAME": "Upper North Fork American River",
     "value": -77.34651817969129,
     "valid": true
   },
   {
     "index": 1039,
-    "Name": "Rubicon River",
+    "NAME": "Rubicon River",
     "value": -82.84983182817108,
     "valid": true
   },
   {
     "index": 1040,
-    "Name": "Upper Middle Fork American River",
+    "NAME": "Upper Middle Fork American River",
     "value": -83.45182315568292,
     "valid": true
   },
   {
     "index": 1041,
-    "Name": "North Fork Middle Fork American River",
-    "value": -86.08956911734212,
+    "NAME": "North Fork Middle Fork American River",
+    "value": -86.08956911734211,
     "valid": true
   },
   {
     "index": 1042,
-    "Name": "Lower Middle Fork American River",
-    "value": -36.96941208965245,
+    "NAME": "Lower Middle Fork American River",
+    "value": -36.969412089652444,
     "valid": true
   },
   {
     "index": 1043,
-    "Name": "Lower North Fork American River",
-    "value": -31.0134157844118,
+    "NAME": "Lower North Fork American River",
+    "value": -31.013415784411805,
     "valid": true
   },
   {
     "index": 1044,
-    "Name": "Silver Fork American River",
-    "value": -78.12192123848297,
+    "NAME": "Silver Fork American River",
+    "value": -78.12192123848295,
     "valid": true
   },
   {
     "index": 1045,
-    "Name": "Silver Creek",
+    "NAME": "Silver Creek",
     "value": -84.61480965778962,
     "valid": true
   },
   {
     "index": 1046,
-    "Name": "Upper South Fork American River",
-    "value": -82.95731263221512,
+    "NAME": "Upper South Fork American River",
+    "value": -82.95731263221514,
     "valid": true
   },
   {
     "index": 1047,
-    "Name": "Rock Creek",
+    "NAME": "Rock Creek",
     "value": -58.26883133114655,
     "valid": true
   },
   {
     "index": 1048,
-    "Name": "Middle South Fork American River",
-    "value": -52.44170343851411,
+    "NAME": "Middle South Fork American River",
+    "value": -52.441703438514104,
     "valid": true
   },
   {
     "index": 1049,
-    "Name": "Weber Creek",
-    "value": -20.779613646199994,
+    "NAME": "Weber Creek",
+    "value": -20.779613646199987,
     "valid": true
   },
   {
     "index": 1050,
-    "Name": "Lower South Fork American River",
+    "NAME": "Lower South Fork American River",
     "value": 0,
     "valid": true
   },
   {
     "index": 1051,
-    "Name": "Old Cow Creek",
-    "value": -74.28778487870068,
+    "NAME": "Old Cow Creek",
+    "value": -74.28778487870066,
     "valid": true
   },
   {
     "index": 1052,
-    "Name": "South Cow Creek",
+    "NAME": "South Cow Creek",
     "value": -69.56842691980252,
     "valid": true
   },
   {
     "index": 1053,
-    "Name": "Little Cow Creek",
+    "NAME": "Little Cow Creek",
     "value": -39.514732654366405,
     "valid": true
   },
   {
     "index": 1054,
-    "Name": "Cow Creek",
-    "value": -36.511872869801465,
+    "NAME": "Cow Creek",
+    "value": -36.51187286980148,
     "valid": true
   },
   {
     "index": 1055,
-    "Name": "Beegum Creek",
-    "value": -87.68971817435961,
+    "NAME": "Beegum Creek",
+    "value": -87.6897181743596,
     "valid": true
   },
   {
     "index": 1056,
-    "Name": "Middle Fork Cottonwood Creek",
+    "NAME": "Middle Fork Cottonwood Creek",
     "value": -59.64137399743159,
     "valid": true
   },
   {
     "index": 1057,
-    "Name": "North Fork Cottonwood Creek",
+    "NAME": "North Fork Cottonwood Creek",
     "value": -47.499078330497476,
     "valid": true
   },
   {
     "index": 1058,
-    "Name": "Upper South Fork Cottonwood Creek",
-    "value": -82.73923845031582,
+    "NAME": "Upper South Fork Cottonwood Creek",
+    "value": -82.73923845031585,
     "valid": true
   },
   {
     "index": 1059,
-    "Name": "Cold Fork",
-    "value": -55.786255484458835,
+    "NAME": "Cold Fork",
+    "value": -55.78625548445884,
     "valid": true
   },
   {
     "index": 1060,
-    "Name": "Dry Creek",
+    "NAME": "Dry Creek",
     "value": -49.3297343850187,
     "valid": true
   },
   {
     "index": 1061,
-    "Name": "Lower South Fork Cottonwood Creek",
-    "value": -15.773974633167196,
+    "NAME": "Lower South Fork Cottonwood Creek",
+    "value": -15.773974633167187,
     "valid": true
   },
   {
     "index": 1062,
-    "Name": "Cottonwood Creek",
-    "value": -0.6321826783708886,
+    "NAME": "Cottonwood Creek",
+    "value": -0.6321826783708887,
     "valid": true
   },
   {
     "index": 1063,
-    "Name": "North Fork Battle Creek",
-    "value": -81.27125611311543,
+    "NAME": "North Fork Battle Creek",
+    "value": -81.27125611311544,
     "valid": true
   },
   {
     "index": 1064,
-    "Name": "South Fork Battle Creek",
-    "value": -82.29486952113648,
+    "NAME": "South Fork Battle Creek",
+    "value": -82.29486952113649,
     "valid": true
   },
   {
     "index": 1065,
-    "Name": "Battle Creek",
-    "value": -24.30043822239542,
+    "NAME": "Battle Creek",
+    "value": -24.300438222395414,
     "valid": true
   },
   {
     "index": 1066,
-    "Name": "Clear Creek",
+    "NAME": "Clear Creek",
     "value": -79.6100734348191,
     "valid": true
   },
   {
     "index": 1067,
-    "Name": "Stillwater Creek",
-    "value": -0.05990500831021967,
+    "NAME": "Stillwater Creek",
+    "value": -0.05990500831021965,
     "valid": true
   },
   {
     "index": 1068,
-    "Name": "Churn Creek-Sacramento River",
+    "NAME": "Churn Creek-Sacramento River",
     "value": -11.701451655208555,
     "valid": true
   },
   {
     "index": 1069,
-    "Name": "Bear Creek",
-    "value": -51.952159017970196,
+    "NAME": "Bear Creek",
+    "value": -51.95215901797019,
     "valid": true
   },
   {
     "index": 1070,
-    "Name": "Ash Creek-Sacramento River",
-    "value": -5.781363446019175,
+    "NAME": "Ash Creek-Sacramento River",
+    "value": -5.781363446019173,
     "valid": true
   },
   {
     "index": 1071,
-    "Name": "Paynes Creek",
-    "value": -54.88479847873452,
+    "NAME": "Paynes Creek",
+    "value": -54.88479847873451,
     "valid": true
   },
   {
     "index": 1072,
-    "Name": "Reeds Creek",
+    "NAME": "Reeds Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 1073,
-    "Name": "Red Bank Creek",
+    "NAME": "Red Bank Creek",
     "value": -16.466456434389634,
     "valid": true
   },
   {
     "index": 1074,
-    "Name": "Dibble Creek-Sacramento River",
+    "NAME": "Dibble Creek-Sacramento River",
     "value": 0,
     "valid": true
   },
   {
     "index": 1075,
-    "Name": "Antelope Creek",
+    "NAME": "Antelope Creek",
     "value": -56.422841584389616,
     "valid": true
   },
   {
     "index": 1076,
-    "Name": "Elder Creek",
+    "NAME": "Elder Creek",
     "value": -40.047303452001906,
     "valid": true
   },
   {
     "index": 1077,
-    "Name": "Mill Creek",
+    "NAME": "Mill Creek",
     "value": -77.60857423163827,
     "valid": true
   },
   {
     "index": 1078,
-    "Name": "Upper Thomes Creek",
+    "NAME": "Upper Thomes Creek",
     "value": -84.99422018433987,
     "valid": true
   },
   {
     "index": 1079,
-    "Name": "Lower Thomes Creek",
-    "value": -3.0920250312893005,
+    "NAME": "Lower Thomes Creek",
+    "value": -3.0920250312893,
     "valid": true
   },
   {
     "index": 1080,
-    "Name": "Toomes Creek",
+    "NAME": "Toomes Creek",
     "value": -34.878214270803824,
     "valid": true
   },
   {
     "index": 1081,
-    "Name": "Deer Creek",
-    "value": -81.10838682704531,
+    "NAME": "Deer Creek",
+    "value": -81.10838682704532,
     "valid": true
   },
   {
     "index": 1082,
-    "Name": "Burch Creek",
+    "NAME": "Burch Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 1083,
-    "Name": "Pine Creek",
-    "value": -15.87085235761464,
+    "NAME": "Pine Creek",
+    "value": -15.870852357614638,
     "valid": true
   },
   {
     "index": 1084,
-    "Name": "Big Chico Creek",
-    "value": -68.13015492658295,
+    "NAME": "Big Chico Creek",
+    "value": -68.13015492658292,
     "valid": true
   },
   {
     "index": 1085,
-    "Name": "Mud Creek",
-    "value": -12.285338054712238,
+    "NAME": "Mud Creek",
+    "value": -12.285338054712234,
     "valid": true
   },
   {
     "index": 1086,
-    "Name": "Jewett Creek-Sacramento River",
+    "NAME": "Jewett Creek-Sacramento River",
     "value": 0,
     "valid": true
   },
   {
     "index": 1087,
-    "Name": "Upper Butte Creek",
-    "value": -88.54626302663911,
+    "NAME": "Upper Butte Creek",
+    "value": -88.5462630266391,
     "valid": true
   },
   {
     "index": 1088,
-    "Name": "Angel Slough",
+    "NAME": "Angel Slough",
     "value": -4.5895995425145095,
     "valid": true
   },
   {
     "index": 1089,
-    "Name": "Lower Butte Creek",
-    "value": -0.8470644688420993,
+    "NAME": "Lower Butte Creek",
+    "value": -0.8470644688421001,
     "valid": true
   },
   {
     "index": 1090,
-    "Name": "Picacho Wash-Colorado River",
+    "NAME": "Picacho Wash-Colorado River",
     "value": 0,
     "valid": true
   },
   {
     "index": 1091,
-    "Name": null,
+    "NAME": null,
     "value": 0,
     "valid": true
   },
   {
     "index": 1092,
-    "Name": "Upper Cottonwood Creek",
-    "value": -43.46650367983722,
+    "NAME": "Upper Cottonwood Creek",
+    "value": -43.46650367983723,
     "valid": true
   },
   {
     "index": 1093,
-    "Name": "Middle Cottonwood Creek",
+    "NAME": "Middle Cottonwood Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 1094,
-    "Name": "Vallecito Creek",
-    "value": -21.028676342226003,
+    "NAME": "Vallecito Creek",
+    "value": -21.028676342225996,
     "valid": true
   },
   {
     "index": 1095,
-    "Name": "Upper Carrizo Creek",
-    "value": -5.082459287856851,
+    "NAME": "Upper Carrizo Creek",
+    "value": -5.0824592878568495,
     "valid": true
   },
   {
     "index": 1096,
-    "Name": "Lower Carrizo Creek",
+    "NAME": "Lower Carrizo Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 1097,
-    "Name": "Indain Wash-American Girl Wash",
+    "NAME": "Indain Wash-American Girl Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 1098,
-    "Name": "Algodones Dunes-Chocolate Mountain",
+    "NAME": "Algodones Dunes-Chocolate Mountain",
     "value": 0,
     "valid": true
   },
   {
     "index": 1099,
-    "Name": "Deer Peak",
+    "NAME": "Deer Peak",
     "value": 0,
     "valid": true
   },
   {
     "index": 1100,
-    "Name": "Pinkham Wash-Box Canyon Wash",
+    "NAME": "Pinkham Wash-Box Canyon Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 1101,
-    "Name": "Salt Creek",
+    "NAME": "Salt Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 1102,
-    "Name": "Hidden Springs Canyon-Frontal Salton Sea",
+    "NAME": "Hidden Springs Canyon-Frontal Salton Sea",
     "value": 0,
     "valid": true
   },
   {
     "index": 1103,
-    "Name": "Imperial Valley-Frontal Salton Sea",
+    "NAME": "Imperial Valley-Frontal Salton Sea",
     "value": 0,
     "valid": true
   },
   {
     "index": 1104,
-    "Name": "Superstition Hills-Frontal Salton Sea",
+    "NAME": "Superstition Hills-Frontal Salton Sea",
     "value": 0,
     "valid": true
   },
   {
     "index": 1105,
-    "Name": "Arroyo Salada-Frontal Salton Sea",
-    "value": -3.536288820602862,
+    "NAME": "Arroyo Salada-Frontal Salton Sea",
+    "value": -3.536288820602859,
     "valid": true
   },
   {
     "index": 1106,
-    "Name": "Salton Sea",
+    "NAME": "Salton Sea",
     "value": 0,
     "valid": true
   },
   {
     "index": 1107,
-    "Name": "Tecate Creek",
-    "value": -3.54532493260975,
+    "NAME": "Tecate Creek",
+    "value": -3.545324932609751,
     "valid": true
   },
   {
     "index": 1108,
-    "Name": null,
+    "NAME": null,
     "value": 0,
     "valid": true
   },
   {
     "index": 1109,
-    "Name": "Coyote Wash",
+    "NAME": "Coyote Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 1110,
-    "Name": "New River",
+    "NAME": "New River",
     "value": 0,
     "valid": true
   },
   {
     "index": 1111,
-    "Name": "Lower Rio De Las Palmas",
+    "NAME": "Lower Rio De Las Palmas",
     "value": 0,
     "valid": true
   },
   {
     "index": 1112,
-    "Name": "Arroyo De La Cienaga",
+    "NAME": "Arroyo De La Cienaga",
     "value": 0,
     "valid": true
   },
   {
     "index": 1113,
-    "Name": "Arroyo Seco",
+    "NAME": "Arroyo Seco",
     "value": 0,
     "valid": true
   },
   {
     "index": 1114,
-    "Name": "Lower Cottonwood Creek",
+    "NAME": "Lower Cottonwood Creek",
     "value": 0,
     "valid": true
   },
   {
     "index": 1115,
-    "Name": "Arroyo Florido",
+    "NAME": "Arroyo Florido",
     "value": 0,
     "valid": true
   },
   {
     "index": 1116,
-    "Name": "Tijuana River-Frontal Pacific Ocean",
+    "NAME": "Tijuana River-Frontal Pacific Ocean",
     "value": 0,
     "valid": true
   },
   {
     "index": 1117,
-    "Name": "Upper Rio De Las Palmas",
+    "NAME": "Upper Rio De Las Palmas",
     "value": 0,
     "valid": true
   },
   {
     "index": 1118,
-    "Name": "El Beltran",
+    "NAME": "El Beltran",
     "value": 0,
     "valid": true
   },
   {
     "index": 1119,
-    "Name": "Arroyo De Las Calabazas",
+    "NAME": "Arroyo De Las Calabazas",
     "value": 0,
     "valid": true
   },
   {
     "index": 1120,
-    "Name": "Mesa Andrade",
+    "NAME": "Mesa Andrade",
     "value": 0,
     "valid": true
   },
   {
     "index": 1121,
-    "Name": "Algodones Dunes",
+    "NAME": "Algodones Dunes",
     "value": 0,
     "valid": true
   },
   {
     "index": 1122,
-    "Name": "Alamo River",
+    "NAME": "Alamo River",
     "value": 0,
     "valid": true
   },
   {
     "index": 1123,
-    "Name": "Pinto Wash",
+    "NAME": "Pinto Wash",
     "value": 0,
     "valid": true
   },
   {
     "index": 1124,
-    "Name": "1503010702-Colorado River",
+    "NAME": "1503010702-Colorado River",
     "value": 0,
     "valid": true
   },
   {
     "index": 1125,
-    "Name": null,
+    "NAME": null,
     "value": 0,
     "valid": true
   },
   {
     "index": 1126,
-    "Name": null,
+    "NAME": null,
     "value": 0,
     "valid": true
   },
   {
     "index": 1127,
-    "Name": "Pine Valley Creek",
-    "value": -60.13341150813242,
+    "NAME": "Pine Valley Creek",
+    "value": -60.13341150813239,
     "valid": true
   }
 ]

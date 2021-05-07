@@ -34,7 +34,7 @@ def getData():
     metric = request.args.get('metric', default='', type=str)
     rcp = request.args.get('rcp', default='', type=str)
     # If the region is a specific groundwater basin, it should have a unique number associated with it
-    region = request.args.get('region', default='', type=str)
+    region_name = request.args.get('region', default='', type=str)
     # Filter applied to keys, so if any keys have the data_filter in them, the value for that key will be returned
     data_filter = request.args.get('data-filter', default='', type=str)
     # Group of regions, ie Groundwater Basins, Counties, Places
@@ -42,12 +42,12 @@ def getData():
     # Type of metric, such as average vs agreement
     metric_type = request.args.get('metric-type', default='', type=str)
     
-    print(metric)
-    print(rcp)
-    print(region)
-    print(data_filter)
-    print(region_set)
-    print(metric_type)
+    print("Metric: {}".format(metric))
+    print("RCP: {}".format(rcp))
+    print("Region Name: {}".format(region_name))
+    print("Region Set: {}".format(region_set))
+    print("Metric Type: {}".format(metric_type))
+    print("Data Filter: {}".format(data_filter))
     
     # Then iterate through all of the keys and filter out the ones that match the paramters
     filtered_keys = [f for f in rd.keys() 
@@ -56,21 +56,16 @@ def getData():
                          and region_set in f
                          and metric_type in f]
     
-    print(len(filtered_keys))
-    
-    ret = "<br>"
-    
-    avg = 0
+    ret = ""
     # Then iterate through all of the filtered keys to get their corresponding values from the redis server
     for key in filtered_keys:
         # Get data and load into a dictionary using JSON
-        data = json.loads(rd.get(key))
-        # Format data into something readible
-        ret += "{}, {}, {} = {} <br>".format(str(data["metric"]), "Avg", str(data["rcp"]), str(round(data["value"], 2)))
-        # Calculate average
-        avg = data["value"] / len(filtered_keys)
+        regions = json.loads(rd.get(key))
+        for region in regions:
+            if region_name == region["NAME"]:
+                ret += "<br>" + str(region["value"])
         
-    return str(avg) + ret
+    return ret
 
 # This is the main landing page, what the user sees
 @app.route('/')

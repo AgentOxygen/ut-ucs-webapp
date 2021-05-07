@@ -51,17 +51,19 @@ cd src
 
 Running `build_redis.py` then reads all of the JSON files in the specified directory and reformats the data into dictionaries that are then added to the redis database.  
 This the the data structure produced by the script:
-
+et_RCP45CA_Bulletin_118_Groundwater_Basins_totalagreement_list
 ~~~
-_Region Set
-└── _Region Name
-    └── _Metrics
-        └──_RCPs
-           ├── Model Values
-           ├── Average of Models
-           └── Model Agreement
+_Metric
+└──_RCP
+   └──_Region Set
+      └──_Metric Type
+		 └──_Region
+			├── Model Values
+			├── Average of Models
+			└── Model Agreement
 ~~~
 
+The first four identifiers `Metric`, `RCP`, `Region Set`, and `Metric Type` are contained within the key stored in the redis database.
 
 
 ## HTML Template w/ JS
@@ -73,3 +75,7 @@ The JS functions associated with the buttons and drop down menus, including inte
 
 ## Mapbox API
 You can find the documentation for Mapbox [here](https://docs.mapbox.com/api/overview/). This API creates the ineteractive map for the webpage and has a bunch of other cool visualization features. Note that there is a quota on how many requests can be made to Mapbox services. It's unlikely that we will exceed this quota, but it is something to keep in mind as different features have different amounts. Info on pricing and quotas can be found [here](https://www.mapbox.com/pricing/).
+
+
+## Converting Shapefiles to GEOJSON for Mapbox
+[https://products.aspose.app/gis/conversion/shapefile-to-geojson](https://products.aspose.app/gis/conversion/shapefile-to-geojson)
