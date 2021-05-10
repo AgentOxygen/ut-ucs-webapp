@@ -28,44 +28,9 @@ def download(filename):
     return send_from_directory(directory=uploads, filename=filename)
 
 # A basic data request that grabs key-values from the redis server using the filters specified by paramters
-@app.route('/data')
-def getData():
-    # These are the parameters that will specify the filter
-    metric = request.args.get('metric', default='', type=str)
-    rcp = request.args.get('rcp', default='', type=str)
-    # If the region is a specific groundwater basin, it should have a unique number associated with it
-    region_name = request.args.get('region', default='', type=str)
-    # Filter applied to keys, so if any keys have the data_filter in them, the value for that key will be returned
-    data_filter = request.args.get('data-filter', default='', type=str)
-    # Group of regions, ie Groundwater Basins, Counties, Places
-    region_set = request.args.get('region-set', default='', type=str)
-    # Type of metric, such as average vs agreement
-    metric_type = request.args.get('metric-type', default='', type=str)
-    
-    print("Metric: {}".format(metric))
-    print("RCP: {}".format(rcp))
-    print("Region Name: {}".format(region_name))
-    print("Region Set: {}".format(region_set))
-    print("Metric Type: {}".format(metric_type))
-    print("Data Filter: {}".format(data_filter))
-    
-    # Then iterate through all of the keys and filter out the ones that match the paramters
-    filtered_keys = [f for f in rd.keys() 
-                         if metric in f
-                         and rcp in f
-                         and region_set in f
-                         and metric_type in f]
-    
-    ret = ""
-    # Then iterate through all of the filtered keys to get their corresponding values from the redis server
-    for key in filtered_keys:
-        # Get data and load into a dictionary using JSON
-        regions = json.loads(rd.get(key))
-        for region in regions:
-            if region_name == region["NAME"]:
-                ret += "<br>" + str(region["value"])
-        
-    return ret
+@app.route('/data/<key>')
+def getData(key):
+    return rd.get(key)
 
 # This is the main landing page, what the user sees
 @app.route('/')

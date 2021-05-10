@@ -73,6 +73,21 @@ The interactive features of the webpage are powered by JavaScript. It also provi
 
 The JS functions associated with the buttons and drop down menus, including interactions in the Mapbox map, request data via URL routes specified in the Flask app. The methods in the Flask API pull data from the redis server.
 
+## Script.js
+The functions in this script are what give the web app its functionality. Most of the functions can be traced back to the buttons in the HTML document. Here are the notable ones:
+
+>updateInfo()
+>> Updates innerHTML fields to match the values pulled from the dataset (averages, agreements, other data values)
+
+>updateDataset(metric, rcp, region_group, data)
+>> Updates the current dataset by downloading JSON data from the Flask API that corresponds to the metric, rcp, region group, and other data
+
+>focusOnPane(focus_pane)
+>> Shifts focus of primary pane from information to buttons by showing and hiding DIV groups in the HTML
+
+>setMapRegions(spec_region)
+>> Changes visible layer to specified region group
+
 ## Mapbox API
 You can find the documentation for Mapbox [here](https://docs.mapbox.com/api/overview/). This API creates the ineteractive map for the webpage and has a bunch of other cool visualization features. Note that there is a quota on how many requests can be made to Mapbox services. It's unlikely that we will exceed this quota, but it is something to keep in mind as different features have different amounts. Info on pricing and quotas can be found [here](https://www.mapbox.com/pricing/).
 

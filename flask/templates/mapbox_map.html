@@ -39,20 +39,20 @@
 	<div id="choose-metric-pane" style="display: none">
 		<table>
 			<tr>
-				<th><button onclick="buttonChangeMetric('frac_extreme')"><a>Δ Fraction of Yearly Precipitation on Extreme Days</a></button></th>
-				<th><button onclick="buttonChangeMetric('max_threeday_precip')"><a>Δ Maximum Three-day Precipitation</a></button></th>
+				<th><button id="frac_extreme-button" onclick="buttonChangeMetric('frac_extreme')"><a>Δ Fraction of Yearly Precipitation on Extreme Days</a></button></th>
+				<th><button id="max_threeday_precip-button" onclick="buttonChangeMetric('max_threeday_precip')"><a>Δ Maximum Three-day Precipitation</a></button></th>
 			</tr>
 			<tr>
-				<th><button onclick="buttonChangeMetric('nov_mar_percent')"><a>Δ Fraction of Yearly Precipitation between November-March</a></button></th>
-				<th><button onclick="buttonChangeMetric('rainfall_ratio')"><a>Δ Ratio of Yearly Precipitation as Rain vs Snow</a></button></th>
+				<th><button id="nov_mar_percent-button" onclick="buttonChangeMetric('nov_mar_percent')"><a>Δ Fraction of Yearly Precipitation between November-March</a></button></th>
+				<th><button id="rainfall_ratio-button" onclick="buttonChangeMetric('rainfall_ratio')"><a>Δ Ratio of Yearly Precipitation as Rain vs Snow</a></button></th>
 			</tr>
 			<tr>
-				<th><button onclick="buttonChangeMetric('num_ros_events')"><a>Δ Number of Rain-On-Snow Days</a></button></th>
-				<th><button onclick="buttonChangeMetric('norm_rain_on_snow')"><a>Δ Normalized Number of Rain-On-Snow Days</a></button></th>
+				<th><button id="num_ros_events-button" onclick="buttonChangeMetric('num_ros_events')"><a>Δ Number of Rain-On-Snow Days</a></button></th>
+				<th><button id="norm_rain_on_snow-button" onclick="buttonChangeMetric('norm_rain_on_snow')"><a>Δ Normalized Number of Rain-On-Snow Days</a></button></th>
 			</tr>
 			<tr>
-				<th><button onclick="buttonChangeMetric('SWE_total')"><a>Δ Cumulative Snow Water Equivalent</a></button></th>
-				<th><button onclick="buttonChangeMetric('et')"><a>Δ Evapotranspiration</a></button></th>
+				<th><button id="SWE_total-button" onclick="buttonChangeMetric('SWE_total')"><a>Δ Cumulative Snow Water Equivalent</a></button></th>
+				<th><button id="et-button" onclick="buttonChangeMetric('et')"><a>Δ Evapotranspiration</a></button></th>
 			</tr>
 		</table>
 	</div>
@@ -88,10 +88,23 @@
 
 	<!-- Pane for displaying primary information -->
 	<div id="primary-pane" style="display: inline; width: 500px">
+		<input type="checkbox" onclick="setMapRegions('CA_Bulletin_118_Groundwater_Basins')" id="CA_Bulletin_118_Groundwater_Basins-checkbox" checked> Groundwater Basins
+		<input type="checkbox" onclick="setMapRegions('CA_Counties_TIGER2016')" id="CA_Counties_TIGER2016-checkbox"> Counties
+		<input type="checkbox" onclick="setMapRegions('CA_Places_TIGER2016')" id="CA_Places_TIGER2016-checkbox"> Places
+		<input type="checkbox" onclick="setMapRegions('WBD_USGS_HUC10_CA')" id="WBD_USGS_HUC10_CA-checkbox"> Watersheds
+		<br>
 		<input type="checkbox" onclick="setRCP45()" id="rcp45-checkbox"> RCP 4.5
-		<input type="checkbox" onclick="setRCP85()" id="rcp85-checkbox" checked>RCP 8.5
+		<input type="checkbox" onclick="setRCP85()" id="rcp85-checkbox" checked> RCP 8.5
 		<button id="change-metric-button" onclick="displayMetricsPane()">Change Metric</button>
 		<button id="change-models-button" onclick="displayModelsPane()">Change Models</button>
+		<hr>
+		<div id="info-section" style="display: inline;">
+			<h2>Region Selected: <div id="info-region_name"></div></h2>
+			<h4>Metric: <div id="info-metric"></div></h4>
+			<h4>10-Model Average: <div id="info-model_average"></div></h4>
+			<h4>10-Model Agreement: <div id="info-model_agreement"></div></h4>
+		</div>
+
 	</div>
 </div>
 
