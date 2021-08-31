@@ -1,0 +1,124 @@
+<!doctype html>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+<script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
+<style>
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.flex-container {
+  display: flex;
+  background-color: #c1d5d6;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  align-items: center;
+}
+</style>
+<head>
+    <title> Main Page </title>
+</head>
+<h1> <a href="http://localhost:8080/"> Home </a> </h1>
+<body>
+<div class='flex-container' id='map-info-container'>
+	<!-- Interact map using Mapbox API-->
+	<div id='map' style='width: 600px; height: 550px;'></div>
+
+	<!-- Pane for selecting metrics to evaluate -->
+	<div id="choose-metric-pane" style="display: none">
+		<table>
+			<tr>
+				<th><button id="frac_extreme-button" onclick="buttonChangeMetric('frac_extreme')"><a>Δ Fraction of Yearly Precipitation on Extreme Days</a></button></th>
+				<th><button id="max_threeday_precip-button" onclick="buttonChangeMetric('max_threeday_precip')"><a>Δ Maximum Three-day Precipitation</a></button></th>
+			</tr>
+			<tr>
+				<th><button id="nov_mar_percent-button" onclick="buttonChangeMetric('nov_mar_percent')"><a>Δ Fraction of Yearly Precipitation between November-March</a></button></th>
+				<th><button id="rainfall_ratio-button" onclick="buttonChangeMetric('rainfall_ratio')"><a>Δ Ratio of Yearly Precipitation as Rain vs Snow</a></button></th>
+			</tr>
+			<tr>
+				<th><button id="num_ros_events-button" onclick="buttonChangeMetric('num_ros_events')"><a>Δ Number of Rain-On-Snow Days</a></button></th>
+				<th><button id="norm_rain_on_snow-button" onclick="buttonChangeMetric('norm_rain_on_snow')"><a>Δ Normalized Number of Rain-On-Snow Days</a></button></th>
+			</tr>
+			<tr>
+				<th><button id="SWE_total-button" onclick="buttonChangeMetric('SWE_total')"><a>Δ Cumulative Snow Water Equivalent</a></button></th>
+				<th><button id="et-button" onclick="buttonChangeMetric('et')"><a>Δ Evapotranspiration</a></button></th>
+			</tr>
+		</table>
+	</div>
+
+	<!-- Pane for selecting models to use in calculations -->
+	<div id="choose-models-pane" style="display: none">
+		<table>
+			<tr>
+				<th><input type="checkbox" id="ACCESS1-0_check" checked> ACCESS 1-0 </th>
+				<th><input type="checkbox" id="CCSM4_check" checked> CCSM4 </th>
+			</tr>
+			<tr>
+				<th><input type="checkbox" id="CESM1-BGC_check" checked> CESM1-BGC </th>
+				<th><input type="checkbox" id="CMCC-CMS_check" checked> CMCC-CMS </th>
+			</tr>
+			<tr>
+				<th><input type="checkbox" id="CNRM-CM5_check" checked> CNRM-CM5 </th>
+				<th><input type="checkbox" id="CanESM2_check" checked> CanESM2 </th>
+			</tr>
+			<tr>
+				<th><input type="checkbox" id="GFDL-CM3_check" checked> GFDL-CM3 </th>
+				<th><input type="checkbox" id="HadGEM2-CC_check" checked> HadGEM2-CC </th>
+			</tr>
+			<tr>
+				<th><input type="checkbox" id="HadGEM2-ES_check" checked> HadGEM2-ES </th>
+				<th><input type="checkbox" id="MIROC5_check" checked> MIROC5 </th>
+			</tr>
+		</table>
+		<button onclick="buttonChangeModels()" style="margin: 0; position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);">
+			<a> Submit </a>
+		</button>
+	</div>
+
+	<!-- Pane for displaying primary information -->
+	<div id="primary-pane" style="display: inline; width: 500px">
+		<input type="checkbox" onclick="setMapRegions('CA_Bulletin_118_Groundwater_Basins')" id="CA_Bulletin_118_Groundwater_Basins-checkbox" checked> Groundwater Basins
+		<input type="checkbox" onclick="setMapRegions('CA_Counties_TIGER2016')" id="CA_Counties_TIGER2016-checkbox"> Counties
+		<input type="checkbox" onclick="setMapRegions('CA_Places_TIGER2016')" id="CA_Places_TIGER2016-checkbox"> Places
+		<input type="checkbox" onclick="setMapRegions('WBD_USGS_HUC10_CA')" id="WBD_USGS_HUC10_CA-checkbox"> Watersheds
+		<br>
+		<input type="checkbox" onclick="setRCP45()" id="rcp45-checkbox"> RCP 4.5
+		<input type="checkbox" onclick="setRCP85()" id="rcp85-checkbox" checked> RCP 8.5
+		<button id="change-metric-button" onclick="displayMetricsPane()">Change Metric</button>
+		<button id="change-models-button" onclick="displayModelsPane()">Change Models</button>
+		<hr>
+		<div id="info-section" style="display: inline;">
+			<h2>Region Selected: <div id="info-region_name"></div></h2>
+			<h4>Metric: <div id="info-metric"></div></h4>
+			<h4>10-Model Average: <div id="info-model_average"></div></h4>
+			<h4>10-Model Agreement: <div id="info-model_agreement"></div></h4>
+		</div>
+
+	</div>
+</div>
+
+</br>
+<h3> Useful Links </h3>
+https://docs.mapbox.com/mapbox-gl-js/example/ <br>
+
+https://docs.mapbox.com/mapbox-gl-js/example/polygon-popup-on-click/ <br>
+https://docs.mapbox.com/mapbox-gl-js/example/set-popup/ <br>
+https://docs.mapbox.com/mapbox-gl-js/example/using-box-queryrenderedfeatures/ <br> 
+https://docs.mapbox.com/mapbox-gl-js/example/mapbox-gl-compare/ <br>
+
+
+To do:
+ - Add graphs and stuff to show quantified trends and metrics etc
+<script src="/download/templates/script.js"></script>
+</body>
